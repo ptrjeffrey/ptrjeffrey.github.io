@@ -49,20 +49,18 @@
               "Y": 0.003
             },
             "PreSize": {
-              "X": 1.0,
-              "Y": 1.0
+              "X": 0.0,
+              "Y": 0.0
             },
             "HorizontalEdge": "BothEdge",
             "VerticalEdge": "BothEdge",
-            "LeftMargin": -1.4733,
-            "RightMargin": 1.4733,
-            "TopMargin": -2.4206,
-            "BottomMargin": 2.4206,
+            "RightMargin": -533.0,
+            "TopMargin": -900.0,
             "Tag": 101,
             "ActionTag": 2017358282,
             "Size": {
               "X": 533.0,
-              "Y": 800.0
+              "Y": 900.0
             },
             "Alpha": 101,
             "Name": "Panel_2",
@@ -120,8 +118,8 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 237.9299,
-                  "Y": 191.024
+                  "X": 238.0,
+                  "Y": 222.0
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -130,18 +128,144 @@
                 "CColor": {},
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 1.0345,
-                  "Y": 0.4776
+                  "X": 1.0348,
+                  "Y": 0.555
                 },
                 "PreSize": {
                   "X": 2.0957,
                   "Y": 0.7625
                 },
-                "LeftMargin": -3.0701,
-                "RightMargin": -248.9299,
-                "TopMargin": 56.476,
-                "BottomMargin": 38.524,
+                "LeftMargin": -3.0,
+                "RightMargin": -249.0,
+                "TopMargin": 25.5,
+                "BottomMargin": 69.5,
                 "Tag": 111,
+                "Children": [
+                  {
+                    "FontSize": 36,
+                    "ButtonText": "确 定",
+                    "TextColor": {},
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "duihua/yes2.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "duihua/yes1.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 452,
+                    "Scale9Height": 44,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 240.5557,
+                      "Y": 34.1168
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4991,
+                      "Y": 0.1119
+                    },
+                    "PreSize": {
+                      "X": 2.0957,
+                      "Y": 0.165
+                    },
+                    "LeftMargin": -0.4443,
+                    "RightMargin": 0.4443,
+                    "TopMargin": 237.8832,
+                    "BottomMargin": 1.1168,
+                    "Tag": 112,
+                    "ActionTag": 1805200627,
+                    "Size": {
+                      "X": 482.0,
+                      "Y": 66.0
+                    },
+                    "Name": "Button_award",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "恭喜您！\n上期投注中奖啦!\n1213",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 129.1054,
+                      "Y": 205.585
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 102,
+                      "B": 102
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2679,
+                      "Y": 0.674
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 129.1054,
+                    "RightMargin": 127.8946,
+                    "TopMargin": 99.415,
+                    "BottomMargin": 115.585,
+                    "Tag": 113,
+                    "ActionTag": 1828812430,
+                    "Size": {
+                      "X": 225.0,
+                      "Y": 90.0
+                    },
+                    "Name": "Text_Content",
+                    "ctype": "TextObjectData"
+                  }
+                ],
                 "ActionTag": 781811148,
                 "Size": {
                   "X": 482.0,
@@ -149,131 +273,6 @@
                 },
                 "Name": "Image_5",
                 "ctype": "ImageViewObjectData"
-              },
-              {
-                "FontSize": 36,
-                "ButtonText": "确 定",
-                "TextColor": {},
-                "DisabledFileData": {
-                  "Type": "Default",
-                  "Path": "Default/Button_Disable.png",
-                  "Plist": ""
-                },
-                "PressedFileData": {
-                  "Type": "Normal",
-                  "Path": "duihua/yes2.png",
-                  "Plist": ""
-                },
-                "NormalFileData": {
-                  "Type": "Normal",
-                  "Path": "duihua/yes1.png",
-                  "Plist": ""
-                },
-                "Scale9Enable": true,
-                "Scale9OriginX": 15,
-                "Scale9OriginY": 11,
-                "Scale9Width": 452,
-                "Scale9Height": 44,
-                "OutlineColor": {
-                  "G": 0,
-                  "B": 0
-                },
-                "ShadowColor": {
-                  "R": 110,
-                  "G": 110,
-                  "B": 110
-                },
-                "ShadowOffsetX": 2.0,
-                "ShadowOffsetY": -2.0,
-                "TouchEnable": true,
-                "AnchorPoint": {
-                  "ScaleX": 0.5,
-                  "ScaleY": 0.5
-                },
-                "Position": {
-                  "X": 238.157,
-                  "Y": 72.7737
-                },
-                "Scale": {
-                  "ScaleX": 1.0,
-                  "ScaleY": 1.0
-                },
-                "CColor": {},
-                "IconVisible": false,
-                "PrePosition": {
-                  "X": 1.0355,
-                  "Y": 0.1819
-                },
-                "PreSize": {
-                  "X": 2.0957,
-                  "Y": 0.165
-                },
-                "LeftMargin": -2.843,
-                "RightMargin": -249.157,
-                "TopMargin": 294.2263,
-                "BottomMargin": 39.7737,
-                "Tag": 112,
-                "ActionTag": 1805200627,
-                "Size": {
-                  "X": 482.0,
-                  "Y": 66.0
-                },
-                "Name": "Button_award",
-                "ctype": "ButtonObjectData"
-              },
-              {
-                "FontSize": 30,
-                "LabelText": "恭喜您！\n上期投注中奖啦！",
-                "HorizontalAlignmentType": "HT_Center",
-                "OutlineColor": {
-                  "G": 0,
-                  "B": 0
-                },
-                "ShadowColor": {
-                  "R": 110,
-                  "G": 110,
-                  "B": 110
-                },
-                "ShadowOffsetX": 2.0,
-                "ShadowOffsetY": -2.0,
-                "AnchorPoint": {
-                  "ScaleX": 0.5,
-                  "ScaleY": 0.5
-                },
-                "Position": {
-                  "X": 247.4092,
-                  "Y": 195.3883
-                },
-                "Scale": {
-                  "ScaleX": 1.0,
-                  "ScaleY": 1.0
-                },
-                "CColor": {
-                  "R": 102,
-                  "G": 102,
-                  "B": 102
-                },
-                "IconVisible": false,
-                "PrePosition": {
-                  "X": 1.0757,
-                  "Y": 0.4885
-                },
-                "PreSize": {
-                  "X": 0.0,
-                  "Y": 0.0
-                },
-                "LeftMargin": 127.4092,
-                "RightMargin": -137.4092,
-                "TopMargin": 174.6117,
-                "BottomMargin": 165.3883,
-                "Tag": 113,
-                "ActionTag": 1828812430,
-                "Size": {
-                  "X": 240.0,
-                  "Y": 60.0
-                },
-                "Name": "Text_Content",
-                "ctype": "TextObjectData"
               }
             ],
             "ActionTag": -637659449,
