@@ -82,7 +82,10 @@
     function getQueryString(name) {
         var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i");
         var r = window.location.search.substr(1).match(reg);
-        if (r != null) return r[2]; return null;
+        if (r) {
+            return r[2];
+        }
+        return null;
     }
 
     /**
@@ -169,14 +172,23 @@
         var sid = getCookie('sid');
         console.log('scode ', scode, ' sid = ', sid);
         if (!sid) {
+            console.log('--------------sid = ', sid);
             sid = getQueryString('sid');
-            setCookie('sid', sid);
+            console.log('--------------sid1 = ', sid);
+            if(sid) {
+                setCookie('sid', sid);
+            }
+            console.log('--------------sid2 = ', sid);
+        }else{
+            console.log('---------------sid3 = ', sid);
         }
         if (!sid || !scode) {
             console.log('---------------will getLogin ------!');
             getLogin();
         } else {
-            alert('oauth succeed!')
+            alert('----oauth succeed ---');
+            setCookie('scode', scode);
+            setCookie('sid', sid);
             window.location.href = './index.html';
         }
     });
