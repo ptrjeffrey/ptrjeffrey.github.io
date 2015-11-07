@@ -94,6 +94,7 @@
         var exp = new Date();
         exp.setTime(exp.getTime() + Days*24*60*60*1000);
         document.cookie = name + "="+ value + ";expires=" + exp.toGMTString();
+        console.log('--------setcookie---------------', name, value)
     }
 
     /**
@@ -112,6 +113,7 @@
      */
     function getCookie(name)
     {
+        console.log('----------getcook ', name);
         var arr = document.cookie.match(new RegExp("(^| )"+name+"=([^;]*)(;|$)"));
         if(arr != null)
             return arr[2];
@@ -138,19 +140,22 @@
      */
     function getLogin() {
         $.get('http://game.3721w.com/api/login', function(rs){
+            console.log('-------------------1');
             if (rs.length > 0) {
                 var html, i,scode;
                 html = target;
                 scode = getCookie('scode');
+                console.log('-------------------2', scode);
                 if (!scode) {
                     scode = randomChar(32);
+                    console.log('-------------------3');
                     setCookie('scode', scode);
                 }
                 for(i in rs) {
                     html += '<a class="btn btn-success btn-block btn-weixin" href="'+rs[i]['url']+'?scode='+scode+'&target='+target+'">'+rs[i]['name']+'</a>';
                 }
-				//console.log('html = ', html);
-				//console.log('rs = ', rs);
+				console.log('html = ', html);
+				console.log('rs = ', rs);
                 $('.loading').addClass('hide');
                 $('.login-btn-group').html(html).removeClass('hide');
             } else {
@@ -162,10 +167,13 @@
     $(function(){
         var scode = getCookie('scode');
         var sid = getCookie('sid');
+        console.log('scode ', scode, ' sid = ', sid);
         if (!sid) {
             sid = getQueryString('sid');
+            setCookie('sid', sid);
         }
         if (!sid || !scode) {
+            console.log('---------------will getLogin ------!');
             getLogin();
         } else {
             alert('oauth succeed!')
