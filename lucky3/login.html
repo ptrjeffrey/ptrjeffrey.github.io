@@ -186,11 +186,13 @@
             console.log('---------------will getLogin ------!');
             getLogin();
         } else {
-            alert('----oauth succeed ---',sid);
-            alert('----oauth succeed ---',sicode);
-            setCookie('scode', scode);
-            setCookie('sid', sid);
-            window.location.href = './index.html';
+//            alert('----oauth succeed ---',sid);
+//            alert('----oauth succeed ---',sicode);
+//            setCookie('scode', scode);
+//            setCookie('sid', sid);
+//            window.location.href = './index.html';
+            sid = getQueryString('sid');
+            getLogin();
         }
     });
 </script>
