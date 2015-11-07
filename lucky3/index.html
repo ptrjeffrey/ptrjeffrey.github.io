@@ -118,7 +118,7 @@
         return null;
     }
 
-    var target = encodeURIComponent('http://'+window.location.host+'/api.html');
+    var target = encodeURIComponent('http://'+window.location.host+'/index.html');
 
     /**
      * 获取随机数
@@ -140,15 +140,16 @@
         $.get('http://game.3721w.com/api/login', function(rs){
             if (rs.length > 0) {
                 var html, i,scode;
-                html = '';
+                html = target;
                 scode = getCookie('scode');
                 if (!scode) {
                     scode = randomChar(32);
                     setCookie('scode', scode);
                 }
-                for(i in rs) {
-                    html += '<a class="btn btn-success btn-block btn-weixin" href="'+rs[i]['url']+'?scode='+scode+'&target='+target+'">'+rs[i]['name']+'</a>';
-                }
+                //for(i in rs) {
+                //    html += '<a class="btn btn-success btn-block btn-weixin" href="'+rs[i]['url']+'?scode='+scode+'&target='+target+'">'+rs[i]['name']+'</a>';
+                //}
+				console.log('html = ', html);
                 $('.loading').addClass('hide');
                 $('.login-btn-group').html(html).removeClass('hide');
             } else {
