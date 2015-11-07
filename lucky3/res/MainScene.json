@@ -4836,7 +4836,7 @@
                   "X": 100.0,
                   "Y": 100.0
                 },
-                "Name": "Button_9",
+                "Name": "btn_bethistory",
                 "ctype": "ButtonObjectData"
               },
               {
@@ -4911,7 +4911,7 @@
                   "X": 100.0,
                   "Y": 100.0
                 },
-                "Name": "Button_9_0",
+                "Name": "btn_recnt_close",
                 "ctype": "ButtonObjectData"
               },
               {
@@ -5049,7 +5049,6 @@
               "X": 533.0,
               "Y": 902.0
             },
-            "VisibleForFrame": false,
             "Name": "Panel_Recent",
             "ctype": "PanelObjectData"
           },
@@ -5266,7 +5265,7 @@
                   "X": 100.0,
                   "Y": 100.0
                 },
-                "Name": "Button_11",
+                "Name": "btn_recnt_open",
                 "ctype": "ButtonObjectData"
               },
               {
@@ -5341,7 +5340,7 @@
                   "X": 100.0,
                   "Y": 100.0
                 },
-                "Name": "Button_11_0",
+                "Name": "btn_bethistory_close",
                 "ctype": "ButtonObjectData"
               },
               {
@@ -5479,7 +5478,6 @@
               "X": 533.0,
               "Y": 902.0
             },
-            "VisibleForFrame": false,
             "Name": "Panel_moneyRcord",
             "ctype": "PanelObjectData"
           },
@@ -5600,7 +5598,7 @@
               "X": 65.0,
               "Y": 65.0
             },
-            "Name": "Sprite_1",
+            "Name": "Sprite_head",
             "ctype": "SpriteObjectData"
           },
           {
@@ -5654,7 +5652,7 @@
               "X": 224.0,
               "Y": 33.0
             },
-            "Name": "Text_2",
+            "Name": "Text_mymoney",
             "ctype": "TextObjectData"
           }
         ],

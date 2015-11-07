@@ -326,10 +326,10 @@
             </sources>
             <sources dir="${basedir}">
                 <file name="node_modules/pomelo-cocos2d-js/dist/pomelo-cocos2d-js.js "/>
+                <file name="src/login.js"/>
                 <file name="src/uiconst.js"/>
                 <file name="src/resource.js"/>
                 <file name="src/app.js"/>
-                <file name="src/betlist.js"/>
                 <file name="main.js"/>
 
             </sources>

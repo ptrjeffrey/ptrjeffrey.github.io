@@ -182,8 +182,8 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 241.5117,
-                      "Y": 32.019
+                      "X": 241.5302,
+                      "Y": 32.025
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -216,7 +216,8 @@
                   },
                   {
                     "FontSize": 30,
-                    "LabelText": "投注成功！",
+                    "LabelText": "投注成功！\n恭喜恭喜真是恭喜啊真是",
+                    "HorizontalAlignmentType": "HT_Center",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -261,8 +262,8 @@
                     "Tag": 113,
                     "ActionTag": 1828812430,
                     "Size": {
-                      "X": 150.0,
-                      "Y": 30.0
+                      "X": 330.0,
+                      "Y": 60.0
                     },
                     "Name": "Text_Content",
                     "ctype": "TextObjectData"
