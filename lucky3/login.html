@@ -149,8 +149,8 @@
                 for(i in rs) {
                     html += '<a class="btn btn-success btn-block btn-weixin" href="'+rs[i]['url']+'?scode='+scode+'&target='+target+'">'+rs[i]['name']+'</a>';
                 }
-				console.log('html = ', html);
-				console.log('rs = ', rs);
+				//console.log('html = ', html);
+				//console.log('rs = ', rs);
                 $('.loading').addClass('hide');
                 $('.login-btn-group').html(html).removeClass('hide');
             } else {
