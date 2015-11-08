@@ -4228,8 +4228,8 @@
                           "ScaleY": 0.5
                         },
                         "Position": {
-                          "X": 230.8051,
-                          "Y": 230.2164
+                          "X": 226.1077,
+                          "Y": 200.7029
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -4238,17 +4238,17 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.5129,
-                          "Y": 0.4698
+                          "X": 0.5025,
+                          "Y": 0.4096
                         },
                         "PreSize": {
                           "X": 0.0,
                           "Y": 0.0
                         },
-                        "LeftMargin": 5.8051,
-                        "RightMargin": -5.8051,
-                        "TopMargin": 109.7836,
-                        "BottomMargin": 80.2164,
+                        "LeftMargin": 1.1077,
+                        "RightMargin": -1.1077,
+                        "TopMargin": 139.2971,
+                        "BottomMargin": 50.7029,
                         "Tag": 44,
                         "ActionTag": 1922036895,
                         "Size": {
@@ -4423,7 +4423,7 @@
                   "X": 100.0,
                   "Y": 100.0
                 },
-                "Name": "Button_7_0",
+                "Name": "btn_rule_ret",
                 "ctype": "ButtonObjectData"
               },
               {
@@ -4466,7 +4466,7 @@
                   "X": 100.0,
                   "Y": 100.0
                 },
-                "Name": "Image_3",
+                "Name": "Image_rtn",
                 "ctype": "ImageViewObjectData"
               },
               {
@@ -4669,49 +4669,6 @@
                 "VisibleForFrame": false,
                 "Name": "ScrollView_1",
                 "ctype": "ScrollViewObjectData"
-              },
-              {
-                "FileData": {
-                  "Type": "Normal",
-                  "Path": "imgs/record/record.png",
-                  "Plist": ""
-                },
-                "Scale9Width": 387,
-                "Scale9Height": 28,
-                "AnchorPoint": {
-                  "ScaleX": 0.5116,
-                  "ScaleY": 0.4397
-                },
-                "Position": {
-                  "X": 269.9325,
-                  "Y": 644.9904
-                },
-                "Scale": {
-                  "ScaleX": 1.0,
-                  "ScaleY": 1.0
-                },
-                "CColor": {},
-                "IconVisible": false,
-                "PrePosition": {
-                  "X": 0.5064,
-                  "Y": 0.7151
-                },
-                "PreSize": {
-                  "X": 0.6047,
-                  "Y": 0.0292
-                },
-                "LeftMargin": 71.9433,
-                "RightMargin": 74.0567,
-                "TopMargin": 241.3212,
-                "BottomMargin": 632.6788,
-                "Tag": 53,
-                "ActionTag": -1205660633,
-                "Size": {
-                  "X": 387.0,
-                  "Y": 28.0
-                },
-                "Name": "Image_1",
-                "ctype": "ImageViewObjectData"
               },
               {
                 "DirectionType": "Vertical",
@@ -5042,6 +4999,59 @@
                 },
                 "Name": "Image_7",
                 "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "期号       开奖号       和值       类型",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 266.7522,
+                  "Y": 646.8831
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 216,
+                  "G": 34,
+                  "B": 34
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5005,
+                  "Y": 0.7172
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 71.7522,
+                "RightMargin": 71.2478,
+                "TopMargin": 245.1169,
+                "BottomMargin": 636.8831,
+                "Tag": 102,
+                "ActionTag": 200323019,
+                "Size": {
+                  "X": 390.0,
+                  "Y": 20.0
+                },
+                "Name": "Text_2",
+                "ctype": "TextObjectData"
               }
             ],
             "ActionTag": 1640764137,
@@ -5099,49 +5109,6 @@
             "BottomMargin": -2.4982,
             "Tag": 79,
             "Children": [
-              {
-                "FileData": {
-                  "Type": "Normal",
-                  "Path": "imgs/record/zhongjiangjilu.png",
-                  "Plist": ""
-                },
-                "Scale9Width": 387,
-                "Scale9Height": 26,
-                "AnchorPoint": {
-                  "ScaleX": 0.5116,
-                  "ScaleY": 0.4397
-                },
-                "Position": {
-                  "X": 270.8979,
-                  "Y": 648.3411
-                },
-                "Scale": {
-                  "ScaleX": 1.0,
-                  "ScaleY": 1.0
-                },
-                "CColor": {},
-                "IconVisible": false,
-                "PrePosition": {
-                  "X": 0.5083,
-                  "Y": 0.7188
-                },
-                "PreSize": {
-                  "X": 0.6047,
-                  "Y": 0.0271
-                },
-                "LeftMargin": 72.9087,
-                "RightMargin": 73.0913,
-                "TopMargin": 239.0911,
-                "BottomMargin": 636.9089,
-                "Tag": 82,
-                "ActionTag": -1445031474,
-                "Size": {
-                  "X": 387.0,
-                  "Y": 26.0
-                },
-                "Name": "Image_1",
-                "ctype": "ImageViewObjectData"
-              },
               {
                 "DirectionType": "Vertical",
                 "IsBounceEnabled": true,
@@ -5471,6 +5438,59 @@
                 },
                 "Name": "Image_11",
                 "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 25,
+                "LabelText": "期号   玩法    筹码    中奖金额",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 267.1564,
+                  "Y": 645.3287
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 220,
+                  "G": 43,
+                  "B": 43
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5012,
+                  "Y": 0.7154
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 70.6564,
+                "RightMargin": 69.3436,
+                "TopMargin": 244.1713,
+                "BottomMargin": 632.8287,
+                "Tag": 103,
+                "ActionTag": 1529705292,
+                "Size": {
+                  "X": 393.0,
+                  "Y": 25.0
+                },
+                "Name": "Text_3",
+                "ctype": "TextObjectData"
               }
             ],
             "ActionTag": -392372195,
@@ -5697,9 +5717,7 @@
         "imgs/menu/item.png",
         "imgs/mianb.png",
         "imgs/numpad.png",
-        "imgs/record/record.png",
         "imgs/record/rule.png",
-        "imgs/record/zhongjiangjilu.png",
         "imgs/touxiang.png",
         "imgs/touzhu.png",
         "new/btn/10.png",
