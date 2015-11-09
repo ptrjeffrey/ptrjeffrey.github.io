@@ -5440,8 +5440,8 @@
                 "ctype": "ImageViewObjectData"
               },
               {
-                "FontSize": 25,
-                "LabelText": "期号   玩法    筹码    中奖金额",
+                "FontSize": 20,
+                "LabelText": "期号            玩法      筹码  中奖金额",
                 "OutlineColor": {
                   "G": 0,
                   "B": 0
@@ -5458,8 +5458,8 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 267.1564,
-                  "Y": 645.3287
+                  "X": 268.6962,
+                  "Y": 647.2889
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -5472,22 +5472,22 @@
                 },
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.5012,
-                  "Y": 0.7154
+                  "X": 0.5041,
+                  "Y": 0.7176
                 },
                 "PreSize": {
                   "X": 0.0,
                   "Y": 0.0
                 },
-                "LeftMargin": 70.6564,
-                "RightMargin": 69.3436,
-                "TopMargin": 244.1713,
-                "BottomMargin": 632.8287,
+                "LeftMargin": 68.6962,
+                "RightMargin": 64.3038,
+                "TopMargin": 244.7111,
+                "BottomMargin": 637.2889,
                 "Tag": 103,
                 "ActionTag": 1529705292,
                 "Size": {
-                  "X": 393.0,
-                  "Y": 25.0
+                  "X": 400.0,
+                  "Y": 20.0
                 },
                 "Name": "Text_3",
                 "ctype": "TextObjectData"
