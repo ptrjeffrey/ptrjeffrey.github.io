@@ -5002,7 +5002,7 @@
               },
               {
                 "FontSize": 20,
-                "LabelText": "期号       开奖号       和值       类型",
+                "LabelText": "期号          开奖号       和值       类型",
                 "OutlineColor": {
                   "G": 0,
                   "B": 0
@@ -5019,8 +5019,8 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 266.7522,
-                  "Y": 646.8831
+                  "X": 268.0412,
+                  "Y": 648.1707
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -5033,21 +5033,21 @@
                 },
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.5005,
-                  "Y": 0.7172
+                  "X": 0.5029,
+                  "Y": 0.7186
                 },
                 "PreSize": {
                   "X": 0.0,
                   "Y": 0.0
                 },
-                "LeftMargin": 71.7522,
-                "RightMargin": 71.2478,
-                "TopMargin": 245.1169,
-                "BottomMargin": 636.8831,
+                "LeftMargin": 63.0412,
+                "RightMargin": 59.9588,
+                "TopMargin": 243.8293,
+                "BottomMargin": 638.1707,
                 "Tag": 102,
                 "ActionTag": 200323019,
                 "Size": {
-                  "X": 390.0,
+                  "X": 420.0,
                   "Y": 20.0
                 },
                 "Name": "Text_2",
@@ -5622,8 +5622,8 @@
             "ctype": "SpriteObjectData"
           },
           {
-            "FontSize": 32,
-            "LabelText": "游戏币：210000",
+            "FontSize": 26,
+            "LabelText": "游戏币：2100000000",
             "HorizontalAlignmentType": "HT_Center",
             "VerticalAlignmentType": "VT_Center",
             "OutlineColor": {
@@ -5642,7 +5642,7 @@
               "ScaleY": 0.5
             },
             "Position": {
-              "X": 263.1605,
+              "X": 263.16,
               "Y": 34.7929
             },
             "Scale": {
@@ -5662,15 +5662,15 @@
               "X": 0.0,
               "Y": 0.0
             },
-            "LeftMargin": 193.1605,
-            "RightMargin": 199.8395,
-            "TopMargin": 855.207,
-            "BottomMargin": 24.7929,
+            "LeftMargin": 172.16,
+            "RightMargin": 178.84,
+            "TopMargin": 852.2071,
+            "BottomMargin": 21.7929,
             "Tag": 108,
             "ActionTag": -759411772,
             "Size": {
-              "X": 224.0,
-              "Y": 33.0
+              "X": 234.0,
+              "Y": 26.0
             },
             "Name": "Text_mymoney",
             "ctype": "TextObjectData"
