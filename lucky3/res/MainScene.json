@@ -4710,7 +4710,7 @@
                 },
                 "LeftMargin": 55.5183,
                 "RightMargin": 56.4817,
-                "TopMargin": 276.2703,
+                "TopMargin": 276.2702,
                 "BottomMargin": 309.7298,
                 "Tag": 189,
                 "ActionTag": 227818252,
@@ -5001,8 +5001,265 @@
                 "ctype": "ImageViewObjectData"
               },
               {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 41.0002,
+                  "Y": 626.5026
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0769,
+                  "Y": 0.6946
+                },
+                "PreSize": {
+                  "X": 0.8443,
+                  "Y": 0.0443
+                },
+                "LeftMargin": 41.0002,
+                "RightMargin": 41.9998,
+                "TopMargin": 235.4974,
+                "BottomMargin": 626.5026,
+                "Tag": 108,
+                "Children": [
+                  {
+                    "FontSize": 20,
+                    "LabelText": "期号",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.7106,
+                      "ScaleY": 0.4556
+                    },
+                    "Position": {
+                      "X": 75.4162,
+                      "Y": 21.0776
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1676,
+                      "Y": 0.5269
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 46.9903,
+                    "RightMargin": 363.0097,
+                    "TopMargin": 8.0351,
+                    "BottomMargin": 11.9649,
+                    "Tag": 102,
+                    "ActionTag": 200323019,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 20.0
+                    },
+                    "Name": "Text_2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "开奖号",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.3529,
+                      "ScaleY": 0.7785
+                    },
+                    "Position": {
+                      "X": 180.8007,
+                      "Y": 27.894
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4018,
+                      "Y": 0.6974
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 159.6292,
+                    "RightMargin": 230.3708,
+                    "TopMargin": 7.6763,
+                    "BottomMargin": 12.3237,
+                    "Tag": 109,
+                    "ActionTag": -895258083,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 20.0
+                    },
+                    "Name": "Text_5",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "和值",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.3529,
+                      "ScaleY": 0.7785
+                    },
+                    "Position": {
+                      "X": 285.8214,
+                      "Y": 28.3077
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.1509
+                    },
+                    "CColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6352,
+                      "Y": 0.7077
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 271.7071,
+                    "RightMargin": 138.2929,
+                    "TopMargin": 7.2626,
+                    "BottomMargin": 12.7374,
+                    "Tag": 110,
+                    "ActionTag": -904929018,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 20.0
+                    },
+                    "Name": "Text_5_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "类型",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5871,
+                      "ScaleY": 0.4224
+                    },
+                    "Position": {
+                      "X": 410.6101,
+                      "Y": 19.6698
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.1509
+                    },
+                    "CColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9125,
+                      "Y": 0.4917
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 387.1244,
+                    "RightMargin": 22.8756,
+                    "TopMargin": 8.7781,
+                    "BottomMargin": 11.2219,
+                    "Tag": 111,
+                    "ActionTag": 804402324,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 20.0
+                    },
+                    "Name": "Text_5_0_0",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 17495866,
+                "Size": {
+                  "X": 450.0,
+                  "Y": 40.0
+                },
+                "Name": "Panel_5",
+                "ctype": "PanelObjectData"
+              },
+              {
                 "FontSize": 20,
-                "LabelText": "期号          开奖号       和值       类型",
+                "LabelText": "读取中,请稍候...",
                 "OutlineColor": {
                   "G": 0,
                   "B": 0
@@ -5019,38 +5276,34 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 268.0412,
-                  "Y": 648.1707
+                  "X": 260.0,
+                  "Y": 483.0
                 },
                 "Scale": {
                   "ScaleX": 1.0,
                   "ScaleY": 1.0
                 },
-                "CColor": {
-                  "R": 216,
-                  "G": 34,
-                  "B": 34
-                },
+                "CColor": {},
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.5029,
-                  "Y": 0.7186
+                  "X": 0.4878,
+                  "Y": 0.5355
                 },
                 "PreSize": {
                   "X": 0.0,
                   "Y": 0.0
                 },
-                "LeftMargin": 63.0412,
-                "RightMargin": 59.9588,
-                "TopMargin": 243.8293,
-                "BottomMargin": 638.1707,
-                "Tag": 102,
-                "ActionTag": 200323019,
+                "LeftMargin": 180.0,
+                "RightMargin": 193.0,
+                "TopMargin": 409.0,
+                "BottomMargin": 473.0,
+                "Tag": 117,
+                "ActionTag": 1021022635,
                 "Size": {
-                  "X": 420.0,
+                  "X": 160.0,
                   "Y": 20.0
                 },
-                "Name": "Text_2",
+                "Name": "Text_open_loading",
                 "ctype": "TextObjectData"
               }
             ],
@@ -5440,8 +5693,265 @@
                 "ctype": "ImageViewObjectData"
               },
               {
+                "BackColorAlpha": 102,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 40.9811,
+                  "Y": 620.6902
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0769,
+                  "Y": 0.6881
+                },
+                "PreSize": {
+                  "X": 0.8443,
+                  "Y": 0.0443
+                },
+                "LeftMargin": 40.9811,
+                "RightMargin": 42.0189,
+                "TopMargin": 241.3098,
+                "BottomMargin": 620.6902,
+                "Tag": 112,
+                "Children": [
+                  {
+                    "FontSize": 20,
+                    "LabelText": "期号",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.6302,
+                      "ScaleY": 0.5093
+                    },
+                    "Position": {
+                      "X": 68.4984,
+                      "Y": 20.4499
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1522,
+                      "Y": 0.5112
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 43.2912,
+                    "RightMargin": 366.7088,
+                    "TopMargin": 9.7365,
+                    "BottomMargin": 10.2635,
+                    "Tag": 113,
+                    "ActionTag": -1345519670,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 20.0
+                    },
+                    "Name": "Text_2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "玩法",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.3529,
+                      "ScaleY": 0.7785
+                    },
+                    "Position": {
+                      "X": 193.5017,
+                      "Y": 29.2873
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.43,
+                      "Y": 0.7322
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 179.3874,
+                    "RightMargin": 230.6126,
+                    "TopMargin": 6.2831,
+                    "BottomMargin": 13.7169,
+                    "Tag": 114,
+                    "ActionTag": 1759709348,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 20.0
+                    },
+                    "Name": "Text_5",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "筹码",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.3529,
+                      "ScaleY": 0.7785
+                    },
+                    "Position": {
+                      "X": 287.9724,
+                      "Y": 29.2384
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.1509
+                    },
+                    "CColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6399,
+                      "Y": 0.731
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 273.858,
+                    "RightMargin": 136.142,
+                    "TopMargin": 6.3319,
+                    "BottomMargin": 13.6681,
+                    "Tag": 115,
+                    "ActionTag": -716003584,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 20.0
+                    },
+                    "Name": "Text_5_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "中奖金额",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5871,
+                      "ScaleY": 0.4224
+                    },
+                    "Position": {
+                      "X": 410.6101,
+                      "Y": 19.6698
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.1509
+                    },
+                    "CColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9125,
+                      "Y": 0.4917
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 387.1244,
+                    "RightMargin": 22.8756,
+                    "TopMargin": 8.7781,
+                    "BottomMargin": 11.2219,
+                    "Tag": 116,
+                    "ActionTag": 1394753494,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 20.0
+                    },
+                    "Name": "Text_5_0_0",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 1572702977,
+                "Size": {
+                  "X": 450.0,
+                  "Y": 40.0
+                },
+                "Name": "Panel_5_0",
+                "ctype": "PanelObjectData"
+              },
+              {
                 "FontSize": 20,
-                "LabelText": "期号            玩法      筹码  中奖金额",
+                "LabelText": "读取中,请稍候...",
                 "OutlineColor": {
                   "G": 0,
                   "B": 0
@@ -5458,38 +5968,34 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 268.6962,
-                  "Y": 647.2889
+                  "X": 260.0,
+                  "Y": 483.0
                 },
                 "Scale": {
                   "ScaleX": 1.0,
                   "ScaleY": 1.0
                 },
-                "CColor": {
-                  "R": 220,
-                  "G": 43,
-                  "B": 43
-                },
+                "CColor": {},
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.5041,
-                  "Y": 0.7176
+                  "X": 0.4878,
+                  "Y": 0.5355
                 },
                 "PreSize": {
                   "X": 0.0,
                   "Y": 0.0
                 },
-                "LeftMargin": 68.6962,
-                "RightMargin": 64.3038,
-                "TopMargin": 244.7111,
-                "BottomMargin": 637.2889,
-                "Tag": 103,
-                "ActionTag": 1529705292,
+                "LeftMargin": 180.0,
+                "RightMargin": 193.0,
+                "TopMargin": 409.0,
+                "BottomMargin": 473.0,
+                "Tag": 118,
+                "ActionTag": 1272181975,
                 "Size": {
-                  "X": 400.0,
+                  "X": 160.0,
                   "Y": 20.0
                 },
-                "Name": "Text_3",
+                "Name": "Text_my_loading",
                 "ctype": "TextObjectData"
               }
             ],
