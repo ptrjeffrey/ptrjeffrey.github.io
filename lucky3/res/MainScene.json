@@ -4041,13 +4041,221 @@
                     },
                     "PreSize": {
                       "X": 0.1989,
-                      "Y": 0.0676
+                      "Y": 0.0697
                     },
                     "LeftMargin": 204.522,
                     "RightMargin": 222.478,
                     "TopMargin": 33.7905,
                     "BottomMargin": 433.2095,
                     "Tag": 41,
+                    "Children": [
+                      {
+                        "DirectionType": "Vertical",
+                        "IsBounceEnabled": true,
+                        "ScrollDirectionType": 0,
+                        "ClipAble": true,
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 150
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 150
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": -161.5842,
+                          "Y": -310.3581
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": -1.5244,
+                          "Y": -8.8674
+                        },
+                        "PreSize": {
+                          "X": 4.2453,
+                          "Y": 8.5714
+                        },
+                        "LeftMargin": -161.5842,
+                        "RightMargin": -182.4158,
+                        "TopMargin": 45.3581,
+                        "BottomMargin": -310.3581,
+                        "Tag": 118,
+                        "Children": [
+                          {
+                            "FontSize": 20,
+                            "LabelText": "幸运快三是指以三个号码组合为一注进行单式投注,\n每个投注号码为1-6共六个自然数中的任意一个，\n一组三个号码的组合称为一注。每注金额自己决定。\n",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 230.0,
+                              "Y": 380.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.5171,
+                              "Y": 0.8995
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": 2.6753,
+                            "RightMargin": -12.6753,
+                            "TopMargin": 9.2371,
+                            "BottomMargin": 400.7629,
+                            "Tag": 42,
+                            "ActionTag": -1353496643,
+                            "Size": {
+                              "X": 460.0,
+                              "Y": 80.0
+                            },
+                            "Name": "Text_1",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 20,
+                            "LabelText": "投注说明:\n",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 45.0,
+                              "Y": 320.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {
+                              "R": 228,
+                              "G": 39,
+                              "B": 39
+                            },
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.1185,
+                              "Y": 0.8147
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": 8.3471,
+                            "RightMargin": 351.6529,
+                            "TopMargin": 80.8033,
+                            "BottomMargin": 389.1967,
+                            "Tag": 43,
+                            "ActionTag": 1179622850,
+                            "ZOrder": 1,
+                            "Size": {
+                              "X": 90.0,
+                              "Y": 40.0
+                            },
+                            "Name": "Text_1_0",
+                            "ctype": "TextObjectData"
+                          },
+                          {
+                            "FontSize": 20,
+                            "LabelText": "快3游戏根据号码组合共分为“和值”、“豹子”、\n“顺子”、“对子”、”大小”参与方式，具体规\n定如下：\n　　(一)和值投注：是指对三个号码的数字相加进\n行投注，包括“和值3”至“和值18”投注。\n　　(二)豹子投注：是指从所有相同的三个号码(1\n11、222、…、666)中任意选择一组号码进行投注。\n　　(三)对子投注：是指选中两个相同的号码进行\n投注。\n　　(四)顺子投注：是指对所有三个相连的号码(仅\n限：123、234、345、456)进行投注。\n(五)大小投注：是指三个号码相加之和≥3并≤10为\n小，三个号码相加之和≥11并≤18为大!\n\n",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 225.0,
+                              "Y": 150.0
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.5025,
+                              "Y": 0.4096
+                            },
+                            "PreSize": {
+                              "X": 0.0,
+                              "Y": 0.0
+                            },
+                            "LeftMargin": 1.1077,
+                            "RightMargin": -1.1077,
+                            "TopMargin": 139.2971,
+                            "BottomMargin": 50.7029,
+                            "Tag": 44,
+                            "ActionTag": 1922036895,
+                            "ZOrder": 2,
+                            "Size": {
+                              "X": 450.0,
+                              "Y": 300.0
+                            },
+                            "Name": "Text_1_1",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": 1430887909,
+                        "Size": {
+                          "X": 450.0,
+                          "Y": 300.0
+                        },
+                        "Name": "ListView_1",
+                        "ctype": "ListViewObjectData"
+                      }
+                    ],
                     "ActionTag": 1661262615,
                     "Size": {
                       "X": 106.0,
@@ -4055,217 +4263,6 @@
                     },
                     "Name": "Image_1",
                     "ctype": "ImageViewObjectData"
-                  },
-                  {
-                    "IsBounceEnabled": true,
-                    "InnerNodeSize": {
-                      "Width": 450,
-                      "Height": 490
-                    },
-                    "ScrollDirectionType": "Vertical",
-                    "ClipAble": true,
-                    "BackColorAlpha": 0,
-                    "ComboBoxIndex": 1,
-                    "SingleColor": {
-                      "G": 150,
-                      "B": 100
-                    },
-                    "FirstColor": {
-                      "G": 150,
-                      "B": 100
-                    },
-                    "EndColor": {},
-                    "ColorVector": {
-                      "ScaleY": 1.0
-                    },
-                    "TouchEnable": true,
-                    "AnchorPoint": {
-                      "ScaleX": 0.5161,
-                      "ScaleY": 0.493
-                    },
-                    "Position": {
-                      "X": 272.9329,
-                      "Y": 269.262
-                    },
-                    "Scale": {
-                      "ScaleX": 1.0,
-                      "ScaleY": 1.035
-                    },
-                    "CColor": {},
-                    "IconVisible": false,
-                    "PrePosition": {
-                      "X": 0.5121,
-                      "Y": 0.5364
-                    },
-                    "PreSize": {
-                      "X": 0.8443,
-                      "Y": 0.5976
-                    },
-                    "LeftMargin": 40.6879,
-                    "RightMargin": 42.3121,
-                    "TopMargin": 80.638,
-                    "BottomMargin": 121.362,
-                    "Tag": 40,
-                    "Children": [
-                      {
-                        "FontSize": 20,
-                        "LabelText": "幸运快三是指以三个号码组合为一注进行单式投注,\n每个投注号码为1-6共六个自然数中的任意一个，\n一组三个号码的组合称为一注。每注金额自己决定。\n",
-                        "OutlineColor": {
-                          "G": 0,
-                          "B": 0
-                        },
-                        "ShadowColor": {
-                          "R": 110,
-                          "G": 110,
-                          "B": 110
-                        },
-                        "ShadowOffsetX": 2.0,
-                        "ShadowOffsetY": -2.0,
-                        "AnchorPoint": {
-                          "ScaleX": 0.5,
-                          "ScaleY": 0.5
-                        },
-                        "Position": {
-                          "X": 232.6753,
-                          "Y": 440.7629
-                        },
-                        "Scale": {
-                          "ScaleX": 1.0,
-                          "ScaleY": 1.0
-                        },
-                        "CColor": {},
-                        "IconVisible": false,
-                        "PrePosition": {
-                          "X": 0.5171,
-                          "Y": 0.8995
-                        },
-                        "PreSize": {
-                          "X": 0.0,
-                          "Y": 0.0
-                        },
-                        "LeftMargin": 2.6753,
-                        "RightMargin": -12.6753,
-                        "TopMargin": 9.2371,
-                        "BottomMargin": 400.7629,
-                        "Tag": 42,
-                        "ActionTag": -1353496643,
-                        "Size": {
-                          "X": 460.0,
-                          "Y": 80.0
-                        },
-                        "Name": "Text_1",
-                        "ctype": "TextObjectData"
-                      },
-                      {
-                        "FontSize": 20,
-                        "LabelText": "投注说明:",
-                        "OutlineColor": {
-                          "G": 0,
-                          "B": 0
-                        },
-                        "ShadowColor": {
-                          "R": 110,
-                          "G": 110,
-                          "B": 110
-                        },
-                        "ShadowOffsetX": 2.0,
-                        "ShadowOffsetY": -2.0,
-                        "AnchorPoint": {
-                          "ScaleX": 0.5,
-                          "ScaleY": 0.5
-                        },
-                        "Position": {
-                          "X": 53.3471,
-                          "Y": 399.1967
-                        },
-                        "Scale": {
-                          "ScaleX": 1.0,
-                          "ScaleY": 1.0
-                        },
-                        "CColor": {
-                          "R": 228,
-                          "G": 39,
-                          "B": 39
-                        },
-                        "IconVisible": false,
-                        "PrePosition": {
-                          "X": 0.1185,
-                          "Y": 0.8147
-                        },
-                        "PreSize": {
-                          "X": 0.0,
-                          "Y": 0.0
-                        },
-                        "LeftMargin": 8.3471,
-                        "RightMargin": 351.6529,
-                        "TopMargin": 80.8033,
-                        "BottomMargin": 389.1967,
-                        "Tag": 43,
-                        "ActionTag": 1179622850,
-                        "Size": {
-                          "X": 90.0,
-                          "Y": 20.0
-                        },
-                        "Name": "Text_1_0",
-                        "ctype": "TextObjectData"
-                      },
-                      {
-                        "FontSize": 20,
-                        "LabelText": "快3游戏根据号码组合共分为“和值”、“豹子”、\n“顺子”、“对子”、”大小”参与方式，具体规\n定如下：\n　　(一)和值投注：是指对三个号码的数字相加进\n行投注，包括“和值3”至“和值18”投注。\n　　(二)豹子投注：是指从所有相同的三个号码(1\n11、222、…、666)中任意选择一组号码进行投注。\n　　(三)对子投注：是指选中两个相同的号码进行\n投注。\n　　(四)顺子投注：是指对所有三个相连的号码(仅\n限：123、234、345、456)进行投注。\n(五)大小投注：是指三个号码相加之和≥3并≤10为\n小，三个号码相加之和≥11并≤18为大!\n\n",
-                        "OutlineColor": {
-                          "G": 0,
-                          "B": 0
-                        },
-                        "ShadowColor": {
-                          "R": 110,
-                          "G": 110,
-                          "B": 110
-                        },
-                        "ShadowOffsetX": 2.0,
-                        "ShadowOffsetY": -2.0,
-                        "AnchorPoint": {
-                          "ScaleX": 0.5,
-                          "ScaleY": 0.5
-                        },
-                        "Position": {
-                          "X": 226.1077,
-                          "Y": 200.7029
-                        },
-                        "Scale": {
-                          "ScaleX": 1.0,
-                          "ScaleY": 1.0
-                        },
-                        "CColor": {},
-                        "IconVisible": false,
-                        "PrePosition": {
-                          "X": 0.5025,
-                          "Y": 0.4096
-                        },
-                        "PreSize": {
-                          "X": 0.0,
-                          "Y": 0.0
-                        },
-                        "LeftMargin": 1.1077,
-                        "RightMargin": -1.1077,
-                        "TopMargin": 139.2971,
-                        "BottomMargin": 50.7029,
-                        "Tag": 44,
-                        "ActionTag": 1922036895,
-                        "Size": {
-                          "X": 450.0,
-                          "Y": 300.0
-                        },
-                        "Name": "Text_1_1",
-                        "ctype": "TextObjectData"
-                      }
-                    ],
-                    "ActionTag": -2100582233,
-                    "Size": {
-                      "X": 450.0,
-                      "Y": 300.0
-                    },
-                    "Name": "ScrollView_1",
-                    "ctype": "ScrollViewObjectData"
                   }
                 ],
                 "ActionTag": -2080098162,
@@ -5111,8 +5108,8 @@
                       "ScaleY": 0.7785
                     },
                     "Position": {
-                      "X": 180.8007,
-                      "Y": 27.894
+                      "X": 180.8008,
+                      "Y": 28.8939
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -5125,16 +5122,16 @@
                     "IconVisible": false,
                     "PrePosition": {
                       "X": 0.4018,
-                      "Y": 0.6974
+                      "Y": 0.7223
                     },
                     "PreSize": {
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 159.6292,
-                    "RightMargin": 230.3708,
-                    "TopMargin": 7.6763,
-                    "BottomMargin": 12.3237,
+                    "LeftMargin": 159.6268,
+                    "RightMargin": 230.3733,
+                    "TopMargin": 6.6761,
+                    "BottomMargin": 13.3239,
                     "Tag": 109,
                     "ActionTag": -895258083,
                     "Size": {
@@ -5159,16 +5156,16 @@
                     "ShadowOffsetX": 2.0,
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {
-                      "ScaleX": 0.3529,
-                      "ScaleY": 0.7785
+                      "ScaleX": 0.4209,
+                      "ScaleY": 0.5511
                     },
                     "Position": {
-                      "X": 285.8214,
-                      "Y": 28.3077
+                      "X": 288.542,
+                      "Y": 23.7565
                     },
                     "Scale": {
                       "ScaleX": 1.0,
-                      "ScaleY": 1.1509
+                      "ScaleY": 1.0
                     },
                     "CColor": {
                       "G": 0,
@@ -5176,17 +5173,17 @@
                     },
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.6352,
-                      "Y": 0.7077
+                      "X": 0.6412,
+                      "Y": 0.5939
                     },
                     "PreSize": {
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 271.7071,
-                    "RightMargin": 138.2929,
-                    "TopMargin": 7.2626,
-                    "BottomMargin": 12.7374,
+                    "LeftMargin": 271.7054,
+                    "RightMargin": 138.2946,
+                    "TopMargin": 7.2664,
+                    "BottomMargin": 12.7336,
                     "Tag": 110,
                     "ActionTag": -904929018,
                     "Size": {
@@ -5215,12 +5212,12 @@
                       "ScaleY": 0.4224
                     },
                     "Position": {
-                      "X": 410.6101,
-                      "Y": 19.6698
+                      "X": 410.61,
+                      "Y": 21.6697
                     },
                     "Scale": {
                       "ScaleX": 1.0,
-                      "ScaleY": 1.1509
+                      "ScaleY": 1.0
                     },
                     "CColor": {
                       "G": 0,
@@ -5229,16 +5226,16 @@
                     "IconVisible": false,
                     "PrePosition": {
                       "X": 0.9125,
-                      "Y": 0.4917
+                      "Y": 0.5417
                     },
                     "PreSize": {
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 387.1244,
-                    "RightMargin": 22.8756,
-                    "TopMargin": 8.7781,
-                    "BottomMargin": 11.2219,
+                    "LeftMargin": 387.126,
+                    "RightMargin": 22.874,
+                    "TopMargin": 6.7783,
+                    "BottomMargin": 13.2217,
                     "Tag": 111,
                     "ActionTag": 804402324,
                     "Size": {
@@ -5312,6 +5309,7 @@
               "X": 533.0,
               "Y": 902.0
             },
+            "VisibleForFrame": false,
             "Name": "Panel_Recent",
             "ctype": "PanelObjectData"
           },
@@ -5751,8 +5749,8 @@
                       "ScaleY": 0.5093
                     },
                     "Position": {
-                      "X": 68.4984,
-                      "Y": 20.4499
+                      "X": 73.4984,
+                      "Y": 20.4502
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -5764,17 +5762,17 @@
                     },
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.1522,
-                      "Y": 0.5112
+                      "X": 0.1633,
+                      "Y": 0.5113
                     },
                     "PreSize": {
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 43.2912,
-                    "RightMargin": 366.7088,
-                    "TopMargin": 9.7365,
-                    "BottomMargin": 10.2635,
+                    "LeftMargin": 48.2904,
+                    "RightMargin": 361.7097,
+                    "TopMargin": 9.7358,
+                    "BottomMargin": 10.2642,
                     "Tag": 113,
                     "ActionTag": -1345519670,
                     "Size": {
@@ -5803,8 +5801,8 @@
                       "ScaleY": 0.7785
                     },
                     "Position": {
-                      "X": 193.5017,
-                      "Y": 29.2873
+                      "X": 193.5018,
+                      "Y": 26.2872
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -5817,16 +5815,16 @@
                     "IconVisible": false,
                     "PrePosition": {
                       "X": 0.43,
-                      "Y": 0.7322
+                      "Y": 0.6572
                     },
                     "PreSize": {
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 179.3874,
-                    "RightMargin": 230.6126,
-                    "TopMargin": 6.2831,
-                    "BottomMargin": 13.7169,
+                    "LeftMargin": 179.3858,
+                    "RightMargin": 230.6142,
+                    "TopMargin": 9.2828,
+                    "BottomMargin": 10.7172,
                     "Tag": 114,
                     "ActionTag": 1759709348,
                     "Size": {
@@ -5855,12 +5853,12 @@
                       "ScaleY": 0.7785
                     },
                     "Position": {
-                      "X": 287.9724,
-                      "Y": 29.2384
+                      "X": 294.972,
+                      "Y": 26.2391
                     },
                     "Scale": {
                       "ScaleX": 1.0,
-                      "ScaleY": 1.1509
+                      "ScaleY": 1.0
                     },
                     "CColor": {
                       "G": 0,
@@ -5868,17 +5866,17 @@
                     },
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.6399,
-                      "Y": 0.731
+                      "X": 0.6555,
+                      "Y": 0.656
                     },
                     "PreSize": {
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 273.858,
-                    "RightMargin": 136.142,
-                    "TopMargin": 6.3319,
-                    "BottomMargin": 13.6681,
+                    "LeftMargin": 280.856,
+                    "RightMargin": 129.144,
+                    "TopMargin": 9.3309,
+                    "BottomMargin": 10.6691,
                     "Tag": 115,
                     "ActionTag": -716003584,
                     "Size": {
@@ -5907,12 +5905,12 @@
                       "ScaleY": 0.4224
                     },
                     "Position": {
-                      "X": 410.6101,
-                      "Y": 19.6698
+                      "X": 410.61,
+                      "Y": 18.6698
                     },
                     "Scale": {
                       "ScaleX": 1.0,
-                      "ScaleY": 1.1509
+                      "ScaleY": 1.0
                     },
                     "CColor": {
                       "G": 0,
@@ -5921,16 +5919,16 @@
                     "IconVisible": false,
                     "PrePosition": {
                       "X": 0.9125,
-                      "Y": 0.4917
+                      "Y": 0.4667
                     },
                     "PreSize": {
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 387.1244,
-                    "RightMargin": 22.8756,
-                    "TopMargin": 8.7781,
-                    "BottomMargin": 11.2219,
+                    "LeftMargin": 363.642,
+                    "RightMargin": 6.358,
+                    "TopMargin": 9.7782,
+                    "BottomMargin": 10.2218,
                     "Tag": 116,
                     "ActionTag": 1394753494,
                     "Size": {
@@ -6004,6 +6002,7 @@
               "X": 533.0,
               "Y": 902.0
             },
+            "VisibleForFrame": false,
             "Name": "Panel_moneyRcord",
             "ctype": "PanelObjectData"
           },
