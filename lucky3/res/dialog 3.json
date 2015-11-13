@@ -100,7 +100,7 @@
               "Y": 0.0
             },
             "LeftMargin": 30.0645,
-            "RightMargin": -260.0645,
+            "RightMargin": -512.0645,
             "TopMargin": -630.525,
             "BottomMargin": 230.525,
             "Tag": 110,
@@ -128,15 +128,15 @@
                 "CColor": {},
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 1.0348,
+                  "X": 0.4938,
                   "Y": 0.555
                 },
                 "PreSize": {
-                  "X": 2.0957,
+                  "X": 1.0,
                   "Y": 0.7625
                 },
                 "LeftMargin": -3.0,
-                "RightMargin": -249.0,
+                "RightMargin": 3.0,
                 "TopMargin": 25.5,
                 "BottomMargin": 69.5,
                 "Tag": 111,
@@ -213,9 +213,11 @@
                     "ctype": "ButtonObjectData"
                   },
                   {
-                    "FontSize": 30,
-                    "LabelText": "恭喜您！\n上期投注中奖啦!\n1213",
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "恭喜您！要不要这么搞喔啊阿登\n上期投注中奖啦!\n1213",
                     "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -231,8 +233,8 @@
                       "ScaleY": 1.0
                     },
                     "Position": {
-                      "X": 129.1054,
-                      "Y": 205.585
+                      "X": 76.0177,
+                      "Y": 185.4353
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -245,22 +247,22 @@
                     },
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.2679,
-                      "Y": 0.674
+                      "X": 0.1577,
+                      "Y": 0.608
                     },
                     "PreSize": {
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 129.1054,
-                    "RightMargin": 127.8946,
-                    "TopMargin": 99.415,
-                    "BottomMargin": 115.585,
+                    "LeftMargin": 76.0177,
+                    "RightMargin": 69.9823,
+                    "TopMargin": 119.5647,
+                    "BottomMargin": 113.4353,
                     "Tag": 113,
                     "ActionTag": 1828812430,
                     "Size": {
-                      "X": 225.0,
-                      "Y": 90.0
+                      "X": 336.0,
+                      "Y": 72.0
                     },
                     "Name": "Text_Content",
                     "ctype": "TextObjectData"
@@ -277,7 +279,7 @@
             ],
             "ActionTag": -637659449,
             "Size": {
-              "X": 230.0,
+              "X": 482.0,
               "Y": 400.0
             },
             "Name": "Panel_4",

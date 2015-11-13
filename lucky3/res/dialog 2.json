@@ -100,7 +100,7 @@
               "Y": 0.0
             },
             "LeftMargin": 30.0645,
-            "RightMargin": -260.0645,
+            "RightMargin": -512.0645,
             "TopMargin": -630.525,
             "BottomMargin": 230.525,
             "Tag": 110,
@@ -128,15 +128,15 @@
                 "CColor": {},
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 1.0348,
+                  "X": 0.4938,
                   "Y": 0.555
                 },
                 "PreSize": {
-                  "X": 2.0957,
+                  "X": 1.0,
                   "Y": 0.7625
                 },
                 "LeftMargin": -3.0,
-                "RightMargin": -249.0,
+                "RightMargin": 3.0,
                 "TopMargin": 25.5,
                 "BottomMargin": 69.5,
                 "Tag": 111,
@@ -214,8 +214,11 @@
                     "ctype": "ButtonObjectData"
                   },
                   {
-                    "FontSize": 30,
-                    "LabelText": "嗨，亲 游戏币不够了哦！",
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "嗨，亲 游戏币不够了哦！请充值\n请明白了吗\n一定要充值喔",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -228,12 +231,12 @@
                     "ShadowOffsetX": 2.0,
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {
-                      "ScaleX": 0.5,
-                      "ScaleY": 0.5
+                      "ScaleX": 0.4887,
+                      "ScaleY": 0.5643
                     },
                     "Position": {
-                      "X": 243.8739,
-                      "Y": 150.2634
+                      "X": 239.9355,
+                      "Y": 159.975
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -246,22 +249,22 @@
                     },
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.506,
-                      "Y": 0.4927
+                      "X": 0.4978,
+                      "Y": 0.5245
                     },
                     "PreSize": {
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 71.3739,
-                    "RightMargin": 65.6261,
-                    "TopMargin": 139.7366,
-                    "BottomMargin": 135.2634,
+                    "LeftMargin": 69.8519,
+                    "RightMargin": 64.1481,
+                    "TopMargin": 113.6567,
+                    "BottomMargin": 119.3433,
                     "Tag": 113,
                     "ActionTag": 1828812430,
                     "Size": {
-                      "X": 345.0,
-                      "Y": 30.0
+                      "X": 348.0,
+                      "Y": 72.0
                     },
                     "Name": "Text_Content",
                     "ctype": "TextObjectData"
@@ -392,7 +395,7 @@
             ],
             "ActionTag": -637659449,
             "Size": {
-              "X": 230.0,
+              "X": 482.0,
               "Y": 400.0
             },
             "Name": "Panel_4",
