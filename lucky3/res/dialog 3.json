@@ -233,8 +233,8 @@
                       "ScaleY": 1.0
                     },
                     "Position": {
-                      "X": 76.0177,
-                      "Y": 185.4353
+                      "X": -0.4303,
+                      "Y": 210.9196
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -247,22 +247,22 @@
                     },
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.1577,
-                      "Y": 0.608
+                      "X": -0.0009,
+                      "Y": 0.6915
                     },
                     "PreSize": {
-                      "X": 0.0,
-                      "Y": 0.0
+                      "X": 0.9959,
+                      "Y": 0.3934
                     },
-                    "LeftMargin": 76.0177,
-                    "RightMargin": 69.9823,
-                    "TopMargin": 119.5647,
-                    "BottomMargin": 113.4353,
+                    "LeftMargin": -0.4303,
+                    "RightMargin": 2.4303,
+                    "TopMargin": 94.0804,
+                    "BottomMargin": 90.9196,
                     "Tag": 113,
                     "ActionTag": 1828812430,
                     "Size": {
-                      "X": 336.0,
-                      "Y": 72.0
+                      "X": 480.0,
+                      "Y": 120.0
                     },
                     "Name": "Text_Content",
                     "ctype": "TextObjectData"

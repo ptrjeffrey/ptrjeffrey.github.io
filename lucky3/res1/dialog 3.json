@@ -1,0 +1,306 @@
+{
+  "ID": "a4e4184c-b583-4ada-8db4-fca38d13cea5",
+  "Version": "2.3.2.3",
+  "Name": " dialog 3",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 96,
+        "Children": [
+          {
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.0028,
+              "Y": 0.003
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "RightMargin": -533.0,
+            "TopMargin": -900.0,
+            "Tag": 101,
+            "ActionTag": 2017358282,
+            "Size": {
+              "X": 533.0,
+              "Y": 900.0
+            },
+            "Alpha": 101,
+            "Name": "Panel_2",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 30.0645,
+              "Y": 230.525
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 30.0645,
+            "RightMargin": -512.0645,
+            "TopMargin": -630.525,
+            "BottomMargin": 230.525,
+            "Tag": 110,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "duihua/bj.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 482,
+                "Scale9Height": 305,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 238.0,
+                  "Y": 222.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4938,
+                  "Y": 0.555
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.7625
+                },
+                "LeftMargin": -3.0,
+                "RightMargin": 3.0,
+                "TopMargin": 25.5,
+                "BottomMargin": 69.5,
+                "Tag": 111,
+                "Children": [
+                  {
+                    "FontSize": 36,
+                    "ButtonText": "确 定",
+                    "TextColor": {},
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "duihua/yes2.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "duihua/yes1.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 452,
+                    "Scale9Height": 44,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 240.5557,
+                      "Y": 34.1168
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4991,
+                      "Y": 0.1119
+                    },
+                    "PreSize": {
+                      "X": 2.0957,
+                      "Y": 0.165
+                    },
+                    "LeftMargin": -0.4443,
+                    "RightMargin": 0.4443,
+                    "TopMargin": 237.8832,
+                    "BottomMargin": 1.1168,
+                    "Tag": 112,
+                    "ActionTag": 1805200627,
+                    "Size": {
+                      "X": 482.0,
+                      "Y": 66.0
+                    },
+                    "Name": "Button_award",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "恭喜您！要不要这么搞喔啊阿登\n上期投注中奖啦!\n1213",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleY": 1.0
+                    },
+                    "Position": {
+                      "X": 76.0177,
+                      "Y": 185.4353
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 102,
+                      "G": 102,
+                      "B": 102
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1577,
+                      "Y": 0.608
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 76.0177,
+                    "RightMargin": 69.9823,
+                    "TopMargin": 119.5647,
+                    "BottomMargin": 113.4353,
+                    "Tag": 113,
+                    "ActionTag": 1828812430,
+                    "Size": {
+                      "X": 336.0,
+                      "Y": 72.0
+                    },
+                    "Name": "Text_Content",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 781811148,
+                "Size": {
+                  "X": 482.0,
+                  "Y": 305.0
+                },
+                "Name": "Image_5",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -637659449,
+            "Size": {
+              "X": 482.0,
+              "Y": 400.0
+            },
+            "Name": "Panel_4",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "duihua/bj.png",
+        "duihua/yes1.png",
+        "duihua/yes2.png"
+      ],
+      "ctype": "GameProjectData"
+    }
+  },
+  "Type": "Layer"
+}
