@@ -4601,6 +4601,7 @@
               "X": 533.0,
               "Y": 900.0
             },
+            "VisibleForFrame": false,
             "Name": "Panel_Rule",
             "ctype": "PanelObjectData"
           },
@@ -6222,6 +6223,232 @@
             },
             "Name": "Text_mymoney",
             "ctype": "TextObjectData"
+          },
+          {
+            "BackColorAlpha": 109,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {},
+            "EndColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 119,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "duihua/bj.png",
+                  "Plist": ""
+                },
+                "BlendFunc": {
+                  "Src": 770,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 268.062,
+                  "Y": 439.0331
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5029,
+                  "Y": 0.4878
+                },
+                "PreSize": {
+                  "X": 0.9043,
+                  "Y": 0.3389
+                },
+                "LeftMargin": 27.062,
+                "RightMargin": 23.938,
+                "TopMargin": 308.4669,
+                "BottomMargin": 286.5331,
+                "Tag": 135,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 25,
+                    "LabelText": "正在连接服务器,请稍候",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 239.9166,
+                      "Y": 159.543
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4978,
+                      "Y": 0.5231
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.1389
+                    },
+                    "LeftMargin": -26.5834,
+                    "RightMargin": -24.4166,
+                    "TopMargin": 82.957,
+                    "BottomMargin": 97.043,
+                    "Tag": 120,
+                    "ActionTag": 1402672505,
+                    "Size": {
+                      "X": 533.0,
+                      "Y": 125.0
+                    },
+                    "Name": "Text_load_msg",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "ButtonText": "再试一次",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Press.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "duihua/yes1.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 452,
+                    "Scale9Height": 44,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5047,
+                      "ScaleY": 0.4785
+                    },
+                    "Position": {
+                      "X": 243.2519,
+                      "Y": 31.6998
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5047,
+                      "Y": 0.1039
+                    },
+                    "PreSize": {
+                      "X": 1.0,
+                      "Y": 0.2164
+                    },
+                    "LeftMargin": -0.0006,
+                    "RightMargin": 0.0006,
+                    "TopMargin": 238.8818,
+                    "BottomMargin": 0.1182,
+                    "Tag": 136,
+                    "ActionTag": -899845408,
+                    "Size": {
+                      "X": 482.0,
+                      "Y": 66.0
+                    },
+                    "Name": "Button_retry_connect",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 685565943,
+                "Size": {
+                  "X": 482.0,
+                  "Y": 305.0
+                },
+                "Name": "Sprite_1",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -498214007,
+            "Size": {
+              "X": 533.0,
+              "Y": 900.0
+            },
+            "Name": "panel_loading",
+            "ctype": "PanelObjectData"
           }
         ],
         "Size": {
@@ -6235,8 +6462,11 @@
         "clear.1.png",
         "clear.png",
         "Default/Button_Disable.png",
+        "Default/Button_Press.png",
         "Default/CheckBox_Disable.png",
         "Default/CheckBoxNode_Disable.png",
+        "duihua/bj.png",
+        "duihua/yes1.png",
         "imgs/bj2.jpg",
         "imgs/bnts/10w.png",
         "imgs/bnts/10w_down.png",
