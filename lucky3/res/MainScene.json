@@ -6303,8 +6303,8 @@
                 "Children": [
                   {
                     "IsCustomSize": true,
-                    "FontSize": 25,
-                    "LabelText": "正在连接服务器,请稍候",
+                    "FontSize": 28,
+                    "LabelText": "网络不稳定,正在重连\n请稍候…",
                     "HorizontalAlignmentType": "HT_Center",
                     "VerticalAlignmentType": "VT_Center",
                     "OutlineColor": {
@@ -6323,48 +6323,44 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 239.9166,
-                      "Y": 159.543
+                      "X": 240.9165,
+                      "Y": 153.543
                     },
                     "Scale": {
                       "ScaleX": 1.0,
                       "ScaleY": 1.0
                     },
                     "CColor": {
-                      "R": 0,
-                      "G": 0,
-                      "B": 0
+                      "R": 77,
+                      "G": 77,
+                      "B": 77
                     },
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.4978,
-                      "Y": 0.5231
+                      "X": 0.4998,
+                      "Y": 0.5034
                     },
                     "PreSize": {
-                      "X": 1.0,
-                      "Y": 0.1389
+                      "X": 0.9544,
+                      "Y": 0.4262
                     },
-                    "LeftMargin": -26.5834,
-                    "RightMargin": -24.4166,
-                    "TopMargin": 82.957,
-                    "BottomMargin": 97.043,
+                    "LeftMargin": 10.9165,
+                    "RightMargin": 11.0835,
+                    "TopMargin": 86.457,
+                    "BottomMargin": 88.543,
                     "Tag": 120,
                     "ActionTag": 1402672505,
                     "Size": {
-                      "X": 533.0,
-                      "Y": 125.0
+                      "X": 460.0,
+                      "Y": 130.0
                     },
                     "Name": "Text_load_msg",
                     "ctype": "TextObjectData"
                   },
                   {
-                    "FontSize": 20,
+                    "FontSize": 36,
                     "ButtonText": "再试一次",
-                    "TextColor": {
-                      "R": 65,
-                      "G": 65,
-                      "B": 70
-                    },
+                    "TextColor": {},
                     "DisabledFileData": {
                       "Type": "Default",
                       "Path": "Default/Button_Disable.png",
@@ -6440,6 +6436,59 @@
                 },
                 "Name": "Sprite_1",
                 "ctype": "SpriteObjectData"
+              },
+              {
+                "DirectionType": "Vertical",
+                "IsBounceEnabled": true,
+                "ScrollDirectionType": 0,
+                "ClipAble": true,
+                "BackColorAlpha": 102,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 17,
+                  "G": 17,
+                  "B": 42
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 27.1876,
+                  "Y": 592.5758
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.051,
+                  "Y": 0.6584
+                },
+                "PreSize": {
+                  "X": 0.9006,
+                  "Y": 0.3333
+                },
+                "LeftMargin": 27.1876,
+                "RightMargin": 25.8124,
+                "TopMargin": 7.4242,
+                "BottomMargin": 592.5758,
+                "Tag": 117,
+                "ActionTag": -47224388,
+                "Size": {
+                  "X": 480.0,
+                  "Y": 300.0
+                },
+                "Name": "ListView_debug",
+                "ctype": "ListViewObjectData"
               }
             ],
             "ActionTag": -498214007,
