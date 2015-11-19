@@ -256,6 +256,7 @@
 
             </sources>
             <sources dir="${basedir}">
+                <file name="src/uiconst.js"/>
                 <file name="src/resource.js"/>
                 <file name="src/app.js"/>
                 <file name="main.js"/>
