@@ -36,16 +36,16 @@
             "CColor": {},
             "IconVisible": false,
             "PrePosition": {
-              "X": 0.4171,
-              "Y": 0.9966
+              "X": 0.5005,
+              "Y": 0.4983
             },
             "PreSize": {
-              "X": 0.8333,
-              "Y": 2.0
+              "X": 1.0,
+              "Y": 1.0
             },
             "LeftMargin": 0.4224,
-            "RightMargin": 159.5776,
-            "TopMargin": -637.8324,
+            "RightMargin": -0.4224,
+            "TopMargin": 2.1676,
             "BottomMargin": -2.1676,
             "Tag": 3,
             "ActionTag": 1951883323,
@@ -85,16 +85,16 @@
             "CColor": {},
             "IconVisible": false,
             "PrePosition": {
-              "X": -0.1252,
-              "Y": -0.0055
+              "X": -0.1502,
+              "Y": -0.0027
             },
             "PreSize": {
-              "X": 0.9583,
-              "Y": 1.25
+              "X": 1.15,
+              "Y": 0.625
             },
             "LeftMargin": -120.1899,
-            "RightMargin": 160.1899,
-            "TopMargin": -156.4982,
+            "RightMargin": 0.1899,
+            "TopMargin": 483.5018,
             "BottomMargin": -3.5018,
             "Tag": 4,
             "Children": [
@@ -764,7 +764,7 @@
                     },
                     "NodeNormalFileData": {
                       "Type": "Normal",
-                      "Path": "fruit/btn/btn3.png",
+                      "Path": "fruit/btn/btn2.png",
                       "Plist": ""
                     },
                     "TouchEnable": true,
@@ -869,7 +869,7 @@
                     },
                     "NodeNormalFileData": {
                       "Type": "Normal",
-                      "Path": "fruit/btn/btn3.png",
+                      "Path": "fruit/btn/btn2.png",
                       "Plist": ""
                     },
                     "TouchEnable": true,
@@ -974,7 +974,7 @@
                     },
                     "NodeNormalFileData": {
                       "Type": "Normal",
-                      "Path": "fruit/btn/btn3.png",
+                      "Path": "fruit/btn/btn2.png",
                       "Plist": ""
                     },
                     "TouchEnable": true,
@@ -5322,16 +5322,16 @@
             "CColor": {},
             "IconVisible": false,
             "PrePosition": {
-              "X": -0.4797,
-              "Y": 0.001
+              "X": -0.5756,
+              "Y": 0.0005
             },
             "PreSize": {
-              "X": 0.374,
-              "Y": 1.2453
+              "X": 0.4487,
+              "Y": 0.6227
             },
             "LeftMargin": -460.5096,
-            "RightMargin": 1061.5096,
-            "TopMargin": -157.6371,
+            "RightMargin": 901.5096,
+            "TopMargin": 482.3629,
             "BottomMargin": 0.6371,
             "Tag": 85,
             "Children": [
@@ -5592,16 +5592,16 @@
             "CColor": {},
             "IconVisible": false,
             "PrePosition": {
-              "X": 0.3264,
-              "Y": 1.1492
+              "X": 0.3917,
+              "Y": 0.5746
             },
             "PreSize": {
-              "X": 0.2083,
-              "Y": 0.3125
+              "X": 0.25,
+              "Y": 0.1562
             },
             "LeftMargin": 313.3334,
-            "RightMargin": 446.6666,
-            "TopMargin": -295.4709,
+            "RightMargin": 286.6666,
+            "TopMargin": 344.5291,
             "BottomMargin": 735.4709,
             "Tag": 118,
             "Children": [
@@ -6186,8 +6186,8 @@
           }
         ],
         "Size": {
-          "X": 960.0,
-          "Y": 640.0
+          "X": 800.0,
+          "Y": 1280.0
         },
         "Name": "Scene",
         "ctype": "SingleNodeObjectData"
