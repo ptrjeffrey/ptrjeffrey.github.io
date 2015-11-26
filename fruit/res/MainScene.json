@@ -1439,7 +1439,7 @@
                       "X": 60.0,
                       "Y": 24.0
                     },
-                    "Name": "Text_3",
+                    "Name": "bet_txt_0",
                     "ctype": "TextObjectData"
                   },
                   {
@@ -1491,7 +1491,7 @@
                       "X": 60.0,
                       "Y": 24.0
                     },
-                    "Name": "Text_3_0",
+                    "Name": "bet_txt_1",
                     "ctype": "TextObjectData"
                   },
                   {
@@ -1543,7 +1543,7 @@
                       "X": 60.0,
                       "Y": 24.0
                     },
-                    "Name": "Text_3_0_0",
+                    "Name": "bet_txt_2",
                     "ctype": "TextObjectData"
                   },
                   {
@@ -1595,7 +1595,7 @@
                       "X": 60.0,
                       "Y": 24.0
                     },
-                    "Name": "Text_3_0_0_0",
+                    "Name": "bet_txt_3",
                     "ctype": "TextObjectData"
                   },
                   {
@@ -1647,7 +1647,7 @@
                       "X": 60.0,
                       "Y": 24.0
                     },
-                    "Name": "Text_3_0_0_0_0",
+                    "Name": "bet_txt_4",
                     "ctype": "TextObjectData"
                   },
                   {
@@ -1699,7 +1699,7 @@
                       "X": 60.0,
                       "Y": 24.0
                     },
-                    "Name": "Text_3_0_0_0_0_0",
+                    "Name": "bet_txt_5",
                     "ctype": "TextObjectData"
                   },
                   {
@@ -1751,7 +1751,7 @@
                       "X": 60.0,
                       "Y": 24.0
                     },
-                    "Name": "Text_3_0_0_0_0_0_0",
+                    "Name": "bet_txt_6",
                     "ctype": "TextObjectData"
                   }
                 ],
@@ -6407,6 +6407,8 @@
                     "ColorVector": {
                       "ScaleY": 1.0
                     },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
                     "AnchorPoint": {},
                     "Position": {
                       "X": 28.0542,
@@ -6449,20 +6451,19 @@
                 "ctype": "ImageViewObjectData"
               },
               {
-                "FileData": {
+                "ProgressInfo": 100,
+                "ImageFileData": {
                   "Type": "Normal",
-                  "Path": "fruit/num/shijian.png",
+                  "Path": "fruit/num/shijian1.png",
                   "Plist": ""
                 },
-                "Scale9Width": 281,
-                "Scale9Height": 50,
                 "AnchorPoint": {
-                  "ScaleX": 0.5,
-                  "ScaleY": 0.5
+                  "ScaleX": 0.5136,
+                  "ScaleY": 0.4476
                 },
                 "Position": {
-                  "X": -281.8901,
-                  "Y": -41.5605
+                  "X": -283.1919,
+                  "Y": -43.2129
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -6473,63 +6474,21 @@
                 "CColor": {},
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": -1.4095,
-                  "Y": -0.2078
+                  "X": -1.416,
+                  "Y": -0.2161
                 },
                 "PreSize": {
                   "X": 1.405,
                   "Y": 0.25
                 },
-                "LeftMargin": -422.3901,
-                "RightMargin": 341.3901,
-                "TopMargin": 216.5605,
-                "BottomMargin": -66.5605,
-                "Tag": 134,
+                "LeftMargin": -427.5135,
+                "RightMargin": 346.5135,
+                "TopMargin": 215.5929,
+                "BottomMargin": -65.5929,
+                "Tag": 135,
                 "Children": [
                   {
-                    "ProgressInfo": 0,
-                    "ImageFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/num/shijian1.png",
-                      "Plist": ""
-                    },
-                    "AnchorPoint": {
-                      "ScaleX": 0.5136,
-                      "ScaleY": 0.4476
-                    },
-                    "Position": {
-                      "X": 141.1609,
-                      "Y": 20.8691
-                    },
-                    "Scale": {
-                      "ScaleX": 1.0,
-                      "ScaleY": 1.0
-                    },
-                    "CColor": {},
-                    "IconVisible": false,
-                    "PrePosition": {
-                      "X": 0.5024,
-                      "Y": 0.4174
-                    },
-                    "PreSize": {
-                      "X": 1.0,
-                      "Y": 1.0
-                    },
-                    "LeftMargin": -3.1706,
-                    "RightMargin": 3.1706,
-                    "TopMargin": 1.5086,
-                    "BottomMargin": -1.5086,
-                    "Tag": 135,
-                    "ActionTag": -127482201,
-                    "Size": {
-                      "X": 281.0,
-                      "Y": 50.0
-                    },
-                    "Name": "progress_time",
-                    "ctype": "LoadingBarObjectData"
-                  },
-                  {
-                    "ProgressInfo": 15,
+                    "ProgressInfo": 100,
                     "ImageFileData": {
                       "Type": "Normal",
                       "Path": "fruit/num/shijian.png",
@@ -6540,27 +6499,27 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 138.7133,
-                      "Y": 24.8152
+                      "X": 135.277,
+                      "Y": 25.6192
                     },
                     "Scale": {
-                      "ScaleX": 1.0,
+                      "ScaleX": 1.08,
                       "ScaleY": 1.0
                     },
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.4936,
-                      "Y": 0.4963
+                      "X": 0.4814,
+                      "Y": 0.5124
                     },
                     "PreSize": {
                       "X": 1.0,
                       "Y": 1.0
                     },
-                    "LeftMargin": -1.7867,
-                    "RightMargin": 1.7867,
-                    "TopMargin": 0.1848,
-                    "BottomMargin": -0.1848,
+                    "LeftMargin": -5.223,
+                    "RightMargin": 5.223,
+                    "TopMargin": -0.6192,
+                    "BottomMargin": 0.6192,
                     "Tag": 136,
                     "ActionTag": 440524406,
                     "Size": {
@@ -6571,13 +6530,13 @@
                     "ctype": "LoadingBarObjectData"
                   }
                 ],
-                "ActionTag": 867208442,
+                "ActionTag": -127482201,
                 "Size": {
                   "X": 281.0,
                   "Y": 50.0
                 },
-                "Name": "Image_3",
-                "ctype": "ImageViewObjectData"
+                "Name": "progress_time",
+                "ctype": "LoadingBarObjectData"
               }
             ],
             "ActionTag": 1807408100,
