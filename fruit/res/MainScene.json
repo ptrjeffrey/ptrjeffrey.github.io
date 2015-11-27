@@ -742,7 +742,7 @@
                       "X": 151.0,
                       "Y": 112.0
                     },
-                    "Name": "Button_9",
+                    "Name": "btn_repeat",
                     "ctype": "ButtonObjectData"
                   },
                   {
@@ -6499,27 +6499,27 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 135.277,
-                      "Y": 25.6192
+                      "X": 144.2768,
+                      "Y": 23.6198
                     },
                     "Scale": {
-                      "ScaleX": 1.08,
+                      "ScaleX": 1.0,
                       "ScaleY": 1.0
                     },
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.4814,
-                      "Y": 0.5124
+                      "X": 0.5134,
+                      "Y": 0.4724
                     },
                     "PreSize": {
                       "X": 1.0,
                       "Y": 1.0
                     },
-                    "LeftMargin": -5.223,
-                    "RightMargin": 5.223,
-                    "TopMargin": -0.6192,
-                    "BottomMargin": 0.6192,
+                    "LeftMargin": 3.7768,
+                    "RightMargin": -3.7768,
+                    "TopMargin": 1.3802,
+                    "BottomMargin": -1.3802,
                     "Tag": 136,
                     "ActionTag": 440524406,
                     "Size": {
@@ -6546,6 +6546,48 @@
             },
             "Name": "Panel_8",
             "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "fruit/drop_coin.plist",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {},
+            "Position": {
+              "X": 391.2012,
+              "Y": 1239.7515
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": true,
+            "PrePosition": {
+              "X": 0.489,
+              "Y": 0.9686
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 391.2012,
+            "RightMargin": 408.7988,
+            "TopMargin": 40.2485,
+            "BottomMargin": 1239.7515,
+            "Tag": 133,
+            "ActionTag": -1204649185,
+            "Size": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Name": "particle_win",
+            "ctype": "ParticleObjectData"
           }
         ],
         "Size": {
@@ -6589,6 +6631,7 @@
         "fruit/dfs_b_kuangzi.png",
         "fruit/dfs_b_touixang.png",
         "fruit/dfs_liaotianbg.png",
+        "fruit/drop_coin.plist",
         "fruit/img/dasuan.png",
         "fruit/img/dfs_k_deng1.png",
         "fruit/img/dfs_k_deng2.png",
@@ -6625,7 +6668,8 @@
         "fruit/num/jiangci.png",
         "fruit/num/shijian.png",
         "fruit/num/shijian1.png",
-        "fruit/num/shuzi.png"
+        "fruit/num/shuzi.png",
+        "fruit/particle-coin.png"
       ],
       "ctype": "GameFileData"
     }
