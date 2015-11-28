@@ -100,7 +100,7 @@
                 },
                 "PreSize": {
                   "X": 0.25,
-                  "Y": 0.1563
+                  "Y": 0.1562
                 },
                 "LeftMargin": 296.1241,
                 "RightMargin": 303.8759,
@@ -283,6 +283,8 @@
                 "ColorVector": {
                   "ScaleY": 1.0
                 },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
                 "TouchEnable": true,
                 "AnchorPoint": {},
                 "Position": {
@@ -367,7 +369,7 @@
               "Y": 0.3711
             },
             "LeftMargin": 2.195,
-            "RightMargin": -2.1951,
+            "RightMargin": -2.195,
             "TopMargin": 1281.2424,
             "BottomMargin": -476.2424,
             "Tag": 188,
@@ -522,7 +524,7 @@
                 },
                 "LeftMargin": 596.5922,
                 "RightMargin": 123.4078,
-                "TopMargin": 339.3069,
+                "TopMargin": 339.307,
                 "BottomMargin": 55.693,
                 "Tag": 192,
                 "ActionTag": 377728691,
@@ -784,7 +786,7 @@
                   "X": 550.0,
                   "Y": 30.0
                 },
-                "Name": "TextField_1",
+                "Name": "textfield_input",
                 "ctype": "TextFieldObjectData"
               },
               {
@@ -806,6 +808,8 @@
                 "ColorVector": {
                   "ScaleY": 1.0
                 },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
                 "TouchEnable": true,
                 "AnchorPoint": {},
                 "Position": {
