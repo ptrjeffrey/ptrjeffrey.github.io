@@ -6273,48 +6273,6 @@
             "ctype": "PanelObjectData"
           },
           {
-            "FileData": {
-              "Type": "Normal",
-              "Path": "fruit/ani/drop_coin.plist",
-              "Plist": ""
-            },
-            "BlendFunc": {
-              "Src": 1,
-              "Dst": 771
-            },
-            "AnchorPoint": {},
-            "Position": {
-              "X": 403.3737,
-              "Y": 1234.8079
-            },
-            "Scale": {
-              "ScaleX": 1.0,
-              "ScaleY": 1.0
-            },
-            "CColor": {},
-            "IconVisible": true,
-            "PrePosition": {
-              "X": 0.5042,
-              "Y": 0.9647
-            },
-            "PreSize": {
-              "X": 0.0,
-              "Y": 0.0
-            },
-            "LeftMargin": 403.3737,
-            "RightMargin": 396.6263,
-            "TopMargin": 45.1921,
-            "BottomMargin": 1234.8079,
-            "Tag": 133,
-            "ActionTag": -1204649185,
-            "Size": {
-              "X": 0.0,
-              "Y": 0.0
-            },
-            "Name": "particle_win",
-            "ctype": "ParticleObjectData"
-          },
-          {
             "BackColorAlpha": 0,
             "FileData": {
               "Type": "Normal",
@@ -6608,8 +6566,6 @@
         "Default/Button_Disable.png",
         "Default/Button_Press.png",
         "Default/CheckBox_Disable.png",
-        "fruit/ani/drop_coin.plist",
-        "fruit/ani/drop_coin.png",
         "fruit/btn/btn0.png",
         "fruit/btn/btn1.png",
         "fruit/btn/btn2.png",
