@@ -1,0 +1,661 @@
+{
+  "ID": "c5c39e43-93c1-407a-bb22-1727d4691bc1",
+  "Version": "2.3.3.0",
+  "Name": "fayan",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 134,
+        "Children": [
+          {
+            "BackColorAlpha": 103,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.88,
+              "Y": 0.512
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0011,
+              "Y": 0.0004
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 0.88,
+            "RightMargin": -0.88,
+            "TopMargin": -0.512,
+            "BottomMargin": 0.512,
+            "Tag": 135,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "fruit/img/fasong.png",
+                  "Plist": ""
+                },
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 800,
+                "Scale9Height": 475,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": -2.0165,
+                  "Y": -7.6416
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -0.0025,
+                  "Y": -0.006
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 0.3711
+                },
+                "LeftMargin": -2.0165,
+                "RightMargin": 2.0165,
+                "TopMargin": 812.6416,
+                "BottomMargin": -7.6416,
+                "Tag": 136,
+                "Children": [
+                  {
+                    "FontSize": 32,
+                    "ButtonText": "巨奖要爆了，快上啊！",
+                    "TextColor": {
+                      "R": 248,
+                      "G": 246,
+                      "B": 242
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "fruit/btn/wenben1.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "fruit/btn/wenben.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 505,
+                    "Scale9Height": 39,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 306.6878,
+                      "Y": 300.5307
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3834,
+                      "Y": 0.6327
+                    },
+                    "PreSize": {
+                      "X": 0.6687,
+                      "Y": 0.1284
+                    },
+                    "LeftMargin": 39.1878,
+                    "RightMargin": 225.8122,
+                    "TopMargin": 143.9693,
+                    "BottomMargin": 270.0307,
+                    "Tag": 191,
+                    "ActionTag": 320072323,
+                    "Size": {
+                      "X": 535.0,
+                      "Y": 61.0
+                    },
+                    "Name": "Button_2",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "fruit/btn/fs1.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "fruit/btn/fs.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 126,
+                    "Scale9Height": 63,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 699.8156,
+                      "Y": 410.154
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8748,
+                      "Y": 0.8635
+                    },
+                    "PreSize": {
+                      "X": 0.195,
+                      "Y": 0.1789
+                    },
+                    "LeftMargin": 621.8156,
+                    "RightMargin": 22.1844,
+                    "TopMargin": 22.346,
+                    "BottomMargin": 367.654,
+                    "Tag": 137,
+                    "ActionTag": 1873261913,
+                    "Size": {
+                      "X": 156.0,
+                      "Y": 85.0
+                    },
+                    "Name": "btn_sendchat",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "fruit/img/lajiao.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 80,
+                    "Scale9Height": 80,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 631.4598,
+                      "Y": 281.1434
+                    },
+                    "Scale": {
+                      "ScaleX": 0.9,
+                      "ScaleY": 0.9
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7893,
+                      "Y": 0.5919
+                    },
+                    "PreSize": {
+                      "X": 0.1,
+                      "Y": 0.1684
+                    },
+                    "LeftMargin": 591.4598,
+                    "RightMargin": 128.5402,
+                    "TopMargin": 153.8566,
+                    "BottomMargin": 241.1434,
+                    "Tag": 192,
+                    "ActionTag": 216850984,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 80.0
+                    },
+                    "Name": "lajiao",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "fruit/img/luobo.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 80,
+                    "Scale9Height": 80,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 636.5922,
+                      "Y": 95.693
+                    },
+                    "Scale": {
+                      "ScaleX": 0.8,
+                      "ScaleY": 0.8
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7957,
+                      "Y": 0.2015
+                    },
+                    "PreSize": {
+                      "X": 0.1,
+                      "Y": 0.1684
+                    },
+                    "LeftMargin": 596.5922,
+                    "RightMargin": 123.4078,
+                    "TopMargin": 339.3069,
+                    "BottomMargin": 55.693,
+                    "Tag": 193,
+                    "ActionTag": 1897649950,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 80.0
+                    },
+                    "Name": "luobo",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "fruit/img/dasuan.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 80,
+                    "Scale9Height": 80,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 711.4893,
+                      "Y": 160.3227
+                    },
+                    "Scale": {
+                      "ScaleX": 0.8,
+                      "ScaleY": 0.8
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8894,
+                      "Y": 0.3375
+                    },
+                    "PreSize": {
+                      "X": 0.1,
+                      "Y": 0.1684
+                    },
+                    "LeftMargin": 671.4893,
+                    "RightMargin": 48.5107,
+                    "TopMargin": 274.6773,
+                    "BottomMargin": 120.3227,
+                    "Tag": 194,
+                    "ActionTag": -97351574,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 80.0
+                    },
+                    "Name": "dasuang",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "fruit/img/mogu.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 80,
+                    "Scale9Height": 80,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 637.7577,
+                      "Y": 157.3018
+                    },
+                    "Scale": {
+                      "ScaleX": 0.8,
+                      "ScaleY": 0.8
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7972,
+                      "Y": 0.3312
+                    },
+                    "PreSize": {
+                      "X": 0.1,
+                      "Y": 0.1684
+                    },
+                    "LeftMargin": 597.7577,
+                    "RightMargin": 122.2423,
+                    "TopMargin": 277.6982,
+                    "BottomMargin": 117.3018,
+                    "Tag": 195,
+                    "ActionTag": -1647618061,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 80.0
+                    },
+                    "Name": "mogu",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "fruit/img/wandou.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 80,
+                    "Scale9Height": 80,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 712.5064,
+                      "Y": 220.3475
+                    },
+                    "Scale": {
+                      "ScaleX": 0.74,
+                      "ScaleY": 0.8
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8906,
+                      "Y": 0.4639
+                    },
+                    "PreSize": {
+                      "X": 0.1,
+                      "Y": 0.1684
+                    },
+                    "LeftMargin": 672.5064,
+                    "RightMargin": 47.4936,
+                    "TopMargin": 214.6525,
+                    "BottomMargin": 180.3475,
+                    "Tag": 196,
+                    "ActionTag": -807766418,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 80.0
+                    },
+                    "Name": "wangdou",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "fruit/img/qiezi.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 80,
+                    "Scale9Height": 80,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 638.7806,
+                      "Y": 218.4177
+                    },
+                    "Scale": {
+                      "ScaleX": 0.8,
+                      "ScaleY": 0.8
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7985,
+                      "Y": 0.4598
+                    },
+                    "PreSize": {
+                      "X": 0.1,
+                      "Y": 0.1684
+                    },
+                    "LeftMargin": 598.7806,
+                    "RightMargin": 121.2194,
+                    "TopMargin": 216.5823,
+                    "BottomMargin": 178.4177,
+                    "Tag": 197,
+                    "ActionTag": 1502953390,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 80.0
+                    },
+                    "Name": "qiez",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "fruit/img/xihongshi.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 80,
+                    "Scale9Height": 80,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 710.4312,
+                      "Y": 283.0444
+                    },
+                    "Scale": {
+                      "ScaleX": 0.8,
+                      "ScaleY": 0.8
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.888,
+                      "Y": 0.5959
+                    },
+                    "PreSize": {
+                      "X": 0.1,
+                      "Y": 0.1684
+                    },
+                    "LeftMargin": 670.4312,
+                    "RightMargin": 49.5688,
+                    "TopMargin": 151.9556,
+                    "BottomMargin": 243.0444,
+                    "Tag": 198,
+                    "ActionTag": -1214635605,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 80.0
+                    },
+                    "Name": "qiez_0",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 32,
+                    "LabelText": "请输入您想说的",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 281.3312,
+                      "Y": 404.4095
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 191,
+                      "G": 191,
+                      "B": 191
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3517,
+                      "Y": 0.8514
+                    },
+                    "PreSize": {
+                      "X": 0.6,
+                      "Y": 0.1053
+                    },
+                    "LeftMargin": 41.3312,
+                    "RightMargin": 278.6688,
+                    "TopMargin": 45.5905,
+                    "BottomMargin": 379.4095,
+                    "Tag": 199,
+                    "ActionTag": -553549278,
+                    "Size": {
+                      "X": 480.0,
+                      "Y": 50.0
+                    },
+                    "Name": "Text_1",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 850706888,
+                "Size": {
+                  "X": 800.0,
+                  "Y": 475.0
+                },
+                "Name": "layer_chat",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 389232741,
+            "Size": {
+              "X": 800.0,
+              "Y": 1280.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 800.0,
+          "Y": 1280.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "fruit/btn/fs.png",
+        "fruit/btn/fs1.png",
+        "fruit/btn/wenben.png",
+        "fruit/btn/wenben1.png",
+        "fruit/img/dasuan.png",
+        "fruit/img/fasong.png",
+        "fruit/img/lajiao.png",
+        "fruit/img/luobo.png",
+        "fruit/img/mogu.png",
+        "fruit/img/qiezi.png",
+        "fruit/img/wandou.png",
+        "fruit/img/xihongshi.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

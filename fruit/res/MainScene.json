@@ -154,8 +154,8 @@
                       "B": 70
                     },
                     "DisabledFileData": {
-                      "Type": "Default",
-                      "Path": "Default/Button_Disable.png",
+                      "Type": "Normal",
+                      "Path": "fruit/btn/lj200.png",
                       "Plist": ""
                     },
                     "PressedFileData": {
@@ -229,8 +229,8 @@
                       "B": 70
                     },
                     "DisabledFileData": {
-                      "Type": "Default",
-                      "Path": "Default/Button_Disable.png",
+                      "Type": "Normal",
+                      "Path": "fruit/btn/fq100.png",
                       "Plist": ""
                     },
                     "PressedFileData": {
@@ -304,8 +304,8 @@
                       "B": 70
                     },
                     "DisabledFileData": {
-                      "Type": "Default",
-                      "Path": "Default/Button_Disable.png",
+                      "Type": "Normal",
+                      "Path": "fruit/btn/qz77.png",
                       "Plist": ""
                     },
                     "PressedFileData": {
@@ -379,8 +379,8 @@
                       "B": 70
                     },
                     "DisabledFileData": {
-                      "Type": "Default",
-                      "Path": "Default/Button_Disable.png",
+                      "Type": "Normal",
+                      "Path": "fruit/btn/wd66.png",
                       "Plist": ""
                     },
                     "PressedFileData": {
@@ -454,8 +454,8 @@
                       "B": 70
                     },
                     "DisabledFileData": {
-                      "Type": "Default",
-                      "Path": "Default/Button_Disable.png",
+                      "Type": "Normal",
+                      "Path": "fruit/btn/mg55.png",
                       "Plist": ""
                     },
                     "PressedFileData": {
@@ -529,8 +529,8 @@
                       "B": 70
                     },
                     "DisabledFileData": {
-                      "Type": "Default",
-                      "Path": "Default/Button_Disable.png",
+                      "Type": "Normal",
+                      "Path": "fruit/btn/ds44.png",
                       "Plist": ""
                     },
                     "PressedFileData": {
@@ -604,8 +604,8 @@
                       "B": 70
                     },
                     "DisabledFileData": {
-                      "Type": "Default",
-                      "Path": "Default/Button_Disable.png",
+                      "Type": "Normal",
+                      "Path": "fruit/btn/lb33.png",
                       "Plist": ""
                     },
                     "PressedFileData": {
@@ -5652,281 +5652,6 @@
             "ctype": "PanelObjectData"
           },
           {
-            "BackColorAlpha": 102,
-            "FileData": {
-              "Type": "Normal",
-              "Path": "fruit/dfs_liaotianbg.png",
-              "Plist": ""
-            },
-            "ComboBoxIndex": 1,
-            "SingleColor": {
-              "R": 150,
-              "G": 200
-            },
-            "FirstColor": {
-              "R": 150,
-              "G": 200
-            },
-            "EndColor": {},
-            "ColorVector": {
-              "ScaleY": 1.0
-            },
-            "Scale9Width": 359,
-            "Scale9Height": 797,
-            "TouchEnable": true,
-            "AnchorPoint": {},
-            "Position": {
-              "X": -460.5096,
-              "Y": 0.6371
-            },
-            "Scale": {
-              "ScaleX": 1.0,
-              "ScaleY": 1.0
-            },
-            "CColor": {},
-            "IconVisible": false,
-            "PrePosition": {
-              "X": -0.5756,
-              "Y": 0.0005
-            },
-            "PreSize": {
-              "X": 0.4487,
-              "Y": 0.6227
-            },
-            "LeftMargin": -460.5096,
-            "RightMargin": 901.5096,
-            "TopMargin": 482.3629,
-            "BottomMargin": 0.6371,
-            "Tag": 85,
-            "Children": [
-              {
-                "FontSize": 20,
-                "ButtonText": "",
-                "TextColor": {},
-                "Scale9Enable": true,
-                "Scale9OriginX": -15,
-                "Scale9OriginY": -11,
-                "Scale9Width": 30,
-                "Scale9Height": 22,
-                "OutlineColor": {
-                  "G": 0,
-                  "B": 0
-                },
-                "ShadowColor": {
-                  "R": 110,
-                  "G": 110,
-                  "B": 110
-                },
-                "ShadowOffsetX": 2.0,
-                "ShadowOffsetY": -2.0,
-                "TouchEnable": true,
-                "AnchorPoint": {
-                  "ScaleX": 0.4654,
-                  "ScaleY": 0.5
-                },
-                "Position": {
-                  "X": 83.0393,
-                  "Y": 42.4605
-                },
-                "Scale": {
-                  "ScaleX": 1.0,
-                  "ScaleY": 1.0
-                },
-                "CColor": {},
-                "IconVisible": false,
-                "PrePosition": {
-                  "X": 0.2313,
-                  "Y": 0.0533
-                },
-                "PreSize": {
-                  "X": 0.376,
-                  "Y": 0.0753
-                },
-                "LeftMargin": 20.2103,
-                "RightMargin": 203.7897,
-                "TopMargin": 724.5395,
-                "BottomMargin": 12.4605,
-                "Tag": 86,
-                "Children": [
-                  {
-                    "FontSize": 30,
-                    "LabelText": "聊天",
-                    "OutlineColor": {
-                      "G": 0,
-                      "B": 0
-                    },
-                    "ShadowColor": {
-                      "R": 110,
-                      "G": 110,
-                      "B": 110
-                    },
-                    "ShadowOffsetX": 2.0,
-                    "ShadowOffsetY": -2.0,
-                    "AnchorPoint": {
-                      "ScaleX": 0.5,
-                      "ScaleY": 0.5
-                    },
-                    "Position": {
-                      "X": 53.094,
-                      "Y": 32.665
-                    },
-                    "Scale": {
-                      "ScaleX": 1.0,
-                      "ScaleY": 1.0
-                    },
-                    "CColor": {},
-                    "IconVisible": false,
-                    "PrePosition": {
-                      "X": 0.3933,
-                      "Y": 0.5444
-                    },
-                    "PreSize": {
-                      "X": 0.4444,
-                      "Y": 0.5
-                    },
-                    "LeftMargin": 23.094,
-                    "RightMargin": 51.906,
-                    "TopMargin": 12.335,
-                    "BottomMargin": 17.665,
-                    "Tag": 88,
-                    "ActionTag": 1263642767,
-                    "Size": {
-                      "X": 60.0,
-                      "Y": 30.0
-                    },
-                    "Name": "Text_1",
-                    "ctype": "TextObjectData"
-                  }
-                ],
-                "ActionTag": -658667057,
-                "Size": {
-                  "X": 135.0,
-                  "Y": 60.0
-                },
-                "Name": "btn_chat",
-                "ctype": "ButtonObjectData"
-              },
-              {
-                "FontSize": 14,
-                "ButtonText": "",
-                "TextColor": {
-                  "R": 65,
-                  "G": 65,
-                  "B": 70
-                },
-                "Scale9Enable": true,
-                "Scale9OriginX": -15,
-                "Scale9OriginY": -11,
-                "Scale9Width": 30,
-                "Scale9Height": 22,
-                "OutlineColor": {
-                  "G": 0,
-                  "B": 0
-                },
-                "ShadowColor": {
-                  "R": 110,
-                  "G": 110,
-                  "B": 110
-                },
-                "ShadowOffsetX": 2.0,
-                "ShadowOffsetY": -2.0,
-                "TouchEnable": true,
-                "AnchorPoint": {
-                  "ScaleX": 0.5,
-                  "ScaleY": 0.5
-                },
-                "Position": {
-                  "X": 276.7077,
-                  "Y": 42.3346
-                },
-                "Scale": {
-                  "ScaleX": 1.0,
-                  "ScaleY": 1.0
-                },
-                "CColor": {},
-                "IconVisible": false,
-                "PrePosition": {
-                  "X": 0.7708,
-                  "Y": 0.0531
-                },
-                "PreSize": {
-                  "X": 0.376,
-                  "Y": 0.0753
-                },
-                "LeftMargin": 209.2077,
-                "RightMargin": 14.7923,
-                "TopMargin": 724.6654,
-                "BottomMargin": 12.3346,
-                "Tag": 87,
-                "Children": [
-                  {
-                    "FontSize": 30,
-                    "LabelText": "礼花",
-                    "OutlineColor": {
-                      "G": 0,
-                      "B": 0
-                    },
-                    "ShadowColor": {
-                      "R": 110,
-                      "G": 110,
-                      "B": 110
-                    },
-                    "ShadowOffsetX": 2.0,
-                    "ShadowOffsetY": -2.0,
-                    "AnchorPoint": {
-                      "ScaleX": 0.5,
-                      "ScaleY": 0.5
-                    },
-                    "Position": {
-                      "X": 55.6492,
-                      "Y": 32.903
-                    },
-                    "Scale": {
-                      "ScaleX": 1.0,
-                      "ScaleY": 1.0
-                    },
-                    "CColor": {},
-                    "IconVisible": false,
-                    "PrePosition": {
-                      "X": 0.4122,
-                      "Y": 0.5484
-                    },
-                    "PreSize": {
-                      "X": 0.4444,
-                      "Y": 0.5
-                    },
-                    "LeftMargin": 25.6492,
-                    "RightMargin": 49.3508,
-                    "TopMargin": 12.097,
-                    "BottomMargin": 17.903,
-                    "Tag": 89,
-                    "ActionTag": 1229689860,
-                    "Size": {
-                      "X": 60.0,
-                      "Y": 30.0
-                    },
-                    "Name": "Text_1_0",
-                    "ctype": "TextObjectData"
-                  }
-                ],
-                "ActionTag": 1149059940,
-                "Size": {
-                  "X": 135.0,
-                  "Y": 60.0
-                },
-                "Name": "btn_flower",
-                "ctype": "ButtonObjectData"
-              }
-            ],
-            "ActionTag": -1673502478,
-            "Size": {
-              "X": 359.0,
-              "Y": 797.0
-            },
-            "Name": "Panel_7",
-            "ctype": "PanelObjectData"
-          },
-          {
             "BackColorAlpha": 0,
             "ComboBoxIndex": 1,
             "SingleColor": {
@@ -6084,7 +5809,7 @@
                   "X": 47.0,
                   "Y": 148.0
                 },
-                "Name": "Button_1",
+                "Name": "btn_chat",
                 "ctype": "ButtonObjectData"
               },
               {
@@ -6159,7 +5884,7 @@
                   "X": 45.0,
                   "Y": 148.0
                 },
-                "Name": "Button_1_0",
+                "Name": "btn_flower",
                 "ctype": "ButtonObjectData"
               },
               {
@@ -6277,7 +6002,7 @@
                   "X": 88.0,
                   "Y": 91.0
                 },
-                "Name": "Button_4",
+                "Name": "btn_menu",
                 "ctype": "ButtonObjectData"
               },
               {
@@ -6352,7 +6077,7 @@
                   "X": 88.0,
                   "Y": 93.0
                 },
-                "Name": "Button_5",
+                "Name": "btn_openlist",
                 "ctype": "ButtonObjectData"
               },
               {
@@ -6550,7 +6275,7 @@
           {
             "FileData": {
               "Type": "Normal",
-              "Path": "fruit/drop_coin.plist",
+              "Path": "fruit/ani/drop_coin.plist",
               "Plist": ""
             },
             "BlendFunc": {
@@ -6559,8 +6284,8 @@
             },
             "AnchorPoint": {},
             "Position": {
-              "X": 391.2012,
-              "Y": 1239.7515
+              "X": 403.3737,
+              "Y": 1234.8079
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -6569,17 +6294,17 @@
             "CColor": {},
             "IconVisible": true,
             "PrePosition": {
-              "X": 0.489,
-              "Y": 0.9686
+              "X": 0.5042,
+              "Y": 0.9647
             },
             "PreSize": {
               "X": 0.0,
               "Y": 0.0
             },
-            "LeftMargin": 391.2012,
-            "RightMargin": 408.7988,
-            "TopMargin": 40.2485,
-            "BottomMargin": 1239.7515,
+            "LeftMargin": 403.3737,
+            "RightMargin": 396.6263,
+            "TopMargin": 45.1921,
+            "BottomMargin": 1234.8079,
             "Tag": 133,
             "ActionTag": -1204649185,
             "Size": {
@@ -6588,6 +6313,288 @@
             },
             "Name": "particle_win",
             "ctype": "ParticleObjectData"
+          },
+          {
+            "BackColorAlpha": 0,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "fruit/img/caidan.png",
+              "Plist": ""
+            },
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 284,
+            "Scale9Height": 402,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -305.1625,
+              "Y": 767.0706
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.3815,
+              "Y": 0.5993
+            },
+            "PreSize": {
+              "X": 0.375,
+              "Y": 0.3125
+            },
+            "LeftMargin": -305.1625,
+            "RightMargin": 805.1625,
+            "TopMargin": 112.9294,
+            "BottomMargin": 767.0706,
+            "Tag": 183,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "fruit/btn/wfsm1.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "fruit/btn/zjjl1.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "fruit/btn/zjjl.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 192,
+                "Scale9Height": 65,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 151.8593,
+                  "Y": 291.0676
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5062,
+                  "Y": 0.7277
+                },
+                "PreSize": {
+                  "X": 0.74,
+                  "Y": 0.2175
+                },
+                "LeftMargin": 40.8593,
+                "RightMargin": 37.1407,
+                "TopMargin": 65.4324,
+                "BottomMargin": 247.5676,
+                "Tag": 184,
+                "ActionTag": -1651933517,
+                "Size": {
+                  "X": 222.0,
+                  "Y": 87.0
+                },
+                "Name": "Button_2",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "fruit/btn/wfsm1.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Press.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "fruit/btn/wfsm.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 191,
+                "Scale9Height": 65,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 151.7349,
+                  "Y": 187.4163
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5058,
+                  "Y": 0.4685
+                },
+                "PreSize": {
+                  "X": 0.7367,
+                  "Y": 0.2175
+                },
+                "LeftMargin": 41.2349,
+                "RightMargin": 37.7651,
+                "TopMargin": 169.0837,
+                "BottomMargin": 143.9163,
+                "Tag": 185,
+                "ActionTag": -114305479,
+                "Size": {
+                  "X": 221.0,
+                  "Y": 87.0
+                },
+                "Name": "btn_help",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Normal",
+                  "Path": "fruit/btn/wfsm1.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "fruit/btn/more1.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "fruit/btn/more.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 189,
+                "Scale9Height": 64,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 151.6094,
+                  "Y": 91.3571
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5054,
+                  "Y": 0.2284
+                },
+                "PreSize": {
+                  "X": 0.73,
+                  "Y": 0.215
+                },
+                "LeftMargin": 42.1094,
+                "RightMargin": 38.8906,
+                "TopMargin": 265.6429,
+                "BottomMargin": 48.3571,
+                "Tag": 186,
+                "ActionTag": 1246849344,
+                "Size": {
+                  "X": 219.0,
+                  "Y": 86.0
+                },
+                "Name": "btn_more",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1295922164,
+            "Size": {
+              "X": 300.0,
+              "Y": 400.0
+            },
+            "Name": "Panel_9",
+            "ctype": "PanelObjectData"
           }
         ],
         "Size": {
@@ -6599,7 +6606,10 @@
       },
       "UsedResources": [
         "Default/Button_Disable.png",
+        "Default/Button_Press.png",
         "Default/CheckBox_Disable.png",
+        "fruit/ani/drop_coin.plist",
+        "fruit/ani/drop_coin.png",
         "fruit/btn/btn0.png",
         "fruit/btn/btn1.png",
         "fruit/btn/btn2.png",
@@ -6621,17 +6631,22 @@
         "fruit/btn/menu1.png",
         "fruit/btn/mg5.png",
         "fruit/btn/mg55.png",
+        "fruit/btn/more.png",
+        "fruit/btn/more1.png",
         "fruit/btn/qz7.png",
         "fruit/btn/qz77.png",
         "fruit/btn/toux.png",
         "fruit/btn/wd6.png",
         "fruit/btn/wd66.png",
+        "fruit/btn/wfsm.png",
+        "fruit/btn/wfsm1.png",
         "fruit/btn/yijia1.png",
         "fruit/btn/yingjia.png",
+        "fruit/btn/zjjl.png",
+        "fruit/btn/zjjl1.png",
         "fruit/dfs_b_kuangzi.png",
         "fruit/dfs_b_touixang.png",
-        "fruit/dfs_liaotianbg.png",
-        "fruit/drop_coin.plist",
+        "fruit/img/caidan.png",
         "fruit/img/dasuan.png",
         "fruit/img/dfs_k_deng1.png",
         "fruit/img/dfs_k_deng2.png",
@@ -6668,8 +6683,7 @@
         "fruit/num/jiangci.png",
         "fruit/num/shijian.png",
         "fruit/num/shijian1.png",
-        "fruit/num/shuzi.png",
-        "fruit/particle-coin.png"
+        "fruit/num/shuzi.png"
       ],
       "ctype": "GameFileData"
     }

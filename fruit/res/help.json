@@ -1,0 +1,265 @@
+{
+  "ID": "6d48788e-4992-414e-bcd5-8ee7c9365e4c",
+  "Version": "2.3.3.0",
+  "Name": "help",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 134,
+        "Children": [
+          {
+            "BackColorAlpha": 103,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.88,
+              "Y": 0.512
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0011,
+              "Y": 0.0004
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 0.88,
+            "RightMargin": -0.88,
+            "TopMargin": -0.512,
+            "BottomMargin": 0.512,
+            "Tag": 135,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "fruit/img/tankuang.png",
+                  "Plist": ""
+                },
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 751,
+                "Scale9Height": 515,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 298.6561,
+                  "Y": 553.2385
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3733,
+                  "Y": 0.4322
+                },
+                "PreSize": {
+                  "X": 0.25,
+                  "Y": 0.1563
+                },
+                "LeftMargin": 298.6561,
+                "RightMargin": 301.3439,
+                "TopMargin": 526.7615,
+                "BottomMargin": 553.2385,
+                "Tag": 136,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "fruit/img/shuom.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 355,
+                    "Scale9Height": 133,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 106.6423,
+                      "Y": 349.7901
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5332,
+                      "Y": 1.749
+                    },
+                    "PreSize": {
+                      "X": 1.775,
+                      "Y": 0.665
+                    },
+                    "LeftMargin": -70.8577,
+                    "RightMargin": -84.1423,
+                    "TopMargin": -216.2901,
+                    "BottomMargin": 283.2901,
+                    "Tag": 156,
+                    "ActionTag": 1687308431,
+                    "Size": {
+                      "X": 355.0,
+                      "Y": 133.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  }
+                ],
+                "ActionTag": 850706888,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 200.0
+                },
+                "Name": "Panel_2",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "fruit/btn/close1.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "fruit/btn/close.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 34,
+                "Scale9Height": 43,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 757.4724,
+                  "Y": 873.8054
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9468,
+                  "Y": 0.6827
+                },
+                "PreSize": {
+                  "X": 0.08,
+                  "Y": 0.0508
+                },
+                "LeftMargin": 725.4724,
+                "RightMargin": 10.5276,
+                "TopMargin": 373.6946,
+                "BottomMargin": 841.3054,
+                "Tag": 137,
+                "ActionTag": 1873261913,
+                "Size": {
+                  "X": 64.0,
+                  "Y": 65.0
+                },
+                "Name": "Button_1",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 389232741,
+            "Size": {
+              "X": 800.0,
+              "Y": 1280.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 800.0,
+          "Y": 1280.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "fruit/btn/close.png",
+        "fruit/btn/close1.png",
+        "fruit/img/shuom.png",
+        "fruit/img/tankuang.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
