@@ -35,8 +35,8 @@
             "TouchEnable": true,
             "AnchorPoint": {},
             "Position": {
-              "X": 0.88,
-              "Y": 0.512
+              "X": -1.6,
+              "Y": 1.664
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -45,8 +45,8 @@
             "CColor": {},
             "IconVisible": false,
             "PrePosition": {
-              "X": 0.0011,
-              "Y": 0.0004
+              "X": -0.002,
+              "Y": 0.0013
             },
             "PreSize": {
               "X": 1.0,
@@ -54,10 +54,10 @@
             },
             "HorizontalEdge": "BothEdge",
             "VerticalEdge": "BothEdge",
-            "LeftMargin": 0.88,
-            "RightMargin": -0.88,
-            "TopMargin": -0.512,
-            "BottomMargin": 0.512,
+            "LeftMargin": -1.6,
+            "RightMargin": 1.6,
+            "TopMargin": -1.6639,
+            "BottomMargin": 1.664,
             "Tag": 135,
             "Children": [
               {
@@ -66,7 +66,6 @@
                   "Path": "fruit/img/kaijiang.png",
                   "Plist": ""
                 },
-                "ComboBoxIndex": 1,
                 "SingleColor": {
                   "R": 150,
                   "G": 200
@@ -84,8 +83,8 @@
                 "TouchEnable": true,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": 298.6561,
-                  "Y": 553.2385
+                  "X": 26.5215,
+                  "Y": 371.2796
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -94,186 +93,384 @@
                 "CColor": {},
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.3733,
-                  "Y": 0.4322
+                  "X": 0.0332,
+                  "Y": 0.2901
                 },
                 "PreSize": {
-                  "X": 0.25,
-                  "Y": 0.1563
+                  "X": 0.9375,
+                  "Y": 0.4273
                 },
-                "LeftMargin": 298.6561,
-                "RightMargin": 301.3439,
-                "TopMargin": 526.7615,
-                "BottomMargin": 553.2385,
+                "LeftMargin": 26.5215,
+                "RightMargin": 23.4785,
+                "TopMargin": 361.7204,
+                "BottomMargin": 371.2796,
                 "Tag": 136,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "fruit/btn/close1.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "fruit/btn/close.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 34,
+                    "Scale9Height": 43,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.6302,
+                      "ScaleY": 0.5312
+                    },
+                    "Position": {
+                      "X": 744.3436,
+                      "Y": 478.6656
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9925,
+                      "Y": 0.8751
+                    },
+                    "PreSize": {
+                      "X": 0.0853,
+                      "Y": 0.1188
+                    },
+                    "LeftMargin": 704.0078,
+                    "RightMargin": -18.0078,
+                    "TopMargin": 37.8613,
+                    "BottomMargin": 444.1387,
+                    "Tag": 137,
+                    "ActionTag": 1873261913,
+                    "Size": {
+                      "X": 64.0,
+                      "Y": 65.0
+                    },
+                    "Name": "btn_close",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "fruit/img/dfs_k_kuang.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 111,
+                    "Scale9Height": 111,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 182.3704,
+                      "Y": 398.4365
+                    },
+                    "Scale": {
+                      "ScaleX": 0.87,
+                      "ScaleY": 0.87
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.2432,
+                      "Y": 0.7284
+                    },
+                    "PreSize": {
+                      "X": 0.148,
+                      "Y": 0.2029
+                    },
+                    "LeftMargin": 126.8704,
+                    "RightMargin": 512.1296,
+                    "TopMargin": 93.0635,
+                    "BottomMargin": 342.9365,
+                    "Tag": 150,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "fruit/img/xihongshi.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 80,
+                        "Scale9Height": 80,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 57.6863,
+                          "Y": 51.6681
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5197,
+                          "Y": 0.4655
+                        },
+                        "PreSize": {
+                          "X": 0.7207,
+                          "Y": 0.7207
+                        },
+                        "LeftMargin": 17.6863,
+                        "RightMargin": 13.3137,
+                        "TopMargin": 19.3319,
+                        "BottomMargin": 11.6681,
+                        "Tag": 151,
+                        "ActionTag": -35813853,
+                        "Size": {
+                          "X": 80.0,
+                          "Y": 80.0
+                        },
+                        "Name": "fruit1",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -2015705794,
+                    "Size": {
+                      "X": 111.0,
+                      "Y": 111.0
+                    },
+                    "Name": "frame1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "fruit/img/dfs_k_kuang.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 111,
+                    "Scale9Height": 111,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 271.2805,
+                      "Y": 397.6921
+                    },
+                    "Scale": {
+                      "ScaleX": 0.87,
+                      "ScaleY": 0.87
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3617,
+                      "Y": 0.727
+                    },
+                    "PreSize": {
+                      "X": 0.148,
+                      "Y": 0.2029
+                    },
+                    "LeftMargin": 215.7805,
+                    "RightMargin": 423.2195,
+                    "TopMargin": 93.8079,
+                    "BottomMargin": 342.1921,
+                    "Tag": 56,
+                    "Children": [
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "fruit/img/xihongshi.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 80,
+                        "Scale9Height": 80,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 56.5294,
+                          "Y": 52.8246
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5093,
+                          "Y": 0.4759
+                        },
+                        "PreSize": {
+                          "X": 0.7207,
+                          "Y": 0.7207
+                        },
+                        "LeftMargin": 16.5294,
+                        "RightMargin": 14.4706,
+                        "TopMargin": 18.1754,
+                        "BottomMargin": 12.8246,
+                        "Tag": 57,
+                        "ActionTag": 1643503404,
+                        "Size": {
+                          "X": 80.0,
+                          "Y": 80.0
+                        },
+                        "Name": "fruit2",
+                        "ctype": "ImageViewObjectData"
+                      }
+                    ],
+                    "ActionTag": -1396971186,
+                    "Size": {
+                      "X": 111.0,
+                      "Y": 111.0
+                    },
+                    "Name": "frame2",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "很遗憾,本期未中奖",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.4946,
+                      "ScaleY": 0.472
+                    },
+                    "Position": {
+                      "X": 575.7678,
+                      "Y": 416.8351
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7677,
+                      "Y": 0.762
+                    },
+                    "PreSize": {
+                      "X": 0.4,
+                      "Y": 0.0548
+                    },
+                    "LeftMargin": 427.3867,
+                    "RightMargin": 22.6133,
+                    "TopMargin": 114.3237,
+                    "BottomMargin": 402.6763,
+                    "Tag": 58,
+                    "ActionTag": -507799393,
+                    "Size": {
+                      "X": 300.0,
+                      "Y": 30.0
+                    },
+                    "Name": "Text_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 25,
+                    "LabelText": "有胆才有量，请再接再厉喲",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.4946,
+                      "ScaleY": 0.472
+                    },
+                    "Position": {
+                      "X": 571.3474,
+                      "Y": 379.5126
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.7618,
+                      "Y": 0.6938
+                    },
+                    "PreSize": {
+                      "X": 0.4,
+                      "Y": 0.0548
+                    },
+                    "LeftMargin": 422.9662,
+                    "RightMargin": 27.0338,
+                    "TopMargin": 151.6463,
+                    "BottomMargin": 365.3537,
+                    "Tag": 59,
+                    "ActionTag": 1338255157,
+                    "Size": {
+                      "X": 300.0,
+                      "Y": 30.0
+                    },
+                    "Name": "Text_1_0",
+                    "ctype": "TextObjectData"
+                  }
+                ],
                 "ActionTag": 850706888,
                 "Size": {
-                  "X": 200.0,
-                  "Y": 200.0
+                  "X": 750.0,
+                  "Y": 547.0
                 },
                 "Name": "Panel_2",
                 "ctype": "PanelObjectData"
-              },
-              {
-                "FontSize": 14,
-                "ButtonText": "",
-                "TextColor": {
-                  "R": 65,
-                  "G": 65,
-                  "B": 70
-                },
-                "DisabledFileData": {
-                  "Type": "Default",
-                  "Path": "Default/Button_Disable.png",
-                  "Plist": ""
-                },
-                "PressedFileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/btn/close1.png",
-                  "Plist": ""
-                },
-                "NormalFileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/btn/close.png",
-                  "Plist": ""
-                },
-                "Scale9Enable": true,
-                "Scale9OriginX": 15,
-                "Scale9OriginY": 11,
-                "Scale9Width": 34,
-                "Scale9Height": 43,
-                "OutlineColor": {
-                  "G": 0,
-                  "B": 0
-                },
-                "ShadowColor": {
-                  "R": 110,
-                  "G": 110,
-                  "B": 110
-                },
-                "ShadowOffsetX": 2.0,
-                "ShadowOffsetY": -2.0,
-                "TouchEnable": true,
-                "AnchorPoint": {
-                  "ScaleX": 0.5,
-                  "ScaleY": 0.5
-                },
-                "Position": {
-                  "X": 762.8708,
-                  "Y": 850.344
-                },
-                "Scale": {
-                  "ScaleX": 1.0,
-                  "ScaleY": 1.0
-                },
-                "CColor": {},
-                "IconVisible": false,
-                "PrePosition": {
-                  "X": 0.9536,
-                  "Y": 0.6643
-                },
-                "PreSize": {
-                  "X": 0.08,
-                  "Y": 0.0508
-                },
-                "LeftMargin": 730.8708,
-                "RightMargin": 5.1292,
-                "TopMargin": 397.156,
-                "BottomMargin": 817.844,
-                "Tag": 137,
-                "ActionTag": 1873261913,
-                "Size": {
-                  "X": 64.0,
-                  "Y": 65.0
-                },
-                "Name": "Button_1",
-                "ctype": "ButtonObjectData"
-              },
-              {
-                "FileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/img/dfs_k_kuang.png",
-                  "Plist": ""
-                },
-                "Scale9Width": 111,
-                "Scale9Height": 111,
-                "AnchorPoint": {
-                  "ScaleX": 0.5,
-                  "ScaleY": 0.5
-                },
-                "Position": {
-                  "X": 215.383,
-                  "Y": 777.051
-                },
-                "Scale": {
-                  "ScaleX": 0.87,
-                  "ScaleY": 0.87
-                },
-                "CColor": {},
-                "IconVisible": false,
-                "PrePosition": {
-                  "X": 0.2692,
-                  "Y": 0.6071
-                },
-                "PreSize": {
-                  "X": 0.1388,
-                  "Y": 0.0867
-                },
-                "LeftMargin": 159.883,
-                "RightMargin": 529.117,
-                "TopMargin": 447.449,
-                "BottomMargin": 721.551,
-                "Tag": 150,
-                "ActionTag": -2015705794,
-                "Size": {
-                  "X": 111.0,
-                  "Y": 111.0
-                },
-                "Name": "Image_1",
-                "ctype": "ImageViewObjectData"
-              },
-              {
-                "FileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/img/xihongshi.png",
-                  "Plist": ""
-                },
-                "Scale9Width": 80,
-                "Scale9Height": 80,
-                "AnchorPoint": {
-                  "ScaleX": 0.5,
-                  "ScaleY": 0.5
-                },
-                "Position": {
-                  "X": 217.5514,
-                  "Y": 782.7545
-                },
-                "Scale": {
-                  "ScaleX": 1.0,
-                  "ScaleY": 1.0
-                },
-                "CColor": {},
-                "IconVisible": false,
-                "PrePosition": {
-                  "X": 0.2719,
-                  "Y": 0.6115
-                },
-                "PreSize": {
-                  "X": 0.1,
-                  "Y": 0.0625
-                },
-                "LeftMargin": 177.5514,
-                "RightMargin": 542.4486,
-                "TopMargin": 457.2455,
-                "BottomMargin": 742.7545,
-                "Tag": 151,
-                "ActionTag": -35813853,
-                "Size": {
-                  "X": 80.0,
-                  "Y": 80.0
-                },
-                "Name": "Image_2",
-                "ctype": "ImageViewObjectData"
               }
             ],
             "ActionTag": 389232741,

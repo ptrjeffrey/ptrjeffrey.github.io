@@ -262,6 +262,7 @@
                 <file name="src/resource.js"/>
                 <file name="src/flowerlayer.js"/>
                 <file name="src/chatlayer.js"/>
+                <file name="src/openlayer.js"/>
                 <file name="src/app.js"/>
                 <file name="main.js"/>
 
