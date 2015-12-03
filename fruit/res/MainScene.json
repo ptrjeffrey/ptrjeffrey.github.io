@@ -746,7 +746,6 @@
                     "ctype": "ButtonObjectData"
                   },
                   {
-                    "CheckedState": true,
                     "NormalBackFileData": {
                       "Type": "Normal",
                       "Path": "fruit/btn/btn3.png",
@@ -851,7 +850,6 @@
                     "ctype": "CheckBoxObjectData"
                   },
                   {
-                    "CheckedState": true,
                     "NormalBackFileData": {
                       "Type": "Normal",
                       "Path": "fruit/btn/btn3.png",
@@ -5234,7 +5232,7 @@
             },
             "PreSize": {
               "X": 0.25,
-              "Y": 0.1562
+              "Y": 0.1563
             },
             "LeftMargin": 313.3334,
             "RightMargin": 286.6666,

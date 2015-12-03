@@ -167,11 +167,13 @@
                     "ColorVector": {
                       "ScaleY": 1.0
                     },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
                     "TouchEnable": true,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 25.5489,
-                      "Y": 35.2562
+                      "X": 25.5488,
+                      "Y": 36.1868
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -181,16 +183,16 @@
                     "IconVisible": false,
                     "PrePosition": {
                       "X": 0.034,
-                      "Y": 0.0685
+                      "Y": 0.0703
                     },
                     "PreSize": {
                       "X": 0.9321,
                       "Y": 0.7767
                     },
-                    "LeftMargin": 25.5489,
-                    "RightMargin": 25.4511,
-                    "TopMargin": 79.7438,
-                    "BottomMargin": 35.2562,
+                    "LeftMargin": 25.5488,
+                    "RightMargin": 25.4512,
+                    "TopMargin": 78.8132,
+                    "BottomMargin": 36.1868,
                     "Tag": 185,
                     "Children": [
                       {
@@ -435,6 +437,151 @@
                         },
                         "Name": "Text_1_0_0_0_0",
                         "ctype": "TextObjectData"
+                      },
+                      {
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 152.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.38
+                        },
+                        "PreSize": {
+                          "X": 0.9943,
+                          "Y": 0.2
+                        },
+                        "RightMargin": 4.0,
+                        "TopMargin": 168.0,
+                        "BottomMargin": 152.0,
+                        "Tag": 73,
+                        "Children": [
+                          {
+                            "FontSize": 24,
+                            "LabelText": "6 系统还会产生话费,   此物品无法购买,当其产生时,所有已下注\n\n的玩家都可获得话费奖励!",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 2.5101,
+                              "Y": 39.1044
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0036,
+                              "Y": 0.4888
+                            },
+                            "PreSize": {
+                              "X": 1.0,
+                              "Y": 0.9
+                            },
+                            "HorizontalEdge": "LeftEdge",
+                            "LeftMargin": 2.5101,
+                            "RightMargin": -2.5101,
+                            "TopMargin": 4.8956,
+                            "BottomMargin": 3.1044,
+                            "Tag": 74,
+                            "Children": [
+                              {
+                                "FileData": {
+                                  "Type": "Normal",
+                                  "Path": "fruit/img/huangfei.png",
+                                  "Plist": ""
+                                },
+                                "BlendFunc": {
+                                  "Src": 770,
+                                  "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                  "ScaleX": 0.4585,
+                                  "ScaleY": 0.531
+                                },
+                                "Position": {
+                                  "X": 245.2803,
+                                  "Y": 56.7876
+                                },
+                                "Scale": {
+                                  "ScaleX": 0.5,
+                                  "ScaleY": 0.5
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                  "X": 0.3524,
+                                  "Y": 0.7887
+                                },
+                                "PreSize": {
+                                  "X": 0.0991,
+                                  "Y": 0.9583
+                                },
+                                "LeftMargin": 213.6465,
+                                "RightMargin": 413.3535,
+                                "TopMargin": -17.1517,
+                                "BottomMargin": 20.1517,
+                                "Tag": 75,
+                                "ActionTag": -1001298765,
+                                "Size": {
+                                  "X": 69.0,
+                                  "Y": 69.0
+                                },
+                                "Name": "huangfei_1",
+                                "ctype": "SpriteObjectData"
+                              }
+                            ],
+                            "ActionTag": -1072582927,
+                            "Size": {
+                              "X": 696.0,
+                              "Y": 72.0
+                            },
+                            "Name": "Text_2",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": 593418112,
+                        "ZOrder": 5,
+                        "Size": {
+                          "X": 696.0,
+                          "Y": 80.0
+                        },
+                        "Name": "Panel_3",
+                        "ctype": "PanelObjectData"
                       }
                     ],
                     "ActionTag": 1969295960,
@@ -507,10 +654,10 @@
                       "X": 0.0852,
                       "Y": 0.1262
                     },
-                    "LeftMargin": 694.1608,
-                    "RightMargin": -7.1608,
-                    "TopMargin": -1.6069,
-                    "BottomMargin": 451.6069,
+                    "LeftMargin": 694.1592,
+                    "RightMargin": -7.1592,
+                    "TopMargin": -1.6048,
+                    "BottomMargin": 451.6048,
                     "Tag": 137,
                     "ActionTag": 1873261913,
                     "Size": {
@@ -550,6 +697,7 @@
         "Default/Button_Disable.png",
         "fruit/btn/close.png",
         "fruit/btn/close1.png",
+        "fruit/img/huangfei.png",
         "fruit/img/shuom.png",
         "fruit/img/tankuang.png"
       ],

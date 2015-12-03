@@ -462,6 +462,302 @@
                     },
                     "Name": "Text_1_0",
                     "ctype": "TextObjectData"
+                  },
+                  {
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 21.396,
+                      "Y": 257.2521
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0285,
+                      "Y": 0.4703
+                    },
+                    "PreSize": {
+                      "X": 0.9467,
+                      "Y": 0.0457
+                    },
+                    "LeftMargin": 21.396,
+                    "RightMargin": 18.604,
+                    "TopMargin": 264.7479,
+                    "BottomMargin": 257.2521,
+                    "Tag": 189,
+                    "Children": [
+                      {
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "PreSize": {
+                          "X": 0.1408,
+                          "Y": 1.0
+                        },
+                        "RightMargin": 610.0,
+                        "Tag": 190,
+                        "ActionTag": 1602168400,
+                        "Size": {
+                          "X": 100.0,
+                          "Y": 25.0
+                        },
+                        "Name": "rank",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 20,
+                        "LabelText": "",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 123.311,
+                          "Y": 12.3289
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1737,
+                          "Y": 0.4932
+                        },
+                        "PreSize": {
+                          "X": 0.2535,
+                          "Y": 0.8
+                        },
+                        "LeftMargin": 123.311,
+                        "RightMargin": 406.689,
+                        "TopMargin": 2.6711,
+                        "BottomMargin": 2.3289,
+                        "Tag": 192,
+                        "ActionTag": -1963317915,
+                        "Size": {
+                          "X": 180.0,
+                          "Y": 20.0
+                        },
+                        "Name": "name",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 360.6141,
+                          "Y": 0.0176
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.5079,
+                          "Y": 0.0007
+                        },
+                        "PreSize": {
+                          "X": 0.2113,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": 360.6141,
+                        "RightMargin": 199.3859,
+                        "TopMargin": -0.0176,
+                        "BottomMargin": 0.0176,
+                        "Tag": 193,
+                        "ActionTag": 1365439622,
+                        "Size": {
+                          "X": 150.0,
+                          "Y": 25.0
+                        },
+                        "Name": "money",
+                        "ctype": "PanelObjectData"
+                      },
+                      {
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 540.1593,
+                          "Y": 0.0175
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.7608,
+                          "Y": 0.0007
+                        },
+                        "PreSize": {
+                          "X": 0.2113,
+                          "Y": 1.0
+                        },
+                        "LeftMargin": 540.1593,
+                        "RightMargin": 19.8407,
+                        "TopMargin": -0.0175,
+                        "BottomMargin": 0.0175,
+                        "Tag": 194,
+                        "ActionTag": 937746129,
+                        "Size": {
+                          "X": 150.0,
+                          "Y": 25.0
+                        },
+                        "Name": "pool",
+                        "ctype": "PanelObjectData"
+                      }
+                    ],
+                    "ActionTag": 1782180759,
+                    "Size": {
+                      "X": 710.0,
+                      "Y": 25.0
+                    },
+                    "Name": "item",
+                    "ctype": "PanelObjectData"
+                  },
+                  {
+                    "ItemMargin": 5,
+                    "DirectionType": "Vertical",
+                    "IsBounceEnabled": true,
+                    "ScrollDirectionType": 0,
+                    "ClipAble": true,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 15.8173,
+                      "Y": 14.3815
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0211,
+                      "Y": 0.0263
+                    },
+                    "PreSize": {
+                      "X": 0.96,
+                      "Y": 0.4113
+                    },
+                    "LeftMargin": 15.8173,
+                    "RightMargin": 14.1827,
+                    "TopMargin": 307.6185,
+                    "BottomMargin": 14.3815,
+                    "Tag": 224,
+                    "ActionTag": -1937510930,
+                    "Size": {
+                      "X": 720.0,
+                      "Y": 225.0
+                    },
+                    "Name": "lv_rank",
+                    "ctype": "ListViewObjectData"
                   }
                 ],
                 "ActionTag": 850706888,

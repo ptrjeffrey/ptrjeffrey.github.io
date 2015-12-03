@@ -66,7 +66,6 @@
                   "Path": "fruit/img/huojiang.png",
                   "Plist": ""
                 },
-                "ComboBoxIndex": 1,
                 "SingleColor": {
                   "R": 150,
                   "G": 200
@@ -84,8 +83,8 @@
                 "TouchEnable": true,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": 298.6561,
-                  "Y": 553.2385
+                  "X": 26.522,
+                  "Y": 310.0893
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -94,100 +93,152 @@
                 "CColor": {},
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.3733,
-                  "Y": 0.4322
+                  "X": 0.0332,
+                  "Y": 0.2423
                 },
                 "PreSize": {
-                  "X": 0.25,
-                  "Y": 0.1563
+                  "X": 0.9375,
+                  "Y": 0.4273
                 },
-                "LeftMargin": 298.6561,
-                "RightMargin": 301.3439,
-                "TopMargin": 526.7615,
-                "BottomMargin": 553.2385,
+                "LeftMargin": 26.522,
+                "RightMargin": 23.478,
+                "TopMargin": 422.9106,
+                "BottomMargin": 310.0893,
                 "Tag": 136,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "fruit/btn/close1.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "fruit/btn/close.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 34,
+                    "Scale9Height": 43,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 729.451,
+                      "Y": 473.4197
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9726,
+                      "Y": 0.8655
+                    },
+                    "PreSize": {
+                      "X": 0.0853,
+                      "Y": 0.1188
+                    },
+                    "LeftMargin": 697.451,
+                    "RightMargin": -11.451,
+                    "TopMargin": 41.0803,
+                    "BottomMargin": 440.9197,
+                    "Tag": 137,
+                    "ActionTag": 1873261913,
+                    "Size": {
+                      "X": 64.0,
+                      "Y": 65.0
+                    },
+                    "Name": "btn_close",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "DirectionType": "Vertical",
+                    "ScrollDirectionType": 0,
+                    "BackColorAlpha": 102,
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 17.7162,
+                      "Y": 14.4926
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0236,
+                      "Y": 0.0265
+                    },
+                    "PreSize": {
+                      "X": 0.9467,
+                      "Y": 0.6399
+                    },
+                    "LeftMargin": 17.7162,
+                    "RightMargin": 22.2838,
+                    "TopMargin": 182.5074,
+                    "BottomMargin": 14.4926,
+                    "Tag": 160,
+                    "ActionTag": 1842678282,
+                    "Size": {
+                      "X": 710.0,
+                      "Y": 350.0
+                    },
+                    "Name": "lv_rank",
+                    "ctype": "ListViewObjectData"
+                  }
+                ],
                 "ActionTag": 850706888,
                 "Size": {
-                  "X": 200.0,
-                  "Y": 200.0
+                  "X": 750.0,
+                  "Y": 547.0
                 },
                 "Name": "Panel_2",
                 "ctype": "PanelObjectData"
-              },
-              {
-                "FontSize": 14,
-                "ButtonText": "",
-                "TextColor": {
-                  "R": 65,
-                  "G": 65,
-                  "B": 70
-                },
-                "DisabledFileData": {
-                  "Type": "Default",
-                  "Path": "Default/Button_Disable.png",
-                  "Plist": ""
-                },
-                "PressedFileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/btn/close1.png",
-                  "Plist": ""
-                },
-                "NormalFileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/btn/close.png",
-                  "Plist": ""
-                },
-                "Scale9Enable": true,
-                "Scale9OriginX": 15,
-                "Scale9OriginY": 11,
-                "Scale9Width": 34,
-                "Scale9Height": 43,
-                "OutlineColor": {
-                  "G": 0,
-                  "B": 0
-                },
-                "ShadowColor": {
-                  "R": 110,
-                  "G": 110,
-                  "B": 110
-                },
-                "ShadowOffsetX": 2.0,
-                "ShadowOffsetY": -2.0,
-                "TouchEnable": true,
-                "AnchorPoint": {
-                  "ScaleX": 0.5,
-                  "ScaleY": 0.5
-                },
-                "Position": {
-                  "X": 762.8708,
-                  "Y": 843.3439
-                },
-                "Scale": {
-                  "ScaleX": 1.0,
-                  "ScaleY": 1.0
-                },
-                "CColor": {},
-                "IconVisible": false,
-                "PrePosition": {
-                  "X": 0.9536,
-                  "Y": 0.6589
-                },
-                "PreSize": {
-                  "X": 0.08,
-                  "Y": 0.0508
-                },
-                "LeftMargin": 730.8708,
-                "RightMargin": 5.1292,
-                "TopMargin": 404.1561,
-                "BottomMargin": 810.8439,
-                "Tag": 137,
-                "ActionTag": 1873261913,
-                "Size": {
-                  "X": 64.0,
-                  "Y": 65.0
-                },
-                "Name": "Button_1",
-                "ctype": "ButtonObjectData"
               }
             ],
             "ActionTag": 389232741,

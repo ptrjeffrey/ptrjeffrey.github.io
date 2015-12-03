@@ -288,8 +288,8 @@
                 "TouchEnable": true,
                 "AnchorPoint": {},
                 "Position": {
-                  "X": 74.1348,
-                  "Y": 177.9722
+                  "X": 74.1354,
+                  "Y": 515.1233
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -299,24 +299,99 @@
                 "IconVisible": false,
                 "PrePosition": {
                   "X": 0.0927,
-                  "Y": 0.139
+                  "Y": 0.4024
                 },
                 "PreSize": {
                   "X": 0.8125,
-                  "Y": 0.8203
+                  "Y": 0.5469
                 },
-                "LeftMargin": 74.1348,
-                "RightMargin": 75.8652,
-                "TopMargin": 52.0278,
-                "BottomMargin": 177.9722,
+                "LeftMargin": 74.1354,
+                "RightMargin": 75.8646,
+                "TopMargin": 64.8767,
+                "BottomMargin": 515.1233,
                 "Tag": 187,
                 "ActionTag": -1389727510,
                 "Size": {
                   "X": 650.0,
-                  "Y": 1050.0
+                  "Y": 700.0
                 },
                 "Name": "lv_chatlist",
                 "ctype": "ListViewObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Normal",
+                  "Path": "fruit/btn/close1.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Normal",
+                  "Path": "fruit/btn/close.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 34,
+                "Scale9Height": 43,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.522,
+                  "ScaleY": 0.5728
+                },
+                "Position": {
+                  "X": 771.6486,
+                  "Y": 1252.8517
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.9646,
+                  "Y": 0.9788
+                },
+                "PreSize": {
+                  "X": 0.08,
+                  "Y": 0.0508
+                },
+                "LeftMargin": 738.2416,
+                "RightMargin": -2.2416,
+                "TopMargin": -0.6191,
+                "BottomMargin": 1215.6191,
+                "Tag": 159,
+                "ActionTag": 1741280857,
+                "Size": {
+                  "X": 64.0,
+                  "Y": 65.0
+                },
+                "Name": "closebtn",
+                "ctype": "ButtonObjectData"
               }
             ],
             "ActionTag": 389232741,
@@ -351,8 +426,8 @@
             "TouchEnable": true,
             "AnchorPoint": {},
             "Position": {
-              "X": 2.195,
-              "Y": -476.2424
+              "X": 3.6902,
+              "Y": 7.3681
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -361,17 +436,17 @@
             "CColor": {},
             "IconVisible": false,
             "PrePosition": {
-              "X": 0.0027,
-              "Y": -0.3721
+              "X": 0.0046,
+              "Y": 0.0058
             },
             "PreSize": {
               "X": 1.0,
               "Y": 0.3711
             },
-            "LeftMargin": 2.195,
-            "RightMargin": -2.195,
-            "TopMargin": 1281.2424,
-            "BottomMargin": -476.2424,
+            "LeftMargin": 3.6902,
+            "RightMargin": -3.6902,
+            "TopMargin": 797.6319,
+            "BottomMargin": 7.3681,
             "Tag": 188,
             "Children": [
               {
@@ -911,7 +986,7 @@
                   },
                   {
                     "FontSize": 32,
-                    "ButtonText": "下盘一定开辣椒",
+                    "ButtonText": "得了这么大的奖放个礼花呗",
                     "TextColor": {
                       "R": 248,
                       "G": 246,
@@ -986,7 +1061,7 @@
                   },
                   {
                     "FontSize": 32,
-                    "ButtonText": "萝卜白菜各有所爱",
+                    "ButtonText": "下盘一定开辣椒",
                     "TextColor": {
                       "R": 248,
                       "G": 246,
@@ -1311,6 +1386,8 @@
       },
       "UsedResources": [
         "Default/Button_Disable.png",
+        "fruit/btn/close.png",
+        "fruit/btn/close1.png",
         "fruit/btn/faya.png",
         "fruit/btn/faya1.png",
         "fruit/btn/fs.png",
