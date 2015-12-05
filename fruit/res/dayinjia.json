@@ -182,8 +182,53 @@
                     "ctype": "ButtonObjectData"
                   },
                   {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "fruit/img/myhistory.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 238,
+                    "Scale9OriginY": 116,
+                    "Scale9Width": 247,
+                    "Scale9Height": 120,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 12.232,
+                      "Y": 23.7325
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0159,
+                      "Y": 0.0416
+                    },
+                    "PreSize": {
+                      "X": 0.9636,
+                      "Y": 0.6491
+                    },
+                    "LeftMargin": 12.232,
+                    "RightMargin": 15.768,
+                    "TopMargin": 176.2675,
+                    "BottomMargin": 23.7325,
+                    "Tag": 81,
+                    "ActionTag": -272672944,
+                    "Size": {
+                      "X": 742.0,
+                      "Y": 370.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
                     "DirectionType": "Vertical",
+                    "IsBounceEnabled": true,
                     "ScrollDirectionType": 0,
+                    "ClipAble": true,
                     "BackColorAlpha": 102,
                     "SingleColor": {
                       "R": 150,
@@ -202,8 +247,8 @@
                     "TouchEnable": true,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 15.4136,
-                      "Y": 26.505
+                      "X": 17.5745,
+                      "Y": 27.4243
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -212,22 +257,22 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.02,
-                      "Y": 0.0465
+                      "X": 0.0228,
+                      "Y": 0.0481
                     },
                     "PreSize": {
                       "X": 0.9545,
-                      "Y": 0.6228
+                      "Y": 0.6404
                     },
-                    "LeftMargin": 15.4136,
-                    "RightMargin": 19.5864,
-                    "TopMargin": 188.495,
-                    "BottomMargin": 26.505,
+                    "LeftMargin": 17.5745,
+                    "RightMargin": 17.4255,
+                    "TopMargin": 177.5757,
+                    "BottomMargin": 27.4243,
                     "Tag": 223,
                     "ActionTag": 789065437,
                     "Size": {
                       "X": 735.0,
-                      "Y": 355.0
+                      "Y": 365.0
                     },
                     "Name": "lv_history",
                     "ctype": "ListViewObjectData"
@@ -270,7 +315,7 @@
                     },
                     "LeftMargin": 180.6799,
                     "RightMargin": 189.3201,
-                    "TopMargin": 306.0771,
+                    "TopMargin": 306.0772,
                     "BottomMargin": 213.9228,
                     "Tag": 198,
                     "ActionTag": -220936384,
@@ -311,7 +356,8 @@
         "Default/Button_Disable.png",
         "fruit/btn/close.png",
         "fruit/btn/close1.png",
-        "fruit/img/dayingjia.png"
+        "fruit/img/dayingjia.png",
+        "fruit/img/myhistory.png"
       ],
       "ctype": "GameFileData"
     }

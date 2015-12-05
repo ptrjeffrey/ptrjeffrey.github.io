@@ -5072,6 +5072,7 @@
                         "ctype": "SpriteObjectData"
                       },
                       {
+                        "ClipAble": true,
                         "BackColorAlpha": 102,
                         "FileData": {
                           "Type": "Normal",
@@ -5090,13 +5091,16 @@
                         "ColorVector": {
                           "ScaleY": 1.0
                         },
-                        "Scale9Width": 232,
-                        "Scale9Height": 75,
+                        "Scale9Enable": true,
+                        "Scale9OriginX": 50,
+                        "Scale9OriginY": 25,
+                        "Scale9Width": 132,
+                        "Scale9Height": 25,
                         "TouchEnable": true,
                         "AnchorPoint": {},
                         "Position": {
-                          "X": 199.1198,
-                          "Y": -50.9859
+                          "X": 155.2373,
+                          "Y": -31.9963
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -5105,22 +5109,22 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.2928,
-                          "Y": -0.1457
+                          "X": 0.2283,
+                          "Y": -0.0914
                         },
                         "PreSize": {
-                          "X": 0.4412,
-                          "Y": 0.3429
+                          "X": 0.5882,
+                          "Y": 0.2286
                         },
-                        "LeftMargin": 199.1198,
-                        "RightMargin": 180.8802,
-                        "TopMargin": 280.9859,
-                        "BottomMargin": -50.9859,
+                        "LeftMargin": 155.2373,
+                        "RightMargin": 124.7627,
+                        "TopMargin": 301.9963,
+                        "BottomMargin": -31.9963,
                         "Tag": 72,
                         "ActionTag": 1423939105,
                         "Size": {
-                          "X": 300.0,
-                          "Y": 120.0
+                          "X": 400.0,
+                          "Y": 80.0
                         },
                         "Name": "pool_frame",
                         "ctype": "PanelObjectData"
@@ -5232,7 +5236,7 @@
             },
             "PreSize": {
               "X": 0.25,
-              "Y": 0.1563
+              "Y": 0.1562
             },
             "LeftMargin": 313.3334,
             "RightMargin": 286.6666,

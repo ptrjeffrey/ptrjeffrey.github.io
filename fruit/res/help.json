@@ -452,6 +452,8 @@
                         "ColorVector": {
                           "ScaleY": 1.0
                         },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
                         "TouchEnable": true,
                         "AnchorPoint": {},
                         "Position": {
@@ -522,7 +524,7 @@
                               {
                                 "FileData": {
                                   "Type": "Normal",
-                                  "Path": "fruit/img/huangfei.png",
+                                  "Path": "fruit/img/huafei.png",
                                   "Plist": ""
                                 },
                                 "BlendFunc": {
@@ -534,8 +536,8 @@
                                   "ScaleY": 0.531
                                 },
                                 "Position": {
-                                  "X": 245.2803,
-                                  "Y": 56.7876
+                                  "X": 244.2803,
+                                  "Y": 58.7878
                                 },
                                 "Scale": {
                                   "ScaleX": 0.5,
@@ -544,22 +546,22 @@
                                 "CColor": {},
                                 "IconVisible": false,
                                 "PrePosition": {
-                                  "X": 0.3524,
-                                  "Y": 0.7887
+                                  "X": 0.351,
+                                  "Y": 0.8165
                                 },
                                 "PreSize": {
                                   "X": 0.0991,
                                   "Y": 0.9583
                                 },
-                                "LeftMargin": 213.6465,
-                                "RightMargin": 413.3535,
-                                "TopMargin": -17.1517,
-                                "BottomMargin": 20.1517,
+                                "LeftMargin": 212.6438,
+                                "RightMargin": 414.3562,
+                                "TopMargin": -19.1488,
+                                "BottomMargin": 22.1488,
                                 "Tag": 75,
                                 "ActionTag": -1001298765,
                                 "Size": {
-                                  "X": 69.0,
-                                  "Y": 69.0
+                                  "X": 67.0,
+                                  "Y": 66.0
                                 },
                                 "Name": "huangfei_1",
                                 "ctype": "SpriteObjectData"
@@ -697,7 +699,7 @@
         "Default/Button_Disable.png",
         "fruit/btn/close.png",
         "fruit/btn/close1.png",
-        "fruit/img/huangfei.png",
+        "fruit/img/huafei.png",
         "fruit/img/shuom.png",
         "fruit/img/tankuang.png"
       ],
