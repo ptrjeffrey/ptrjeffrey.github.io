@@ -1,0 +1,371 @@
+{
+  "ID": "424de591-b16e-4103-be29-af5a0437a3bd",
+  "Version": "2.3.3.0",
+  "Name": "msgbox",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 46,
+        "Children": [
+          {
+            "BackColorAlpha": 113,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 47,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "fruit/img/tankuang.png",
+                  "Plist": ""
+                },
+                "Scale9Width": 751,
+                "Scale9Height": 515,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 398.9757,
+                  "Y": 626.5525
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4987,
+                  "Y": 0.4895
+                },
+                "PreSize": {
+                  "X": 0.9388,
+                  "Y": 0.4023
+                },
+                "LeftMargin": 23.4757,
+                "RightMargin": 25.5243,
+                "TopMargin": 395.9475,
+                "BottomMargin": 369.0525,
+                "Tag": 48,
+                "Children": [
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 35,
+                    "LabelText": "提示",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5026,
+                      "ScaleY": 0.4439
+                    },
+                    "Position": {
+                      "X": 373.4473,
+                      "Y": 417.1467
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4973,
+                      "Y": 0.81
+                    },
+                    "PreSize": {
+                      "X": 0.9321,
+                      "Y": 0.0777
+                    },
+                    "LeftMargin": 21.6259,
+                    "RightMargin": 29.3741,
+                    "TopMargin": 75.6112,
+                    "BottomMargin": 399.3888,
+                    "Tag": 49,
+                    "ActionTag": 300473524,
+                    "Size": {
+                      "X": 700.0,
+                      "Y": 40.0
+                    },
+                    "Name": "txt_title",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 25,
+                    "LabelText": "内容啊",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 379.462,
+                      "Y": 256.5995
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5053,
+                      "Y": 0.4983
+                    },
+                    "PreSize": {
+                      "X": 0.7989,
+                      "Y": 0.4854
+                    },
+                    "LeftMargin": 79.462,
+                    "RightMargin": 71.538,
+                    "TopMargin": 133.4005,
+                    "BottomMargin": 131.5995,
+                    "Tag": 50,
+                    "ActionTag": 1957682514,
+                    "Size": {
+                      "X": 600.0,
+                      "Y": 250.0
+                    },
+                    "Name": "txt_content",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 36,
+                    "ButtonText": "确定",
+                    "TextColor": {},
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "fruit/btn/btn1.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "fruit/btn/btn0.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 121,
+                    "Scale9Height": 90,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 391.9162,
+                      "Y": 69.2848
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5219,
+                      "Y": 0.1345
+                    },
+                    "PreSize": {
+                      "X": 0.2011,
+                      "Y": 0.2175
+                    },
+                    "LeftMargin": 316.4162,
+                    "RightMargin": 283.5838,
+                    "TopMargin": 389.7152,
+                    "BottomMargin": 13.2848,
+                    "Tag": 51,
+                    "ActionTag": -1296338128,
+                    "Size": {
+                      "X": 151.0,
+                      "Y": 112.0
+                    },
+                    "Name": "btn_ok",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 36,
+                    "ButtonText": "取消",
+                    "TextColor": {},
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "fruit/btn/btn1.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "fruit/btn/btn0.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 121,
+                    "Scale9Height": 90,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 86.1179,
+                      "Y": 67.7052
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1147,
+                      "Y": 0.1315
+                    },
+                    "PreSize": {
+                      "X": 0.2011,
+                      "Y": 0.2175
+                    },
+                    "LeftMargin": 10.6179,
+                    "RightMargin": 589.3821,
+                    "TopMargin": 391.2948,
+                    "BottomMargin": 11.7052,
+                    "Tag": 52,
+                    "ActionTag": 1854156550,
+                    "Size": {
+                      "X": 151.0,
+                      "Y": 112.0
+                    },
+                    "Name": "btn_cancel",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 580244629,
+                "Size": {
+                  "X": 751.0,
+                  "Y": 515.0
+                },
+                "Name": "img_bg",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1252615643,
+            "Size": {
+              "X": 800.0,
+              "Y": 1280.0
+            },
+            "Name": "mask",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 800.0,
+          "Y": 1280.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "fruit/btn/btn0.png",
+        "fruit/btn/btn1.png",
+        "fruit/img/tankuang.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

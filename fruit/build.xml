@@ -265,6 +265,7 @@
                 <file name="src/openlayer.js"/>
                 <file name="src/historylayer.js"/>
                 <file name="src/myhistorylayer.js"/>
+                <file name="src/msgbox.js"/>
                 <file name="src/app.js"/>
                 <file name="main.js"/>
 

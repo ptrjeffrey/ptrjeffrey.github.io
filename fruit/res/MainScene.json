@@ -1159,6 +1159,94 @@
                   {
                     "FileData": {
                       "Type": "Normal",
+                      "Path": "fruit/dfs_b_touixang.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 132.0864,
+                      "Y": -44.2593
+                    },
+                    "Scale": {
+                      "ScaleX": 0.9,
+                      "ScaleY": 0.9
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1442,
+                      "Y": -0.1349
+                    },
+                    "PreSize": {
+                      "X": 0.119,
+                      "Y": 0.3354
+                    },
+                    "LeftMargin": 77.5864,
+                    "RightMargin": 729.4136,
+                    "TopMargin": 317.2593,
+                    "BottomMargin": -99.2593,
+                    "Tag": 105,
+                    "ActionTag": -1444806884,
+                    "Size": {
+                      "X": 109.0,
+                      "Y": 110.0
+                    },
+                    "Name": "img_head",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "fruit/btn/chongf.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 97,
+                    "Scale9Height": 31,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 779.1183,
+                      "Y": -46.0782
+                    },
+                    "Scale": {
+                      "ScaleX": 0.95,
+                      "ScaleY": 0.95
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8506,
+                      "Y": -0.1405
+                    },
+                    "PreSize": {
+                      "X": 0.1059,
+                      "Y": 0.0945
+                    },
+                    "LeftMargin": 730.6183,
+                    "RightMargin": 88.3817,
+                    "TopMargin": 358.5782,
+                    "BottomMargin": -61.5782,
+                    "Tag": 130,
+                    "ActionTag": -1573520035,
+                    "Size": {
+                      "X": 97.0,
+                      "Y": 31.0
+                    },
+                    "Name": "Image_6",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
                       "Path": "fruit/dfs_b_kuangzi.png",
                       "Plist": ""
                     },
@@ -1256,137 +1344,6 @@
                     },
                     "Name": "dfs_b_kuangzi_4_0",
                     "ctype": "SpriteObjectData"
-                  },
-                  {
-                    "FileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/dfs_b_touixang.png",
-                      "Plist": ""
-                    },
-                    "BlendFunc": {
-                      "Src": 770,
-                      "Dst": 771
-                    },
-                    "AnchorPoint": {
-                      "ScaleX": 0.5,
-                      "ScaleY": 0.5
-                    },
-                    "Position": {
-                      "X": 132.0864,
-                      "Y": -44.2593
-                    },
-                    "Scale": {
-                      "ScaleX": 0.9,
-                      "ScaleY": 0.9
-                    },
-                    "CColor": {},
-                    "IconVisible": false,
-                    "PrePosition": {
-                      "X": 0.1442,
-                      "Y": -0.1349
-                    },
-                    "PreSize": {
-                      "X": 0.119,
-                      "Y": 0.3354
-                    },
-                    "LeftMargin": 77.5864,
-                    "RightMargin": 729.4136,
-                    "TopMargin": 317.2593,
-                    "BottomMargin": -99.2593,
-                    "Tag": 105,
-                    "ActionTag": -1444806884,
-                    "Size": {
-                      "X": 109.0,
-                      "Y": 110.0
-                    },
-                    "Name": "img_head",
-                    "ctype": "SpriteObjectData"
-                  },
-                  {
-                    "FileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/chongf.png",
-                      "Plist": ""
-                    },
-                    "Scale9Width": 97,
-                    "Scale9Height": 31,
-                    "AnchorPoint": {
-                      "ScaleX": 0.5,
-                      "ScaleY": 0.5
-                    },
-                    "Position": {
-                      "X": 779.1183,
-                      "Y": -46.0782
-                    },
-                    "Scale": {
-                      "ScaleX": 0.95,
-                      "ScaleY": 0.95
-                    },
-                    "CColor": {},
-                    "IconVisible": false,
-                    "PrePosition": {
-                      "X": 0.8506,
-                      "Y": -0.1405
-                    },
-                    "PreSize": {
-                      "X": 0.1059,
-                      "Y": 0.0945
-                    },
-                    "LeftMargin": 730.6183,
-                    "RightMargin": 88.3817,
-                    "TopMargin": 358.5782,
-                    "BottomMargin": -61.5782,
-                    "Tag": 130,
-                    "ActionTag": -1573520035,
-                    "Size": {
-                      "X": 97.0,
-                      "Y": 31.0
-                    },
-                    "Name": "Image_6",
-                    "ctype": "ImageViewObjectData"
-                  },
-                  {
-                    "FileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/toux.png",
-                      "Plist": ""
-                    },
-                    "Scale9Width": 98,
-                    "Scale9Height": 99,
-                    "AnchorPoint": {
-                      "ScaleX": 0.5,
-                      "ScaleY": 0.5
-                    },
-                    "Position": {
-                      "X": 132.8893,
-                      "Y": -45.8894
-                    },
-                    "Scale": {
-                      "ScaleX": 1.0,
-                      "ScaleY": 1.0
-                    },
-                    "CColor": {},
-                    "IconVisible": false,
-                    "PrePosition": {
-                      "X": 0.1451,
-                      "Y": -0.1399
-                    },
-                    "PreSize": {
-                      "X": 0.107,
-                      "Y": 0.3018
-                    },
-                    "LeftMargin": 83.8893,
-                    "RightMargin": 734.1107,
-                    "TopMargin": 324.3894,
-                    "BottomMargin": -95.3894,
-                    "Tag": 131,
-                    "ActionTag": 1587755137,
-                    "Size": {
-                      "X": 98.0,
-                      "Y": 99.0
-                    },
-                    "Name": "Image_7",
-                    "ctype": "ImageViewObjectData"
                   },
                   {
                     "FontSize": 24,
@@ -6186,7 +6143,6 @@
         "fruit/btn/more1.png",
         "fruit/btn/qz7.png",
         "fruit/btn/qz77.png",
-        "fruit/btn/toux.png",
         "fruit/btn/wd6.png",
         "fruit/btn/wd66.png",
         "fruit/btn/wfsm.png",
