@@ -100,7 +100,7 @@
                 },
                 "PreSize": {
                   "X": 0.25,
-                  "Y": 0.1563
+                  "Y": 0.1562
                 },
                 "LeftMargin": 296.1241,
                 "RightMargin": 303.8759,
@@ -380,10 +380,10 @@
                   "X": 0.08,
                   "Y": 0.0508
                 },
-                "LeftMargin": 738.2416,
-                "RightMargin": -2.2416,
-                "TopMargin": -0.6191,
-                "BottomMargin": 1215.6191,
+                "LeftMargin": 738.2406,
+                "RightMargin": -2.2406,
+                "TopMargin": -0.6196,
+                "BottomMargin": 1215.6196,
                 "Tag": 159,
                 "ActionTag": 1741280857,
                 "Size": {
@@ -532,6 +532,7 @@
                 },
                 "Scale9Width": 80,
                 "Scale9Height": 80,
+                "TouchEnable": true,
                 "AnchorPoint": {
                   "ScaleX": 0.5,
                   "ScaleY": 0.5
@@ -575,6 +576,7 @@
                 },
                 "Scale9Width": 80,
                 "Scale9Height": 80,
+                "TouchEnable": true,
                 "AnchorPoint": {
                   "ScaleX": 0.5,
                   "ScaleY": 0.5
@@ -618,6 +620,7 @@
                 },
                 "Scale9Width": 80,
                 "Scale9Height": 80,
+                "TouchEnable": true,
                 "AnchorPoint": {
                   "ScaleX": 0.5,
                   "ScaleY": 0.5
@@ -661,6 +664,7 @@
                 },
                 "Scale9Width": 80,
                 "Scale9Height": 80,
+                "TouchEnable": true,
                 "AnchorPoint": {
                   "ScaleX": 0.5,
                   "ScaleY": 0.5
@@ -704,6 +708,7 @@
                 },
                 "Scale9Width": 80,
                 "Scale9Height": 80,
+                "TouchEnable": true,
                 "AnchorPoint": {
                   "ScaleX": 0.5,
                   "ScaleY": 0.5
@@ -747,6 +752,7 @@
                 },
                 "Scale9Width": 80,
                 "Scale9Height": 80,
+                "TouchEnable": true,
                 "AnchorPoint": {
                   "ScaleX": 0.5,
                   "ScaleY": 0.5
@@ -790,6 +796,7 @@
                 },
                 "Scale9Width": 80,
                 "Scale9Height": 80,
+                "TouchEnable": true,
                 "AnchorPoint": {
                   "ScaleX": 0.5,
                   "ScaleY": 0.5

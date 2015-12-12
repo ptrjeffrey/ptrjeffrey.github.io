@@ -482,8 +482,8 @@
                     "TouchEnable": true,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 21.396,
-                      "Y": 257.2521
+                      "X": 20.396,
+                      "Y": 259.2521
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -492,17 +492,17 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.0285,
-                      "Y": 0.4703
+                      "X": 0.0272,
+                      "Y": 0.474
                     },
                     "PreSize": {
                       "X": 0.9467,
                       "Y": 0.0457
                     },
-                    "LeftMargin": 21.396,
-                    "RightMargin": 18.604,
-                    "TopMargin": 264.7479,
-                    "BottomMargin": 257.2521,
+                    "LeftMargin": 20.396,
+                    "RightMargin": 19.604,
+                    "TopMargin": 262.7479,
+                    "BottomMargin": 259.2521,
                     "Tag": 189,
                     "Children": [
                       {
