@@ -5961,8 +5961,8 @@
                   "Plist": ""
                 },
                 "PressedFileData": {
-                  "Type": "Default",
-                  "Path": "Default/Button_Press.png",
+                  "Type": "Normal",
+                  "Path": "fruit/btn/wfsm1.png",
                   "Plist": ""
                 },
                 "NormalFileData": {
@@ -6116,7 +6116,6 @@
       },
       "UsedResources": [
         "Default/Button_Disable.png",
-        "Default/Button_Press.png",
         "Default/CheckBox_Disable.png",
         "fruit/btn/btn0.png",
         "fruit/btn/btn1.png",
