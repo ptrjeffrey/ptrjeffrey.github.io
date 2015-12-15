@@ -1,0 +1,368 @@
+{
+  "ID": "40cf6a29-6dd2-4bd5-9304-1acd09e39b2e",
+  "Version": "2.3.3.0",
+  "Name": "zjjl",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 134,
+        "Children": [
+          {
+            "BackColorAlpha": 103,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.88,
+              "Y": 0.512
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0011,
+              "Y": 0.0004
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 0.88,
+            "RightMargin": -0.88,
+            "TopMargin": -0.512,
+            "BottomMargin": 0.512,
+            "Tag": 135,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "fruit/img/huojiang.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 750,
+                "Scale9Height": 547,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 26.522,
+                  "Y": 310.0893
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0332,
+                  "Y": 0.2423
+                },
+                "PreSize": {
+                  "X": 0.9375,
+                  "Y": 0.4273
+                },
+                "LeftMargin": 26.522,
+                "RightMargin": 23.478,
+                "TopMargin": 422.9107,
+                "BottomMargin": 310.0893,
+                "Tag": 136,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "fruit/btn/close1.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "fruit/btn/close.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 34,
+                    "Scale9Height": 43,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 729.451,
+                      "Y": 473.4197
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9726,
+                      "Y": 0.8655
+                    },
+                    "PreSize": {
+                      "X": 0.0853,
+                      "Y": 0.1188
+                    },
+                    "LeftMargin": 697.451,
+                    "RightMargin": -11.451,
+                    "TopMargin": 41.0803,
+                    "BottomMargin": 440.9197,
+                    "Tag": 137,
+                    "ActionTag": 1873261913,
+                    "Size": {
+                      "X": 64.0,
+                      "Y": 65.0
+                    },
+                    "Name": "btn_close",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "fruit/img/myhistory.png",
+                      "Plist": ""
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 373.6265,
+                      "Y": 189.158
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4982,
+                      "Y": 0.3458
+                    },
+                    "PreSize": {
+                      "X": 0.964,
+                      "Y": 0.6435
+                    },
+                    "LeftMargin": 12.1265,
+                    "RightMargin": 14.8735,
+                    "TopMargin": 181.842,
+                    "BottomMargin": 13.158,
+                    "Tag": 6,
+                    "ActionTag": -1735784268,
+                    "Size": {
+                      "X": 723.0,
+                      "Y": 352.0
+                    },
+                    "Name": "myhistory_1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "DirectionType": "Vertical",
+                    "IsBounceEnabled": true,
+                    "ScrollDirectionType": 0,
+                    "ClipAble": true,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 11.3747,
+                      "Y": 15.3179
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0152,
+                      "Y": 0.028
+                    },
+                    "PreSize": {
+                      "X": 0.9627,
+                      "Y": 0.6399
+                    },
+                    "LeftMargin": 11.3747,
+                    "RightMargin": 16.6253,
+                    "TopMargin": 181.6821,
+                    "BottomMargin": 15.3179,
+                    "Tag": 160,
+                    "ActionTag": 1842678282,
+                    "Size": {
+                      "X": 722.0,
+                      "Y": 350.0
+                    },
+                    "Name": "lv_rank",
+                    "ctype": "ListViewObjectData"
+                  },
+                  {
+                    "FontSize": 50,
+                    "LabelText": "加载中,请稍候...",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 368.9315,
+                      "Y": 222.4747
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4919,
+                      "Y": 0.4067
+                    },
+                    "PreSize": {
+                      "X": 0.5333,
+                      "Y": 0.0914
+                    },
+                    "LeftMargin": 168.9315,
+                    "RightMargin": 181.0685,
+                    "TopMargin": 299.5253,
+                    "BottomMargin": 197.4747,
+                    "Tag": 79,
+                    "ActionTag": -1215409615,
+                    "Size": {
+                      "X": 400.0,
+                      "Y": 50.0
+                    },
+                    "Name": "txt_loading",
+                    "ctype": "TextObjectData"
+                  }
+                ],
+                "ActionTag": 850706888,
+                "Size": {
+                  "X": 750.0,
+                  "Y": 547.0
+                },
+                "Name": "Panel_2",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 389232741,
+            "Size": {
+              "X": 800.0,
+              "Y": 1280.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 800.0,
+          "Y": 1280.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "fruit/btn/close.png",
+        "fruit/btn/close1.png",
+        "fruit/img/huojiang.png",
+        "fruit/img/myhistory.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

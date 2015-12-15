@@ -1,0 +1,710 @@
+{
+  "ID": "6d48788e-4992-414e-bcd5-8ee7c9365e4c",
+  "Version": "2.3.3.0",
+  "Name": "help",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 134,
+        "Children": [
+          {
+            "BackColorAlpha": 103,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.88,
+              "Y": 0.512
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0011,
+              "Y": 0.0004
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "LeftMargin": 0.88,
+            "RightMargin": -0.88,
+            "TopMargin": -0.512,
+            "BottomMargin": 0.512,
+            "Tag": 135,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "Normal",
+                  "Path": "fruit/img/tankuang.png",
+                  "Plist": ""
+                },
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 751,
+                "Scale9Height": 515,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 22.1891,
+                  "Y": 399.6961
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0277,
+                  "Y": 0.3123
+                },
+                "PreSize": {
+                  "X": 0.9388,
+                  "Y": 0.4023
+                },
+                "LeftMargin": 22.1891,
+                "RightMargin": 26.8109,
+                "TopMargin": 365.3039,
+                "BottomMargin": 399.6961,
+                "Tag": 136,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "Normal",
+                      "Path": "fruit/img/shuom.png",
+                      "Plist": ""
+                    },
+                    "Scale9Width": 355,
+                    "Scale9Height": 133,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 386.0281,
+                      "Y": 497.8589
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.514,
+                      "Y": 0.9667
+                    },
+                    "PreSize": {
+                      "X": 0.4727,
+                      "Y": 0.2583
+                    },
+                    "LeftMargin": 208.5281,
+                    "RightMargin": 187.4719,
+                    "TopMargin": -49.3589,
+                    "BottomMargin": 431.3589,
+                    "Tag": 156,
+                    "ActionTag": 1687308431,
+                    "Size": {
+                      "X": 355.0,
+                      "Y": 133.0
+                    },
+                    "Name": "Image_1",
+                    "ctype": "ImageViewObjectData"
+                  },
+                  {
+                    "DirectionType": "Vertical",
+                    "IsBounceEnabled": true,
+                    "ScrollDirectionType": 0,
+                    "ClipAble": true,
+                    "BackColorAlpha": 102,
+                    "SingleColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 150
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 25.5488,
+                      "Y": 36.1868
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.034,
+                      "Y": 0.0703
+                    },
+                    "PreSize": {
+                      "X": 0.9321,
+                      "Y": 0.7767
+                    },
+                    "LeftMargin": 25.5488,
+                    "RightMargin": 25.4512,
+                    "TopMargin": 78.8132,
+                    "BottomMargin": 36.1868,
+                    "Tag": 185,
+                    "Children": [
+                      {
+                        "FontSize": 24,
+                        "LabelText": "1 选择您认为下次将出来的蔬菜进行选择,选择不可撤消",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 294.0,
+                          "Y": 388.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.42,
+                          "Y": 0.97
+                        },
+                        "PreSize": {
+                          "X": 0.84,
+                          "Y": 0.06
+                        },
+                        "RightMargin": 112.0,
+                        "BottomMargin": 376.0,
+                        "Tag": 186,
+                        "ActionTag": -727555561,
+                        "Size": {
+                          "X": 588.0,
+                          "Y": 24.0
+                        },
+                        "Name": "Text_1",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 24,
+                        "LabelText": "2 开奖时您选中了当期水果,则按照额定倍数奖励您金币",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 294.0,
+                          "Y": 364.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.42,
+                          "Y": 0.91
+                        },
+                        "PreSize": {
+                          "X": 0.84,
+                          "Y": 0.06
+                        },
+                        "RightMargin": 112.0,
+                        "TopMargin": 24.0,
+                        "BottomMargin": 352.0,
+                        "Tag": 187,
+                        "ActionTag": 1847634228,
+                        "ZOrder": 1,
+                        "Size": {
+                          "X": 588.0,
+                          "Y": 24.0
+                        },
+                        "Name": "Text_1_0",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 24,
+                        "LabelText": "3 系统有一定的概率同一期开出2种水果,中奖水果可以累积",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 312.0,
+                          "Y": 340.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4457,
+                          "Y": 0.85
+                        },
+                        "PreSize": {
+                          "X": 0.8914,
+                          "Y": 0.06
+                        },
+                        "RightMargin": 76.0,
+                        "TopMargin": 48.0,
+                        "BottomMargin": 328.0,
+                        "Tag": 188,
+                        "ActionTag": 1014386,
+                        "ZOrder": 2,
+                        "Size": {
+                          "X": 624.0,
+                          "Y": 24.0
+                        },
+                        "Name": "Text_1_0_0",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 24,
+                        "LabelText": "4 您每放一个礼花,当前在线所有用户将获得则您带来的1000金币,\n所有金币上不封顶",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 348.0,
+                          "Y": 304.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4971,
+                          "Y": 0.76
+                        },
+                        "PreSize": {
+                          "X": 0.9943,
+                          "Y": 0.12
+                        },
+                        "RightMargin": 4.0,
+                        "TopMargin": 72.0,
+                        "BottomMargin": 280.0,
+                        "Tag": 189,
+                        "ActionTag": -2082764055,
+                        "ZOrder": 3,
+                        "Size": {
+                          "X": 696.0,
+                          "Y": 48.0
+                        },
+                        "Name": "Text_1_0_0_0",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "FontSize": 24,
+                        "LabelText": "5 每一次下注均有一定比例的金币反馈到彩池中,彩池开奖后,幸运\n玩家将均分彩池中的奖金",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 348.0,
+                          "Y": 256.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.4971,
+                          "Y": 0.64
+                        },
+                        "PreSize": {
+                          "X": 0.9943,
+                          "Y": 0.12
+                        },
+                        "RightMargin": 4.0,
+                        "TopMargin": 120.0,
+                        "BottomMargin": 232.0,
+                        "Tag": 190,
+                        "ActionTag": -1153576163,
+                        "ZOrder": 4,
+                        "Size": {
+                          "X": 696.0,
+                          "Y": 48.0
+                        },
+                        "Name": "Text_1_0_0_0_0",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "BackColorAlpha": 102,
+                        "SingleColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "FirstColor": {
+                          "R": 150,
+                          "G": 200
+                        },
+                        "EndColor": {},
+                        "ColorVector": {
+                          "ScaleY": 1.0
+                        },
+                        "Scale9Width": 1,
+                        "Scale9Height": 1,
+                        "TouchEnable": true,
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 152.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.38
+                        },
+                        "PreSize": {
+                          "X": 0.9943,
+                          "Y": 0.2
+                        },
+                        "RightMargin": 4.0,
+                        "TopMargin": 168.0,
+                        "BottomMargin": 152.0,
+                        "Tag": 73,
+                        "Children": [
+                          {
+                            "FontSize": 24,
+                            "LabelText": "6 系统还会产生话费,   此物品无法购买,当其产生时,所有已下注\n\n的玩家都可获得话费奖励!",
+                            "OutlineColor": {
+                              "G": 0,
+                              "B": 0
+                            },
+                            "ShadowColor": {
+                              "R": 110,
+                              "G": 110,
+                              "B": 110
+                            },
+                            "ShadowOffsetX": 2.0,
+                            "ShadowOffsetY": -2.0,
+                            "AnchorPoint": {
+                              "ScaleY": 0.5
+                            },
+                            "Position": {
+                              "X": 2.5101,
+                              "Y": 39.1044
+                            },
+                            "Scale": {
+                              "ScaleX": 1.0,
+                              "ScaleY": 1.0
+                            },
+                            "CColor": {},
+                            "IconVisible": false,
+                            "PrePosition": {
+                              "X": 0.0036,
+                              "Y": 0.4888
+                            },
+                            "PreSize": {
+                              "X": 1.0,
+                              "Y": 0.9
+                            },
+                            "HorizontalEdge": "LeftEdge",
+                            "LeftMargin": 2.5101,
+                            "RightMargin": -2.5101,
+                            "TopMargin": 4.8956,
+                            "BottomMargin": 3.1044,
+                            "Tag": 74,
+                            "Children": [
+                              {
+                                "FileData": {
+                                  "Type": "Normal",
+                                  "Path": "fruit/img/huafei.png",
+                                  "Plist": ""
+                                },
+                                "BlendFunc": {
+                                  "Src": 770,
+                                  "Dst": 771
+                                },
+                                "AnchorPoint": {
+                                  "ScaleX": 0.4585,
+                                  "ScaleY": 0.531
+                                },
+                                "Position": {
+                                  "X": 244.2803,
+                                  "Y": 58.7878
+                                },
+                                "Scale": {
+                                  "ScaleX": 0.5,
+                                  "ScaleY": 0.5
+                                },
+                                "CColor": {},
+                                "IconVisible": false,
+                                "PrePosition": {
+                                  "X": 0.351,
+                                  "Y": 0.8165
+                                },
+                                "PreSize": {
+                                  "X": 0.0991,
+                                  "Y": 0.9583
+                                },
+                                "LeftMargin": 212.6438,
+                                "RightMargin": 414.3562,
+                                "TopMargin": -19.1488,
+                                "BottomMargin": 22.1488,
+                                "Tag": 75,
+                                "ActionTag": -1001298765,
+                                "Size": {
+                                  "X": 67.0,
+                                  "Y": 66.0
+                                },
+                                "Name": "huangfei_1",
+                                "ctype": "SpriteObjectData"
+                              }
+                            ],
+                            "ActionTag": -1072582927,
+                            "Size": {
+                              "X": 696.0,
+                              "Y": 72.0
+                            },
+                            "Name": "Text_2",
+                            "ctype": "TextObjectData"
+                          }
+                        ],
+                        "ActionTag": 593418112,
+                        "ZOrder": 5,
+                        "Size": {
+                          "X": 696.0,
+                          "Y": 80.0
+                        },
+                        "Name": "Panel_3",
+                        "ctype": "PanelObjectData"
+                      }
+                    ],
+                    "ActionTag": 1969295960,
+                    "Size": {
+                      "X": 700.0,
+                      "Y": 400.0
+                    },
+                    "Name": "ListView_1",
+                    "ctype": "ListViewObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Normal",
+                      "Path": "fruit/btn/close1.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Normal",
+                      "Path": "fruit/btn/close.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 34,
+                    "Scale9Height": 43,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5001,
+                      "ScaleY": 0.4524
+                    },
+                    "Position": {
+                      "X": 726.1656,
+                      "Y": 481.0108
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9669,
+                      "Y": 0.934
+                    },
+                    "PreSize": {
+                      "X": 0.0852,
+                      "Y": 0.1262
+                    },
+                    "LeftMargin": 694.1592,
+                    "RightMargin": -7.1592,
+                    "TopMargin": -1.6048,
+                    "BottomMargin": 451.6048,
+                    "Tag": 137,
+                    "ActionTag": 1873261913,
+                    "Size": {
+                      "X": 64.0,
+                      "Y": 65.0
+                    },
+                    "Name": "btn_close",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 850706888,
+                "Size": {
+                  "X": 751.0,
+                  "Y": 515.0
+                },
+                "Name": "Panel_2",
+                "ctype": "PanelObjectData"
+              }
+            ],
+            "ActionTag": 389232741,
+            "Size": {
+              "X": 800.0,
+              "Y": 1280.0
+            },
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 800.0,
+          "Y": 1280.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "Default/Button_Disable.png",
+        "fruit/btn/close.png",
+        "fruit/btn/close1.png",
+        "fruit/img/huafei.png",
+        "fruit/img/shuom.png",
+        "fruit/img/tankuang.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
