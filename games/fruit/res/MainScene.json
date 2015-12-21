@@ -5085,6 +5085,92 @@
                         },
                         "Name": "pool_frame",
                         "ctype": "PanelObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "fruit/img/huafei1.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 67,
+                        "Scale9Height": 66,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 102.2671,
+                          "Y": 410.8661
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.1504,
+                          "Y": 1.1739
+                        },
+                        "PreSize": {
+                          "X": 0.0985,
+                          "Y": 0.1886
+                        },
+                        "LeftMargin": 68.7671,
+                        "RightMargin": 544.2329,
+                        "TopMargin": -93.8661,
+                        "BottomMargin": 377.8661,
+                        "Tag": 129,
+                        "ActionTag": -1279253173,
+                        "Size": {
+                          "X": 67.0,
+                          "Y": 66.0
+                        },
+                        "Name": "Image_7",
+                        "ctype": "ImageViewObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "Normal",
+                          "Path": "fruit/img/shuangfei1.png",
+                          "Plist": ""
+                        },
+                        "Scale9Width": 69,
+                        "Scale9Height": 69,
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 598.4845,
+                          "Y": -90.7284
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.8801,
+                          "Y": -0.2592
+                        },
+                        "PreSize": {
+                          "X": 0.1015,
+                          "Y": 0.1971
+                        },
+                        "LeftMargin": 563.9845,
+                        "RightMargin": 47.0155,
+                        "TopMargin": 406.2284,
+                        "BottomMargin": -125.2284,
+                        "Tag": 130,
+                        "ActionTag": -584645865,
+                        "Size": {
+                          "X": 69.0,
+                          "Y": 69.0
+                        },
+                        "Name": "Image_7_0",
+                        "ctype": "ImageViewObjectData"
                       }
                     ],
                     "ActionTag": 1696741658,
@@ -5193,7 +5279,7 @@
             },
             "PreSize": {
               "X": 0.25,
-              "Y": 0.1562
+              "Y": 0.1563
             },
             "LeftMargin": 313.3334,
             "RightMargin": 286.6666,
@@ -6160,12 +6246,14 @@
         "fruit/img/dfs_k_deng4.png",
         "fruit/img/dfs_k_kuang.png",
         "fruit/img/huafei.png",
+        "fruit/img/huafei1.png",
         "fruit/img/huangfei.png",
         "fruit/img/lajiao.png",
         "fruit/img/luobo.png",
         "fruit/img/mogu.png",
         "fruit/img/qiezi.png",
         "fruit/img/qiu.png",
+        "fruit/img/shuangfei1.png",
         "fruit/img/tishi.png",
         "fruit/img/wandou.png",
         "fruit/img/xihongshi.png",

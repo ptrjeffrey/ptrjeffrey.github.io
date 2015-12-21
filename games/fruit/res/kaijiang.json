@@ -508,7 +508,7 @@
                       {
                         "IsCustomSize": true,
                         "FontSize": 20,
-                        "LabelText": "11111111",
+                        "LabelText": "",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -557,7 +557,7 @@
                       {
                         "IsCustomSize": true,
                         "FontSize": 20,
-                        "LabelText": "11111111",
+                        "LabelText": "",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -604,7 +604,7 @@
                       {
                         "IsCustomSize": true,
                         "FontSize": 20,
-                        "LabelText": "1111111",
+                        "LabelText": "",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -651,7 +651,7 @@
                       {
                         "IsCustomSize": true,
                         "FontSize": 20,
-                        "LabelText": "1111111",
+                        "LabelText": "",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0

@@ -278,7 +278,7 @@
                     "ctype": "ListViewObjectData"
                   },
                   {
-                    "FontSize": 50,
+                    "FontSize": 36,
                     "LabelText": "加载中,请稍候...",
                     "OutlineColor": {
                       "G": 0,
@@ -310,18 +310,18 @@
                       "Y": 0.4192
                     },
                     "PreSize": {
-                      "X": 0.5195,
-                      "Y": 0.0877
+                      "X": 0.374,
+                      "Y": 0.0632
                     },
-                    "LeftMargin": 180.6799,
-                    "RightMargin": 189.3201,
-                    "TopMargin": 306.0772,
-                    "BottomMargin": 213.9228,
+                    "LeftMargin": 236.6799,
+                    "RightMargin": 245.3201,
+                    "TopMargin": 313.0772,
+                    "BottomMargin": 220.9228,
                     "Tag": 198,
                     "ActionTag": -220936384,
                     "Size": {
-                      "X": 400.0,
-                      "Y": 50.0
+                      "X": 288.0,
+                      "Y": 36.0
                     },
                     "Name": "txt_loading",
                     "ctype": "TextObjectData"
