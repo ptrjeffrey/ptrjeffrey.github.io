@@ -244,7 +244,7 @@
                       },
                       {
                         "FontSize": 24,
-                        "LabelText": "2、开奖时您选的水果若中奖、则按照既定倍数奖励您金币；",
+                        "LabelText": "2、开奖时您选的蔬菜若中奖、则按照既定倍数奖励您金币；",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -294,7 +294,7 @@
                       {
                         "IsCustomSize": true,
                         "FontSize": 24,
-                        "LabelText": "3、系统有一定的概率同一期开出2种水果,这叫“双飞”,右下角的小球中奖就是双飞；",
+                        "LabelText": "3、系统有一定的概率同一期开出2种蔬菜,这叫“双飞”,右下角的小球中奖就是双飞；",
                         "OutlineColor": {
                           "G": 0,
                           "B": 0
@@ -442,26 +442,26 @@
                         "ctype": "TextObjectData"
                       },
                       {
-                        "BackColorAlpha": 102,
-                        "SingleColor": {
-                          "R": 150,
-                          "G": 200
+                        "IsCustomSize": true,
+                        "FontSize": 24,
+                        "LabelText": "6、左上角的小球是产生话费, 此物品无法购买,当其中奖时,所有已下注的玩家都可获得话费奖励!",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
                         },
-                        "FirstColor": {
-                          "R": 150,
-                          "G": 200
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
                         },
-                        "EndColor": {},
-                        "ColorVector": {
-                          "ScaleY": 1.0
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
                         },
-                        "Scale9Width": 1,
-                        "Scale9Height": 1,
-                        "TouchEnable": true,
-                        "AnchorPoint": {},
                         "Position": {
                           "X": 0.0,
-                          "Y": 128.0
+                          "Y": 184.0
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -471,126 +471,73 @@
                         "IconVisible": false,
                         "PrePosition": {
                           "X": 0.0,
-                          "Y": 0.32
+                          "Y": 0.46
                         },
                         "PreSize": {
                           "X": 0.9943,
-                          "Y": 0.2
+                          "Y": 0.12
                         },
                         "RightMargin": 4.0,
                         "TopMargin": 192.0,
-                        "BottomMargin": 128.0,
-                        "Tag": 73,
-                        "Children": [
-                          {
-                            "IsCustomSize": true,
-                            "FontSize": 24,
-                            "LabelText": "6、左上角的小球是产生话费, 此物品无法购买,当其中奖时,所有已下注的玩家都可获得话费奖励!",
-                            "OutlineColor": {
-                              "G": 0,
-                              "B": 0
-                            },
-                            "ShadowColor": {
-                              "R": 110,
-                              "G": 110,
-                              "B": 110
-                            },
-                            "ShadowOffsetX": 2.0,
-                            "ShadowOffsetY": -2.0,
-                            "AnchorPoint": {
-                              "ScaleY": 0.5
-                            },
-                            "Position": {
-                              "X": 2.5897,
-                              "Y": 52.6927
-                            },
-                            "Scale": {
-                              "ScaleX": 1.0,
-                              "ScaleY": 1.0
-                            },
-                            "CColor": {},
-                            "IconVisible": false,
-                            "PrePosition": {
-                              "X": 0.0037,
-                              "Y": 0.6587
-                            },
-                            "PreSize": {
-                              "X": 1.0,
-                              "Y": 0.6
-                            },
-                            "HorizontalEdge": "LeftEdge",
-                            "LeftMargin": 2.5897,
-                            "RightMargin": -2.5897,
-                            "TopMargin": 3.3073,
-                            "BottomMargin": 28.6927,
-                            "Tag": 74,
-                            "ActionTag": -1072582927,
-                            "Size": {
-                              "X": 696.0,
-                              "Y": 48.0
-                            },
-                            "Name": "Text_2",
-                            "ctype": "TextObjectData"
-                          },
-                          {
-                            "IsCustomSize": true,
-                            "FontSize": 24,
-                            "LabelText": "7、经常在此游戏里，可以获得土豪放礼花时的红包，经常购买可以获得彩池里的大奖。",
-                            "OutlineColor": {
-                              "G": 0,
-                              "B": 0
-                            },
-                            "ShadowColor": {
-                              "R": 110,
-                              "G": 110,
-                              "B": 110
-                            },
-                            "ShadowOffsetX": 2.0,
-                            "ShadowOffsetY": -2.0,
-                            "AnchorPoint": {
-                              "ScaleY": 0.5
-                            },
-                            "Position": {
-                              "X": 2.6693,
-                              "Y": -1.3722
-                            },
-                            "Scale": {
-                              "ScaleX": 1.0,
-                              "ScaleY": 1.0
-                            },
-                            "CColor": {},
-                            "IconVisible": false,
-                            "PrePosition": {
-                              "X": 0.0038,
-                              "Y": -0.0172
-                            },
-                            "PreSize": {
-                              "X": 1.0,
-                              "Y": 0.6
-                            },
-                            "HorizontalEdge": "LeftEdge",
-                            "LeftMargin": 2.6693,
-                            "RightMargin": -2.6693,
-                            "TopMargin": 57.3722,
-                            "BottomMargin": -25.3722,
-                            "Tag": 193,
-                            "ActionTag": -1378902554,
-                            "Size": {
-                              "X": 696.0,
-                              "Y": 48.0
-                            },
-                            "Name": "Text_2_0",
-                            "ctype": "TextObjectData"
-                          }
-                        ],
-                        "ActionTag": 593418112,
+                        "BottomMargin": 160.0,
+                        "Tag": 74,
+                        "ActionTag": -1072582927,
                         "ZOrder": 5,
                         "Size": {
                           "X": 696.0,
-                          "Y": 80.0
+                          "Y": 48.0
                         },
-                        "Name": "Panel_3",
-                        "ctype": "PanelObjectData"
+                        "Name": "Text_2",
+                        "ctype": "TextObjectData"
+                      },
+                      {
+                        "IsCustomSize": true,
+                        "FontSize": 24,
+                        "LabelText": "7、经常在此游戏里，可以获得土豪放礼花时的红包，经常购买可以获得彩池里的大奖。",
+                        "OutlineColor": {
+                          "G": 0,
+                          "B": 0
+                        },
+                        "ShadowColor": {
+                          "R": 110,
+                          "G": 110,
+                          "B": 110
+                        },
+                        "ShadowOffsetX": 2.0,
+                        "ShadowOffsetY": -2.0,
+                        "AnchorPoint": {
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 0.0,
+                          "Y": 136.0
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.0,
+                          "Y": 0.46
+                        },
+                        "PreSize": {
+                          "X": 0.9943,
+                          "Y": 0.12
+                        },
+                        "RightMargin": 4.0,
+                        "TopMargin": 192.0,
+                        "BottomMargin": 160.0,
+                        "Tag": 193,
+                        "ActionTag": -1378902554,
+                        "ZOrder": 6,
+                        "Size": {
+                          "X": 696.0,
+                          "Y": 48.0
+                        },
+                        "Name": "Text_2_0",
+                        "ctype": "TextObjectData"
                       }
                     ],
                     "ActionTag": 1969295960,
