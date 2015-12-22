@@ -1,0 +1,2325 @@
+{
+  "ID": "a2ee0952-26b5-49ae-8bf9-4f1d6279b798",
+  "Version": "2.3.3.0",
+  "Name": "MainScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Children": [
+          {
+            "BackColorAlpha": 226,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 3,
+            "Children": [
+              {
+                "FontSize": 50,
+                "LabelText": "游戏管理系统",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 322.2217,
+                  "Y": 726.1282
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5035,
+                  "Y": 0.7564
+                },
+                "PreSize": {
+                  "X": 0.4688,
+                  "Y": 0.0521
+                },
+                "LeftMargin": 172.2217,
+                "RightMargin": 167.7783,
+                "TopMargin": 208.8718,
+                "BottomMargin": 701.1282,
+                "Tag": 4,
+                "ActionTag": -5800936,
+                "Size": {
+                  "X": 300.0,
+                  "Y": 50.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "用户名",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 130.6967,
+                  "Y": 580.2261
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2042,
+                  "Y": 0.6044
+                },
+                "PreSize": {
+                  "X": 0.1406,
+                  "Y": 0.0312
+                },
+                "LeftMargin": 85.6967,
+                "RightMargin": 464.3033,
+                "TopMargin": 364.7739,
+                "BottomMargin": 565.2261,
+                "Tag": 5,
+                "ActionTag": 1519205350,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 30,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "在此输入用户名",
+                "MaxLengthText": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 192.447,
+                  "Y": 567.343
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3007,
+                  "Y": 0.591
+                },
+                "PreSize": {
+                  "X": 0.3281,
+                  "Y": 0.0312
+                },
+                "LeftMargin": 192.447,
+                "RightMargin": 237.553,
+                "TopMargin": 362.657,
+                "BottomMargin": 567.343,
+                "Tag": 6,
+                "ActionTag": -1804551155,
+                "Size": {
+                  "X": 210.0,
+                  "Y": 30.0
+                },
+                "Name": "input_name",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "密  码",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 129.548,
+                  "Y": 524.035
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2024,
+                  "Y": 0.5459
+                },
+                "PreSize": {
+                  "X": 0.1406,
+                  "Y": 0.0312
+                },
+                "LeftMargin": 84.548,
+                "RightMargin": 465.452,
+                "TopMargin": 420.965,
+                "BottomMargin": 509.035,
+                "Tag": 8,
+                "ActionTag": -1119012641,
+                "Size": {
+                  "X": 90.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_2_0",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 30,
+                "IsCustomSize": true,
+                "LabelText": "",
+                "PlaceHolderText": "在此输入密码",
+                "MaxLengthText": 10,
+                "PasswordEnable": true,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.0092
+                },
+                "Position": {
+                  "X": 194.3995,
+                  "Y": 510.1524
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3037,
+                  "Y": 0.5314
+                },
+                "PreSize": {
+                  "X": 0.2812,
+                  "Y": 0.0312
+                },
+                "LeftMargin": 192.7435,
+                "RightMargin": 267.2565,
+                "TopMargin": 419.8476,
+                "BottomMargin": 510.1524,
+                "Tag": 9,
+                "ActionTag": 1787870047,
+                "Size": {
+                  "X": 180.0,
+                  "Y": 30.0
+                },
+                "Name": "input_pwd",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontSize": 20,
+                "ButtonText": "登录",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Press.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Normal.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 16,
+                "Scale9Height": 14,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 275.9921,
+                  "Y": 419.389
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4312,
+                  "Y": 0.4369
+                },
+                "PreSize": {
+                  "X": 0.1562,
+                  "Y": 0.0521
+                },
+                "LeftMargin": 225.9921,
+                "RightMargin": 314.0079,
+                "TopMargin": 515.611,
+                "BottomMargin": 394.389,
+                "Tag": 10,
+                "ActionTag": -582682859,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 50.0
+                },
+                "Name": "btn_login",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "loading...",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 274.5684,
+                  "Y": 336.8028
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.429,
+                  "Y": 0.3508
+                },
+                "PreSize": {
+                  "X": 0.3125,
+                  "Y": 0.0417
+                },
+                "LeftMargin": 174.5684,
+                "RightMargin": 265.4316,
+                "TopMargin": 603.1972,
+                "BottomMargin": 316.8028,
+                "Tag": 11,
+                "ActionTag": 1917831207,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 40.0
+                },
+                "Name": "txt_state",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": 1152149319,
+            "Size": {
+              "X": 640.0,
+              "Y": 960.0
+            },
+            "Name": "login_layer",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 2.4719
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0026
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "TopMargin": -2.4719,
+            "BottomMargin": 2.4719,
+            "Tag": 12,
+            "Children": [
+              {
+                "FontSize": 50,
+                "LabelText": "游戏列表",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 310.3851,
+                  "Y": 895.3695
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.485,
+                  "Y": 0.9327
+                },
+                "PreSize": {
+                  "X": 0.3125,
+                  "Y": 0.0521
+                },
+                "LeftMargin": 210.3851,
+                "RightMargin": 229.6149,
+                "TopMargin": 39.6305,
+                "BottomMargin": 870.3695,
+                "Tag": 13,
+                "ActionTag": 514812584,
+                "Size": {
+                  "X": 200.0,
+                  "Y": 50.0
+                },
+                "Name": "Text_6",
+                "ctype": "TextObjectData"
+              },
+              {
+                "DirectionType": "Vertical",
+                "IsBounceEnabled": true,
+                "ScrollDirectionType": 0,
+                "ClipAble": true,
+                "BackColorAlpha": 139,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 127,
+                  "G": 127,
+                  "B": 127
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 150
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 22.2476,
+                  "Y": 534.9857
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0348,
+                  "Y": 0.5573
+                },
+                "PreSize": {
+                  "X": 0.9375,
+                  "Y": 0.3125
+                },
+                "LeftMargin": 22.2476,
+                "RightMargin": 17.7524,
+                "TopMargin": 125.0143,
+                "BottomMargin": 534.9857,
+                "Tag": 14,
+                "ActionTag": -1944416192,
+                "Size": {
+                  "X": 600.0,
+                  "Y": 300.0
+                },
+                "Name": "game_list",
+                "ctype": "ListViewObjectData"
+              },
+              {
+                "FontSize": 20,
+                "ButtonText": "进入",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Press.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Normal.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 16,
+                "Scale9Height": 14,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 296.3722,
+                  "Y": 425.1783
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4631,
+                  "Y": 0.4429
+                },
+                "PreSize": {
+                  "X": 0.1562,
+                  "Y": 0.0521
+                },
+                "LeftMargin": 246.3722,
+                "RightMargin": 293.6278,
+                "TopMargin": 509.8217,
+                "BottomMargin": 400.1783,
+                "Tag": 15,
+                "ActionTag": -898403671,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 50.0
+                },
+                "Name": "btn_entry",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -1794162925,
+            "Size": {
+              "X": 640.0,
+              "Y": 960.0
+            },
+            "Name": "gamelist_layer",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 0,
+              "G": 0,
+              "B": 0
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 14,
+            "Children": [
+              {
+                "FontSize": 30,
+                "LabelText": "开心农场调整",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 284.1935,
+                  "Y": 890.4001
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4441,
+                  "Y": 0.9275
+                },
+                "PreSize": {
+                  "X": 0.2812,
+                  "Y": 0.0312
+                },
+                "LeftMargin": 194.1935,
+                "RightMargin": 265.8065,
+                "TopMargin": 54.5999,
+                "BottomMargin": 875.4001,
+                "Tag": 15,
+                "ActionTag": -1676287476,
+                "Size": {
+                  "X": 180.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_3",
+                "ctype": "TextObjectData"
+              },
+              {
+                "BackColorAlpha": 102,
+                "ComboBoxIndex": 1,
+                "SingleColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "FirstColor": {
+                  "R": 150,
+                  "G": 200
+                },
+                "EndColor": {},
+                "ColorVector": {
+                  "ScaleY": 1.0
+                },
+                "Scale9Width": 1,
+                "Scale9Height": 1,
+                "TouchEnable": true,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 38.0084,
+                  "Y": 137.7687
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0594,
+                  "Y": 0.1435
+                },
+                "PreSize": {
+                  "X": 0.8594,
+                  "Y": 0.7292
+                },
+                "LeftMargin": 38.0084,
+                "RightMargin": 51.9916,
+                "TopMargin": 122.2313,
+                "BottomMargin": 137.7687,
+                "Tag": 17,
+                "Children": [
+                  {
+                    "FontSize": 30,
+                    "IsCustomSize": true,
+                    "LabelText": "1",
+                    "PlaceHolderText": "Text Field",
+                    "MaxLengthText": 10,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 166.1349,
+                      "Y": 601.869
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3021,
+                      "Y": 0.8598
+                    },
+                    "PreSize": {
+                      "X": 0.1818,
+                      "Y": 0.0429
+                    },
+                    "LeftMargin": 166.1349,
+                    "RightMargin": 283.8651,
+                    "TopMargin": 68.131,
+                    "BottomMargin": 601.869,
+                    "Tag": 20,
+                    "ActionTag": 467689033,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 30.0
+                    },
+                    "Name": "tf_1",
+                    "ctype": "TextFieldObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "概率左值",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 190.6539,
+                      "Y": 671.0187
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3466,
+                      "Y": 0.9586
+                    },
+                    "PreSize": {
+                      "X": 0.2182,
+                      "Y": 0.0429
+                    },
+                    "LeftMargin": 130.6539,
+                    "RightMargin": 299.3461,
+                    "TopMargin": 13.9813,
+                    "BottomMargin": 656.0187,
+                    "Tag": 21,
+                    "ActionTag": -394298471,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 30.0
+                    },
+                    "Name": "Text_5",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "概率右值",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 356.7417,
+                      "Y": 672.1676
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6486,
+                      "Y": 0.9602
+                    },
+                    "PreSize": {
+                      "X": 0.2182,
+                      "Y": 0.0429
+                    },
+                    "LeftMargin": 296.7417,
+                    "RightMargin": 133.2583,
+                    "TopMargin": 12.8324,
+                    "BottomMargin": 657.1676,
+                    "Tag": 22,
+                    "ActionTag": -2101016350,
+                    "Size": {
+                      "X": 120.0,
+                      "Y": 30.0
+                    },
+                    "Name": "Text_5_0",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "IsCustomSize": true,
+                    "LabelText": "2",
+                    "PlaceHolderText": "Text Field",
+                    "MaxLengthText": 10,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 329.0367,
+                      "Y": 598.2386
+                    },
+                    "Scale": {
+                      "ScaleX": 0.9681,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5982,
+                      "Y": 0.8546
+                    },
+                    "PreSize": {
+                      "X": 0.1818,
+                      "Y": 0.0429
+                    },
+                    "LeftMargin": 329.0367,
+                    "RightMargin": 120.9633,
+                    "TopMargin": 71.7614,
+                    "BottomMargin": 598.2386,
+                    "Tag": 23,
+                    "ActionTag": -2072645884,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 30.0
+                    },
+                    "Name": "tf_2",
+                    "ctype": "TextFieldObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "IsCustomSize": true,
+                    "LabelText": "3",
+                    "PlaceHolderText": "Text Field",
+                    "MaxLengthText": 10,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.0174,
+                      "ScaleY": -0.132
+                    },
+                    "Position": {
+                      "X": 166.7285,
+                      "Y": 519.4202
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3031,
+                      "Y": 0.742
+                    },
+                    "PreSize": {
+                      "X": 0.1818,
+                      "Y": 0.0429
+                    },
+                    "LeftMargin": 164.9844,
+                    "RightMargin": 285.0156,
+                    "TopMargin": 146.6185,
+                    "BottomMargin": 523.3815,
+                    "Tag": 25,
+                    "ActionTag": 590576292,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 30.0
+                    },
+                    "Name": "tf_3",
+                    "ctype": "TextFieldObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "IsCustomSize": true,
+                    "LabelText": "8",
+                    "PlaceHolderText": "Text Field",
+                    "MaxLengthText": 10,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 329.4811,
+                      "Y": 527.7176
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5991,
+                      "Y": 0.7539
+                    },
+                    "PreSize": {
+                      "X": 0.1818,
+                      "Y": 0.0429
+                    },
+                    "LeftMargin": 329.4811,
+                    "RightMargin": 120.5189,
+                    "TopMargin": 142.2824,
+                    "BottomMargin": 527.7176,
+                    "Tag": 26,
+                    "ActionTag": 363228002,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 30.0
+                    },
+                    "Name": "tf_4",
+                    "ctype": "TextFieldObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "IsCustomSize": true,
+                    "LabelText": "9",
+                    "PlaceHolderText": "Text Field",
+                    "MaxLengthText": 10,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.0032,
+                      "ScaleY": -0.1275
+                    },
+                    "Position": {
+                      "X": 165.3049,
+                      "Y": 451.0713
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3006,
+                      "Y": 0.6444
+                    },
+                    "PreSize": {
+                      "X": 0.1818,
+                      "Y": 0.0429
+                    },
+                    "LeftMargin": 164.9848,
+                    "RightMargin": 285.0152,
+                    "TopMargin": 215.1039,
+                    "BottomMargin": 454.8961,
+                    "Tag": 28,
+                    "ActionTag": -1399821646,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 30.0
+                    },
+                    "Name": "tf_5",
+                    "ctype": "TextFieldObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "IsCustomSize": true,
+                    "LabelText": "16",
+                    "PlaceHolderText": "Text Field",
+                    "MaxLengthText": 10,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 329.4792,
+                      "Y": 454.4542
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5991,
+                      "Y": 0.6492
+                    },
+                    "PreSize": {
+                      "X": 0.1818,
+                      "Y": 0.0429
+                    },
+                    "LeftMargin": 329.4792,
+                    "RightMargin": 120.5208,
+                    "TopMargin": 215.5458,
+                    "BottomMargin": 454.4542,
+                    "Tag": 29,
+                    "ActionTag": 655170861,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 30.0
+                    },
+                    "Name": "tf_6",
+                    "ctype": "TextFieldObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "IsCustomSize": true,
+                    "LabelText": "17",
+                    "PlaceHolderText": "Text Field",
+                    "MaxLengthText": 10,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.07,
+                      "ScaleY": -0.1443
+                    },
+                    "Position": {
+                      "X": 172.4249,
+                      "Y": 378.4503
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3135,
+                      "Y": 0.5406
+                    },
+                    "PreSize": {
+                      "X": 0.1818,
+                      "Y": 0.0429
+                    },
+                    "LeftMargin": 165.4264,
+                    "RightMargin": 284.5736,
+                    "TopMargin": 287.2209,
+                    "BottomMargin": 382.7791,
+                    "Tag": 30,
+                    "ActionTag": -1685273131,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 30.0
+                    },
+                    "Name": "tf_7",
+                    "ctype": "TextFieldObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "IsCustomSize": true,
+                    "LabelText": "26",
+                    "PlaceHolderText": "Text Field",
+                    "MaxLengthText": 10,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleY": 0.1078
+                    },
+                    "Position": {
+                      "X": 336.291,
+                      "Y": 385.5701
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6114,
+                      "Y": 0.5508
+                    },
+                    "PreSize": {
+                      "X": 0.1818,
+                      "Y": 0.0429
+                    },
+                    "LeftMargin": 336.291,
+                    "RightMargin": 113.709,
+                    "TopMargin": 287.6648,
+                    "BottomMargin": 382.3352,
+                    "Tag": 31,
+                    "ActionTag": 1642122226,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 30.0
+                    },
+                    "Name": "tf_8",
+                    "ctype": "TextFieldObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "lajiao.png",
+                      "Plist": "adminsys.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5199,
+                      "ScaleY": 0.4601
+                    },
+                    "Position": {
+                      "X": 50.4124,
+                      "Y": 614.5994
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0917,
+                      "Y": 0.878
+                    },
+                    "PreSize": {
+                      "X": 0.1455,
+                      "Y": 0.1143
+                    },
+                    "LeftMargin": 8.8204,
+                    "RightMargin": 461.1796,
+                    "TopMargin": 42.2086,
+                    "BottomMargin": 577.7914,
+                    "Tag": 19,
+                    "ActionTag": 308987858,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 80.0
+                    },
+                    "Name": "lajiao_2",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "xihongshi.png",
+                      "Plist": "adminsys.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 53.6016,
+                      "Y": 541.332
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0975,
+                      "Y": 0.7733
+                    },
+                    "PreSize": {
+                      "X": 0.1455,
+                      "Y": 0.1143
+                    },
+                    "LeftMargin": 13.6016,
+                    "RightMargin": 456.3984,
+                    "TopMargin": 118.668,
+                    "BottomMargin": 501.332,
+                    "Tag": 24,
+                    "ActionTag": 1500061476,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 80.0
+                    },
+                    "Name": "xihongshi_3",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "qiezi.png",
+                      "Plist": "adminsys.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 63.1611,
+                      "Y": 472.8453
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1148,
+                      "Y": 0.6755
+                    },
+                    "PreSize": {
+                      "X": 0.1455,
+                      "Y": 0.1143
+                    },
+                    "LeftMargin": 23.1611,
+                    "RightMargin": 446.8389,
+                    "TopMargin": 187.1547,
+                    "BottomMargin": 432.8453,
+                    "Tag": 34,
+                    "ActionTag": 275052683,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 80.0
+                    },
+                    "Name": "qiezi_6",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "wandou.png",
+                      "Plist": "adminsys.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 61.5668,
+                      "Y": 397.9867
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1119,
+                      "Y": 0.5686
+                    },
+                    "PreSize": {
+                      "X": 0.1455,
+                      "Y": 0.1143
+                    },
+                    "LeftMargin": 21.5668,
+                    "RightMargin": 448.4332,
+                    "TopMargin": 262.0133,
+                    "BottomMargin": 357.9867,
+                    "Tag": 35,
+                    "ActionTag": -137476264,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 80.0
+                    },
+                    "Name": "wandou_7",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "IsCustomSize": true,
+                    "LabelText": "1",
+                    "PlaceHolderText": "Text Field",
+                    "MaxLengthText": 10,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 171.3567,
+                      "Y": 311.5471
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3116,
+                      "Y": 0.4451
+                    },
+                    "PreSize": {
+                      "X": 0.1818,
+                      "Y": 0.0429
+                    },
+                    "LeftMargin": 171.3567,
+                    "RightMargin": 278.6433,
+                    "TopMargin": 358.4529,
+                    "BottomMargin": 311.5471,
+                    "Tag": 36,
+                    "ActionTag": -614437917,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 30.0
+                    },
+                    "Name": "tf_9",
+                    "ctype": "TextFieldObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "IsCustomSize": true,
+                    "LabelText": "2",
+                    "PlaceHolderText": "Text Field",
+                    "MaxLengthText": 10,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 343.8124,
+                      "Y": 309.5094
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6251,
+                      "Y": 0.4422
+                    },
+                    "PreSize": {
+                      "X": 0.1818,
+                      "Y": 0.0429
+                    },
+                    "LeftMargin": 343.8124,
+                    "RightMargin": 106.1876,
+                    "TopMargin": 360.4906,
+                    "BottomMargin": 309.5094,
+                    "Tag": 37,
+                    "ActionTag": 690307505,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 30.0
+                    },
+                    "Name": "tf_10",
+                    "ctype": "TextFieldObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "IsCustomSize": true,
+                    "LabelText": "3",
+                    "PlaceHolderText": "Text Field",
+                    "MaxLengthText": 10,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 170.2064,
+                      "Y": 231.638
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0949
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3095,
+                      "Y": 0.3309
+                    },
+                    "PreSize": {
+                      "X": 0.1818,
+                      "Y": 0.0429
+                    },
+                    "LeftMargin": 170.2064,
+                    "RightMargin": 279.7936,
+                    "TopMargin": 438.3621,
+                    "BottomMargin": 231.638,
+                    "Tag": 38,
+                    "ActionTag": 572665987,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 30.0
+                    },
+                    "Name": "tf_11",
+                    "ctype": "TextFieldObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "IsCustomSize": true,
+                    "LabelText": "8",
+                    "PlaceHolderText": "Text Field",
+                    "MaxLengthText": 10,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 347.4443,
+                      "Y": 232.6187
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6317,
+                      "Y": 0.3323
+                    },
+                    "PreSize": {
+                      "X": 0.1818,
+                      "Y": 0.0429
+                    },
+                    "LeftMargin": 347.4443,
+                    "RightMargin": 102.5557,
+                    "TopMargin": 437.3813,
+                    "BottomMargin": 232.6187,
+                    "Tag": 39,
+                    "ActionTag": -1737360257,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 30.0
+                    },
+                    "Name": "tf_12",
+                    "ctype": "TextFieldObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "IsCustomSize": true,
+                    "LabelText": "9",
+                    "PlaceHolderText": "Text Field",
+                    "MaxLengthText": 10,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 170.2064,
+                      "Y": 164.5772
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3095,
+                      "Y": 0.2351
+                    },
+                    "PreSize": {
+                      "X": 0.1818,
+                      "Y": 0.0429
+                    },
+                    "LeftMargin": 170.2064,
+                    "RightMargin": 279.7936,
+                    "TopMargin": 505.4228,
+                    "BottomMargin": 164.5772,
+                    "Tag": 40,
+                    "ActionTag": 1528261331,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 30.0
+                    },
+                    "Name": "tf_13",
+                    "ctype": "TextFieldObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "IsCustomSize": true,
+                    "LabelText": "16",
+                    "PlaceHolderText": "Text Field",
+                    "MaxLengthText": 10,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": -0.0045
+                    },
+                    "Position": {
+                      "X": 339.0244,
+                      "Y": 164.1331
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6164,
+                      "Y": 0.2345
+                    },
+                    "PreSize": {
+                      "X": 0.1818,
+                      "Y": 0.0429
+                    },
+                    "LeftMargin": 339.4768,
+                    "RightMargin": 110.5232,
+                    "TopMargin": 505.8669,
+                    "BottomMargin": 164.1331,
+                    "Tag": 41,
+                    "ActionTag": 436171604,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 30.0
+                    },
+                    "Name": "tf_14",
+                    "ctype": "TextFieldObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "IsCustomSize": true,
+                    "LabelText": "17",
+                    "PlaceHolderText": "Text Field",
+                    "MaxLengthText": 10,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 170.6479,
+                      "Y": 92.4613
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3103,
+                      "Y": 0.1321
+                    },
+                    "PreSize": {
+                      "X": 0.1818,
+                      "Y": 0.0429
+                    },
+                    "LeftMargin": 170.6479,
+                    "RightMargin": 279.3521,
+                    "TopMargin": 577.5387,
+                    "BottomMargin": 92.4613,
+                    "Tag": 42,
+                    "ActionTag": 674843863,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 30.0
+                    },
+                    "Name": "tf_15",
+                    "ctype": "TextFieldObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "IsCustomSize": true,
+                    "LabelText": "26",
+                    "PlaceHolderText": "Text Field",
+                    "MaxLengthText": 10,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 344.6981,
+                      "Y": 90.424
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6267,
+                      "Y": 0.1292
+                    },
+                    "PreSize": {
+                      "X": 0.1818,
+                      "Y": 0.0429
+                    },
+                    "LeftMargin": 344.6981,
+                    "RightMargin": 105.3019,
+                    "TopMargin": 579.576,
+                    "BottomMargin": 90.424,
+                    "Tag": 43,
+                    "ActionTag": 695718491,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 30.0
+                    },
+                    "Name": "tf_16",
+                    "ctype": "TextFieldObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "IsCustomSize": true,
+                    "LabelText": "17",
+                    "PlaceHolderText": "Text Field",
+                    "MaxLengthText": 10,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 166.3127,
+                      "Y": 21.9364
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.3024,
+                      "Y": 0.0313
+                    },
+                    "PreSize": {
+                      "X": 0.1818,
+                      "Y": 0.0429
+                    },
+                    "LeftMargin": 166.3127,
+                    "RightMargin": 283.6873,
+                    "TopMargin": 648.0636,
+                    "BottomMargin": 21.9364,
+                    "Tag": 52,
+                    "ActionTag": -860529731,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 30.0
+                    },
+                    "Name": "tf_17",
+                    "ctype": "TextFieldObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "IsCustomSize": true,
+                    "LabelText": "26",
+                    "PlaceHolderText": "Text Field",
+                    "MaxLengthText": 10,
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 348.3275,
+                      "Y": 18.3064
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6333,
+                      "Y": 0.0262
+                    },
+                    "PreSize": {
+                      "X": 0.1818,
+                      "Y": 0.0429
+                    },
+                    "LeftMargin": 348.3275,
+                    "RightMargin": 101.6725,
+                    "TopMargin": 651.6936,
+                    "BottomMargin": 18.3064,
+                    "Tag": 53,
+                    "ActionTag": -1349955819,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 30.0
+                    },
+                    "Name": "tf_18",
+                    "ctype": "TextFieldObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "mogu.png",
+                      "Plist": "adminsys.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 65.5217,
+                      "Y": 314.567
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1191,
+                      "Y": 0.4494
+                    },
+                    "PreSize": {
+                      "X": 0.1455,
+                      "Y": 0.1143
+                    },
+                    "LeftMargin": 25.5217,
+                    "RightMargin": 444.4783,
+                    "TopMargin": 345.433,
+                    "BottomMargin": 274.567,
+                    "Tag": 48,
+                    "ActionTag": 614352074,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 80.0
+                    },
+                    "Name": "mogu_12",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "dasuan.png",
+                      "Plist": "adminsys.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 62.3351,
+                      "Y": 247.6719
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1133,
+                      "Y": 0.3538
+                    },
+                    "PreSize": {
+                      "X": 0.1455,
+                      "Y": 0.1143
+                    },
+                    "LeftMargin": 22.3351,
+                    "RightMargin": 447.6649,
+                    "TopMargin": 412.3281,
+                    "BottomMargin": 207.6719,
+                    "Tag": 49,
+                    "ActionTag": 1798324314,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 80.0
+                    },
+                    "Name": "dasuan_13",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "luobo.png",
+                      "Plist": "adminsys.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 60.7435,
+                      "Y": 175.9974
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1104,
+                      "Y": 0.2514
+                    },
+                    "PreSize": {
+                      "X": 0.1455,
+                      "Y": 0.1143
+                    },
+                    "LeftMargin": 20.7435,
+                    "RightMargin": 449.2565,
+                    "TopMargin": 484.0026,
+                    "BottomMargin": 135.9974,
+                    "Tag": 50,
+                    "ActionTag": 1176168242,
+                    "Size": {
+                      "X": 80.0,
+                      "Y": 80.0
+                    },
+                    "Name": "luobo_14",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "huangfei.png",
+                      "Plist": "adminsys.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 70.3022,
+                      "Y": 102.7301
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1278,
+                      "Y": 0.1468
+                    },
+                    "PreSize": {
+                      "X": 0.1255,
+                      "Y": 0.0986
+                    },
+                    "LeftMargin": 35.8022,
+                    "RightMargin": 445.1978,
+                    "TopMargin": 562.7699,
+                    "BottomMargin": 68.2301,
+                    "Tag": 51,
+                    "ActionTag": -1689615172,
+                    "Size": {
+                      "X": 69.0,
+                      "Y": 69.0
+                    },
+                    "Name": "huangfei_15",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "LabelText": "水果",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 61.8335,
+                      "Y": 671.251
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1124,
+                      "Y": 0.9589
+                    },
+                    "PreSize": {
+                      "X": 0.1091,
+                      "Y": 0.0429
+                    },
+                    "LeftMargin": 31.8335,
+                    "RightMargin": 458.1665,
+                    "TopMargin": 13.749,
+                    "BottomMargin": 656.251,
+                    "Tag": 16,
+                    "ActionTag": 1859940982,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 30.0
+                    },
+                    "Name": "Text_4",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "huafei.png",
+                      "Plist": "adminsys.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 770,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 72.4923,
+                      "Y": 26.2167
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.1318,
+                      "Y": 0.0375
+                    },
+                    "PreSize": {
+                      "X": 0.1218,
+                      "Y": 0.0943
+                    },
+                    "LeftMargin": 38.9923,
+                    "RightMargin": 444.0077,
+                    "TopMargin": 640.7833,
+                    "BottomMargin": -6.7833,
+                    "Tag": 56,
+                    "ActionTag": 1712901822,
+                    "Size": {
+                      "X": 67.0,
+                      "Y": 66.0
+                    },
+                    "Name": "huafei_17",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FontSize": 30,
+                    "ButtonText": "确定",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Disable.png",
+                      "Plist": ""
+                    },
+                    "PressedFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Press.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Normal.png",
+                      "Plist": ""
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 16,
+                    "Scale9Height": 14,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 487.8195,
+                      "Y": 41.6283
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8869,
+                      "Y": 0.0595
+                    },
+                    "PreSize": {
+                      "X": 0.1818,
+                      "Y": 0.0857
+                    },
+                    "LeftMargin": 437.8195,
+                    "RightMargin": 12.1805,
+                    "TopMargin": 628.3717,
+                    "BottomMargin": 11.6283,
+                    "Tag": 55,
+                    "ActionTag": -1617191226,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 60.0
+                    },
+                    "Name": "btn_fruit_ok",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 269008711,
+                "Size": {
+                  "X": 550.0,
+                  "Y": 700.0
+                },
+                "Name": "panel1",
+                "ctype": "PanelObjectData"
+              },
+              {
+                "FontSize": 30,
+                "LabelText": "话费",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 99.8609,
+                  "Y": 99.0201
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.156,
+                  "Y": 0.1031
+                },
+                "PreSize": {
+                  "X": 0.0938,
+                  "Y": 0.0312
+                },
+                "LeftMargin": 69.8609,
+                "RightMargin": 510.1391,
+                "TopMargin": 845.9799,
+                "BottomMargin": 84.0201,
+                "Tag": 48,
+                "ActionTag": 691499790,
+                "Size": {
+                  "X": 60.0,
+                  "Y": 30.0
+                },
+                "Name": "Text_7",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 30,
+                "IsCustomSize": true,
+                "LabelText": "20",
+                "PlaceHolderText": "Text Field",
+                "MaxLengthText": 10,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 241.616,
+                  "Y": 95.8345
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3775,
+                  "Y": 0.0998
+                },
+                "PreSize": {
+                  "X": 0.1562,
+                  "Y": 0.0365
+                },
+                "LeftMargin": 191.616,
+                "RightMargin": 348.384,
+                "TopMargin": 846.6655,
+                "BottomMargin": 78.3345,
+                "Tag": 49,
+                "ActionTag": -954964926,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 35.0
+                },
+                "Name": "tf_fee",
+                "ctype": "TextFieldObjectData"
+              },
+              {
+                "FontSize": 30,
+                "ButtonText": "确定",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Disable.png",
+                  "Plist": ""
+                },
+                "PressedFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Press.png",
+                  "Plist": ""
+                },
+                "NormalFileData": {
+                  "Type": "Default",
+                  "Path": "Default/Button_Normal.png",
+                  "Plist": ""
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 16,
+                "Scale9Height": 14,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 526.4888,
+                  "Y": 90.56
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8226,
+                  "Y": 0.0943
+                },
+                "PreSize": {
+                  "X": 0.1562,
+                  "Y": 0.0625
+                },
+                "LeftMargin": 476.4888,
+                "RightMargin": 63.5112,
+                "TopMargin": 839.4399,
+                "BottomMargin": 60.56,
+                "Tag": 51,
+                "ActionTag": -1593725042,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 60.0
+                },
+                "Name": "btn_fee_ok",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 842643502,
+            "Size": {
+              "X": 640.0,
+              "Y": 960.0
+            },
+            "Name": "fruit_layer",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 640.0,
+          "Y": 960.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "adminsys.plist",
+        "adminsys.png",
+        "Default/Button_Disable.png",
+        "Default/Button_Normal.png",
+        "Default/Button_Press.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}
