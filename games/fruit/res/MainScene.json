@@ -5126,7 +5126,7 @@
                           "X": 67.0,
                           "Y": 66.0
                         },
-                        "Name": "Image_7",
+                        "Name": "icon_fee",
                         "ctype": "ImageViewObjectData"
                       },
                       {
@@ -5169,7 +5169,7 @@
                           "X": 69.0,
                           "Y": 69.0
                         },
-                        "Name": "Image_7_0",
+                        "Name": "icon_double",
                         "ctype": "ImageViewObjectData"
                       }
                     ],
@@ -5279,7 +5279,7 @@
             },
             "PreSize": {
               "X": 0.25,
-              "Y": 0.1563
+              "Y": 0.1562
             },
             "LeftMargin": 313.3334,
             "RightMargin": 286.6666,
