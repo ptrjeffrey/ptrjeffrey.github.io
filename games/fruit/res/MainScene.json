@@ -16,7 +16,7 @@
           {
             "FileData": {
               "Type": "Normal",
-              "Path": "fruit/num/bj.jpg",
+              "Path": "NewFolder/bj.jpg",
               "Plist": ""
             },
             "Scale9Width": 800,
@@ -102,7 +102,7 @@
                 "BackColorAlpha": 102,
                 "FileData": {
                   "Type": "Normal",
-                  "Path": "fruit/num/ditai.png",
+                  "Path": "NewFolder/ditai.png",
                   "Plist": ""
                 },
                 "SingleColor": {
@@ -154,21 +154,20 @@
                       "B": 70
                     },
                     "DisabledFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/lj200.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "lj200.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "PressedFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/lj200.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "lj200.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "NormalFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/lj20.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "lj20.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
-                    "Scale9Enable": true,
                     "Scale9OriginX": 15,
                     "Scale9OriginY": 11,
                     "Scale9Width": 72,
@@ -229,21 +228,20 @@
                       "B": 70
                     },
                     "DisabledFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/fq100.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "fq100.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "PressedFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/fq100.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "fq100.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "NormalFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/fq10.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "fq10.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
-                    "Scale9Enable": true,
                     "Scale9OriginX": 15,
                     "Scale9OriginY": 11,
                     "Scale9Width": 70,
@@ -304,21 +302,20 @@
                       "B": 70
                     },
                     "DisabledFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/qz77.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "qz77.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "PressedFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/qz77.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "qz77.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "NormalFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/qz7.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "qz7.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
-                    "Scale9Enable": true,
                     "Scale9OriginX": 15,
                     "Scale9OriginY": 11,
                     "Scale9Width": 61,
@@ -379,21 +376,20 @@
                       "B": 70
                     },
                     "DisabledFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/wd66.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "wd66.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "PressedFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/wd66.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "wd66.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "NormalFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/wd6.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "wd6.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
-                    "Scale9Enable": true,
                     "Scale9OriginX": 15,
                     "Scale9OriginY": 11,
                     "Scale9Width": 61,
@@ -454,21 +450,20 @@
                       "B": 70
                     },
                     "DisabledFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/mg55.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "mg55.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "PressedFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/mg55.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "mg55.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "NormalFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/mg5.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "mg5.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
-                    "Scale9Enable": true,
                     "Scale9OriginX": 15,
                     "Scale9OriginY": 11,
                     "Scale9Width": 63,
@@ -486,12 +481,12 @@
                     "ShadowOffsetY": -2.0,
                     "TouchEnable": true,
                     "AnchorPoint": {
-                      "ScaleX": 0.5,
-                      "ScaleY": 0.5
+                      "ScaleX": 0.607,
+                      "ScaleY": 0.5206
                     },
                     "Position": {
-                      "X": 573.7738,
-                      "Y": 161.7909
+                      "X": 583.7225,
+                      "Y": 164.661
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -500,15 +495,15 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.6264,
-                      "Y": 0.4933
+                      "X": 0.6373,
+                      "Y": 0.502
                     },
                     "PreSize": {
                       "X": 0.1015,
                       "Y": 0.4238
                     },
-                    "LeftMargin": 527.2738,
-                    "RightMargin": 295.7262,
+                    "LeftMargin": 527.2742,
+                    "RightMargin": 295.7258,
                     "TopMargin": 96.7091,
                     "BottomMargin": 92.2909,
                     "Tag": 91,
@@ -529,21 +524,20 @@
                       "B": 70
                     },
                     "DisabledFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/ds44.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "ds44.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "PressedFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/ds44.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "ds44.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "NormalFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/ds4.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "ds4.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
-                    "Scale9Enable": true,
                     "Scale9OriginX": 15,
                     "Scale9OriginY": 11,
                     "Scale9Width": 72,
@@ -604,21 +598,20 @@
                       "B": 70
                     },
                     "DisabledFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/lb33.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "lb33.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "PressedFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/lb33.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "lb33.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "NormalFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/lb3.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "lb3.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
-                    "Scale9Enable": true,
                     "Scale9OriginX": 15,
                     "Scale9OriginY": 11,
                     "Scale9Width": 76,
@@ -679,21 +672,20 @@
                       "B": 70
                     },
                     "DisabledFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/btn1.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "btn1.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "PressedFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/btn1.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "btn1.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "NormalFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/btn0.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "btn0.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
-                    "Scale9Enable": true,
                     "Scale9OriginX": 15,
                     "Scale9OriginY": 11,
                     "Scale9Width": 121,
@@ -747,24 +739,29 @@
                   },
                   {
                     "NormalBackFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/btn3.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "btn3.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "PressedBackFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/btn2.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "btn2.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "DisableBackFileData": {
-                      "Type": "Default",
-                      "Path": "Default/CheckBox_Disable.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "btn2.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "NodeNormalFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/btn2.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "btn2.png",
+                      "Plist": "NewFolder/btns.plist"
+                    },
+                    "NodeDisableFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn2.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "TouchEnable": true,
                     "AnchorPoint": {
@@ -797,9 +794,9 @@
                     "Children": [
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/num/dfs_m_2w.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_m_2w.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -851,24 +848,29 @@
                   },
                   {
                     "NormalBackFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/btn3.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "btn3.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "PressedBackFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/btn2.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "btn2.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "DisableBackFileData": {
-                      "Type": "Default",
-                      "Path": "Default/CheckBox_Disable.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "btn2.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "NodeNormalFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/btn2.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "btn2.png",
+                      "Plist": "NewFolder/btns.plist"
+                    },
+                    "NodeDisableFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn2.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "TouchEnable": true,
                     "AnchorPoint": {
@@ -901,9 +903,9 @@
                     "Children": [
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/num/dfs_m_5000.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_m_5000.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -956,24 +958,29 @@
                   {
                     "CheckedState": true,
                     "NormalBackFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/btn3.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "btn3.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "PressedBackFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/btn2.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "btn2.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "DisableBackFileData": {
-                      "Type": "Default",
-                      "Path": "Default/CheckBox_Disable.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "btn2.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "NodeNormalFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/btn2.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "btn2.png",
+                      "Plist": "NewFolder/btns.plist"
+                    },
+                    "NodeDisableFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "btn2.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "TouchEnable": true,
                     "AnchorPoint": {
@@ -1006,9 +1013,9 @@
                     "Children": [
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/num/dfs_m_1000.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_m_1000.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -1060,9 +1067,9 @@
                   },
                   {
                     "FileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/dfs_b_kuangzi.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "dfs_b_kuangzi.png",
+                      "Plist": "NewFolder/part1.plist"
                     },
                     "BlendFunc": {
                       "Src": 770,
@@ -1158,9 +1165,9 @@
                   },
                   {
                     "FileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/dfs_b_touixang.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "dfs_b_touixang.png",
+                      "Plist": "NewFolder/part1.plist"
                     },
                     "BlendFunc": {
                       "Src": 770,
@@ -1203,9 +1210,9 @@
                   },
                   {
                     "FileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/chongf.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "chongf.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "Scale9Width": 97,
                     "Scale9Height": 31,
@@ -1246,9 +1253,9 @@
                   },
                   {
                     "FileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/dfs_b_kuangzi.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "dfs_b_kuangzi.png",
+                      "Plist": "NewFolder/part1.plist"
                     },
                     "BlendFunc": {
                       "Src": 770,
@@ -1763,7 +1770,7 @@
                   {
                     "FileData": {
                       "Type": "Normal",
-                      "Path": "fruit/num/dfs_bg1.png",
+                      "Path": "NewFolder/dfs_bg1.png",
                       "Plist": ""
                     },
                     "BlendFunc": {
@@ -1849,9 +1856,9 @@
                     "Children": [
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_deng4.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_deng4.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -1896,9 +1903,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_deng1.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_deng1.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -1941,9 +1948,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_deng2.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_deng2.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -1986,9 +1993,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_deng1.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_deng1.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -2031,9 +2038,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_deng2.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_deng2.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -2076,9 +2083,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_deng1.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_deng1.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -2121,9 +2128,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_deng2.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_deng2.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -2166,9 +2173,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_deng3.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_deng3.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -2211,9 +2218,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_deng2.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_deng2.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -2258,9 +2265,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_deng1.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_deng1.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -2305,9 +2312,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_deng2.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_deng2.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -2352,9 +2359,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_deng1.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_deng1.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -2399,9 +2406,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_deng2.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_deng2.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -2446,9 +2453,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_deng1.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_deng1.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -2493,9 +2500,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_deng4.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_deng4.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -2540,9 +2547,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_deng1.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_deng1.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -2585,9 +2592,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_deng2.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_deng2.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -2630,9 +2637,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_deng1.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_deng1.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -2675,9 +2682,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_deng2.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_deng2.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -2720,9 +2727,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_deng1.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_deng1.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -2765,9 +2772,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_deng2.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_deng2.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -2810,9 +2817,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_deng3.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_deng3.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -2857,9 +2864,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_deng2.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_deng2.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -2904,9 +2911,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_deng1.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_deng1.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -2951,9 +2958,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_deng2.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_deng2.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -2998,9 +3005,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_deng1.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_deng1.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -3045,9 +3052,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_deng2.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_deng2.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -3092,9 +3099,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_deng1.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_deng1.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -3190,9 +3197,9 @@
                     "Children": [
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_kuang.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_kuang.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -3228,9 +3235,9 @@
                         "Children": [
                           {
                             "FileData": {
-                              "Type": "Normal",
-                              "Path": "fruit/img/lajiao.png",
-                              "Plist": ""
+                              "Type": "PlistSubImage",
+                              "Path": "lajiao.png",
+                              "Plist": "NewFolder/part2.plist"
                             },
                             "BlendFunc": {
                               "Src": 770,
@@ -3282,9 +3289,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_kuang.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_kuang.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -3320,9 +3327,9 @@
                         "Children": [
                           {
                             "FileData": {
-                              "Type": "Normal",
-                              "Path": "fruit/img/wandou.png",
-                              "Plist": ""
+                              "Type": "PlistSubImage",
+                              "Path": "wandou.png",
+                              "Plist": "NewFolder/part2.plist"
                             },
                             "BlendFunc": {
                               "Src": 770,
@@ -3374,9 +3381,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_kuang.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_kuang.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -3412,9 +3419,9 @@
                         "Children": [
                           {
                             "FileData": {
-                              "Type": "Normal",
-                              "Path": "fruit/img/luobo.png",
-                              "Plist": ""
+                              "Type": "PlistSubImage",
+                              "Path": "luobo.png",
+                              "Plist": "NewFolder/part2.plist"
                             },
                             "BlendFunc": {
                               "Src": 770,
@@ -3466,9 +3473,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_kuang.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_kuang.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -3504,9 +3511,9 @@
                         "Children": [
                           {
                             "FileData": {
-                              "Type": "Normal",
-                              "Path": "fruit/img/dasuan.png",
-                              "Plist": ""
+                              "Type": "PlistSubImage",
+                              "Path": "dasuan.png",
+                              "Plist": "NewFolder/part2.plist"
                             },
                             "BlendFunc": {
                               "Src": 770,
@@ -3558,9 +3565,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_kuang.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_kuang.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -3596,9 +3603,9 @@
                         "Children": [
                           {
                             "FileData": {
-                              "Type": "Normal",
-                              "Path": "fruit/img/qiezi.png",
-                              "Plist": ""
+                              "Type": "PlistSubImage",
+                              "Path": "qiezi.png",
+                              "Plist": "NewFolder/part2.plist"
                             },
                             "BlendFunc": {
                               "Src": 770,
@@ -3650,9 +3657,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_kuang.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_kuang.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -3688,9 +3695,9 @@
                         "Children": [
                           {
                             "FileData": {
-                              "Type": "Normal",
-                              "Path": "fruit/img/huafei.png",
-                              "Plist": ""
+                              "Type": "PlistSubImage",
+                              "Path": "huafei.png",
+                              "Plist": "NewFolder/part2.plist"
                             },
                             "BlendFunc": {
                               "Src": 770,
@@ -3742,9 +3749,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_kuang.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_kuang.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -3780,9 +3787,9 @@
                         "Children": [
                           {
                             "FileData": {
-                              "Type": "Normal",
-                              "Path": "fruit/img/luobo.png",
-                              "Plist": ""
+                              "Type": "PlistSubImage",
+                              "Path": "luobo.png",
+                              "Plist": "NewFolder/part2.plist"
                             },
                             "BlendFunc": {
                               "Src": 770,
@@ -3834,9 +3841,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_kuang.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_kuang.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -3872,9 +3879,9 @@
                         "Children": [
                           {
                             "FileData": {
-                              "Type": "Normal",
-                              "Path": "fruit/img/mogu.png",
-                              "Plist": ""
+                              "Type": "PlistSubImage",
+                              "Path": "mogu.png",
+                              "Plist": "NewFolder/part2.plist"
                             },
                             "BlendFunc": {
                               "Src": 770,
@@ -3926,9 +3933,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_kuang.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_kuang.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -3964,9 +3971,9 @@
                         "Children": [
                           {
                             "FileData": {
-                              "Type": "Normal",
-                              "Path": "fruit/img/wandou.png",
-                              "Plist": ""
+                              "Type": "PlistSubImage",
+                              "Path": "wandou.png",
+                              "Plist": "NewFolder/part2.plist"
                             },
                             "BlendFunc": {
                               "Src": 770,
@@ -4018,9 +4025,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_kuang.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_kuang.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -4056,9 +4063,9 @@
                         "Children": [
                           {
                             "FileData": {
-                              "Type": "Normal",
-                              "Path": "fruit/img/dasuan.png",
-                              "Plist": ""
+                              "Type": "PlistSubImage",
+                              "Path": "dasuan.png",
+                              "Plist": "NewFolder/part2.plist"
                             },
                             "BlendFunc": {
                               "Src": 770,
@@ -4110,9 +4117,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_kuang.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_kuang.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -4148,9 +4155,9 @@
                         "Children": [
                           {
                             "FileData": {
-                              "Type": "Normal",
-                              "Path": "fruit/img/luobo.png",
-                              "Plist": ""
+                              "Type": "PlistSubImage",
+                              "Path": "luobo.png",
+                              "Plist": "NewFolder/part2.plist"
                             },
                             "BlendFunc": {
                               "Src": 770,
@@ -4202,9 +4209,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_kuang.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_kuang.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -4240,9 +4247,9 @@
                         "Children": [
                           {
                             "FileData": {
-                              "Type": "Normal",
-                              "Path": "fruit/img/mogu.png",
-                              "Plist": ""
+                              "Type": "PlistSubImage",
+                              "Path": "mogu.png",
+                              "Plist": "NewFolder/part2.plist"
                             },
                             "BlendFunc": {
                               "Src": 770,
@@ -4294,9 +4301,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_kuang.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_kuang.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -4332,9 +4339,9 @@
                         "Children": [
                           {
                             "FileData": {
-                              "Type": "Normal",
-                              "Path": "fruit/img/xihongshi.png",
-                              "Plist": ""
+                              "Type": "PlistSubImage",
+                              "Path": "xihongshi.png",
+                              "Plist": "NewFolder/part2.plist"
                             },
                             "BlendFunc": {
                               "Src": 770,
@@ -4386,9 +4393,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_kuang.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_kuang.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -4424,9 +4431,9 @@
                         "Children": [
                           {
                             "FileData": {
-                              "Type": "Normal",
-                              "Path": "fruit/img/luobo.png",
-                              "Plist": ""
+                              "Type": "PlistSubImage",
+                              "Path": "luobo.png",
+                              "Plist": "NewFolder/part2.plist"
                             },
                             "BlendFunc": {
                               "Src": 770,
@@ -4478,9 +4485,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_kuang.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_kuang.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -4516,9 +4523,9 @@
                         "Children": [
                           {
                             "FileData": {
-                              "Type": "Normal",
-                              "Path": "fruit/img/wandou.png",
-                              "Plist": ""
+                              "Type": "PlistSubImage",
+                              "Path": "wandou.png",
+                              "Plist": "NewFolder/part2.plist"
                             },
                             "BlendFunc": {
                               "Src": 770,
@@ -4570,9 +4577,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_kuang.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_kuang.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -4608,9 +4615,9 @@
                         "Children": [
                           {
                             "FileData": {
-                              "Type": "Normal",
-                              "Path": "fruit/img/huangfei.png",
-                              "Plist": ""
+                              "Type": "PlistSubImage",
+                              "Path": "huangfei.png",
+                              "Plist": "NewFolder/part2.plist"
                             },
                             "BlendFunc": {
                               "Src": 770,
@@ -4662,9 +4669,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_kuang.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_kuang.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -4700,9 +4707,9 @@
                         "Children": [
                           {
                             "FileData": {
-                              "Type": "Normal",
-                              "Path": "fruit/img/qiezi.png",
-                              "Plist": ""
+                              "Type": "PlistSubImage",
+                              "Path": "qiezi.png",
+                              "Plist": "NewFolder/part2.plist"
                             },
                             "BlendFunc": {
                               "Src": 770,
@@ -4754,9 +4761,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_kuang.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_kuang.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -4792,9 +4799,9 @@
                         "Children": [
                           {
                             "FileData": {
-                              "Type": "Normal",
-                              "Path": "fruit/img/luobo.png",
-                              "Plist": ""
+                              "Type": "PlistSubImage",
+                              "Path": "luobo.png",
+                              "Plist": "NewFolder/part2.plist"
                             },
                             "BlendFunc": {
                               "Src": 770,
@@ -4846,9 +4853,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_kuang.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_kuang.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -4884,9 +4891,9 @@
                         "Children": [
                           {
                             "FileData": {
-                              "Type": "Normal",
-                              "Path": "fruit/img/mogu.png",
-                              "Plist": ""
+                              "Type": "PlistSubImage",
+                              "Path": "mogu.png",
+                              "Plist": "NewFolder/part2.plist"
                             },
                             "BlendFunc": {
                               "Src": 770,
@@ -4938,9 +4945,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/dfs_k_kuang.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_kuang.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
@@ -4976,9 +4983,9 @@
                         "Children": [
                           {
                             "FileData": {
-                              "Type": "Normal",
-                              "Path": "fruit/img/dasuan.png",
-                              "Plist": ""
+                              "Type": "PlistSubImage",
+                              "Path": "dasuan.png",
+                              "Plist": "NewFolder/part2.plist"
                             },
                             "BlendFunc": {
                               "Src": 770,
@@ -5032,9 +5039,9 @@
                         "ClipAble": true,
                         "BackColorAlpha": 102,
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/num/shuzi.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "shuzi.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "SingleColor": {
                           "R": 150,
@@ -5050,9 +5057,9 @@
                         },
                         "Scale9Enable": true,
                         "Scale9OriginX": 50,
-                        "Scale9OriginY": 25,
+                        "Scale9OriginY": 23,
                         "Scale9Width": 132,
-                        "Scale9Height": 25,
+                        "Scale9Height": 29,
                         "TouchEnable": true,
                         "AnchorPoint": {},
                         "Position": {
@@ -5088,9 +5095,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/huafei1.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "huafei1.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "Scale9Width": 67,
                         "Scale9Height": 66,
@@ -5131,9 +5138,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/shuangfei1.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "shuangfei1.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "Scale9Width": 69,
                         "Scale9Height": 69,
@@ -5184,7 +5191,7 @@
                   {
                     "FileData": {
                       "Type": "Normal",
-                      "Path": "fruit/num/dfs_bili.png",
+                      "Path": "NewFolder/dfs_bili.png",
                       "Plist": ""
                     },
                     "BlendFunc": {
@@ -5289,9 +5296,9 @@
             "Children": [
               {
                 "FileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/num/jiangci.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "jiangci.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
                 "Scale9Width": 301,
                 "Scale9Height": 301,
@@ -5339,21 +5346,20 @@
                   "B": 70
                 },
                 "DisabledFileData": {
-                  "Type": "Default",
-                  "Path": "Default/Button_Disable.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "liaot1.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
                 "PressedFileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/btn/liaot1.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "liaot1.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
                 "NormalFileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/btn/liaot.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "liaot.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
-                "Scale9Enable": true,
                 "Scale9OriginX": 15,
                 "Scale9OriginY": 11,
                 "Scale9Width": 17,
@@ -5414,21 +5420,20 @@
                   "B": 70
                 },
                 "DisabledFileData": {
-                  "Type": "Default",
-                  "Path": "Default/Button_Disable.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "lihua1.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
                 "PressedFileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/btn/lihua1.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "lihua1.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
                 "NormalFileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/btn/lihua.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "lihua.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
-                "Scale9Enable": true,
                 "Scale9OriginX": 14,
                 "Scale9OriginY": 11,
                 "Scale9Width": 17,
@@ -5482,9 +5487,9 @@
               },
               {
                 "FileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/img/qiu.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "qiu.png",
+                  "Plist": "NewFolder/part1.plist"
                 },
                 "Scale9Width": 484,
                 "Scale9Height": 131,
@@ -5532,21 +5537,20 @@
                   "B": 70
                 },
                 "DisabledFileData": {
-                  "Type": "Default",
-                  "Path": "Default/Button_Disable.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "menu1.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
                 "PressedFileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/btn/menu1.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "menu1.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
                 "NormalFileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/btn/menu.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "menu.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
-                "Scale9Enable": true,
                 "Scale9OriginX": 15,
                 "Scale9OriginY": 11,
                 "Scale9Width": 58,
@@ -5607,21 +5611,20 @@
                   "B": 70
                 },
                 "DisabledFileData": {
-                  "Type": "Default",
-                  "Path": "Default/Button_Disable.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "yijia1.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
                 "PressedFileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/btn/yijia1.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "yijia1.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
                 "NormalFileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/btn/yingjia.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "yingjia.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
-                "Scale9Enable": true,
                 "Scale9OriginX": 15,
                 "Scale9OriginY": 11,
                 "Scale9Width": 58,
@@ -5675,9 +5678,9 @@
               },
               {
                 "FileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/img/tishi.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "tishi.png",
+                  "Plist": "NewFolder/part1.plist"
                 },
                 "Scale9Width": 547,
                 "Scale9Height": 105,
@@ -5769,11 +5772,11 @@
                 "ctype": "ImageViewObjectData"
               },
               {
-                "ProgressInfo": 79,
+                "ProgressInfo": 100,
                 "ImageFileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/num/shijian1.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "shijian1.png",
+                  "Plist": "NewFolder/part1.plist"
                 },
                 "AnchorPoint": {
                   "ScaleX": 0.5136,
@@ -5808,17 +5811,17 @@
                   {
                     "ProgressInfo": 100,
                     "ImageFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/num/shijian.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "shijian.png",
+                      "Plist": "NewFolder/part1.plist"
                     },
                     "AnchorPoint": {
                       "ScaleX": 0.5,
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 144.9752,
-                      "Y": 25.6204
+                      "X": 132.0185,
+                      "Y": 34.1909
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -5827,17 +5830,17 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.5159,
-                      "Y": 0.5124
+                      "X": 0.4698,
+                      "Y": 0.6838
                     },
                     "PreSize": {
                       "X": 1.0,
                       "Y": 1.0
                     },
-                    "LeftMargin": 4.4752,
-                    "RightMargin": -4.4752,
-                    "TopMargin": -0.6204,
-                    "BottomMargin": 0.6204,
+                    "LeftMargin": -8.4815,
+                    "RightMargin": 8.4815,
+                    "TopMargin": -9.1909,
+                    "BottomMargin": 9.1909,
                     "Tag": 136,
                     "ActionTag": 440524406,
                     "Size": {
@@ -5907,15 +5910,16 @@
               "X": 800.0,
               "Y": 1280.0
             },
+            "VisibleForFrame": false,
             "Name": "mask_layer",
             "ctype": "PanelObjectData"
           },
           {
             "BackColorAlpha": 0,
             "FileData": {
-              "Type": "Normal",
-              "Path": "fruit/img/caidan.png",
-              "Plist": ""
+              "Type": "PlistSubImage",
+              "Path": "caidan.png",
+              "Plist": "NewFolder/part1.plist"
             },
             "ComboBoxIndex": 1,
             "SingleColor": {
@@ -5967,21 +5971,20 @@
                   "B": 70
                 },
                 "DisabledFileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/btn/wfsm1.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "zjjl1.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
                 "PressedFileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/btn/zjjl1.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "zjjl1.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
                 "NormalFileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/btn/zjjl.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "zjjl.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
-                "Scale9Enable": true,
                 "Scale9OriginX": 15,
                 "Scale9OriginY": 11,
                 "Scale9Width": 192,
@@ -6042,21 +6045,20 @@
                   "B": 70
                 },
                 "DisabledFileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/btn/wfsm1.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "wfsm1.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
                 "PressedFileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/btn/wfsm1.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "wfsm1.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
                 "NormalFileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/btn/wfsm.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "wfsm.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
-                "Scale9Enable": true,
                 "Scale9OriginX": 15,
                 "Scale9OriginY": 11,
                 "Scale9Width": 191,
@@ -6117,21 +6119,20 @@
                   "B": 70
                 },
                 "DisabledFileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/btn/wfsm1.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "more1.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
                 "PressedFileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/btn/more1.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "more1.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
                 "NormalFileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/btn/more.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "more.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
-                "Scale9Enable": true,
                 "Scale9OriginX": 15,
                 "Scale9OriginY": 11,
                 "Scale9Width": 189,
@@ -6201,73 +6202,16 @@
         "ctype": "SingleNodeObjectData"
       },
       "UsedResources": [
-        "Default/Button_Disable.png",
-        "Default/CheckBox_Disable.png",
-        "fruit/btn/btn0.png",
-        "fruit/btn/btn1.png",
-        "fruit/btn/btn2.png",
-        "fruit/btn/btn3.png",
-        "fruit/btn/chongf.png",
-        "fruit/btn/ds4.png",
-        "fruit/btn/ds44.png",
-        "fruit/btn/fq10.png",
-        "fruit/btn/fq100.png",
-        "fruit/btn/lb3.png",
-        "fruit/btn/lb33.png",
-        "fruit/btn/liaot.png",
-        "fruit/btn/liaot1.png",
-        "fruit/btn/lihua.png",
-        "fruit/btn/lihua1.png",
-        "fruit/btn/lj20.png",
-        "fruit/btn/lj200.png",
-        "fruit/btn/menu.png",
-        "fruit/btn/menu1.png",
-        "fruit/btn/mg5.png",
-        "fruit/btn/mg55.png",
-        "fruit/btn/more.png",
-        "fruit/btn/more1.png",
-        "fruit/btn/qz7.png",
-        "fruit/btn/qz77.png",
-        "fruit/btn/wd6.png",
-        "fruit/btn/wd66.png",
-        "fruit/btn/wfsm.png",
-        "fruit/btn/wfsm1.png",
-        "fruit/btn/yijia1.png",
-        "fruit/btn/yingjia.png",
-        "fruit/btn/zjjl.png",
-        "fruit/btn/zjjl1.png",
-        "fruit/dfs_b_kuangzi.png",
-        "fruit/dfs_b_touixang.png",
-        "fruit/img/caidan.png",
-        "fruit/img/dasuan.png",
-        "fruit/img/dfs_k_deng1.png",
-        "fruit/img/dfs_k_deng2.png",
-        "fruit/img/dfs_k_deng3.png",
-        "fruit/img/dfs_k_deng4.png",
-        "fruit/img/dfs_k_kuang.png",
-        "fruit/img/huafei.png",
-        "fruit/img/huafei1.png",
-        "fruit/img/huangfei.png",
-        "fruit/img/lajiao.png",
-        "fruit/img/luobo.png",
-        "fruit/img/mogu.png",
-        "fruit/img/qiezi.png",
-        "fruit/img/qiu.png",
-        "fruit/img/shuangfei1.png",
-        "fruit/img/tishi.png",
-        "fruit/img/wandou.png",
-        "fruit/img/xihongshi.png",
-        "fruit/num/bj.jpg",
-        "fruit/num/dfs_bg1.png",
-        "fruit/num/dfs_bili.png",
-        "fruit/num/dfs_m_1000.png",
-        "fruit/num/dfs_m_2w.png",
-        "fruit/num/dfs_m_5000.png",
-        "fruit/num/ditai.png",
-        "fruit/num/jiangci.png",
-        "fruit/num/shijian.png",
-        "fruit/num/shijian1.png",
-        "fruit/num/shuzi.png"
+        "NewFolder/bj.jpg",
+        "NewFolder/btns.plist",
+        "NewFolder/btns.png",
+        "NewFolder/dfs_bg1.png",
+        "NewFolder/dfs_bili.png",
+        "NewFolder/ditai.png",
+        "NewFolder/part1.plist",
+        "NewFolder/part1.png",
+        "NewFolder/part2.plist",
+        "NewFolder/part2.png"
       ],
       "ctype": "GameFileData"
     }

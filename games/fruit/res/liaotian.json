@@ -16,6 +16,11 @@
         "Children": [
           {
             "BackColorAlpha": 103,
+            "FileData": {
+              "Type": "Normal",
+              "Path": "NewFolder/liaot.png",
+              "Plist": ""
+            },
             "ComboBoxIndex": 1,
             "SingleColor": {
               "R": 0,
@@ -30,8 +35,8 @@
             "ColorVector": {
               "ScaleY": 1.0
             },
-            "Scale9Width": 1,
-            "Scale9Height": 1,
+            "Scale9Width": 730,
+            "Scale9Height": 1274,
             "TouchEnable": true,
             "AnchorPoint": {},
             "Position": {
@@ -62,11 +67,6 @@
             "Children": [
               {
                 "BackColorAlpha": 0,
-                "FileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/img/liaot.png",
-                  "Plist": ""
-                },
                 "ComboBoxIndex": 1,
                 "SingleColor": {
                   "R": 150,
@@ -80,8 +80,8 @@
                 "ColorVector": {
                   "ScaleY": 1.0
                 },
-                "Scale9Width": 730,
-                "Scale9Height": 1274,
+                "Scale9Width": 1,
+                "Scale9Height": 1,
                 "TouchEnable": true,
                 "AnchorPoint": {},
                 "Position": {
@@ -100,7 +100,7 @@
                 },
                 "PreSize": {
                   "X": 0.25,
-                  "Y": 0.1563
+                  "Y": 0.1562
                 },
                 "LeftMargin": 296.1241,
                 "RightMargin": 303.8759,
@@ -124,19 +124,19 @@
                   "B": 70
                 },
                 "DisabledFileData": {
-                  "Type": "Default",
-                  "Path": "Default/Button_Disable.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "faya1.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
                 "PressedFileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/btn/faya1.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "faya1.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
                 "NormalFileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/btn/faya.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "faya.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
                 "Scale9Enable": true,
                 "Scale9OriginX": 15,
@@ -199,19 +199,19 @@
                   "B": 70
                 },
                 "DisabledFileData": {
-                  "Type": "Default",
-                  "Path": "Default/Button_Disable.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "guanbi1.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
                 "PressedFileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/btn/guanbi1.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "guanbi1.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
                 "NormalFileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/btn/guanbi.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "guanbi.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
                 "Scale9Enable": true,
                 "Scale9OriginX": 15,
@@ -327,21 +327,20 @@
                   "B": 70
                 },
                 "DisabledFileData": {
-                  "Type": "Default",
-                  "Path": "Default/Button_Disable.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "close1.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
                 "PressedFileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/btn/close1.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "close1.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
                 "NormalFileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/btn/close.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "close.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
-                "Scale9Enable": true,
                 "Scale9OriginX": 15,
                 "Scale9OriginY": 11,
                 "Scale9Width": 34,
@@ -405,7 +404,7 @@
           {
             "FileData": {
               "Type": "Normal",
-              "Path": "fruit/img/fasong.png",
+              "Path": "NewFolder/fasong.png",
               "Plist": ""
             },
             "ComboBoxIndex": 1,
@@ -426,8 +425,8 @@
             "TouchEnable": true,
             "AnchorPoint": {},
             "Position": {
-              "X": 3.6902,
-              "Y": 7.3681
+              "X": 3.7561,
+              "Y": 4.357
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -436,17 +435,17 @@
             "CColor": {},
             "IconVisible": false,
             "PrePosition": {
-              "X": 0.0046,
-              "Y": 0.0058
+              "X": 0.0047,
+              "Y": 0.0034
             },
             "PreSize": {
               "X": 1.0,
               "Y": 0.3711
             },
-            "LeftMargin": 3.6902,
-            "RightMargin": -3.6902,
-            "TopMargin": 797.6319,
-            "BottomMargin": 7.3681,
+            "LeftMargin": 3.7561,
+            "RightMargin": -3.7561,
+            "TopMargin": 800.643,
+            "BottomMargin": 4.357,
             "Tag": 188,
             "Children": [
               {
@@ -458,21 +457,20 @@
                   "B": 70
                 },
                 "DisabledFileData": {
-                  "Type": "Default",
-                  "Path": "Default/Button_Disable.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "fs1.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
                 "PressedFileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/btn/fs1.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "fs1.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
                 "NormalFileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/btn/fs.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "fs.png",
+                  "Plist": "NewFolder/btns.plist"
                 },
-                "Scale9Enable": true,
                 "Scale9OriginX": 15,
                 "Scale9OriginY": 11,
                 "Scale9Width": 126,
@@ -526,9 +524,9 @@
               },
               {
                 "FileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/img/lajiao.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "lajiao.png",
+                  "Plist": "NewFolder/part2.plist"
                 },
                 "Scale9Width": 80,
                 "Scale9Height": 80,
@@ -570,9 +568,9 @@
               },
               {
                 "FileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/img/luobo.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "luobo.png",
+                  "Plist": "NewFolder/part2.plist"
                 },
                 "Scale9Width": 80,
                 "Scale9Height": 80,
@@ -614,9 +612,9 @@
               },
               {
                 "FileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/img/dasuan.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "dasuan.png",
+                  "Plist": "NewFolder/part2.plist"
                 },
                 "Scale9Width": 80,
                 "Scale9Height": 80,
@@ -658,9 +656,9 @@
               },
               {
                 "FileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/img/mogu.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "mogu.png",
+                  "Plist": "NewFolder/part2.plist"
                 },
                 "Scale9Width": 80,
                 "Scale9Height": 80,
@@ -702,9 +700,9 @@
               },
               {
                 "FileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/img/wandou.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "wandou.png",
+                  "Plist": "NewFolder/part2.plist"
                 },
                 "Scale9Width": 80,
                 "Scale9Height": 80,
@@ -746,9 +744,9 @@
               },
               {
                 "FileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/img/qiezi.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "qiezi.png",
+                  "Plist": "NewFolder/part2.plist"
                 },
                 "Scale9Width": 80,
                 "Scale9Height": 80,
@@ -790,9 +788,9 @@
               },
               {
                 "FileData": {
-                  "Type": "Normal",
-                  "Path": "fruit/img/xihongshi.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "xihongshi.png",
+                  "Plist": "NewFolder/part2.plist"
                 },
                 "Scale9Width": 80,
                 "Scale9Height": 80,
@@ -927,21 +925,20 @@
                       "B": 242
                     },
                     "DisabledFileData": {
-                      "Type": "Default",
-                      "Path": "Default/Button_Disable.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "wenben.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "PressedFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/wenben1.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "wenben1.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "NormalFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/wenben.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "wenben.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
-                    "Scale9Enable": true,
                     "Scale9OriginX": 15,
                     "Scale9OriginY": 11,
                     "Scale9Width": 505,
@@ -1000,21 +997,20 @@
                       "B": 242
                     },
                     "DisabledFileData": {
-                      "Type": "Default",
-                      "Path": "Default/Button_Disable.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "wenben1.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "PressedFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/wenben1.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "wenben1.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "NormalFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/wenben.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "wenben.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
-                    "Scale9Enable": true,
                     "Scale9OriginX": 15,
                     "Scale9OriginY": 11,
                     "Scale9Width": 505,
@@ -1075,19 +1071,19 @@
                       "B": 242
                     },
                     "DisabledFileData": {
-                      "Type": "Default",
-                      "Path": "Default/Button_Disable.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "wenben1.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "PressedFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/wenben1.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "wenben1.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "NormalFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/wenben.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "wenben.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "Scale9Enable": true,
                     "Scale9OriginX": 15,
@@ -1150,19 +1146,19 @@
                       "B": 242
                     },
                     "DisabledFileData": {
-                      "Type": "Default",
-                      "Path": "Default/Button_Disable.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "wenben1.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "PressedFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/wenben1.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "wenben1.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "NormalFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/wenben.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "wenben.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "Scale9Enable": true,
                     "Scale9OriginX": 15,
@@ -1225,19 +1221,19 @@
                       "B": 242
                     },
                     "DisabledFileData": {
-                      "Type": "Default",
-                      "Path": "Default/Button_Disable.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "wenben1.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "PressedFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/wenben1.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "wenben1.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "NormalFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/wenben.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "wenben.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "Scale9Enable": true,
                     "Scale9OriginX": 15,
@@ -1300,19 +1296,19 @@
                       "B": 242
                     },
                     "DisabledFileData": {
-                      "Type": "Default",
-                      "Path": "Default/Button_Disable.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "wenben1.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "PressedFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/wenben1.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "wenben1.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "NormalFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/wenben.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "wenben.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "Scale9Enable": true,
                     "Scale9OriginX": 15,
@@ -1392,26 +1388,12 @@
         "ctype": "LayerObjectData"
       },
       "UsedResources": [
-        "Default/Button_Disable.png",
-        "fruit/btn/close.png",
-        "fruit/btn/close1.png",
-        "fruit/btn/faya.png",
-        "fruit/btn/faya1.png",
-        "fruit/btn/fs.png",
-        "fruit/btn/fs1.png",
-        "fruit/btn/guanbi.png",
-        "fruit/btn/guanbi1.png",
-        "fruit/btn/wenben.png",
-        "fruit/btn/wenben1.png",
-        "fruit/img/dasuan.png",
-        "fruit/img/fasong.png",
-        "fruit/img/lajiao.png",
-        "fruit/img/liaot.png",
-        "fruit/img/luobo.png",
-        "fruit/img/mogu.png",
-        "fruit/img/qiezi.png",
-        "fruit/img/wandou.png",
-        "fruit/img/xihongshi.png"
+        "NewFolder/btns.plist",
+        "NewFolder/btns.png",
+        "NewFolder/fasong.png",
+        "NewFolder/liaot.png",
+        "NewFolder/part2.plist",
+        "NewFolder/part2.png"
       ],
       "ctype": "GameFileData"
     }

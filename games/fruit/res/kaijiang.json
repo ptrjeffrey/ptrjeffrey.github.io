@@ -63,7 +63,7 @@
               {
                 "FileData": {
                   "Type": "Normal",
-                  "Path": "fruit/img/kaijiang.png",
+                  "Path": "NewFolder/kaijiang.png",
                   "Plist": ""
                 },
                 "SingleColor": {
@@ -115,21 +115,20 @@
                       "B": 70
                     },
                     "DisabledFileData": {
-                      "Type": "Default",
-                      "Path": "Default/Button_Disable.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "close1.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "PressedFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/close1.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "close1.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "NormalFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/close.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "close.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
-                    "Scale9Enable": true,
                     "Scale9OriginX": 15,
                     "Scale9OriginY": 11,
                     "Scale9Width": 34,
@@ -183,9 +182,9 @@
                   },
                   {
                     "FileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/img/dfs_k_kuang.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "dfs_k_kuang.png",
+                      "Plist": "NewFolder/part1.plist"
                     },
                     "Scale9Width": 111,
                     "Scale9Height": 111,
@@ -219,9 +218,9 @@
                     "Children": [
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/xihongshi.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dasuan.png",
+                          "Plist": "NewFolder/part2.plist"
                         },
                         "Scale9Width": 80,
                         "Scale9Height": 80,
@@ -271,9 +270,9 @@
                   },
                   {
                     "FileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/img/dfs_k_kuang.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "dfs_k_kuang.png",
+                      "Plist": "NewFolder/part1.plist"
                     },
                     "Scale9Width": 111,
                     "Scale9Height": 111,
@@ -307,9 +306,9 @@
                     "Children": [
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "fruit/img/xihongshi.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dasuan.png",
+                          "Plist": "NewFolder/part2.plist"
                         },
                         "Scale9Width": 80,
                         "Scale9Height": 80,
@@ -319,7 +318,7 @@
                         },
                         "Position": {
                           "X": 56.5294,
-                          "Y": 52.8246
+                          "Y": 54.0665
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -329,7 +328,7 @@
                         "IconVisible": false,
                         "PrePosition": {
                           "X": 0.5093,
-                          "Y": 0.4759
+                          "Y": 0.4871
                         },
                         "PreSize": {
                           "X": 0.7207,
@@ -337,8 +336,8 @@
                         },
                         "LeftMargin": 16.5294,
                         "RightMargin": 14.4706,
-                        "TopMargin": 18.1754,
-                        "BottomMargin": 12.8246,
+                        "TopMargin": 16.9335,
+                        "BottomMargin": 14.0665,
                         "Tag": 57,
                         "ActionTag": 1643503404,
                         "Size": {
@@ -705,47 +704,57 @@
                     "ctype": "PanelObjectData"
                   },
                   {
-                    "FileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/img/myhistory.png",
-                      "Plist": ""
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
                     },
-                    "Scale9Enable": true,
-                    "Scale9OriginX": 238,
-                    "Scale9OriginY": 116,
-                    "Scale9Width": 247,
-                    "Scale9Height": 120,
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 17.745,
-                      "Y": 13.8351
+                      "X": 17.2916,
+                      "Y": 12.9664
                     },
                     "Scale": {
-                      "ScaleX": 0.9951,
-                      "ScaleY": 0.6603
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
                     },
-                    "CColor": {},
+                    "CColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
+                    },
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.0237,
-                      "Y": 0.0253
+                      "X": 0.0231,
+                      "Y": 0.0237
                     },
                     "PreSize": {
-                      "X": 0.964,
-                      "Y": 0.6435
+                      "X": 0.96,
+                      "Y": 0.4241
                     },
-                    "LeftMargin": 17.745,
-                    "RightMargin": 9.255,
-                    "TopMargin": 181.1649,
-                    "BottomMargin": 13.8351,
+                    "LeftMargin": 17.2916,
+                    "RightMargin": 12.7084,
+                    "TopMargin": 302.0336,
+                    "BottomMargin": 12.9664,
                     "Tag": 82,
-                    "ActionTag": -1329109367,
+                    "ActionTag": -1420198530,
                     "Size": {
-                      "X": 723.0,
-                      "Y": 352.0
+                      "X": 720.0,
+                      "Y": 232.0
                     },
-                    "Name": "Image_8",
-                    "ctype": "ImageViewObjectData"
+                    "Name": "Panel_8",
+                    "ctype": "PanelObjectData"
                   },
                   {
                     "ItemMargin": 5,
@@ -771,8 +780,8 @@
                     "TouchEnable": true,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 16.8173,
-                      "Y": 14.3815
+                      "X": 17.8982,
+                      "Y": 15.6947
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -781,17 +790,17 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.0224,
-                      "Y": 0.0263
+                      "X": 0.0239,
+                      "Y": 0.0287
                     },
                     "PreSize": {
                       "X": 0.96,
                       "Y": 0.4113
                     },
-                    "LeftMargin": 16.8173,
-                    "RightMargin": 13.1827,
-                    "TopMargin": 307.6185,
-                    "BottomMargin": 14.3815,
+                    "LeftMargin": 17.8982,
+                    "RightMargin": 12.1018,
+                    "TopMargin": 306.3053,
+                    "BottomMargin": 15.6947,
                     "Tag": 224,
                     "ActionTag": -1937510930,
                     "Size": {
@@ -828,13 +837,13 @@
         "ctype": "LayerObjectData"
       },
       "UsedResources": [
-        "Default/Button_Disable.png",
-        "fruit/btn/close.png",
-        "fruit/btn/close1.png",
-        "fruit/img/dfs_k_kuang.png",
-        "fruit/img/kaijiang.png",
-        "fruit/img/myhistory.png",
-        "fruit/img/xihongshi.png"
+        "NewFolder/btns.plist",
+        "NewFolder/btns.png",
+        "NewFolder/kaijiang.png",
+        "NewFolder/part1.plist",
+        "NewFolder/part1.png",
+        "NewFolder/part2.plist",
+        "NewFolder/part2.png"
       ],
       "ctype": "GameFileData"
     }

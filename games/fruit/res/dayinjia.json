@@ -63,7 +63,7 @@
               {
                 "FileData": {
                   "Type": "Normal",
-                  "Path": "fruit/img/dayingjia.png",
+                  "Path": "NewFolder/dayingjia.png",
                   "Plist": ""
                 },
                 "SingleColor": {
@@ -115,21 +115,20 @@
                       "B": 70
                     },
                     "DisabledFileData": {
-                      "Type": "Default",
-                      "Path": "Default/Button_Disable.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "close1.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "PressedFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/close1.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "close1.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "NormalFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/close.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "close.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
-                    "Scale9Enable": true,
                     "Scale9OriginX": 15,
                     "Scale9OriginY": 11,
                     "Scale9Width": 34,
@@ -182,20 +181,27 @@
                     "ctype": "ButtonObjectData"
                   },
                   {
-                    "FileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/img/myhistory.png",
-                      "Plist": ""
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
                     },
-                    "Scale9Enable": true,
-                    "Scale9OriginX": 238,
-                    "Scale9OriginY": 116,
-                    "Scale9Width": 247,
-                    "Scale9Height": 120,
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
+                    },
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
+                    },
+                    "Scale9Width": 1,
+                    "Scale9Height": 1,
+                    "TouchEnable": true,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 12.232,
-                      "Y": 23.7325
+                      "X": 13.9195,
+                      "Y": 23.0
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -204,25 +210,25 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.0159,
-                      "Y": 0.0416
+                      "X": 0.0181,
+                      "Y": 0.0404
                     },
                     "PreSize": {
-                      "X": 0.9636,
-                      "Y": 0.6491
+                      "X": 0.961,
+                      "Y": 0.6316
                     },
-                    "LeftMargin": 12.232,
-                    "RightMargin": 15.768,
-                    "TopMargin": 176.2675,
-                    "BottomMargin": 23.7325,
-                    "Tag": 81,
-                    "ActionTag": -272672944,
+                    "LeftMargin": 13.9195,
+                    "RightMargin": 16.0805,
+                    "TopMargin": 187.0,
+                    "BottomMargin": 23.0,
+                    "Tag": 32,
+                    "ActionTag": -551527377,
                     "Size": {
-                      "X": 742.0,
-                      "Y": 370.0
+                      "X": 740.0,
+                      "Y": 360.0
                     },
-                    "Name": "Image_1",
-                    "ctype": "ImageViewObjectData"
+                    "Name": "Panel_3",
+                    "ctype": "PanelObjectData"
                   },
                   {
                     "DirectionType": "Vertical",
@@ -247,8 +253,8 @@
                     "TouchEnable": true,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 17.5745,
-                      "Y": 27.4243
+                      "X": 15.5745,
+                      "Y": 19.4243
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -257,17 +263,17 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.0228,
-                      "Y": 0.0481
+                      "X": 0.0202,
+                      "Y": 0.0341
                     },
                     "PreSize": {
                       "X": 0.9545,
                       "Y": 0.6404
                     },
-                    "LeftMargin": 17.5745,
-                    "RightMargin": 17.4255,
-                    "TopMargin": 177.5757,
-                    "BottomMargin": 27.4243,
+                    "LeftMargin": 15.5745,
+                    "RightMargin": 19.4255,
+                    "TopMargin": 185.5757,
+                    "BottomMargin": 19.4243,
                     "Tag": 223,
                     "ActionTag": 789065437,
                     "Size": {
@@ -353,11 +359,9 @@
         "ctype": "LayerObjectData"
       },
       "UsedResources": [
-        "Default/Button_Disable.png",
-        "fruit/btn/close.png",
-        "fruit/btn/close1.png",
-        "fruit/img/dayingjia.png",
-        "fruit/img/myhistory.png"
+        "NewFolder/btns.plist",
+        "NewFolder/btns.png",
+        "NewFolder/dayingjia.png"
       ],
       "ctype": "GameFileData"
     }

@@ -63,7 +63,7 @@
               {
                 "FileData": {
                   "Type": "Normal",
-                  "Path": "fruit/img/huojiang.png",
+                  "Path": "NewFolder/huojiang.png",
                   "Plist": ""
                 },
                 "SingleColor": {
@@ -115,21 +115,20 @@
                       "B": 70
                     },
                     "DisabledFileData": {
-                      "Type": "Default",
-                      "Path": "Default/Button_Disable.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "close1.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "PressedFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/close1.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "close1.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
                     "NormalFileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/btn/close.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "close.png",
+                      "Plist": "NewFolder/btns.plist"
                     },
-                    "Scale9Enable": true,
                     "Scale9OriginX": 15,
                     "Scale9OriginY": 11,
                     "Scale9Width": 34,
@@ -182,22 +181,25 @@
                     "ctype": "ButtonObjectData"
                   },
                   {
-                    "FileData": {
-                      "Type": "Normal",
-                      "Path": "fruit/img/myhistory.png",
-                      "Plist": ""
+                    "ComboBoxIndex": 1,
+                    "SingleColor": {
+                      "R": 0,
+                      "G": 0,
+                      "B": 0
                     },
-                    "BlendFunc": {
-                      "Src": 770,
-                      "Dst": 771
+                    "FirstColor": {
+                      "R": 150,
+                      "G": 200
                     },
-                    "AnchorPoint": {
-                      "ScaleX": 0.5,
-                      "ScaleY": 0.5
+                    "EndColor": {},
+                    "ColorVector": {
+                      "ScaleY": 1.0
                     },
+                    "TouchEnable": true,
+                    "AnchorPoint": {},
                     "Position": {
-                      "X": 373.6265,
-                      "Y": 189.158
+                      "X": 12.9237,
+                      "Y": 18.7983
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -206,25 +208,25 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.4982,
-                      "Y": 0.3458
+                      "X": 0.0172,
+                      "Y": 0.0344
                     },
                     "PreSize": {
                       "X": 0.964,
                       "Y": 0.6435
                     },
-                    "LeftMargin": 12.1265,
-                    "RightMargin": 14.8735,
-                    "TopMargin": 181.842,
-                    "BottomMargin": 13.158,
-                    "Tag": 6,
-                    "ActionTag": -1735784268,
+                    "LeftMargin": 12.9237,
+                    "RightMargin": 14.0763,
+                    "TopMargin": 176.2017,
+                    "BottomMargin": 18.7983,
+                    "Tag": 48,
+                    "ActionTag": -500960518,
                     "Size": {
                       "X": 723.0,
                       "Y": 352.0
                     },
-                    "Name": "myhistory_1",
-                    "ctype": "SpriteObjectData"
+                    "Name": "Panel_6",
+                    "ctype": "PanelObjectData"
                   },
                   {
                     "DirectionType": "Vertical",
@@ -355,11 +357,9 @@
         "ctype": "LayerObjectData"
       },
       "UsedResources": [
-        "Default/Button_Disable.png",
-        "fruit/btn/close.png",
-        "fruit/btn/close1.png",
-        "fruit/img/huojiang.png",
-        "fruit/img/myhistory.png"
+        "NewFolder/btns.plist",
+        "NewFolder/btns.png",
+        "NewFolder/huojiang.png"
       ],
       "ctype": "GameFileData"
     }
