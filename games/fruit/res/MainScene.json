@@ -5774,9 +5774,9 @@
               {
                 "ProgressInfo": 100,
                 "ImageFileData": {
-                  "Type": "PlistSubImage",
-                  "Path": "shijian1.png",
-                  "Plist": "NewFolder/part1.plist"
+                  "Type": "Normal",
+                  "Path": "NewFolder/shijian1.png",
+                  "Plist": ""
                 },
                 "AnchorPoint": {
                   "ScaleX": 0.5136,
@@ -5820,8 +5820,8 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 132.0185,
-                      "Y": 34.1909
+                      "X": 148.4665,
+                      "Y": 24.7921
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -5830,17 +5830,17 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.4698,
-                      "Y": 0.6838
+                      "X": 0.5284,
+                      "Y": 0.4958
                     },
                     "PreSize": {
                       "X": 1.0,
                       "Y": 1.0
                     },
-                    "LeftMargin": -8.4815,
-                    "RightMargin": 8.4815,
-                    "TopMargin": -9.1909,
-                    "BottomMargin": 9.1909,
+                    "LeftMargin": 7.9665,
+                    "RightMargin": -7.9665,
+                    "TopMargin": 0.2079,
+                    "BottomMargin": -0.2079,
                     "Tag": 136,
                     "ActionTag": 440524406,
                     "Size": {
@@ -6212,7 +6212,8 @@
         "NewFolder/part1.plist",
         "NewFolder/part1.png",
         "NewFolder/part2.plist",
-        "NewFolder/part2.png"
+        "NewFolder/part2.png",
+        "NewFolder/shijian1.png"
       ],
       "ctype": "GameFileData"
     }
