@@ -4945,9 +4945,9 @@
                       },
                       {
                         "FileData": {
-                          "Type": "Normal",
-                          "Path": "NewFolder/dfs_k_kuang.png",
-                          "Plist": ""
+                          "Type": "PlistSubImage",
+                          "Path": "dfs_k_kuang.png",
+                          "Plist": "NewFolder/part1.plist"
                         },
                         "BlendFunc": {
                           "Src": 770,
