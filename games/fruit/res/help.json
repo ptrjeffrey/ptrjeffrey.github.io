@@ -190,7 +190,7 @@
                       "Y": 0.7767
                     },
                     "LeftMargin": 25.5489,
-                    "RightMargin": 25.451,
+                    "RightMargin": 25.4511,
                     "TopMargin": 95.2612,
                     "BottomMargin": 19.7388,
                     "Tag": 185,
@@ -292,7 +292,6 @@
                         "ctype": "TextObjectData"
                       },
                       {
-                        "IsCustomSize": true,
                         "FontSize": 24,
                         "LabelText": "3、系统有一定的概率同一期开出2种蔬菜,这叫“双飞”,右下角的",
                         "OutlineColor": {
@@ -342,7 +341,6 @@
                         "ctype": "TextObjectData"
                       },
                       {
-                        "IsCustomSize": true,
                         "FontSize": 24,
                         "LabelText": "小球中奖就是双飞；",
                         "OutlineColor": {
