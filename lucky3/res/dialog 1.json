@@ -1,6 +1,6 @@
 {
   "ID": "fb3da603-6b3a-4769-8d08-3cc6ffdac57d",
-  "Version": "2.3.2.3",
+  "Version": "2.3.3.0",
   "Name": " dialog 1",
   "Content": {
     "Content": {
@@ -28,6 +28,8 @@
             "ColorVector": {
               "ScaleY": 1.0
             },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
             "TouchEnable": true,
             "AnchorPoint": {},
             "Position": {
@@ -45,8 +47,8 @@
             },
             "IconVisible": false,
             "PrePosition": {
-              "X": -0.0028,
-              "Y": 0.003
+              "X": 0.0,
+              "Y": 0.0
             },
             "PreSize": {
               "X": 0.0,
@@ -79,6 +81,8 @@
             "ColorVector": {
               "ScaleY": 1.0
             },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
             "TouchEnable": true,
             "AnchorPoint": {},
             "Position": {
@@ -160,7 +164,6 @@
                       "Path": "duihua/yes1.png",
                       "Plist": ""
                     },
-                    "Scale9Enable": true,
                     "Scale9OriginX": 15,
                     "Scale9OriginY": 11,
                     "Scale9Width": 452,
@@ -196,15 +199,15 @@
                       "Y": 0.105
                     },
                     "PreSize": {
-                      "X": 2.0957,
-                      "Y": 0.165
+                      "X": 1.0,
+                      "Y": 0.2164
                     },
                     "HorizontalEdge": "BothEdge",
                     "VerticalEdge": "BothEdge",
-                    "LeftMargin": 0.5117,
-                    "RightMargin": -0.5117,
-                    "TopMargin": 239.981,
-                    "BottomMargin": -0.981,
+                    "LeftMargin": 0.5302,
+                    "RightMargin": -0.5302,
+                    "TopMargin": 239.975,
+                    "BottomMargin": -0.975,
                     "Tag": 112,
                     "ActionTag": 1805200627,
                     "Size": {
@@ -216,7 +219,7 @@
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 24,
+                    "FontSize": 28,
                     "LabelText": "投注成功！",
                     "HorizontalAlignmentType": "HT_Center",
                     "VerticalAlignmentType": "VT_Center",
@@ -236,8 +239,8 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 236.7554,
-                      "Y": 156.115
+                      "X": 242.7554,
+                      "Y": 153.115
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -250,21 +253,21 @@
                     },
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.4912,
-                      "Y": 0.5119
+                      "X": 0.5036,
+                      "Y": 0.502
                     },
                     "PreSize": {
-                      "X": 0.9959,
+                      "X": 0.9129,
                       "Y": 0.3934
                     },
-                    "LeftMargin": -3.2446,
-                    "RightMargin": 5.2446,
-                    "TopMargin": 88.885,
-                    "BottomMargin": 96.115,
+                    "LeftMargin": 22.7554,
+                    "RightMargin": 19.2446,
+                    "TopMargin": 91.885,
+                    "BottomMargin": 93.115,
                     "Tag": 113,
                     "ActionTag": 1828812430,
                     "Size": {
-                      "X": 480.0,
+                      "X": 440.0,
                       "Y": 120.0
                     },
                     "Name": "Text_Content",
@@ -302,7 +305,7 @@
         "duihua/yes1.png",
         "duihua/yes2.png"
       ],
-      "ctype": "GameProjectData"
+      "ctype": "GameFileData"
     }
   },
   "Type": "Layer"

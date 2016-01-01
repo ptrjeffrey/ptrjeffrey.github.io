@@ -1,6 +1,6 @@
 {
   "ID": "a4e4184c-b583-4ada-8db4-fca38d13cea5",
-  "Version": "2.3.2.3",
+  "Version": "2.3.3.0",
   "Name": " dialog 3",
   "Content": {
     "Content": {
@@ -28,6 +28,8 @@
             "ColorVector": {
               "ScaleY": 1.0
             },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
             "TouchEnable": true,
             "AnchorPoint": {},
             "Position": {
@@ -45,8 +47,8 @@
             },
             "IconVisible": false,
             "PrePosition": {
-              "X": -0.0028,
-              "Y": 0.003
+              "X": 0.0,
+              "Y": 0.0
             },
             "PreSize": {
               "X": 0.0,
@@ -79,6 +81,8 @@
             "ColorVector": {
               "ScaleY": 1.0
             },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
             "TouchEnable": true,
             "AnchorPoint": {},
             "Position": {
@@ -160,7 +164,6 @@
                       "Path": "duihua/yes1.png",
                       "Plist": ""
                     },
-                    "Scale9Enable": true,
                     "Scale9OriginX": 15,
                     "Scale9OriginY": 11,
                     "Scale9Width": 452,
@@ -196,8 +199,8 @@
                       "Y": 0.1119
                     },
                     "PreSize": {
-                      "X": 2.0957,
-                      "Y": 0.165
+                      "X": 1.0,
+                      "Y": 0.2164
                     },
                     "LeftMargin": -0.4443,
                     "RightMargin": 0.4443,
@@ -214,7 +217,7 @@
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 24,
+                    "FontSize": 28,
                     "LabelText": "恭喜您！要不要这么搞喔啊阿登\n上期投注中奖啦!\n1213",
                     "HorizontalAlignmentType": "HT_Center",
                     "VerticalAlignmentType": "VT_Center",
@@ -233,8 +236,8 @@
                       "ScaleY": 1.0
                     },
                     "Position": {
-                      "X": -0.4303,
-                      "Y": 210.9196
+                      "X": 21.2009,
+                      "Y": 209.7286
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -247,21 +250,21 @@
                     },
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": -0.0009,
-                      "Y": 0.6915
+                      "X": 0.044,
+                      "Y": 0.6876
                     },
                     "PreSize": {
-                      "X": 0.9959,
+                      "X": 0.9129,
                       "Y": 0.3934
                     },
-                    "LeftMargin": -0.4303,
-                    "RightMargin": 2.4303,
-                    "TopMargin": 94.0804,
-                    "BottomMargin": 90.9196,
+                    "LeftMargin": 21.2009,
+                    "RightMargin": 20.7991,
+                    "TopMargin": 95.2714,
+                    "BottomMargin": 89.7286,
                     "Tag": 113,
                     "ActionTag": 1828812430,
                     "Size": {
-                      "X": 480.0,
+                      "X": 440.0,
                       "Y": 120.0
                     },
                     "Name": "Text_Content",
@@ -299,7 +302,7 @@
         "duihua/yes1.png",
         "duihua/yes2.png"
       ],
-      "ctype": "GameProjectData"
+      "ctype": "GameFileData"
     }
   },
   "Type": "Layer"
