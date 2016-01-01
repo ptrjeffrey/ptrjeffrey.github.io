@@ -111,9 +111,9 @@
             "Children": [
               {
                 "FileData": {
-                  "Type": "Normal",
-                  "Path": "duihua/bj.png",
-                  "Plist": ""
+                  "Type": "PlistSubImage",
+                  "Path": "bj.png",
+                  "Plist": "newfolder/part_1.plist"
                 },
                 "Scale9Width": 482,
                 "Scale9Height": 305,
@@ -155,14 +155,14 @@
                       "Plist": ""
                     },
                     "PressedFileData": {
-                      "Type": "Normal",
-                      "Path": "duihua/zuo2.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "zuo2.png",
+                      "Plist": "newfolder/part_1.plist"
                     },
                     "NormalFileData": {
-                      "Type": "Normal",
-                      "Path": "duihua/zuo1.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "zuo1.png",
+                      "Plist": "newfolder/part_1.plist"
                     },
                     "Scale9OriginX": 15,
                     "Scale9OriginY": 11,
@@ -282,14 +282,14 @@
                       "Plist": ""
                     },
                     "PressedFileData": {
-                      "Type": "Normal",
-                      "Path": "duihua/you2.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "zuo2.png",
+                      "Plist": "newfolder/part_1.plist"
                     },
                     "NormalFileData": {
-                      "Type": "Normal",
-                      "Path": "duihua/you1.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "zuo1.png",
+                      "Plist": "newfolder/part_1.plist"
                     },
                     "Scale9OriginX": 15,
                     "Scale9OriginY": 11,
@@ -344,9 +344,9 @@
                   },
                   {
                     "FileData": {
-                      "Type": "Normal",
-                      "Path": "duihua/line.png",
-                      "Plist": ""
+                      "Type": "PlistSubImage",
+                      "Path": "line1.png",
+                      "Plist": "newfolder/part_1.plist"
                     },
                     "Scale9Width": 8,
                     "Scale9Height": 65,
@@ -413,12 +413,8 @@
       },
       "UsedResources": [
         "Default/Button_Disable.png",
-        "duihua/bj.png",
-        "duihua/line.png",
-        "duihua/you1.png",
-        "duihua/you2.png",
-        "duihua/zuo1.png",
-        "duihua/zuo2.png"
+        "newfolder/part_1.plist",
+        "newfolder/part_1.png"
       ],
       "ctype": "GameFileData"
     }
