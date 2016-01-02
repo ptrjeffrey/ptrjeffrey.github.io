@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>登录比特游戏</title>
+</head>
+<style type="text/css">
+    body {background-color:#eee;}
+    * {padding:0;margin:0;}
+    .container {
+        margin: 0 auto;
+        width: 100%;
+    }
+    .container .header {
+        min-height: 45px;
+        width: 100%;
+    }
+    .container .body {width:100%;}
+    .container .header .header-nav.default {
+        position: relative;
+    }
+    .container .header .header-nav {
+        background-color: #ec6061;
+        height: 45px;
+        width: 100%;
+    }
+    .container .header .header-nav-c {
+        color: #ffffff;
+        font-size: 16px;
+        line-height: 45px;
+        padding: 0 50px;
+        text-align: center;
+    }
+    .container .body .login-box {
+        text-align: center;
+    }
+    .container .body .login-box img {
+        height: 160px;
+        margin-top: 50px;
+    }
+    .container .body .login-box .login-btn-group, .loading {
+        margin: 50px 30px;
+    }
+    .container .body .login-box .login-btn-group .btn {
+        border-radius: 5px;
+        font-size: 14px;
+        margin-bottom: 10px;
+        padding: 7px 0;
+    }
+    .btn-block {
+        display: block;
+        width: 100%;
+    }
+    .btn-success {
+        background-color: #5cb85c;
+        border-color: #4cae4c;
+        color: #ffffff;
+    }
+    .btn {
+        background-image: none;
+        cursor: pointer;
+        font-weight: normal;
+        line-height: 1.4;
+        outline: medium none;
+        text-align: center;
+        vertical-align: middle;
+        white-space: nowrap;
+    }
+    a {
+        text-decoration: none;
+    }
+    .hide {display:none;}
+</style>
+<script src="//cdn.bootcss.com/jquery/2.1.4/jquery.min.js"></script>
+<script type="text/javascript">
+
+    /**
+     * 获取URL参数
+     */
+    function getQueryString(name) {
+        var reg = new RegExp("(^|&)" + name + "=([^&]*)(&|$)", "i");
+        var r = window.location.search.substr(1).match(reg);
+        if (r) {
+            return r[2];
+        }
+        return null;
+    }
+
+    /**
+     * 设置Cookie
+     */
+    function setCookie(name,value)
+    {
+        var Days = 30; //此 cookie 将被保存 30 天
+        var exp = new Date();
+        exp.setTime(exp.getTime() + Days*24*60*60*1000);
+        document.cookie = name + "="+ value + ";expires=" + exp.toGMTString();
+        console.log('--------setcookie---------------', name, value)
+    }
+
+    /**
+     * 删除cookie
+     */
+    function delCookie(name)
+    {
+        var exp = new Date();
+        exp.setTime(exp.getTime() - 1);
+        var cval=getCookie(name);
+        if(cval!=null) document.cookie= name + "="+cval+";expires="+exp.toGMTString();
+    }
+
+    /**
+     * 读取cookie
+     */
+    function getCookie(name)
+    {
+        console.log('----------getcook ', name);
+        var arr = document.cookie.match(new RegExp("(^| )"+name+"=([^;]*)(;|$)"));
+        if(arr != null)
+            return arr[2];
+        return null;
+    }
+
+    var target = encodeURIComponent('http://'+window.location.host+'/lucky3/index.html');
+
+    /**
+     * 获取随机数
+     */
+    function randomChar(length){
+        var x="0123456789qwertyuioplkjhgfdsazxcvbnm";
+        var tmp="";
+        var timestamp = new Date().getTime();
+        for(var  i=0;i<  length;i++)  {
+            tmp  +=  x.charAt(Math.ceil(Math.random()*100000000)%x.length);
+        }
+        return timestamp + tmp;
+    }
+
+    /**
+     * 加载登录窗口
+     */
+    function getLogin() {
+        $.get('http://game.3721w.com/api/login', function(rs){
+            console.log('-------------------1');
+            if (rs.length > 0) {
+                var html, i,scode;
+                html = "";
+                scode = getCookie('scode');
+                console.log('-------------------2', scode);
+                if (!scode) {
+                    scode = randomChar(32);
+                    console.log('-------------------3');
+                    setCookie('scode', scode);
+                }
+                for(i in rs) {
+                    html += '<a class="btn btn-success btn-block btn-weixin" href="'+rs[i]['url']+'?scode='+scode+'&target='+target+'">'+rs[i]['name']+'</a>';
+                }
+				console.log('html = ', html);
+				console.log('rs = ', rs);
+                $('.loading').addClass('hide');
+                $('.login-btn-group').html(html).removeClass('hide');
+            } else {
+                $('.loading').html('服务器出错，暂时无法登录');
+            }
+        }, 'json');
+    }
+
+    $(function(){
+        var scode = getCookie('scode');
+        var sid = getCookie('sid');
+        console.log('scode ', scode, ' sid = ', sid);
+        if (!sid) {
+            console.log('--------------sid = ', sid);
+            sid = getQueryString('sid');
+            console.log('--------------sid1 = ', sid);
+            if(sid) {
+                setCookie('sid', sid);
+            }
+            console.log('--------------sid2 = ', sid);
+        }else{
+            console.log('---------------sid3 = ', sid);
+        }
+        if (!sid || !scode) {
+            console.log('---------------will getLogin ------!');
+            getLogin();
+        } else {
+//            alert('----oauth succeed ---',sid);
+//            alert('----oauth succeed ---',sicode);
+//            setCookie('scode', scode);
+//            setCookie('sid', sid);
+//            window.location.href = './index.html';
+            sid = getQueryString('sid');
+            getLogin();
+        }
+    });
+</script>
+<body>
+<div class="container">
+    <div id="content">
+        <div class="header">
+            <div class="header-nav default">
+                <div class="header-nav-c">登录比特游戏</div>
+            </div>
+        </div>
+            <!-- /.header -->
+        <div class="body">
+            <div class="login-box">
+                <img alt="login" src="http://h5.3721w.com/images/loadingbg.png">
+                <div class="login-btn-group hide"></div>
+                <div class="loading">Loading...</div>
+            </div>
+        </div>
+    </div>
+</div>
+</body>
+</html>
