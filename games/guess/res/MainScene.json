@@ -111,7 +111,7 @@
                   "Y": 0.0301
                 },
                 "PreSize": {
-                  "X": 0.1563,
+                  "X": 0.1562,
                   "Y": 0.0575
                 },
                 "LeftMargin": 527.5016,
@@ -679,7 +679,7 @@
                   "Y": 0.1397
                 },
                 "PreSize": {
-                  "X": 0.1563,
+                  "X": 0.1562,
                   "Y": 0.0958
                 },
                 "LeftMargin": 382.6736,
@@ -829,50 +829,6 @@
             "ctype": "CheckBoxObjectData"
           },
           {
-            "FileData": {
-              "Type": "Default",
-              "Path": "Default/ImageFile.png",
-              "Plist": ""
-            },
-            "Scale9Width": 46,
-            "Scale9Height": 46,
-            "AnchorPoint": {
-              "ScaleX": 0.5,
-              "ScaleY": 0.5
-            },
-            "Position": {
-              "X": 472.3857,
-              "Y": 411.2336
-            },
-            "Scale": {
-              "ScaleX": 1.0,
-              "ScaleY": 1.0
-            },
-            "CColor": {},
-            "IconVisible": false,
-            "PrePosition": {
-              "X": 0.7381,
-              "Y": 0.3939
-            },
-            "PreSize": {
-              "X": 0.4672,
-              "Y": 0.2059
-            },
-            "LeftMargin": 322.8857,
-            "RightMargin": 18.1143,
-            "TopMargin": 525.2664,
-            "BottomMargin": 303.7336,
-            "Tag": 22,
-            "ActionTag": 735767057,
-            "Size": {
-              "X": 299.0,
-              "Y": 215.0
-            },
-            "VisibleForFrame": false,
-            "Name": "Image_2",
-            "ctype": "ImageViewObjectData"
-          },
-          {
             "FontSize": 24,
             "LabelText": "10000000000000",
             "HorizontalAlignmentType": "HT_Center",
@@ -992,7 +948,6 @@
         "Default/Button_Disable.png",
         "Default/CheckBox_Disable.png",
         "Default/CheckBoxNode_Disable.png",
-        "Default/ImageFile.png",
         "newres/bj.png",
         "newres/part2.plist",
         "newres/part2.png",
