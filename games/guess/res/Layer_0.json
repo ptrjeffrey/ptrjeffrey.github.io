@@ -1,0 +1,427 @@
+{
+  "ID": "d9f8da40-57a0-4450-a115-51a67798ba8f",
+  "Version": "2.3.3.0",
+  "Name": "Layer_0",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 22,
+        "Children": [
+          {
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "HorizontalEdge": "BothEdge",
+            "VerticalEdge": "BothEdge",
+            "RightMargin": -640.0,
+            "TopMargin": -1044.0,
+            "Tag": 40,
+            "ActionTag": 1621748586,
+            "Size": {
+              "X": 640.0,
+              "Y": 1044.0
+            },
+            "Alpha": 103,
+            "Name": "Panel_6",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 81.772,
+              "Y": 373.8167
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "LeftMargin": 81.772,
+            "RightMargin": -563.772,
+            "TopMargin": -678.8167,
+            "BottomMargin": 373.8167,
+            "Tag": 41,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "bj.png",
+                  "Plist": "newres/part2.plist"
+                },
+                "Scale9Width": 482,
+                "Scale9Height": 305,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 238.691,
+                  "Y": 150.4414
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4952,
+                  "Y": 0.4933
+                },
+                "PreSize": {
+                  "X": 1.0,
+                  "Y": 1.0
+                },
+                "LeftMargin": -2.309,
+                "RightMargin": 2.309,
+                "TopMargin": 2.0586,
+                "BottomMargin": -2.0586,
+                "Tag": 42,
+                "ActionTag": 156601863,
+                "Size": {
+                  "X": 482.0,
+                  "Y": 305.0
+                },
+                "Name": "Image_5",
+                "ctype": "ImageViewObjectData"
+              },
+              {
+                "FontSize": 36,
+                "ButtonText": "确 定",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_no2.png",
+                  "Plist": "newres/part2.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_no2.png",
+                  "Plist": "newres/part2.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "bnt_no1.png",
+                  "Plist": "newres/part2.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 211,
+                "Scale9Height": 44,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 359.4665,
+                  "Y": 32.3767
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.7458,
+                  "Y": 0.1062
+                },
+                "PreSize": {
+                  "X": 0.5,
+                  "Y": 0.2164
+                },
+                "LeftMargin": 238.9665,
+                "RightMargin": 2.0335,
+                "TopMargin": 239.6233,
+                "BottomMargin": -0.6233,
+                "Tag": 43,
+                "ActionTag": -1577063172,
+                "Size": {
+                  "X": 241.0,
+                  "Y": 66.0
+                },
+                "Name": "Button_1",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 26,
+                "LabelText": "您的游戏币不足，请充值",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 248.6638,
+                  "Y": 150.182
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {
+                  "R": 102,
+                  "G": 102,
+                  "B": 102
+                },
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5159,
+                  "Y": 0.4924
+                },
+                "PreSize": {
+                  "X": 0.5934,
+                  "Y": 0.0852
+                },
+                "HorizontalEdge": "BothEdge",
+                "VerticalEdge": "BothEdge",
+                "LeftMargin": 105.6638,
+                "RightMargin": 90.3362,
+                "TopMargin": 141.818,
+                "BottomMargin": 137.182,
+                "Tag": 44,
+                "ActionTag": -1012200661,
+                "Size": {
+                  "X": 286.0,
+                  "Y": 26.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 36,
+                "ButtonText": "取消",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "bnt_yes2.png",
+                  "Plist": "newres/part2.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "bnt_yes2.png",
+                  "Plist": "newres/part2.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "btn_yes1.png",
+                  "Plist": "newres/part2.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 211,
+                "Scale9Height": 44,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 118.1557,
+                  "Y": 31.7012
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2451,
+                  "Y": 0.1039
+                },
+                "PreSize": {
+                  "X": 0.5,
+                  "Y": 0.2164
+                },
+                "LeftMargin": -2.3443,
+                "RightMargin": 243.3443,
+                "TopMargin": 240.2988,
+                "BottomMargin": -1.2988,
+                "Tag": 45,
+                "ActionTag": -1160853120,
+                "Size": {
+                  "X": 241.0,
+                  "Y": 66.0
+                },
+                "Name": "Button_2",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "line.png",
+                  "Plist": "newres/part2.plist"
+                },
+                "Scale9Width": 8,
+                "Scale9Height": 65,
+                "AnchorPoint": {
+                  "ScaleX": 0.2915,
+                  "ScaleY": 0.4743
+                },
+                "Position": {
+                  "X": 236.292,
+                  "Y": 30.3698
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4902,
+                  "Y": 0.0996
+                },
+                "PreSize": {
+                  "X": 0.0166,
+                  "Y": 0.2131
+                },
+                "LeftMargin": 233.96,
+                "RightMargin": 240.04,
+                "TopMargin": 240.4597,
+                "BottomMargin": -0.4597,
+                "Tag": 46,
+                "ActionTag": -323344760,
+                "Size": {
+                  "X": 8.0,
+                  "Y": 65.0
+                },
+                "Name": "Image_2",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -1166766434,
+            "Size": {
+              "X": 482.0,
+              "Y": 305.0
+            },
+            "Name": "Panel_7",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 0.0,
+          "Y": 0.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "newres/part2.plist",
+        "newres/part2.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
