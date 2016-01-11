@@ -195,8 +195,8 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 238.3108,
-                  "Y": 32.3766
+                  "X": 238.3109,
+                  "Y": 33.3766
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -206,16 +206,16 @@
                 "IconVisible": false,
                 "PrePosition": {
                   "X": 0.4944,
-                  "Y": 0.1062
+                  "Y": 0.1094
                 },
                 "PreSize": {
                   "X": 1.0,
                   "Y": 0.2164
                 },
-                "LeftMargin": -2.6892,
-                "RightMargin": 2.6892,
-                "TopMargin": 239.6234,
-                "BottomMargin": -0.6234,
+                "LeftMargin": -2.6891,
+                "RightMargin": 2.6891,
+                "TopMargin": 238.6234,
+                "BottomMargin": 0.3766,
                 "Tag": 37,
                 "ActionTag": -676020064,
                 "Size": {

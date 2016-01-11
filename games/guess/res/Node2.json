@@ -1,6 +1,6 @@
 {
   "ID": "62194e80-411f-4eaf-8f7d-c64c5102a0cb",
-  "Version": "2.3.2.3",
+  "Version": "2.3.3.0",
   "Name": "Node2",
   "Content": {
     "Content": {
@@ -13,8 +13,8 @@
             "Property": "Position",
             "Frames": [
               {
-                "X": 100.0,
-                "Y": 80.0,
+                "X": 59.0,
+                "Y": -11.0,
                 "FrameIndex": 0,
                 "EasingData": {
                   "Type": 0
@@ -174,7 +174,7 @@
           {
             "FileData": {
               "Type": "Normal",
-              "Path": "d_box.png",
+              "Path": "newres/d_box.png",
               "Plist": ""
             },
             "BlendFunc": {
@@ -186,8 +186,8 @@
               "ScaleY": 0.3809
             },
             "Position": {
-              "X": 100.0,
-              "Y": 80.0
+              "X": 59.0,
+              "Y": -11.0
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -203,10 +203,10 @@
               "X": 0.0,
               "Y": 0.0
             },
-            "LeftMargin": -76.6016,
-            "RightMargin": -139.3984,
-            "TopMargin": -258.3008,
-            "BottomMargin": -29.6992,
+            "LeftMargin": -117.6016,
+            "RightMargin": -98.3984,
+            "TopMargin": -167.3008,
+            "BottomMargin": -120.6992,
             "Tag": 4,
             "ActionTag": 1482486790,
             "Size": {
@@ -225,9 +225,9 @@
         "ctype": "SingleNodeObjectData"
       },
       "UsedResources": [
-        "d_box.png"
+        "newres/d_box.png"
       ],
-      "ctype": "GameProjectData"
+      "ctype": "GameFileData"
     }
   },
   "Type": "Node"
