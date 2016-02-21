@@ -17,6 +17,19 @@
                 <key>sourceSize</key>
                 <string>{69,56}</string>
             </dict>
+            <key>begin.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{954,268},{94,42}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{94,42}}</string>
+                <key>sourceSize</key>
+                <string>{94,42}</string>
+            </dict>
             <key>beishu.png</key>
             <dict>
                 <key>frame</key>
@@ -215,7 +228,7 @@
             <key>qiangz1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{549,584},{213,94}}</string>
+                <string>{{858,296},{213,94}}</string>
                 <key>offset</key>
                 <string>{2,1}</string>
                 <key>rotated</key>
@@ -391,7 +404,7 @@
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:b30cb90c68edf4b2883bd915242a1cd9$</string>
+            <string>$TexturePacker:SmartUpdate:39a847871d7d1422c4fb01a5d25c3bdd$</string>
             <key>textureFileName</key>
             <string>part4.png</string>
         </dict>
