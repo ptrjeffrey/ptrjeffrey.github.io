@@ -266,6 +266,7 @@
                 <file name="src/network.js"/>
                 <file name="src/resource.js"/>
                 <file name="src/classic_Game.js"/>
+                <file name="src/hall.js"/>
                 <file name="src/app.js"/>
                 <file name="main.js"/>
 
