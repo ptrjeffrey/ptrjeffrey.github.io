@@ -20,7 +20,7 @@
             <key>begin.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{954,268},{94,42}}</string>
+                <string>{{552,245},{94,42}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -111,7 +111,7 @@
             <key>dzwz.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{515,171},{71,35}}</string>
+                <string>{{515,217},{71,35}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
@@ -172,6 +172,149 @@
                 <string>{{3,6},{214,94}}</string>
                 <key>sourceSize</key>
                 <string>{220,102}</string>
+            </dict>
+            <key>niunum1.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{129,990},{42,18}}</string>
+                <key>offset</key>
+                <string>{0,2}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{3,14},{42,18}}</string>
+                <key>sourceSize</key>
+                <string>{48,50}</string>
+            </dict>
+            <key>niunum10.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{596,289},{42,44}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{3,3},{42,44}}</string>
+                <key>sourceSize</key>
+                <string>{48,50}</string>
+            </dict>
+            <key>niunum11.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{596,245},{42,44}}</string>
+                <key>offset</key>
+                <string>{-1,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{2,3},{42,44}}</string>
+                <key>sourceSize</key>
+                <string>{48,50}</string>
+            </dict>
+            <key>niunum2.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{739,369},{42,42}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{3,4},{42,42}}</string>
+                <key>sourceSize</key>
+                <string>{48,50}</string>
+            </dict>
+            <key>niunum3.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{954,488},{42,44}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{3,3},{42,44}}</string>
+                <key>sourceSize</key>
+                <string>{48,50}</string>
+            </dict>
+            <key>niunum4.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{954,312},{44,42}}</string>
+                <key>offset</key>
+                <string>{0,1}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{2,3},{44,42}}</string>
+                <key>sourceSize</key>
+                <string>{48,50}</string>
+            </dict>
+            <key>niunum5.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{954,444},{42,44}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{3,3},{42,44}}</string>
+                <key>sourceSize</key>
+                <string>{48,50}</string>
+            </dict>
+            <key>niunum6.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{954,268},{44,42}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{2,4},{44,42}}</string>
+                <key>sourceSize</key>
+                <string>{48,50}</string>
+            </dict>
+            <key>niunum7.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{954,400},{42,44}}</string>
+                <key>offset</key>
+                <string>{-1,1}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{2,2},{42,44}}</string>
+                <key>sourceSize</key>
+                <string>{48,50}</string>
+            </dict>
+            <key>niunum8.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{515,171},{44,38}}</string>
+                <key>offset</key>
+                <string>{0,-1}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{2,7},{44,38}}</string>
+                <key>sourceSize</key>
+                <string>{48,50}</string>
+            </dict>
+            <key>niunum9.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{954,356},{42,44}}</string>
+                <key>offset</key>
+                <string>{0,1}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{3,2},{42,44}}</string>
+                <key>sourceSize</key>
+                <string>{48,50}</string>
             </dict>
             <key>pb.png</key>
             <dict>
@@ -358,7 +501,7 @@
             <key>touxiang2.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{515,245},{94,94}}</string>
+                <string>{{643,369},{94,94}}</string>
                 <key>offset</key>
                 <string>{-1,2}</string>
                 <key>rotated</key>
@@ -404,7 +547,7 @@
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:39a847871d7d1422c4fb01a5d25c3bdd$</string>
+            <string>$TexturePacker:SmartUpdate:41a9b177f525d165b9ab2dc07f0bea1f$</string>
             <key>textureFileName</key>
             <string>part4.png</string>
         </dict>
