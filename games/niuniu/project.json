@@ -1,1 +1,27 @@
-{"showFPS": false, "frameRate": 60, "project_type": "javascript", "debugMode": 1, "renderMode": 0, "id": "gameCanvas"}
+{
+    "project_type": "javascript",
+
+    "debugMode" : 1,
+    "showFPS" : false,
+    "frameRate" : 60,
+    "id" : "gameCanvas",
+    "renderMode" : 1,
+    "engineDir":"frameworks/cocos2d-html5",
+
+    "modules" : ["cocos2d", "cocostudio"],
+
+    "jsList" : [
+        "node_modules/pomelo-cocos2d-js/dist/pomelo-cocos2d-js.js",
+        "src/login.js",
+        "src/poker_Const.js",
+        "src/game_Data.js",
+        "src/ui_Const.js",
+        "src/uicard.js",
+        "src/player_Manager.js",
+        "src/network.js",
+        "src/resource.js",
+        "src/classic_Game.js",
+        "src/hall.js",
+        "src/app.js"
+    ]
+}
