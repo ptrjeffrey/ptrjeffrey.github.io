@@ -257,12 +257,12 @@
             </sources>
             <sources dir="${basedir}">
                 <file name="node_modules/pomelo-cocos2d-js/dist/pomelo-cocos2d-js.js"/>
+                <file name="src/player_Manager.js"/>
                 <file name="src/login.js"/>
                 <file name="src/poker_Const.js"/>
                 <file name="src/game_Data.js"/>
                 <file name="src/ui_Const.js"/>
                 <file name="src/uicard.js"/>
-                <file name="src/player_Manager.js"/>
                 <file name="src/network.js"/>
                 <file name="src/resource.js"/>
                 <file name="src/classic_Game.js"/>
