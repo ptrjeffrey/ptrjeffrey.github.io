@@ -339,6 +339,7 @@
                 <file name="src/classic_Game.js"/>
                 <file name="src/private_Game.js"/>
                 <file name="src/private_Select.js"/>
+                <file name="src/hundred_Game.js"/>
                 <file name="src/hall.js"/>
                 <file name="src/app.js"/>
                 <file name="main.js"/>
