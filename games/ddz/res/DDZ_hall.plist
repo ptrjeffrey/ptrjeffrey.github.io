@@ -7,7 +7,7 @@
             <key>Hall_bag1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{453,1942},{86,86}}</string>
+                <string>{{614,560},{86,86}}</string>
                 <key>offset</key>
                 <string>{1,-1}</string>
                 <key>rotated</key>
@@ -20,7 +20,7 @@
             <key>Hall_bag2.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{361,1942},{90,90}}</string>
+                <string>{{2,626},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -30,27 +30,14 @@
                 <key>sourceSize</key>
                 <string>{90,90}</string>
             </dict>
-            <key>Hall_bg.png</key>
+            <key>Hall_boli1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{640,1138}}</string>
+                <string>{{386,440},{226,148}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{640,1138}}</string>
-                <key>sourceSize</key>
-                <string>{640,1138}</string>
-            </dict>
-            <key>Hall_boli1.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{1054,1640},{226,148}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
                 <key>sourceColorRect</key>
                 <string>{{8,7},{226,148}}</string>
                 <key>sourceSize</key>
@@ -59,11 +46,11 @@
             <key>Hall_boli2.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1180,808},{230,150}}</string>
+                <string>{{404,133},{230,150}}</string>
                 <key>offset</key>
                 <string>{1,1}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{7,5},{230,150}}</string>
                 <key>sourceSize</key>
@@ -72,11 +59,11 @@
             <key>Hall_dibu.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1191,2},{640,129}}</string>
+                <string>{{2,2},{640,129}}</string>
                 <key>offset</key>
                 <string>{0,-1}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,2},{640,129}}</string>
                 <key>sourceSize</key>
@@ -85,7 +72,7 @@
             <key>Hall_game1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1225,1948},{82,81}}</string>
+                <string>{{2,805},{82,81}}</string>
                 <key>offset</key>
                 <string>{-7,-3}</string>
                 <key>rotated</key>
@@ -98,7 +85,7 @@
             <key>Hall_game2.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1053,1868},{92,83}}</string>
+                <string>{{602,648},{92,83}}</string>
                 <key>offset</key>
                 <string>{-4,0}</string>
                 <key>rotated</key>
@@ -111,7 +98,7 @@
             <key>Hall_help1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1050,1953},{86,86}}</string>
+                <string>{{614,472},{86,86}}</string>
                 <key>offset</key>
                 <string>{2,-2}</string>
                 <key>rotated</key>
@@ -124,7 +111,7 @@
             <key>Hall_help2.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{961,1854},{90,90}}</string>
+                <string>{{602,796},{90,90}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -134,23 +121,10 @@
                 <key>sourceSize</key>
                 <string>{90,90}</string>
             </dict>
-            <key>Hall_help_bg.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{644,2},{698,545}}</string>
-                <key>offset</key>
-                <string>{0,-4}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,8},{698,545}}</string>
-                <key>sourceSize</key>
-                <string>{698,553}</string>
-            </dict>
             <key>Hall_help_title.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{137,1942},{129,33}}</string>
+                <string>{{262,398},{129,33}}</string>
                 <key>offset</key>
                 <string>{0,1}</string>
                 <key>rotated</key>
@@ -160,27 +134,14 @@
                 <key>sourceSize</key>
                 <string>{135,43}</string>
             </dict>
-            <key>Hall_model.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,1142},{640,798}}</string>
-                <key>offset</key>
-                <string>{0,1}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{640,798}}</string>
-                <key>sourceSize</key>
-                <string>{640,800}</string>
-            </dict>
             <key>Hall_nr1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{808,1854},{151,122}}</string>
+                <string>{{262,433},{151,122}}</string>
                 <key>offset</key>
                 <string>{-2,4}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{17,2},{151,122}}</string>
                 <key>sourceSize</key>
@@ -189,7 +150,7 @@
             <key>Hall_nr2.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1204,1630},{161,120}}</string>
+                <string>{{250,649},{161,120}}</string>
                 <key>offset</key>
                 <string>{0,-2}</string>
                 <key>rotated</key>
@@ -202,7 +163,7 @@
             <key>Hall_nr3.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1204,1793},{153,118}}</string>
+                <string>{{459,797},{153,118}}</string>
                 <key>offset</key>
                 <string>{4,1}</string>
                 <key>rotated</key>
@@ -215,11 +176,11 @@
             <key>Hall_rw1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{871,1645},{207,181}}</string>
+                <string>{{250,812},{207,181}}</string>
                 <key>offset</key>
                 <string>{-2,-6}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{8,18},{207,181}}</string>
                 <key>sourceSize</key>
@@ -228,7 +189,7 @@
             <key>Hall_rw2.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{644,1645},{225,205}}</string>
+                <string>{{375,590},{225,205}}</string>
                 <key>offset</key>
                 <string>{1,0}</string>
                 <key>rotated</key>
@@ -241,11 +202,11 @@
             <key>Hall_rw3.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1180,1040},{227,153}}</string>
+                <string>{{404,285},{227,153}}</string>
                 <key>offset</key>
                 <string>{0,-17}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,43},{227,153}}</string>
                 <key>sourceSize</key>
@@ -254,11 +215,11 @@
             <key>Hall_shop_10.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{931,1978},{117,62}}</string>
+                <string>{{636,260},{117,62}}</string>
                 <key>offset</key>
                 <string>{0,1}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{5,5},{117,62}}</string>
                 <key>sourceSize</key>
@@ -267,11 +228,11 @@
             <key>Hall_shop_100.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,1942},{133,57}}</string>
+                <string>{{644,2},{133,57}}</string>
                 <key>offset</key>
                 <string>{3,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{10,8},{133,57}}</string>
                 <key>sourceSize</key>
@@ -280,11 +241,11 @@
             <key>Hall_shop_2.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{268,1942},{91,62}}</string>
+                <string>{{633,379},{91,62}}</string>
                 <key>offset</key>
                 <string>{-2,3}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{3,0},{91,62}}</string>
                 <key>sourceSize</key>
@@ -293,11 +254,11 @@
             <key>Hall_shop_20.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1274,1371},{121,61}}</string>
+                <string>{{252,586},{121,61}}</string>
                 <key>offset</key>
                 <string>{-2,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{1,4},{121,61}}</string>
                 <key>sourceSize</key>
@@ -306,11 +267,11 @@
             <key>Hall_shop_5.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1274,1494},{92,61}}</string>
+                <string>{{602,733},{92,61}}</string>
                 <key>offset</key>
                 <string>{-1,1}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{4,6},{92,61}}</string>
                 <key>sourceSize</key>
@@ -319,37 +280,24 @@
             <key>Hall_shop_50.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{808,1978},{121,62}}</string>
+                <string>{{636,137},{121,62}}</string>
                 <key>offset</key>
                 <string>{-2,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{2,4},{121,62}}</string>
                 <key>sourceSize</key>
                 <string>{129,70}</string>
             </dict>
-            <key>Hall_shop_bg.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{644,702},{676,534}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <true/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{676,534}}</string>
-                <key>sourceSize</key>
-                <string>{676,534}</string>
-            </dict>
             <key>Hall_shop_btn1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{644,1852},{162,144}}</string>
+                <string>{{104,790},{162,144}}</string>
                 <key>offset</key>
                 <string>{-2,2}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{3,4},{162,144}}</string>
                 <key>sourceSize</key>
@@ -358,7 +306,7 @@
             <key>Hall_shop_btn2.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1191,644},{162,144}}</string>
+                <string>{{104,626},{162,144}}</string>
                 <key>offset</key>
                 <string>{-2,2}</string>
                 <key>rotated</key>
@@ -371,7 +319,7 @@
             <key>Hall_shop_exit1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1138,1953},{85,85}}</string>
+                <string>{{579,888},{85,85}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
@@ -384,7 +332,7 @@
             <key>Hall_shop_exit2.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{541,1942},{85,85}}</string>
+                <string>{{2,718},{85,85}}</string>
                 <key>offset</key>
                 <string>{-1,0}</string>
                 <key>rotated</key>
@@ -397,11 +345,11 @@
             <key>Hall_star1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1046,1380},{258,114}}</string>
+                <string>{{2,398},{258,114}}</string>
                 <key>offset</key>
                 <string>{0,-4}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{10,18},{258,114}}</string>
                 <key>sourceSize</key>
@@ -410,11 +358,11 @@
             <key>Hall_star2.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1162,1380},{248,110}}</string>
+                <string>{{2,514},{248,110}}</string>
                 <key>offset</key>
                 <string>{0,-8}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{15,24},{248,110}}</string>
                 <key>sourceSize</key>
@@ -423,7 +371,7 @@
             <key>Hall_tx.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1180,1269},{100,100}}</string>
+                <string>{{2,888},{100,100}}</string>
                 <key>offset</key>
                 <string>{0,1}</string>
                 <key>rotated</key>
@@ -436,7 +384,7 @@
             <key>Hall_window.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{644,1380},{400,263}}</string>
+                <string>{{2,133},{400,263}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -454,9 +402,9 @@
             <key>realTextureFileName</key>
             <string>DDZ_hall.png</string>
             <key>size</key>
-            <string>{1337,2042}</string>
+            <string>{703,1003}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:5e3e972fb21505b55a3aede3a6fb330d:1/1$</string>
+            <string>$TexturePacker:SmartUpdate:1677af2a37c5f6ed805edefddac6a861$</string>
             <key>textureFileName</key>
             <string>DDZ_hall.png</string>
         </dict>
