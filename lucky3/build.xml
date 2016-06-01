@@ -2,7 +2,7 @@
 <project name="Javascript compress project" basedir="E:\games\lucky3\client" default="compile">
 
     <taskdef name="jscomp" classname="com.google.javascript.jscomp.ant.CompileTask"
-             classpath="D:\cocos3.4\Cocos\frameworks\cocos2d-x-3.8.1\tools\cocos2d-console\plugins\project_compile\build_web/bin/compiler-1.7.jar"/>
+             classpath="C:\Cocos\Cocos2d-x\cocos2d-x-3.10\tools\cocos2d-console\plugins\plugin_compile\build_web/bin/compiler-1.7.jar"/>
 
     <target name="compile">
         <jscomp compilationLevel="simple" 
