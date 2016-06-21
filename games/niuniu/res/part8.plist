@@ -7,20 +7,20 @@
             <key>chatBG.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{666,466}}</string>
+                <string>{{2,2},{664,465}}</string>
                 <key>offset</key>
-                <string>{0,1}</string>
+                <string>{-2,-1}</string>
                 <key>rotated</key>
                 <false/>
                 <key>sourceColorRect</key>
-                <string>{{4,0},{666,466}}</string>
+                <string>{{0,3},{664,465}}</string>
                 <key>sourceSize</key>
-                <string>{674,468}</string>
+                <string>{668,469}</string>
             </dict>
             <key>chatclose.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{39,474},{50,50}}</string>
+                <string>{{39,473},{50,50}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -33,7 +33,7 @@
             <key>chath1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{942,270},{132,71}}</string>
+                <string>{{940,270},{132,71}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -46,11 +46,11 @@
             <key>chath2.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{39,526},{122,35}}</string>
+                <string>{{2,738},{122,35}}</string>
                 <key>offset</key>
                 <string>{-1,-1}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{4,19},{122,35}}</string>
                 <key>sourceSize</key>
@@ -59,7 +59,7 @@
             <key>chatinput.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{942,585},{432,51}}</string>
+                <string>{{940,585},{432,51}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -72,7 +72,7 @@
             <key>chatitem.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,470},{660,2}}</string>
+                <string>{{2,469},{660,2}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -85,7 +85,7 @@
             <key>chatlist.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{670,2},{590,270}}</string>
+                <string>{{668,2},{590,270}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -111,7 +111,7 @@
             <key>chats2.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{942,441},{142,60}}</string>
+                <string>{{940,441},{142,60}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -124,7 +124,7 @@
             <key>emotion1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{942,136},{132,71}}</string>
+                <string>{{940,136},{132,71}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -137,7 +137,7 @@
             <key>emotion2.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{942,404},{64,35}}</string>
+                <string>{{940,404},{64,35}}</string>
                 <key>offset</key>
                 <string>{-2,0}</string>
                 <key>rotated</key>
@@ -147,10 +147,218 @@
                 <key>sourceSize</key>
                 <string>{132,71}</string>
             </dict>
+            <key>emotion_0.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{48,830},{44,42}}</string>
+                <key>offset</key>
+                <string>{-1,1}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{1,2},{44,42}}</string>
+                <key>sourceSize</key>
+                <string>{48,48}</string>
+            </dict>
+            <key>emotion_1.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{62,686},{44,42}}</string>
+                <key>offset</key>
+                <string>{0,1}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{2,2},{44,42}}</string>
+                <key>sourceSize</key>
+                <string>{48,48}</string>
+            </dict>
+            <key>emotion_10.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{62,640},{44,42}}</string>
+                <key>offset</key>
+                <string>{0,-1}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{2,4},{44,42}}</string>
+                <key>sourceSize</key>
+                <string>{48,48}</string>
+            </dict>
+            <key>emotion_11.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{129,519},{44,40}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{2,4},{44,40}}</string>
+                <key>sourceSize</key>
+                <string>{48,48}</string>
+            </dict>
+            <key>emotion_12.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{91,473},{44,42}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{2,3},{44,42}}</string>
+                <key>sourceSize</key>
+                <string>{48,48}</string>
+            </dict>
+            <key>emotion_13.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{85,525},{44,42}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{2,3},{44,42}}</string>
+                <key>sourceSize</key>
+                <string>{48,48}</string>
+            </dict>
+            <key>emotion_14.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{106,594},{44,40}}</string>
+                <key>offset</key>
+                <string>{0,1}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{2,3},{44,40}}</string>
+                <key>sourceSize</key>
+                <string>{48,48}</string>
+            </dict>
+            <key>emotion_15.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{62,594},{44,42}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{2,3},{44,42}}</string>
+                <key>sourceSize</key>
+                <string>{48,48}</string>
+            </dict>
+            <key>emotion_2.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{39,784},{44,42}}</string>
+                <key>offset</key>
+                <string>{0,1}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{2,2},{44,42}}</string>
+                <key>sourceSize</key>
+                <string>{48,48}</string>
+            </dict>
+            <key>emotion_3.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{39,738},{44,44}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{2,2},{44,44}}</string>
+                <key>sourceSize</key>
+                <string>{48,48}</string>
+            </dict>
+            <key>emotion_4.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{85,732},{44,40}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{2,4},{44,40}}</string>
+                <key>sourceSize</key>
+                <string>{48,48}</string>
+            </dict>
+            <key>emotion_5.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,954},{44,44}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{2,2},{44,44}}</string>
+                <key>sourceSize</key>
+                <string>{48,48}</string>
+            </dict>
+            <key>emotion_6.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,908},{44,44}}</string>
+                <key>offset</key>
+                <string>{-1,-1}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{1,3},{44,44}}</string>
+                <key>sourceSize</key>
+                <string>{48,48}</string>
+            </dict>
+            <key>emotion_7.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,862},{44,44}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{2,2},{44,44}}</string>
+                <key>sourceSize</key>
+                <string>{48,48}</string>
+            </dict>
+            <key>emotion_8.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{83,784},{44,40}}</string>
+                <key>offset</key>
+                <string>{0,-1}</string>
+                <key>rotated</key>
+                <true/>
+                <key>sourceColorRect</key>
+                <string>{{2,5},{44,40}}</string>
+                <key>sourceSize</key>
+                <string>{48,48}</string>
+            </dict>
+            <key>emotion_9.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{39,525},{44,44}}</string>
+                <key>offset</key>
+                <string>{-1,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{1,2},{44,44}}</string>
+                <key>sourceSize</key>
+                <string>{48,48}</string>
+            </dict>
             <key>quick1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{942,2},{132,71}}</string>
+                <string>{{940,2},{132,71}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -163,7 +371,7 @@
             <key>quick2.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,474},{92,35}}</string>
+                <string>{{2,473},{92,35}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -183,7 +391,7 @@
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:c915b1b4c5dbaefcd58dfcc9140f613c$</string>
+            <string>$TexturePacker:SmartUpdate:abe631947174cd2fa141a86f67303f45$</string>
             <key>textureFileName</key>
             <string>part8.png</string>
         </dict>
