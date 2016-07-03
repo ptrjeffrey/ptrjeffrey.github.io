@@ -1,0 +1,1976 @@
+{
+  "ID": "f04a942b-afbf-433d-8ab0-39a278af8587",
+  "Version": "3.10.0.0",
+  "Name": "ClassicScene",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 6,
+        "Children": [
+          {
+            "FileData": {
+              "Type": "Normal",
+              "Path": "classic/ditu.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 401.2905,
+              "Y": 635.8794
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5016,
+              "Y": 0.4968
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": 1.2905,
+            "RightMargin": -1.2905,
+            "TopMargin": 4.1206,
+            "BottomMargin": -4.1206,
+            "Tag": 12,
+            "ActionTag": -320145366,
+            "Size": {
+              "X": 800.0,
+              "Y": 1280.0
+            },
+            "Name": "hallbj_3",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "游戏消息",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Disable.png",
+              "Plist": ""
+            },
+            "PressedFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Press.png",
+              "Plist": ""
+            },
+            "NormalFileData": {
+              "Type": "Default",
+              "Path": "Default/Button_Normal.png",
+              "Plist": ""
+            },
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 16,
+            "Scale9Height": 14,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.4519,
+              "ScaleY": 0.5665
+            },
+            "Position": {
+              "X": -278.6633,
+              "Y": 501.9813
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.3483,
+              "Y": 0.3922
+            },
+            "PreSize": {
+              "X": 0.125,
+              "Y": 0.0281
+            },
+            "LeftMargin": -323.8533,
+            "RightMargin": 1023.8533,
+            "TopMargin": 762.4127,
+            "BottomMargin": 481.5873,
+            "Tag": 9,
+            "ActionTag": 1375434264,
+            "Size": {
+              "X": 100.0,
+              "Y": 36.0
+            },
+            "Name": "btnGameMsg",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "daojishi.png",
+              "Plist": "classic/room.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 394.4717,
+              "Y": 724.1153
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4931,
+              "Y": 0.5657
+            },
+            "PreSize": {
+              "X": 0.105,
+              "Y": 0.0875
+            },
+            "LeftMargin": 352.4717,
+            "RightMargin": 363.5283,
+            "TopMargin": 499.8847,
+            "BottomMargin": 668.1153,
+            "Tag": 63,
+            "Children": [
+              {
+                "CharWidth": 14,
+                "CharHeight": 20,
+                "LabelText": "15",
+                "StartChar": ".",
+                "LabelAtlasFileImage_CNB": {
+                  "Type": "Normal",
+                  "Path": "classic/roomNum/shijianshuzi.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.6048,
+                  "ScaleY": 0.7044
+                },
+                "Position": {
+                  "X": 46.6292,
+                  "Y": 46.0578
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5551,
+                  "Y": 0.4112
+                },
+                "PreSize": {
+                  "X": 0.3333,
+                  "Y": 0.1786
+                },
+                "LeftMargin": 29.6948,
+                "RightMargin": 26.3052,
+                "TopMargin": 60.0302,
+                "BottomMargin": 31.9698,
+                "Tag": 64,
+                "ActionTag": -285442531,
+                "Size": {
+                  "X": 28.0,
+                  "Y": 20.0
+                },
+                "Name": "labTimer",
+                "ctype": "TextAtlasObjectData"
+              }
+            ],
+            "ActionTag": 1840555591,
+            "Size": {
+              "X": 84.0,
+              "Y": 112.0
+            },
+            "Name": "imgTimer",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "shijianhefanshu.png",
+              "Plist": "classic/room.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 161.3485,
+              "Y": 1249.8394
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.2017,
+              "Y": 0.9764
+            },
+            "PreSize": {
+              "X": 0.2688,
+              "Y": 0.043
+            },
+            "LeftMargin": 53.8485,
+            "RightMargin": 531.1515,
+            "TopMargin": 2.6606,
+            "BottomMargin": 1222.3394,
+            "Tag": 65,
+            "Children": [
+              {
+                "FontSize": 20,
+                "LabelText": "20",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.4864,
+                  "ScaleY": 0.5411
+                },
+                "Position": {
+                  "X": 24.1689,
+                  "Y": 29.008
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1124,
+                  "Y": 0.5274
+                },
+                "PreSize": {
+                  "X": 0.093,
+                  "Y": 0.3636
+                },
+                "LeftMargin": 14.4409,
+                "RightMargin": 180.5591,
+                "TopMargin": 16.814,
+                "BottomMargin": 18.186,
+                "Tag": 79,
+                "ActionTag": 1097815094,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 20.0
+                },
+                "Name": "textHour",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "20",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.522,
+                  "ScaleY": 0.4702
+                },
+                "Position": {
+                  "X": 64.8733,
+                  "Y": 28.4777
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.3017,
+                  "Y": 0.5178
+                },
+                "PreSize": {
+                  "X": 0.093,
+                  "Y": 0.3636
+                },
+                "LeftMargin": 54.4333,
+                "RightMargin": 140.5667,
+                "TopMargin": 15.9263,
+                "BottomMargin": 19.0737,
+                "Tag": 78,
+                "ActionTag": -1512870812,
+                "Size": {
+                  "X": 20.0,
+                  "Y": 20.0
+                },
+                "Name": "textMinute",
+                "ctype": "TextObjectData"
+              },
+              {
+                "CharWidth": 18,
+                "CharHeight": 25,
+                "LabelText": "200",
+                "StartChar": ".",
+                "LabelAtlasFileImage_CNB": {
+                  "Type": "Normal",
+                  "Path": "classic/roomNum/fanshuzi.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 141.2589,
+                  "Y": 30.3411
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.657,
+                  "Y": 0.5517
+                },
+                "PreSize": {
+                  "X": 0.2512,
+                  "Y": 0.4545
+                },
+                "LeftMargin": 114.2589,
+                "RightMargin": 46.7411,
+                "TopMargin": 12.1589,
+                "BottomMargin": 17.8411,
+                "Tag": 80,
+                "ActionTag": 1328474761,
+                "Size": {
+                  "X": 54.0,
+                  "Y": 25.0
+                },
+                "Name": "labBaseScore",
+                "ctype": "TextAtlasObjectData"
+              }
+            ],
+            "ActionTag": -596424067,
+            "Size": {
+              "X": 215.0,
+              "Y": 55.0
+            },
+            "Name": "shijianhefanshu_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 383.5771,
+              "Y": 1199.4126
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4795,
+              "Y": 0.937
+            },
+            "PreSize": {
+              "X": 0.0575,
+              "Y": 0.0359
+            },
+            "LeftMargin": 360.5771,
+            "RightMargin": 393.4229,
+            "TopMargin": 57.5874,
+            "BottomMargin": 1176.4126,
+            "Tag": 66,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "touxiangkuang.png",
+                  "Plist": "classic/room.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 22.6934,
+                  "Y": 31.7678
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4933,
+                  "Y": 0.6906
+                },
+                "PreSize": {
+                  "X": 2.6739,
+                  "Y": 2.6087
+                },
+                "LeftMargin": -38.8066,
+                "RightMargin": -38.1934,
+                "TopMargin": -45.7678,
+                "BottomMargin": -28.2322,
+                "Tag": 67,
+                "ActionTag": -194907707,
+                "Size": {
+                  "X": 123.0,
+                  "Y": 120.0
+                },
+                "Name": "imgFrame",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "xiafanggerenxingxizhuang.png",
+                  "Plist": "classic/room.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -62.0129,
+                  "Y": 52.9458
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -1.3481,
+                  "Y": 1.151
+                },
+                "PreSize": {
+                  "X": 0.9783,
+                  "Y": 0.9565
+                },
+                "LeftMargin": -84.5129,
+                "RightMargin": 85.5129,
+                "TopMargin": -28.9458,
+                "BottomMargin": 30.9458,
+                "Tag": 68,
+                "ActionTag": -1616201488,
+                "Size": {
+                  "X": 45.0,
+                  "Y": 44.0
+                },
+                "Name": "imgBanker",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "Text Label",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 89.0,
+                  "Y": 29.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.9348,
+                  "Y": 0.6304
+                },
+                "PreSize": {
+                  "X": 2.1739,
+                  "Y": 0.4348
+                },
+                "LeftMargin": 89.0,
+                "RightMargin": -143.0,
+                "TopMargin": -3.0,
+                "BottomMargin": 29.0,
+                "Tag": 71,
+                "ActionTag": 1748910738,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 20.0
+                },
+                "Name": "labName",
+                "ctype": "TextObjectData"
+              },
+              {
+                "CharWidth": 14,
+                "CharHeight": 20,
+                "LabelText": "12300",
+                "StartChar": ".",
+                "LabelAtlasFileImage_CNB": {
+                  "Type": "Normal",
+                  "Path": "classic/roomNum/xiafanggerenxingxishuzi.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 88.299,
+                  "Y": -9.6876
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 1.9195,
+                  "Y": -0.2106
+                },
+                "PreSize": {
+                  "X": 1.5217,
+                  "Y": 0.4348
+                },
+                "LeftMargin": 88.299,
+                "RightMargin": -112.299,
+                "TopMargin": 35.6876,
+                "BottomMargin": -9.6876,
+                "Tag": 72,
+                "ActionTag": -1284276478,
+                "Size": {
+                  "X": 70.0,
+                  "Y": 20.0
+                },
+                "Name": "labMoney",
+                "ctype": "TextAtlasObjectData"
+              }
+            ],
+            "ActionTag": 1102412425,
+            "Size": {
+              "X": 46.0,
+              "Y": 46.0
+            },
+            "Name": "playerAvatar1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "xiafanggerenxingxi.png",
+              "Plist": "classic/room.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 400.3465,
+              "Y": 7.8282
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5004,
+              "Y": 0.0061
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 0.0453
+            },
+            "LeftMargin": 0.3465,
+            "RightMargin": -0.3465,
+            "TopMargin": 1243.1718,
+            "BottomMargin": -21.1718,
+            "Tag": 69,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "chujichang.png",
+                  "Plist": "classic/room.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 399.9897,
+                  "Y": 28.408
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5,
+                  "Y": 0.4898
+                },
+                "PreSize": {
+                  "X": 0.1,
+                  "Y": 0.5
+                },
+                "LeftMargin": 359.9897,
+                "RightMargin": 360.0103,
+                "TopMargin": 15.092,
+                "BottomMargin": 13.908,
+                "Tag": 70,
+                "ActionTag": -794788591,
+                "Size": {
+                  "X": 80.0,
+                  "Y": 29.0
+                },
+                "Name": "imgLevel",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": -609250315,
+            "Size": {
+              "X": 800.0,
+              "Y": 58.0
+            },
+            "Name": "xiafanggerenxingxi_6",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "Default",
+              "Path": "Default/Sprite.png",
+              "Plist": ""
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.6103,
+              "ScaleY": 0.3634
+            },
+            "Position": {
+              "X": 351.7678,
+              "Y": 94.0872
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4397,
+              "Y": 0.0735
+            },
+            "PreSize": {
+              "X": 0.0575,
+              "Y": 0.0359
+            },
+            "LeftMargin": 323.6938,
+            "RightMargin": 430.3062,
+            "TopMargin": 1156.6289,
+            "BottomMargin": 77.3711,
+            "Tag": 74,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "touxiangkuang.png",
+                  "Plist": "classic/room.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 22.6934,
+                  "Y": 31.7678
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4933,
+                  "Y": 0.6906
+                },
+                "PreSize": {
+                  "X": 2.6739,
+                  "Y": 2.6087
+                },
+                "LeftMargin": -38.8066,
+                "RightMargin": -38.1934,
+                "TopMargin": -45.7678,
+                "BottomMargin": -28.2322,
+                "Tag": 75,
+                "ActionTag": 1338745955,
+                "Size": {
+                  "X": 123.0,
+                  "Y": 120.0
+                },
+                "Name": "imgFrame",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "xiafanggerenxingxizhuang.png",
+                  "Plist": "classic/room.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": -62.0129,
+                  "Y": 52.9458
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": -1.3481,
+                  "Y": 1.151
+                },
+                "PreSize": {
+                  "X": 0.9783,
+                  "Y": 0.9565
+                },
+                "LeftMargin": -84.5129,
+                "RightMargin": 85.5129,
+                "TopMargin": -28.9458,
+                "BottomMargin": 30.9458,
+                "Tag": 76,
+                "ActionTag": 424249094,
+                "Size": {
+                  "X": 45.0,
+                  "Y": 44.0
+                },
+                "Name": "imgBanker",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "FontSize": 20,
+                "LabelText": "Text Label",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 94.8359,
+                  "Y": 15.0048
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 2.0617,
+                  "Y": 0.3262
+                },
+                "PreSize": {
+                  "X": 2.1739,
+                  "Y": 0.4348
+                },
+                "LeftMargin": 94.8359,
+                "RightMargin": -148.8359,
+                "TopMargin": 10.9952,
+                "BottomMargin": 15.0048,
+                "Tag": 77,
+                "ActionTag": -1270125910,
+                "Size": {
+                  "X": 100.0,
+                  "Y": 20.0
+                },
+                "Name": "labName",
+                "ctype": "TextObjectData"
+              },
+              {
+                "CharWidth": 14,
+                "CharHeight": 20,
+                "LabelText": "123",
+                "StartChar": ".",
+                "LabelAtlasFileImage_CNB": {
+                  "Type": "Normal",
+                  "Path": "classic/roomNum/xiafanggerenxingxishuzi.png",
+                  "Plist": ""
+                },
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 94.1398,
+                  "Y": -19.4854
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 2.0465,
+                  "Y": -0.4236
+                },
+                "PreSize": {
+                  "X": 0.913,
+                  "Y": 0.4348
+                },
+                "LeftMargin": 94.1398,
+                "RightMargin": -90.1398,
+                "TopMargin": 45.4854,
+                "BottomMargin": -19.4854,
+                "Tag": 81,
+                "ActionTag": -1972092523,
+                "Size": {
+                  "X": 42.0,
+                  "Y": 20.0
+                },
+                "Name": "labMoney",
+                "ctype": "TextAtlasObjectData"
+              }
+            ],
+            "ActionTag": -745712487,
+            "Size": {
+              "X": 46.0,
+              "Y": 46.0
+            },
+            "Name": "playerAvatar2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "chipengganghu.png",
+              "Plist": "classic/room.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 1008.5242,
+              "Y": 358.5693
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 1.2607,
+              "Y": 0.2801
+            },
+            "PreSize": {
+              "X": 0.5063,
+              "Y": 0.0672
+            },
+            "LeftMargin": 806.0242,
+            "RightMargin": -411.0242,
+            "TopMargin": 878.4307,
+            "BottomMargin": 315.5693,
+            "Tag": 82,
+            "Children": [
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "gang3.png",
+                  "Plist": "classic/room.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "gang2.png",
+                  "Plist": "classic/room.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "gang.png",
+                  "Plist": "classic/room.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 34,
+                "Scale9Height": 41,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 186.6784,
+                  "Y": 42.2829
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4609,
+                  "Y": 0.4917
+                },
+                "PreSize": {
+                  "X": 0.158,
+                  "Y": 0.7326
+                },
+                "LeftMargin": 154.6784,
+                "RightMargin": 186.3216,
+                "TopMargin": 12.2171,
+                "BottomMargin": 10.7829,
+                "Tag": 83,
+                "ActionTag": 1998172929,
+                "Size": {
+                  "X": 64.0,
+                  "Y": 63.0
+                },
+                "Name": "btnGang",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "fangqi3.png",
+                  "Plist": "classic/room.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "fangqi.png",
+                  "Plist": "classic/room.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "fangqi.png",
+                  "Plist": "classic/room.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 74,
+                "Scale9Height": 41,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 344.5764,
+                  "Y": 42.2829
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.8508,
+                  "Y": 0.4917
+                },
+                "PreSize": {
+                  "X": 0.2568,
+                  "Y": 0.7326
+                },
+                "LeftMargin": 292.5764,
+                "RightMargin": 8.4236,
+                "TopMargin": 12.2171,
+                "BottomMargin": 10.7829,
+                "Tag": 84,
+                "ActionTag": -1131620101,
+                "Size": {
+                  "X": 104.0,
+                  "Y": 63.0
+                },
+                "Name": "btnGiveUp",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "he3.png",
+                  "Plist": "classic/room.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "hu2.png",
+                  "Plist": "classic/room.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "he.png",
+                  "Plist": "classic/room.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 34,
+                "Scale9Height": 40,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 257.1221,
+                  "Y": 41.7829
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.6349,
+                  "Y": 0.4858
+                },
+                "PreSize": {
+                  "X": 0.158,
+                  "Y": 0.7209
+                },
+                "LeftMargin": 225.1221,
+                "RightMargin": 115.8779,
+                "TopMargin": 13.2171,
+                "BottomMargin": 10.7829,
+                "Tag": 85,
+                "ActionTag": -1735597848,
+                "Size": {
+                  "X": 64.0,
+                  "Y": 62.0
+                },
+                "Name": "btnHu",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "peng3.png",
+                  "Plist": "classic/room.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "peng2.png",
+                  "Plist": "classic/room.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "peng.png",
+                  "Plist": "classic/room.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 32,
+                "Scale9Height": 42,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 113.6647,
+                  "Y": 42.7829
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.2807,
+                  "Y": 0.4975
+                },
+                "PreSize": {
+                  "X": 0.1531,
+                  "Y": 0.7442
+                },
+                "LeftMargin": 82.6647,
+                "RightMargin": 260.3353,
+                "TopMargin": 11.2171,
+                "BottomMargin": 10.7829,
+                "Tag": 86,
+                "ActionTag": -1348960422,
+                "Size": {
+                  "X": 62.0,
+                  "Y": 64.0
+                },
+                "Name": "btnPeng",
+                "ctype": "ButtonObjectData"
+              },
+              {
+                "FontSize": 14,
+                "ButtonText": "",
+                "TextColor": {
+                  "R": 65,
+                  "G": 65,
+                  "B": 70
+                },
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "chi3.png",
+                  "Plist": "classic/room.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "chi2.png",
+                  "Plist": "classic/room.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "chi.png",
+                  "Plist": "classic/room.plist"
+                },
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 32,
+                "Scale9Height": 41,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 40.8309,
+                  "Y": 42.2829
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1008,
+                  "Y": 0.4917
+                },
+                "PreSize": {
+                  "X": 0.1531,
+                  "Y": 0.7326
+                },
+                "LeftMargin": 9.8309,
+                "RightMargin": 333.1691,
+                "TopMargin": 12.2171,
+                "BottomMargin": 10.7829,
+                "Tag": 87,
+                "ActionTag": 807213496,
+                "Size": {
+                  "X": 62.0,
+                  "Y": 63.0
+                },
+                "Name": "btnChi",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": -974738242,
+            "Size": {
+              "X": 405.0,
+              "Y": 86.0
+            },
+            "Name": "operPanel",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {},
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": -142.7762,
+              "Y": -6.6406
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.1785,
+              "Y": -0.0052
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": -142.7762,
+            "RightMargin": 142.7762,
+            "TopMargin": 6.6406,
+            "BottomMargin": -6.6406,
+            "Tag": 84,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "lachucaidan.png",
+                  "Plist": "classic/room.plist"
+                },
+                "Scale9OriginX": 35,
+                "Scale9OriginY": 139,
+                "Scale9Width": 122,
+                "Scale9Height": 120,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 78.644,
+                  "Y": 687.6416
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.0983,
+                  "Y": 0.5372
+                },
+                "PreSize": {
+                  "X": 0.2825,
+                  "Y": 0.3344
+                },
+                "LeftMargin": -34.356,
+                "RightMargin": 608.356,
+                "TopMargin": 378.3584,
+                "BottomMargin": 473.6416,
+                "Tag": 57,
+                "Children": [
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "tueichu.png",
+                      "Plist": "classic/room.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "tueichu.png",
+                      "Plist": "classic/room.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "tueichu.png",
+                      "Plist": "classic/room.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 30,
+                    "Scale9Height": 35,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 116.9777,
+                      "Y": 359.6735
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5176,
+                      "Y": 0.8404
+                    },
+                    "PreSize": {
+                      "X": 0.2655,
+                      "Y": 0.1332
+                    },
+                    "LeftMargin": 86.9777,
+                    "RightMargin": 79.0223,
+                    "TopMargin": 39.8265,
+                    "BottomMargin": 331.1735,
+                    "Tag": 61,
+                    "ActionTag": -264978435,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 57.0
+                    },
+                    "Name": "btnHall",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "roomhelp.png",
+                      "Plist": "classic/room.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "roomhelp.png",
+                      "Plist": "classic/room.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "roomhelp.png",
+                      "Plist": "classic/room.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 78,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5001,
+                      "ScaleY": 0.533
+                    },
+                    "Position": {
+                      "X": 115.3723,
+                      "Y": 265.9785
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5105,
+                      "Y": 0.6214
+                    },
+                    "PreSize": {
+                      "X": 0.4425,
+                      "Y": 0.2336
+                    },
+                    "LeftMargin": 65.3623,
+                    "RightMargin": 60.6377,
+                    "TopMargin": 115.3215,
+                    "BottomMargin": 212.6785,
+                    "Tag": 62,
+                    "ActionTag": -123045382,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 100.0
+                    },
+                    "Name": "btnHelp",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "roomset.png",
+                      "Plist": "classic/room.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "roomset.png",
+                      "Plist": "classic/room.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "roomset.png",
+                      "Plist": "classic/room.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 78,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5096,
+                      "ScaleY": 0.4608
+                    },
+                    "Position": {
+                      "X": 114.2694,
+                      "Y": 160.206
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5056,
+                      "Y": 0.3743
+                    },
+                    "PreSize": {
+                      "X": 0.4425,
+                      "Y": 0.2336
+                    },
+                    "LeftMargin": 63.3094,
+                    "RightMargin": 62.6906,
+                    "TopMargin": 213.874,
+                    "BottomMargin": 114.126,
+                    "Tag": 63,
+                    "ActionTag": -956656350,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 100.0
+                    },
+                    "Name": "btnSetting",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "xiaoxi.png",
+                      "Plist": "classic/room.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "xiaoxi.png",
+                      "Plist": "classic/room.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "xiaoxi.png",
+                      "Plist": "classic/room.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 29,
+                    "Scale9Height": 32,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.4823,
+                      "ScaleY": 0.482
+                    },
+                    "Position": {
+                      "X": 111.6706,
+                      "Y": 76.041
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.4941,
+                      "Y": 0.1777
+                    },
+                    "PreSize": {
+                      "X": 0.2611,
+                      "Y": 0.1262
+                    },
+                    "LeftMargin": 83.2149,
+                    "RightMargin": 83.7851,
+                    "TopMargin": 323.987,
+                    "BottomMargin": 50.013,
+                    "Tag": 64,
+                    "ActionTag": -777582726,
+                    "Size": {
+                      "X": 59.0,
+                      "Y": 54.0
+                    },
+                    "Name": "btnChat",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 1210000283,
+                "Size": {
+                  "X": 226.0,
+                  "Y": 428.0
+                },
+                "Name": "imgMenu",
+                "ctype": "ImageViewObjectData"
+              }
+            ],
+            "ActionTag": -432740890,
+            "Size": {
+              "X": 800.0,
+              "Y": 1280.0
+            },
+            "VisibleForFrame": false,
+            "Name": "menuLayer",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "xinshouchang.png",
+              "Plist": "classic/room.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -275.3724,
+              "Y": 121.6045
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.3442,
+              "Y": 0.095
+            },
+            "PreSize": {
+              "X": 0.1025,
+              "Y": 0.0219
+            },
+            "LeftMargin": -316.3724,
+            "RightMargin": 1034.3724,
+            "TopMargin": 1144.3955,
+            "BottomMargin": 107.6045,
+            "Tag": 85,
+            "ActionTag": 648804375,
+            "Size": {
+              "X": 82.0,
+              "Y": 28.0
+            },
+            "Name": "sprLevel0",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "zhongjichang.png",
+              "Plist": "classic/room.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.4543,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -278.1171,
+              "Y": 14.585
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.3476,
+              "Y": 0.0114
+            },
+            "PreSize": {
+              "X": 0.1,
+              "Y": 0.0219
+            },
+            "LeftMargin": -314.4611,
+            "RightMargin": 1034.4611,
+            "TopMargin": 1251.415,
+            "BottomMargin": 0.585,
+            "Tag": 86,
+            "ActionTag": 1950569920,
+            "Size": {
+              "X": 80.0,
+              "Y": 28.0
+            },
+            "Name": "sprLevel2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "chujichang.png",
+              "Plist": "classic/room.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -276.7445,
+              "Y": 68.0944
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.3459,
+              "Y": 0.0532
+            },
+            "PreSize": {
+              "X": 0.1,
+              "Y": 0.0227
+            },
+            "LeftMargin": -316.7445,
+            "RightMargin": 1036.7445,
+            "TopMargin": 1197.4056,
+            "BottomMargin": 53.5944,
+            "Tag": 87,
+            "ActionTag": -774755331,
+            "Size": {
+              "X": 80.0,
+              "Y": 29.0
+            },
+            "Name": "sprLevel1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "gaojichang.png",
+              "Plist": "classic/room.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": -279.4886,
+              "Y": -49.9011
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": -0.3494,
+              "Y": -0.039
+            },
+            "PreSize": {
+              "X": 0.1025,
+              "Y": 0.0211
+            },
+            "LeftMargin": -320.4886,
+            "RightMargin": 1038.4885,
+            "TopMargin": 1316.4011,
+            "BottomMargin": -63.4011,
+            "Tag": 88,
+            "ActionTag": 737185776,
+            "Size": {
+              "X": 82.0,
+              "Y": 27.0
+            },
+            "Name": "sprLevel3",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 800.0,
+          "Y": 1280.0
+        },
+        "Name": "Scene",
+        "ctype": "SingleNodeObjectData"
+      },
+      "UsedResources": [
+        "classic/ditu.png",
+        "classic/room.plist",
+        "classic/room.png",
+        "classic/roomNum/fanshuzi.png",
+        "classic/roomNum/shijianshuzi.png",
+        "classic/roomNum/xiafanggerenxingxishuzi.png",
+        "Default/Button_Disable.png",
+        "Default/Button_Normal.png",
+        "Default/Button_Press.png",
+        "Default/Sprite.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Scene"
+}
