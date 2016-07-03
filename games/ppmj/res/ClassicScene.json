@@ -764,10 +764,10 @@
               "X": 0.0575,
               "Y": 0.0359
             },
-            "LeftMargin": 323.6938,
-            "RightMargin": 430.3062,
-            "TopMargin": 1156.6289,
-            "BottomMargin": 77.3711,
+            "LeftMargin": 323.694,
+            "RightMargin": 430.306,
+            "TopMargin": 1156.6292,
+            "BottomMargin": 77.3708,
             "Tag": 74,
             "Children": [
               {
@@ -1765,7 +1765,6 @@
               "X": 800.0,
               "Y": 1280.0
             },
-            "VisibleForFrame": false,
             "Name": "menuLayer",
             "ctype": "PanelObjectData"
           },
