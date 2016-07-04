@@ -54,6 +54,84 @@
               {
                 "FileData": {
                   "Type": "PlistSubImage",
+                  "Path": "touxiang.png",
+                  "Plist": "hall/hall.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 91.6572,
+                  "Y": 1215.1858
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1146,
+                  "Y": 0.9494
+                },
+                "PreSize": {
+                  "X": 0.1225,
+                  "Y": 0.0766
+                },
+                "LeftMargin": 42.6572,
+                "RightMargin": 659.3428,
+                "TopMargin": 15.8142,
+                "BottomMargin": 1166.1858,
+                "Tag": 22,
+                "ActionTag": -2041721530,
+                "Size": {
+                  "X": 98.0,
+                  "Y": 98.0
+                },
+                "Name": "Sprite_2",
+                "ctype": "SpriteObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 84.5339,
+                  "Y": 1221.0551
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.1057,
+                  "Y": 0.9539
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 84.5339,
+                "RightMargin": 715.4661,
+                "TopMargin": 58.9449,
+                "BottomMargin": 1221.0551,
+                "Tag": 96,
+                "ActionTag": 1605478688,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "headNode",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
                   "Path": "headframe.png",
                   "Plist": "hall/hall.plist"
                 },
@@ -66,8 +144,8 @@
                   "ScaleY": 0.4778
                 },
                 "Position": {
-                  "X": 96.7466,
-                  "Y": 1216.569
+                  "X": 89.4665,
+                  "Y": 1218.649
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -76,36 +154,38 @@
                 "CColor": {},
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 0.1209,
-                  "Y": 0.9504
+                  "X": 0.1118,
+                  "Y": 0.9521
                 },
                 "PreSize": {
                   "X": 0.1312,
                   "Y": 0.0805
                 },
-                "LeftMargin": 43.8476,
-                "RightMargin": 651.1524,
-                "TopMargin": 9.6444,
-                "BottomMargin": 1167.3556,
+                "LeftMargin": 36.5675,
+                "RightMargin": 658.4325,
+                "TopMargin": 7.5643,
+                "BottomMargin": 1169.4357,
                 "Tag": 5,
                 "Children": [
                   {
-                    "FileData": {
-                      "Type": "Default",
-                      "Path": "Default/Sprite.png",
-                      "Plist": ""
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "4646456",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
                     },
-                    "BlendFunc": {
-                      "Src": 1,
-                      "Dst": 771
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
                     },
-                    "AnchorPoint": {
-                      "ScaleX": 0.5,
-                      "ScaleY": 0.5
-                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
                     "Position": {
-                      "X": 54.6146,
-                      "Y": 58.2308
+                      "X": 113.5647,
+                      "Y": 60.9528
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -114,25 +194,115 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.5201,
-                      "Y": 0.5653
+                      "X": 1.0816,
+                      "Y": 0.5918
                     },
                     "PreSize": {
-                      "X": 0.4381,
-                      "Y": 0.4466
+                      "X": 0.8571,
+                      "Y": 0.1942
                     },
-                    "LeftMargin": 31.6146,
-                    "RightMargin": 27.3854,
-                    "TopMargin": 21.7692,
-                    "BottomMargin": 35.2308,
-                    "Tag": 22,
-                    "ActionTag": -2041721530,
+                    "LeftMargin": 113.5647,
+                    "RightMargin": -98.5647,
+                    "TopMargin": 22.0472,
+                    "BottomMargin": 60.9528,
+                    "Tag": 97,
+                    "ActionTag": -454264040,
                     "Size": {
-                      "X": 46.0,
-                      "Y": 46.0
+                      "X": 90.0,
+                      "Y": 20.0
                     },
-                    "Name": "Sprite_2",
-                    "ctype": "SpriteObjectData"
+                    "Name": "txtName",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "CharWidth": 13,
+                    "CharHeight": 20,
+                    "LabelText": "./0123456789",
+                    "StartChar": ".",
+                    "LabelAtlasFileImage_CNB": {
+                      "Type": "Normal",
+                      "Path": "hall/hallNum/jinbishuzi.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -264.9441,
+                      "Y": 35.2346
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": -2.5233,
+                      "Y": 0.3421
+                    },
+                    "PreSize": {
+                      "X": 1.4857,
+                      "Y": 0.1942
+                    },
+                    "LeftMargin": -264.9441,
+                    "RightMargin": 213.9441,
+                    "TopMargin": 47.7654,
+                    "BottomMargin": 35.2346,
+                    "Tag": 98,
+                    "ActionTag": -2047284189,
+                    "Size": {
+                      "X": 156.0,
+                      "Y": 20.0
+                    },
+                    "Name": "txtMoney1",
+                    "ctype": "TextAtlasObjectData"
+                  },
+                  {
+                    "FontSize": 23,
+                    "LabelText": "0",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 114.7018,
+                      "Y": 16.1484
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 1.0924,
+                      "Y": 0.1568
+                    },
+                    "PreSize": {
+                      "X": 0.1143,
+                      "Y": 0.2233
+                    },
+                    "LeftMargin": 114.7018,
+                    "RightMargin": -21.7018,
+                    "TopMargin": 63.8516,
+                    "BottomMargin": 16.1484,
+                    "Tag": 58,
+                    "ActionTag": 1186934844,
+                    "Size": {
+                      "X": 12.0,
+                      "Y": 23.0
+                    },
+                    "Name": "txtMoney",
+                    "ctype": "TextObjectData"
                   }
                 ],
                 "ActionTag": -1079243944,
@@ -942,7 +1112,7 @@
                     },
                     "PreSize": {
                       "X": 0.3782,
-                      "Y": 0.1563
+                      "Y": 0.1562
                     },
                     "LeftMargin": 49.889,
                     "RightMargin": 98.111,
@@ -2554,7 +2724,7 @@
               "ScaleY": 0.5
             },
             "Position": {
-              "X": 374.6401,
+              "X": 374.64,
               "Y": 259.1013
             },
             "Scale": {
@@ -2572,8 +2742,8 @@
               "X": 0.29,
               "Y": 0.0844
             },
-            "LeftMargin": 258.6401,
-            "RightMargin": 309.3599,
+            "LeftMargin": 258.64,
+            "RightMargin": 309.36,
             "TopMargin": 966.8987,
             "BottomMargin": 205.1013,
             "Tag": 17,
@@ -2597,11 +2767,11 @@
         "Default/Button_Disable.png",
         "Default/Button_Normal.png",
         "Default/Button_Press.png",
-        "Default/Sprite.png",
         "hall/hall.plist",
         "hall/hall.png",
         "hall/hallbg.png",
         "hall/hallNum/di.png",
+        "hall/hallNum/jinbishuzi.png",
         "hall/hallNum/renshuxianshishuzi.png",
         "hall/hallNum/xiaotubiaoyoujianshuzi.png"
       ],
