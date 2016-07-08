@@ -154,7 +154,7 @@
                 if (!scode) {
                     scode = randomChar(32);
                     console.log('-------------------3');
-                    setCookie('scode', scode);
+                    setCookie('scode_01', scode);
                 }
                 for(i in rs) {
                     html += '<a class="btn btn-success btn-block btn-weixin" href="'+rs[i]['url']+'?scode='+scode+'&target='+target+'">'+rs[i]['name']+'</a>';
@@ -178,7 +178,7 @@
             sid = getQueryString('sid');
             console.log('--------------sid1 = ', sid);
             if(sid) {
-                setCookie('sid', sid);
+                setCookie('sid_01', sid);
             }
             console.log('--------------sid2 = ', sid);
         }else{
