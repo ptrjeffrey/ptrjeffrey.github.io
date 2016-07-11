@@ -149,7 +149,7 @@
             if (rs.length > 0) {
                 var html, i,scode;
                 html = "";
-                scode = getCookie('scode');
+                scode = getCookie('scode_01');
                 console.log('-------------------2', scode);
                 if (!scode) {
                     scode = randomChar(32);
@@ -170,8 +170,8 @@
     }
 
     $(function(){
-        var scode = getCookie('scode');
-        var sid = getCookie('sid');
+        var scode = getCookie('scode_01');
+        var sid = getCookie('sid_01');
         console.log('scode ', scode, ' sid = ', sid);
         if (!sid) {
             console.log('--------------sid = ', sid);
