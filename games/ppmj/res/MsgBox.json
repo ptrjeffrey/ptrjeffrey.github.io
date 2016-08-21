@@ -1,0 +1,304 @@
+{
+  "ID": "dd1e74e9-a415-4244-a5e7-86d821f217cc",
+  "Version": "3.10.0.0",
+  "Name": "MsgBox",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 59,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "Scale9Width": 1,
+            "Scale9Height": 1,
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0035,
+              "Y": 0.0003
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": 0.0035,
+            "RightMargin": -0.0035,
+            "TopMargin": -0.0002,
+            "BottomMargin": 0.0003,
+            "Tag": 60,
+            "ActionTag": 2075846168,
+            "Size": {
+              "X": 800.0,
+              "Y": 1280.0
+            },
+            "Alpha": 0,
+            "Name": "BGPanle",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "msgbg.png",
+              "Plist": "hall/hall.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 398.4805,
+              "Y": 661.7166
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.4981,
+              "Y": 0.517
+            },
+            "PreSize": {
+              "X": 0.8175,
+              "Y": 0.2523
+            },
+            "LeftMargin": 71.4805,
+            "RightMargin": 74.5195,
+            "TopMargin": 456.7834,
+            "BottomMargin": 500.2166,
+            "Tag": 61,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 30,
+                "LabelText": "提示",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 328.1674,
+                  "Y": 281.4445
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5018,
+                  "Y": 0.8713
+                },
+                "PreSize": {
+                  "X": 0.6881,
+                  "Y": 0.0929
+                },
+                "LeftMargin": 103.1674,
+                "RightMargin": 100.8326,
+                "TopMargin": 26.5555,
+                "BottomMargin": 266.4445,
+                "Tag": 62,
+                "ActionTag": -1699462561,
+                "Size": {
+                  "X": 450.0,
+                  "Y": 30.0
+                },
+                "Name": "txtTitle",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "这是真正的内容啊",
+                "HorizontalAlignmentType": "HT_Center",
+                "VerticalAlignmentType": "VT_Center",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 72.2358,
+                  "Y": 111.6606
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.1105,
+                  "Y": 0.3457
+                },
+                "PreSize": {
+                  "X": 0.7645,
+                  "Y": 0.4025
+                },
+                "LeftMargin": 72.2358,
+                "RightMargin": 81.7642,
+                "TopMargin": 81.3394,
+                "BottomMargin": 111.6606,
+                "Tag": 63,
+                "ActionTag": 943555794,
+                "Size": {
+                  "X": 500.0,
+                  "Y": 130.0
+                },
+                "Name": "txtContent",
+                "ctype": "TextObjectData"
+              },
+              {
+                "FontSize": 20,
+                "ButtonText": "确定",
+                "TextColor": {},
+                "DisabledFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "msgbtn.png",
+                  "Plist": "hall/hall.plist"
+                },
+                "PressedFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "msgbtn.png",
+                  "Plist": "hall/hall.plist"
+                },
+                "NormalFileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "msgbtn.png",
+                  "Plist": "hall/hall.plist"
+                },
+                "Scale9Enable": true,
+                "Scale9OriginX": 15,
+                "Scale9OriginY": 11,
+                "Scale9Width": 147,
+                "Scale9Height": 37,
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "TouchEnable": true,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 309.2187,
+                  "Y": 58.589
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4728,
+                  "Y": 0.1814
+                },
+                "PreSize": {
+                  "X": 0.2706,
+                  "Y": 0.1827
+                },
+                "LeftMargin": 220.7187,
+                "RightMargin": 256.2813,
+                "TopMargin": 234.911,
+                "BottomMargin": 29.089,
+                "Tag": 64,
+                "ActionTag": -244604919,
+                "Size": {
+                  "X": 177.0,
+                  "Y": 59.0
+                },
+                "Name": "btnOK",
+                "ctype": "ButtonObjectData"
+              }
+            ],
+            "ActionTag": 2143114898,
+            "Size": {
+              "X": 654.0,
+              "Y": 323.0
+            },
+            "Name": "msgBG",
+            "ctype": "SpriteObjectData"
+          }
+        ],
+        "Size": {
+          "X": 800.0,
+          "Y": 1280.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "hall/hall.plist",
+        "hall/hall.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}

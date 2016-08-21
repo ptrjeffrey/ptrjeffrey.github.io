@@ -67,8 +67,6 @@
                 <file name="cocos2d/core/sprites/CCSpriteCanvasRenderCmd.js"/>
                 <file name="cocos2d/core/sprites/CCSpriteWebGLRenderCmd.js"/>
                 <file name="cocos2d/core/sprites/CCSpriteBatchNode.js"/>
-                <file name="cocos2d/core/sprites/CCSpriteBatchNodeCanvasRenderCmd.js"/>
-                <file name="cocos2d/core/sprites/CCSpriteBatchNodeWebGLRenderCmd.js"/>
                 <file name="cocos2d/core/sprites/CCBakeSprite.js"/>
                 <file name="cocos2d/core/sprites/CCAnimation.js"/>
                 <file name="cocos2d/core/sprites/CCAnimationCache.js"/>
@@ -78,7 +76,6 @@
                 <file name="cocos2d/core/CCDirector.js"/>
                 <file name="cocos2d/core/CCDirectorCanvas.js"/>
                 <file name="cocos2d/core/CCDirectorWebGL.js"/>
-                <file name="cocos2d/core/CCCamera.js"/>
                 <file name="cocos2d/core/CCScheduler.js"/>
                 <file name="cocos2d/core/CCDrawingPrimitivesCanvas.js"/>
                 <file name="cocos2d/core/CCDrawingPrimitivesWebGL.js"/>
@@ -128,7 +125,6 @@
                 <file name="cocos2d/actions/CCAction.js"/>
                 <file name="cocos2d/actions/CCActionInterval.js"/>
                 <file name="cocos2d/actions/CCActionInstant.js"/>
-                <file name="cocos2d/actions/CCActionCamera.js"/>
                 <file name="cocos2d/actions/CCActionEase.js"/>
                 <file name="cocos2d/actions/CCActionCatmullRom.js"/>
                 <file name="cocos2d/actions/CCActionTween.js"/>
@@ -200,9 +196,11 @@
                 <file name="extensions/ccui/uiwidgets/UIVideoPlayer.js"/>
                 <file name="extensions/ccui/uiwidgets/UIRichText.js"/>
                 <file name="extensions/ccui/uiwidgets/UIWebView.js"/>
+                <file name="extensions/ccui/uiwidgets/scroll-widget/UIScrollViewBar.js"/>
                 <file name="extensions/ccui/uiwidgets/scroll-widget/UIScrollView.js"/>
                 <file name="extensions/ccui/uiwidgets/scroll-widget/UIListView.js"/>
                 <file name="extensions/ccui/uiwidgets/scroll-widget/UIPageView.js"/>
+                <file name="extensions/ccui/uiwidgets/scroll-widget/UIPageViewIndicator.js"/>
                 <file name="extensions/ccui/uiwidgets/scroll-widget/UIScrollViewCanvasRenderCmd.js"/>
                 <file name="extensions/ccui/uiwidgets/scroll-widget/UIScrollViewWebGLRenderCmd.js"/>
                 <file name="extensions/cocostudio/components/CCComponent.js"/>
@@ -221,8 +219,7 @@
                 <file name="extensions/cocostudio/armature/display/CCDisplayFactory.js"/>
                 <file name="extensions/cocostudio/armature/display/CCDisplayManager.js"/>
                 <file name="extensions/cocostudio/armature/display/CCSkin.js"/>
-                <file name="extensions/cocostudio/armature/display/CCSkinCanvasRenderCmd.js"/>
-                <file name="extensions/cocostudio/armature/display/CCSkinWebGLRenderCmd.js"/>
+                <file name="extensions/cocostudio/armature/display/CCSkinRenderCmd.js"/>
                 <file name="extensions/cocostudio/armature/animation/CCProcessBase.js"/>
                 <file name="extensions/cocostudio/armature/animation/CCArmatureAnimation.js"/>
                 <file name="extensions/cocostudio/armature/animation/CCTween.js"/>
@@ -261,8 +258,14 @@
             </sources>
             <sources dir="${basedir}">
                 <file name="pomelo/dist/pomelo-cocos2d-js.js"/>
+                <file name="howler/howler.js"/>
+                <file name="src/common/utils.js"/>
+                <file name="src/common/mj_Const.js"/>
+                <file name="src/common/mj_Card.js"/>
+                <file name="src/common/mj_CardPile.js"/>
                 <file name="src/uiconst.js"/>
                 <file name="src/component/mj_UIConst.js"/>
+                <file name="src/component/msgBox.js"/>
                 <file name="src/resource.js"/>
                 <file name="src/core/player_Manager.js"/>
                 <file name="src/core/network.js"/>
@@ -270,6 +273,12 @@
                 <file name="src/common/login.js"/>
                 <file name="src/component/mj_Unit.js"/>
                 <file name="src/component/mj_UIList.js"/>
+                <file name="src/component/mj_SelfList.js"/>
+                <file name="src/component/mj_TopList.js"/>
+                <file name="src/component/mj_RiverList.js"/>
+                <file name="src/component/mj_TopRiverList.js"/>
+                <file name="src/component/mj_GrabTipList.js"/>
+                <file name="src/component/mj_PileList.js"/>
                 <file name="src/scenes/classic_Scene.js"/>
                 <file name="src/app.js"/>
                 <file name="main.js"/>
