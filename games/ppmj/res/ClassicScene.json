@@ -53,43 +53,121 @@
             "Tag": 12,
             "Children": [
               {
-                "FileData": {
-                  "Type": "PlistSubImage",
-                  "Path": "daojishi.png",
-                  "Plist": "classic/room.plist"
-                },
-                "BlendFunc": {
-                  "Src": 1,
-                  "Dst": 771
-                },
-                "AnchorPoint": {
-                  "ScaleX": 0.5,
-                  "ScaleY": 0.5
-                },
+                "AnchorPoint": {},
                 "Position": {
-                  "X": 394.4717,
-                  "Y": 724.1153
+                  "X": 396.0949,
+                  "Y": 712.0994
                 },
                 "Scale": {
                   "ScaleX": 1.0,
                   "ScaleY": 1.0
                 },
                 "CColor": {},
-                "IconVisible": false,
+                "IconVisible": true,
                 "PrePosition": {
-                  "X": 0.4931,
-                  "Y": 0.5657
+                  "X": 0.4951,
+                  "Y": 0.5563
                 },
                 "PreSize": {
-                  "X": 0.105,
-                  "Y": 0.0875
+                  "X": 0.0,
+                  "Y": 0.0
                 },
-                "LeftMargin": 352.4717,
-                "RightMargin": 363.5283,
-                "TopMargin": 499.8847,
-                "BottomMargin": 668.1153,
-                "Tag": 63,
+                "LeftMargin": 396.0949,
+                "RightMargin": 403.9051,
+                "TopMargin": 567.9006,
+                "BottomMargin": 712.0994,
+                "Tag": 106,
                 "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "daojishi.png",
+                      "Plist": "classic/room.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -3.0778,
+                      "Y": 14.7215
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -45.0778,
+                    "RightMargin": -38.9222,
+                    "TopMargin": -70.7215,
+                    "BottomMargin": -41.2785,
+                    "Tag": 63,
+                    "ActionTag": 1840555591,
+                    "Size": {
+                      "X": 84.0,
+                      "Y": 112.0
+                    },
+                    "Name": "imgTimer1",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "daojishi1.png",
+                      "Plist": "classic/room.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -1.7446,
+                      "Y": -14.0368
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -42.7446,
+                    "RightMargin": -39.2554,
+                    "TopMargin": -42.4632,
+                    "BottomMargin": -70.5368,
+                    "Tag": 107,
+                    "ActionTag": -1562925893,
+                    "Size": {
+                      "X": 82.0,
+                      "Y": 113.0
+                    },
+                    "Name": "imgTimer",
+                    "ctype": "SpriteObjectData"
+                  },
                   {
                     "CharWidth": 14,
                     "CharHeight": 20,
@@ -101,12 +179,12 @@
                       "Plist": ""
                     },
                     "AnchorPoint": {
-                      "ScaleX": 0.6048,
-                      "ScaleY": 0.7044
+                      "ScaleX": 0.8672,
+                      "ScaleY": 0.4378
                     },
                     "Position": {
-                      "X": 46.6292,
-                      "Y": 46.0578
+                      "X": 9.2549,
+                      "Y": -1.5139
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -115,17 +193,17 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.5551,
-                      "Y": 0.4112
+                      "X": 0.0,
+                      "Y": 0.0
                     },
                     "PreSize": {
-                      "X": 0.3333,
-                      "Y": 0.1786
+                      "X": 0.0,
+                      "Y": 0.0
                     },
-                    "LeftMargin": 29.6948,
-                    "RightMargin": 26.3052,
-                    "TopMargin": 60.0302,
-                    "BottomMargin": 31.9698,
+                    "LeftMargin": -15.0267,
+                    "RightMargin": -12.9733,
+                    "TopMargin": -9.7301,
+                    "BottomMargin": -10.2699,
                     "Tag": 64,
                     "ActionTag": -285442531,
                     "Size": {
@@ -136,13 +214,13 @@
                     "ctype": "TextAtlasObjectData"
                   }
                 ],
-                "ActionTag": 1840555591,
+                "ActionTag": 1754732528,
                 "Size": {
-                  "X": 84.0,
-                  "Y": 112.0
+                  "X": 0.0,
+                  "Y": 0.0
                 },
-                "Name": "imgTimer",
-                "ctype": "SpriteObjectData"
+                "Name": "timeNode",
+                "ctype": "SingleNodeObjectData"
               },
               {
                 "FontSize": 14,
@@ -824,7 +902,7 @@
                           "X": 45.0,
                           "Y": 44.0
                         },
-                        "Name": "imgBanker",
+                        "Name": "imgBanker2",
                         "ctype": "SpriteObjectData"
                       },
                       {
@@ -870,7 +948,7 @@
                           "X": 100.0,
                           "Y": 20.0
                         },
-                        "Name": "labName",
+                        "Name": "labName2",
                         "ctype": "TextObjectData"
                       },
                       {
@@ -912,7 +990,7 @@
                           "X": 42.0,
                           "Y": 20.0
                         },
-                        "Name": "labMoney",
+                        "Name": "labMoney2",
                         "ctype": "TextAtlasObjectData"
                       }
                     ],
@@ -930,7 +1008,7 @@
                   "X": 98.0,
                   "Y": 98.0
                 },
-                "Name": "playerAvatar1",
+                "Name": "playerAvatar2",
                 "ctype": "SpriteObjectData"
               },
               {
@@ -1051,7 +1129,7 @@
                           "X": 45.0,
                           "Y": 44.0
                         },
-                        "Name": "imgBanker",
+                        "Name": "imgBanker1",
                         "ctype": "SpriteObjectData"
                       },
                       {
@@ -1097,7 +1175,7 @@
                           "X": 100.0,
                           "Y": 20.0
                         },
-                        "Name": "labName",
+                        "Name": "labName1",
                         "ctype": "TextObjectData"
                       },
                       {
@@ -1139,7 +1217,7 @@
                           "X": 42.0,
                           "Y": 20.0
                         },
-                        "Name": "labMoney",
+                        "Name": "labMoney1",
                         "ctype": "TextAtlasObjectData"
                       }
                     ],
@@ -1157,7 +1235,7 @@
                   "X": 98.0,
                   "Y": 98.0
                 },
-                "Name": "playerAvatar2",
+                "Name": "playerAvatar1",
                 "ctype": "SpriteObjectData"
               }
             ],
@@ -1210,6 +1288,107 @@
             "TopMargin": 4.4272,
             "BottomMargin": -4.4272,
             "Tag": 99,
+            "Children": [
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 388.7356,
+                  "Y": 714.2195
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.4984,
+                  "Y": 0.558
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 388.7356,
+                "RightMargin": 391.2644,
+                "TopMargin": 565.7805,
+                "BottomMargin": 714.2195,
+                "Tag": 108,
+                "ActionTag": 466126152,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "diceNode",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 345.3434,
+                  "Y": 340.91
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.4427,
+                  "Y": 0.2663
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 345.3434,
+                "RightMargin": 434.6566,
+                "TopMargin": 939.09,
+                "BottomMargin": 340.91,
+                "Tag": 109,
+                "ActionTag": 314317909,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "aniOperNode1",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 380.7667,
+                  "Y": 1075.8551
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.4882,
+                  "Y": 0.8405
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 380.7667,
+                "RightMargin": 399.2333,
+                "TopMargin": 204.1449,
+                "BottomMargin": 1075.8551,
+                "Tag": 110,
+                "ActionTag": -1748101202,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "aniOperNode2",
+                "ctype": "SingleNodeObjectData"
+              }
+            ],
             "ActionTag": -1651042796,
             "Size": {
               "X": 780.0,
