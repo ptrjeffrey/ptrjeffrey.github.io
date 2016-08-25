@@ -171,7 +171,7 @@
                   {
                     "CharWidth": 14,
                     "CharHeight": 20,
-                    "LabelText": "15",
+                    "LabelText": "80",
                     "StartChar": ".",
                     "LabelAtlasFileImage_CNB": {
                       "Type": "Normal",
@@ -992,6 +992,39 @@
                         },
                         "Name": "labMoney2",
                         "ctype": "TextAtlasObjectData"
+                      },
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 59.1754,
+                          "Y": 60.8188
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.4811,
+                          "Y": 0.5068
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 59.1754,
+                        "RightMargin": 63.8246,
+                        "TopMargin": 59.1812,
+                        "BottomMargin": 60.8188,
+                        "Tag": 112,
+                        "ActionTag": 486795103,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "node2",
+                        "ctype": "SingleNodeObjectData"
                       }
                     ],
                     "ActionTag": 1258954733,
@@ -1219,6 +1252,39 @@
                         },
                         "Name": "labMoney1",
                         "ctype": "TextAtlasObjectData"
+                      },
+                      {
+                        "AnchorPoint": {},
+                        "Position": {
+                          "X": 60.816,
+                          "Y": 62.461
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": true,
+                        "PrePosition": {
+                          "X": 0.4944,
+                          "Y": 0.5205
+                        },
+                        "PreSize": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "LeftMargin": 60.816,
+                        "RightMargin": 62.184,
+                        "TopMargin": 57.539,
+                        "BottomMargin": 62.461,
+                        "Tag": 111,
+                        "ActionTag": -949219534,
+                        "Size": {
+                          "X": 0.0,
+                          "Y": 0.0
+                        },
+                        "Name": "node1",
+                        "ctype": "SingleNodeObjectData"
                       }
                     ],
                     "ActionTag": 1338745955,
@@ -1293,7 +1359,7 @@
                 "AnchorPoint": {},
                 "Position": {
                   "X": 388.7356,
-                  "Y": 714.2195
+                  "Y": 715.0293
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -1303,7 +1369,7 @@
                 "IconVisible": true,
                 "PrePosition": {
                   "X": 0.4984,
-                  "Y": 0.558
+                  "Y": 0.5586
                 },
                 "PreSize": {
                   "X": 0.0,
@@ -1311,8 +1377,8 @@
                 },
                 "LeftMargin": 388.7356,
                 "RightMargin": 391.2644,
-                "TopMargin": 565.7805,
-                "BottomMargin": 714.2195,
+                "TopMargin": 564.9707,
+                "BottomMargin": 715.0293,
                 "Tag": 108,
                 "ActionTag": 466126152,
                 "Size": {
