@@ -823,6 +823,39 @@
                 "Tag": 91,
                 "Children": [
                   {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 43.1754,
+                      "Y": 51.819
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.4406,
+                      "Y": 0.5288
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 43.1754,
+                    "RightMargin": 54.8246,
+                    "TopMargin": 46.181,
+                    "BottomMargin": 51.819,
+                    "Tag": 112,
+                    "ActionTag": 486795103,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "node2",
+                    "ctype": "SingleNodeObjectData"
+                  },
+                  {
                     "FileData": {
                       "Type": "PlistSubImage",
                       "Path": "touxiangkuang.png",
@@ -952,6 +985,51 @@
                         "ctype": "TextObjectData"
                       },
                       {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "ting.png",
+                          "Plist": "classic/room.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": -24.7194,
+                          "Y": 36.6495
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": -0.201,
+                          "Y": 0.3054
+                        },
+                        "PreSize": {
+                          "X": 0.3415,
+                          "Y": 0.35
+                        },
+                        "LeftMargin": -45.7194,
+                        "RightMargin": 126.7194,
+                        "TopMargin": 62.3505,
+                        "BottomMargin": 15.6495,
+                        "Tag": 101,
+                        "ActionTag": 145180196,
+                        "Size": {
+                          "X": 42.0,
+                          "Y": 42.0
+                        },
+                        "Name": "imgTing2",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
                         "CharWidth": 14,
                         "CharHeight": 20,
                         "LabelText": "123",
@@ -992,39 +1070,6 @@
                         },
                         "Name": "labMoney2",
                         "ctype": "TextAtlasObjectData"
-                      },
-                      {
-                        "AnchorPoint": {},
-                        "Position": {
-                          "X": 59.1754,
-                          "Y": 60.8188
-                        },
-                        "Scale": {
-                          "ScaleX": 1.0,
-                          "ScaleY": 1.0
-                        },
-                        "CColor": {},
-                        "IconVisible": true,
-                        "PrePosition": {
-                          "X": 0.4811,
-                          "Y": 0.5068
-                        },
-                        "PreSize": {
-                          "X": 0.0,
-                          "Y": 0.0
-                        },
-                        "LeftMargin": 59.1754,
-                        "RightMargin": 63.8246,
-                        "TopMargin": 59.1812,
-                        "BottomMargin": 60.8188,
-                        "Tag": 112,
-                        "ActionTag": 486795103,
-                        "Size": {
-                          "X": 0.0,
-                          "Y": 0.0
-                        },
-                        "Name": "node2",
-                        "ctype": "SingleNodeObjectData"
                       }
                     ],
                     "ActionTag": 1258954733,
@@ -1082,6 +1127,39 @@
                 "BottomMargin": 68.7153,
                 "Tag": 74,
                 "Children": [
+                  {
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 43.8386,
+                      "Y": 49.2538
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": true,
+                    "PrePosition": {
+                      "X": 0.4473,
+                      "Y": 0.5026
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 43.8386,
+                    "RightMargin": 54.1614,
+                    "TopMargin": 48.7462,
+                    "BottomMargin": 49.2538,
+                    "Tag": 111,
+                    "ActionTag": -949219534,
+                    "Size": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "Name": "node1",
+                    "ctype": "SingleNodeObjectData"
+                  },
                   {
                     "FileData": {
                       "Type": "PlistSubImage",
@@ -1254,37 +1332,49 @@
                         "ctype": "TextAtlasObjectData"
                       },
                       {
-                        "AnchorPoint": {},
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "ting.png",
+                          "Plist": "classic/room.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
                         "Position": {
-                          "X": 60.816,
-                          "Y": 62.461
+                          "X": -21.6994,
+                          "Y": 31.4641
                         },
                         "Scale": {
                           "ScaleX": 1.0,
                           "ScaleY": 1.0
                         },
                         "CColor": {},
-                        "IconVisible": true,
+                        "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.4944,
-                          "Y": 0.5205
+                          "X": -0.1764,
+                          "Y": 0.2622
                         },
                         "PreSize": {
-                          "X": 0.0,
-                          "Y": 0.0
+                          "X": 0.374,
+                          "Y": 0.3833
                         },
-                        "LeftMargin": 60.816,
-                        "RightMargin": 62.184,
-                        "TopMargin": 57.539,
-                        "BottomMargin": 62.461,
-                        "Tag": 111,
-                        "ActionTag": -949219534,
+                        "LeftMargin": -42.6994,
+                        "RightMargin": 123.6994,
+                        "TopMargin": 67.5359,
+                        "BottomMargin": 10.4641,
+                        "Tag": 100,
+                        "ActionTag": -1970949209,
                         "Size": {
-                          "X": 0.0,
-                          "Y": 0.0
+                          "X": 42.0,
+                          "Y": 42.0
                         },
-                        "Name": "node1",
-                        "ctype": "SingleNodeObjectData"
+                        "Name": "imgTing1",
+                        "ctype": "SpriteObjectData"
                       }
                     ],
                     "ActionTag": 1338745955,
@@ -1387,72 +1477,6 @@
                 },
                 "Name": "diceNode",
                 "ctype": "SingleNodeObjectData"
-              },
-              {
-                "AnchorPoint": {},
-                "Position": {
-                  "X": 345.3434,
-                  "Y": 340.91
-                },
-                "Scale": {
-                  "ScaleX": 1.0,
-                  "ScaleY": 1.0
-                },
-                "CColor": {},
-                "IconVisible": true,
-                "PrePosition": {
-                  "X": 0.4427,
-                  "Y": 0.2663
-                },
-                "PreSize": {
-                  "X": 0.0,
-                  "Y": 0.0
-                },
-                "LeftMargin": 345.3434,
-                "RightMargin": 434.6566,
-                "TopMargin": 939.09,
-                "BottomMargin": 340.91,
-                "Tag": 109,
-                "ActionTag": 314317909,
-                "Size": {
-                  "X": 0.0,
-                  "Y": 0.0
-                },
-                "Name": "aniOperNode1",
-                "ctype": "SingleNodeObjectData"
-              },
-              {
-                "AnchorPoint": {},
-                "Position": {
-                  "X": 380.7667,
-                  "Y": 1075.8551
-                },
-                "Scale": {
-                  "ScaleX": 1.0,
-                  "ScaleY": 1.0
-                },
-                "CColor": {},
-                "IconVisible": true,
-                "PrePosition": {
-                  "X": 0.4882,
-                  "Y": 0.8405
-                },
-                "PreSize": {
-                  "X": 0.0,
-                  "Y": 0.0
-                },
-                "LeftMargin": 380.7667,
-                "RightMargin": 399.2333,
-                "TopMargin": 204.1449,
-                "BottomMargin": 1075.8551,
-                "Tag": 110,
-                "ActionTag": -1748101202,
-                "Size": {
-                  "X": 0.0,
-                  "Y": 0.0
-                },
-                "Name": "aniOperNode2",
-                "ctype": "SingleNodeObjectData"
               }
             ],
             "ActionTag": -1651042796,
@@ -1520,8 +1544,8 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 983.2512,
-                  "Y": 437.3289
+                  "X": 979.3303,
+                  "Y": 469.4009
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -1530,17 +1554,17 @@
                 "CColor": {},
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 1.2606,
-                  "Y": 0.3417
+                  "X": 1.2556,
+                  "Y": 0.3667
                 },
                 "PreSize": {
                   "X": 0.5192,
                   "Y": 0.0672
                 },
-                "LeftMargin": 780.7512,
-                "RightMargin": -405.7512,
-                "TopMargin": 799.6711,
-                "BottomMargin": 394.3289,
+                "LeftMargin": 776.8303,
+                "RightMargin": -401.8303,
+                "TopMargin": 767.5991,
+                "BottomMargin": 426.4009,
                 "Tag": 82,
                 "Children": [
                   {
@@ -1558,8 +1582,8 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 200.9608,
-                      "Y": 120.567
+                      "X": 128.6399,
+                      "Y": 127.1417
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -1568,17 +1592,17 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.4962,
-                      "Y": 1.4019
+                      "X": 0.3176,
+                      "Y": 1.4784
                     },
                     "PreSize": {
                       "X": 0.5235,
                       "Y": 0.8488
                     },
-                    "LeftMargin": 94.9608,
-                    "RightMargin": 98.0392,
-                    "TopMargin": -71.067,
-                    "BottomMargin": 84.067,
+                    "LeftMargin": 22.6399,
+                    "RightMargin": 170.3601,
+                    "TopMargin": -77.6417,
+                    "BottomMargin": 90.6417,
                     "Tag": 96,
                     "ActionTag": 1829461822,
                     "Size": {
@@ -1603,8 +1627,8 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 200.9608,
-                      "Y": 189.567
+                      "X": 128.6399,
+                      "Y": 196.1422
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -1613,17 +1637,17 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.4962,
-                      "Y": 2.2043
+                      "X": 0.3176,
+                      "Y": 2.2807
                     },
                     "PreSize": {
                       "X": 0.5235,
                       "Y": 0.8488
                     },
-                    "LeftMargin": 94.9608,
-                    "RightMargin": 98.0392,
-                    "TopMargin": -140.067,
-                    "BottomMargin": 153.067,
+                    "LeftMargin": 22.6399,
+                    "RightMargin": 170.3601,
+                    "TopMargin": -146.6422,
+                    "BottomMargin": 159.6422,
                     "Tag": 114,
                     "ActionTag": -2094351784,
                     "Size": {
@@ -1648,8 +1672,8 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 200.9608,
-                      "Y": 259.0392
+                      "X": 128.6399,
+                      "Y": 265.6141
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -1658,17 +1682,17 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.4962,
-                      "Y": 3.0121
+                      "X": 0.3176,
+                      "Y": 3.0885
                     },
                     "PreSize": {
                       "X": 0.5235,
                       "Y": 0.8488
                     },
-                    "LeftMargin": 94.9608,
-                    "RightMargin": 98.0392,
-                    "TopMargin": -209.5392,
-                    "BottomMargin": 222.5392,
+                    "LeftMargin": 22.6399,
+                    "RightMargin": 170.3601,
+                    "TopMargin": -216.1141,
+                    "BottomMargin": 229.1141,
                     "Tag": 117,
                     "ActionTag": -1183851513,
                     "Size": {
@@ -1722,8 +1746,8 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 186.6784,
-                      "Y": 42.2829
+                      "X": 232.5829,
+                      "Y": 44.1457
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -1732,17 +1756,17 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.4609,
-                      "Y": 0.4917
+                      "X": 0.5743,
+                      "Y": 0.5133
                     },
                     "PreSize": {
                       "X": 0.158,
                       "Y": 0.7326
                     },
-                    "LeftMargin": 154.6784,
-                    "RightMargin": 186.3216,
-                    "TopMargin": 12.2171,
-                    "BottomMargin": 10.7829,
+                    "LeftMargin": 200.5829,
+                    "RightMargin": 140.4171,
+                    "TopMargin": 10.3543,
+                    "BottomMargin": 12.6457,
                     "Tag": 83,
                     "ActionTag": 1998172929,
                     "Size": {
@@ -1790,14 +1814,13 @@
                     },
                     "ShadowOffsetX": 2.0,
                     "ShadowOffsetY": -2.0,
-                    "TouchEnable": true,
                     "AnchorPoint": {
                       "ScaleX": 0.5,
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 344.5764,
-                      "Y": 42.2829
+                      "X": 316.6445,
+                      "Y": 131.0436
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -1806,24 +1829,25 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.8508,
-                      "Y": 0.4917
+                      "X": 0.7818,
+                      "Y": 1.5238
                     },
                     "PreSize": {
                       "X": 0.2568,
                       "Y": 0.7326
                     },
-                    "LeftMargin": 292.5764,
-                    "RightMargin": 8.4236,
-                    "TopMargin": 12.2171,
-                    "BottomMargin": 10.7829,
+                    "LeftMargin": 264.6445,
+                    "RightMargin": 36.3555,
+                    "TopMargin": -76.5436,
+                    "BottomMargin": 99.5436,
                     "Tag": 84,
                     "ActionTag": -1131620101,
                     "Size": {
                       "X": 104.0,
                       "Y": 63.0
                     },
-                    "Name": "btnGiveUp",
+                    "VisibleForFrame": false,
+                    "Name": "btnGiveUp1",
                     "ctype": "ButtonObjectData"
                   },
                   {
@@ -1870,8 +1894,8 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 257.1221,
-                      "Y": 41.7829
+                      "X": 298.3427,
+                      "Y": 44.6457
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -1880,17 +1904,17 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.6349,
-                      "Y": 0.4858
+                      "X": 0.7366,
+                      "Y": 0.5191
                     },
                     "PreSize": {
                       "X": 0.158,
                       "Y": 0.7209
                     },
-                    "LeftMargin": 225.1221,
-                    "RightMargin": 115.8779,
-                    "TopMargin": 13.2171,
-                    "BottomMargin": 10.7829,
+                    "LeftMargin": 266.3427,
+                    "RightMargin": 74.6573,
+                    "TopMargin": 10.3543,
+                    "BottomMargin": 13.6457,
                     "Tag": 85,
                     "ActionTag": -1735597848,
                     "Size": {
@@ -1944,8 +1968,8 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 113.6647,
-                      "Y": 42.7829
+                      "X": 167.8232,
+                      "Y": 43.6457
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -1954,17 +1978,17 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.2807,
-                      "Y": 0.4975
+                      "X": 0.4144,
+                      "Y": 0.5075
                     },
                     "PreSize": {
                       "X": 0.1531,
                       "Y": 0.7442
                     },
-                    "LeftMargin": 82.6647,
-                    "RightMargin": 260.3353,
-                    "TopMargin": 11.2171,
-                    "BottomMargin": 10.7829,
+                    "LeftMargin": 136.8232,
+                    "RightMargin": 206.1768,
+                    "TopMargin": 10.3543,
+                    "BottomMargin": 11.6457,
                     "Tag": 86,
                     "ActionTag": -1348960422,
                     "Size": {
@@ -1972,6 +1996,154 @@
                       "Y": 64.0
                     },
                     "Name": "btnPeng",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "guo3.png",
+                      "Plist": "classic/room.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "Default",
+                      "Path": "Default/Button_Press.png",
+                      "Plist": ""
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "guo2.png",
+                      "Plist": "classic/room.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 31,
+                    "Scale9Height": 36,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 362.6024,
+                      "Y": 43.0403
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.8953,
+                      "Y": 0.5005
+                    },
+                    "PreSize": {
+                      "X": 0.1506,
+                      "Y": 0.6744
+                    },
+                    "LeftMargin": 332.1024,
+                    "RightMargin": 11.8976,
+                    "TopMargin": 13.9597,
+                    "BottomMargin": 14.0403,
+                    "Tag": 99,
+                    "ActionTag": -1735330269,
+                    "Size": {
+                      "X": 61.0,
+                      "Y": 58.0
+                    },
+                    "Name": "btnGiveUp",
+                    "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "he3.png",
+                      "Plist": "classic/room.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "hu2.png",
+                      "Plist": "classic/room.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "he.png",
+                      "Plist": "classic/room.plist"
+                    },
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 34,
+                    "Scale9Height": 40,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.517,
+                      "ScaleY": 0.4847
+                    },
+                    "Position": {
+                      "X": 40.3932,
+                      "Y": 43.6995
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0997,
+                      "Y": 0.5081
+                    },
+                    "PreSize": {
+                      "X": 0.158,
+                      "Y": 0.7209
+                    },
+                    "LeftMargin": 7.3037,
+                    "RightMargin": 333.6963,
+                    "TopMargin": 10.3543,
+                    "BottomMargin": 13.6457,
+                    "Tag": 102,
+                    "ActionTag": 1846252862,
+                    "Size": {
+                      "X": 64.0,
+                      "Y": 62.0
+                    },
+                    "Name": "btnTing",
                     "ctype": "ButtonObjectData"
                   },
                   {
@@ -2014,12 +2186,12 @@
                     "ShadowOffsetY": -2.0,
                     "TouchEnable": true,
                     "AnchorPoint": {
-                      "ScaleX": 0.5,
-                      "ScaleY": 0.5
+                      "ScaleX": 0.4769,
+                      "ScaleY": 0.5615
                     },
                     "Position": {
-                      "X": 40.8307,
-                      "Y": 44.1696
+                      "X": 102.634,
+                      "Y": 48.0203
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -2028,17 +2200,17 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.1008,
-                      "Y": 0.5136
+                      "X": 0.2534,
+                      "Y": 0.5584
                     },
                     "PreSize": {
                       "X": 0.1531,
                       "Y": 0.7326
                     },
-                    "LeftMargin": 9.8307,
-                    "RightMargin": 333.1693,
-                    "TopMargin": 10.3304,
-                    "BottomMargin": 12.6696,
+                    "LeftMargin": 73.0635,
+                    "RightMargin": 269.9365,
+                    "TopMargin": 10.3543,
+                    "BottomMargin": 12.6457,
                     "Tag": 87,
                     "ActionTag": 807213496,
                     "Size": {
@@ -2144,7 +2316,7 @@
                     },
                     "Position": {
                       "X": 24.2813,
-                      "Y": 21.3683
+                      "Y": 22.1297
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -2162,8 +2334,8 @@
                     },
                     "LeftMargin": -335.7187,
                     "RightMargin": -384.2813,
-                    "TopMargin": -327.3683,
-                    "BottomMargin": -284.6317,
+                    "TopMargin": -328.1297,
+                    "BottomMargin": -283.8703,
                     "Tag": 103,
                     "ActionTag": -1575700269,
                     "Size": {
@@ -2298,6 +2470,2230 @@
                     },
                     "Name": "btnResultClose",
                     "ctype": "ButtonObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "输赢",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -274.9545,
+                      "Y": -96.7117
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -274.9545,
+                    "RightMargin": 234.9545,
+                    "TopMargin": 76.7117,
+                    "BottomMargin": -96.7117,
+                    "Tag": 116,
+                    "ActionTag": 645025747,
+                    "Size": {
+                      "X": 40.0,
+                      "Y": 20.0
+                    },
+                    "Name": "Text_2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "FontSize": 20,
+                    "LabelText": "总番数",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -246.8238,
+                      "Y": -60.0521
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -276.8238,
+                    "RightMargin": 216.8238,
+                    "TopMargin": 50.0521,
+                    "BottomMargin": -70.0521,
+                    "Tag": 114,
+                    "ActionTag": 1206075014,
+                    "Size": {
+                      "X": 60.0,
+                      "Y": 20.0
+                    },
+                    "Name": "Text_1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "CharWidth": 18,
+                    "CharHeight": 25,
+                    "LabelText": "88",
+                    "StartChar": ".",
+                    "LabelAtlasFileImage_CNB": {
+                      "Type": "Normal",
+                      "Path": "classic/roomNum/fanshuzi.png",
+                      "Plist": ""
+                    },
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -204.5361,
+                      "Y": -72.0809
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -204.5361,
+                    "RightMargin": 168.5361,
+                    "TopMargin": 47.0809,
+                    "BottomMargin": -72.0809,
+                    "Tag": 115,
+                    "ActionTag": -820440896,
+                    "Size": {
+                      "X": 36.0,
+                      "Y": 25.0
+                    },
+                    "Name": "txtResultFan",
+                    "ctype": "TextAtlasObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 20,
+                    "LabelText": "-10000",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -207.0854,
+                      "Y": -96.8144
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -207.0854,
+                    "RightMargin": -92.9146,
+                    "TopMargin": 76.8144,
+                    "BottomMargin": -96.8144,
+                    "Tag": 118,
+                    "ActionTag": 1154266292,
+                    "Size": {
+                      "X": 300.0,
+                      "Y": 20.0
+                    },
+                    "Name": "txtResultMoney",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "一色双龙会",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -282.7552,
+                      "Y": 91.1314
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -282.7552,
+                    "RightMargin": 172.7552,
+                    "TopMargin": -113.1314,
+                    "BottomMargin": 91.1314,
+                    "Tag": 120,
+                    "ActionTag": -458864631,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtType1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "24",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -155.6177,
+                      "Y": 90.2465
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -155.6177,
+                    "RightMargin": 125.6177,
+                    "TopMargin": -112.2465,
+                    "BottomMargin": 90.2465,
+                    "Tag": 119,
+                    "ActionTag": 1631124766,
+                    "Size": {
+                      "X": 30.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtFan1",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "88",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 3.4907,
+                      "Y": 90.2041
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 3.4907,
+                    "RightMargin": -33.4907,
+                    "TopMargin": -112.2041,
+                    "BottomMargin": 90.2041,
+                    "Tag": 121,
+                    "ActionTag": 531982547,
+                    "Size": {
+                      "X": 30.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtFan2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "一色双龙会",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -122.9352,
+                      "Y": 91.1315
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -122.9352,
+                    "RightMargin": 12.9352,
+                    "TopMargin": -113.1315,
+                    "BottomMargin": 91.1315,
+                    "Tag": 122,
+                    "ActionTag": -173872832,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtType2",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "88",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 158.3096,
+                      "Y": 91.1315
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 158.3096,
+                    "RightMargin": -188.3096,
+                    "TopMargin": -113.1315,
+                    "BottomMargin": 91.1315,
+                    "Tag": 123,
+                    "ActionTag": 93218600,
+                    "Size": {
+                      "X": 30.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtFan3",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "一色双龙会",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 30.9556,
+                      "Y": 91.1315
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 30.9556,
+                    "RightMargin": -140.9556,
+                    "TopMargin": -113.1315,
+                    "BottomMargin": 91.1315,
+                    "Tag": 124,
+                    "ActionTag": 2081096084,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtType3",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "一色双龙会",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 183.1126,
+                      "Y": 91.1315
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 183.1126,
+                    "RightMargin": -293.1126,
+                    "TopMargin": -113.1315,
+                    "BottomMargin": 91.1315,
+                    "Tag": 126,
+                    "ActionTag": -1685201305,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtType4",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "88",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 303.9748,
+                      "Y": 91.1315
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 303.9748,
+                    "RightMargin": -333.9748,
+                    "TopMargin": -113.1315,
+                    "BottomMargin": 91.1315,
+                    "Tag": 125,
+                    "ActionTag": -2069052465,
+                    "Size": {
+                      "X": 30.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtFan4",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "一色双龙会",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -282.451,
+                      "Y": 64.6484
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -282.451,
+                    "RightMargin": 172.451,
+                    "TopMargin": -86.6484,
+                    "BottomMargin": 64.6484,
+                    "Tag": 136,
+                    "ActionTag": -896710398,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtType5",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "88",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -155.3129,
+                      "Y": 63.0024
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -155.3129,
+                    "RightMargin": 125.3129,
+                    "TopMargin": -85.0024,
+                    "BottomMargin": 63.0024,
+                    "Tag": 135,
+                    "ActionTag": 241620425,
+                    "Size": {
+                      "X": 30.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtFan5",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "88",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 3.7953,
+                      "Y": 63.7213
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 3.7953,
+                    "RightMargin": -33.7953,
+                    "TopMargin": -85.7213,
+                    "BottomMargin": 63.7213,
+                    "Tag": 137,
+                    "ActionTag": -467334930,
+                    "Size": {
+                      "X": 30.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtFan6",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "一色双龙会",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -122.6307,
+                      "Y": 64.6487
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -122.6307,
+                    "RightMargin": 12.6307,
+                    "TopMargin": -86.6487,
+                    "BottomMargin": 64.6487,
+                    "Tag": 138,
+                    "ActionTag": 403999043,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtType6",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "88",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 158.6135,
+                      "Y": 64.6486
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 158.6135,
+                    "RightMargin": -188.6135,
+                    "TopMargin": -86.6486,
+                    "BottomMargin": 64.6486,
+                    "Tag": 139,
+                    "ActionTag": -1147264226,
+                    "Size": {
+                      "X": 30.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtFan7",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "一色双龙会",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 31.26,
+                      "Y": 64.6487
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 31.26,
+                    "RightMargin": -141.26,
+                    "TopMargin": -86.6487,
+                    "BottomMargin": 64.6487,
+                    "Tag": 140,
+                    "ActionTag": 1832059399,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtType7",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "一色双龙会",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 183.416,
+                      "Y": 64.6487
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 183.416,
+                    "RightMargin": -293.416,
+                    "TopMargin": -86.6487,
+                    "BottomMargin": 64.6487,
+                    "Tag": 142,
+                    "ActionTag": -1217733489,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtType8",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "88",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 304.2772,
+                      "Y": 64.6486
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 304.2772,
+                    "RightMargin": -334.2772,
+                    "TopMargin": -86.6486,
+                    "BottomMargin": 64.6486,
+                    "Tag": 141,
+                    "ActionTag": -468777985,
+                    "Size": {
+                      "X": 30.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtFan8",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "一色双龙会",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -281.7709,
+                      "Y": 34.7154
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -281.7709,
+                    "RightMargin": 171.7709,
+                    "TopMargin": -56.7154,
+                    "BottomMargin": 34.7154,
+                    "Tag": 144,
+                    "ActionTag": -680759187,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtType9",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "88",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -155.3129,
+                      "Y": 33.0691
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -155.3129,
+                    "RightMargin": 125.3129,
+                    "TopMargin": -55.0691,
+                    "BottomMargin": 33.0691,
+                    "Tag": 143,
+                    "ActionTag": -1658503839,
+                    "Size": {
+                      "X": 30.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtFan9",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "88",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 4.4779,
+                      "Y": 33.7882
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 4.4779,
+                    "RightMargin": -34.4779,
+                    "TopMargin": -55.7882,
+                    "BottomMargin": 33.7882,
+                    "Tag": 145,
+                    "ActionTag": -20024306,
+                    "Size": {
+                      "X": 30.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtFan10",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "一色双龙会",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -121.9513,
+                      "Y": 34.7156
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -121.9513,
+                    "RightMargin": 11.9513,
+                    "TopMargin": -56.7156,
+                    "BottomMargin": 34.7156,
+                    "Tag": 146,
+                    "ActionTag": -262444875,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtType10",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "88",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 159.2938,
+                      "Y": 34.7156
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 159.2938,
+                    "RightMargin": -189.2938,
+                    "TopMargin": -56.7156,
+                    "BottomMargin": 34.7156,
+                    "Tag": 147,
+                    "ActionTag": 1414886705,
+                    "Size": {
+                      "X": 30.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtFan11",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "一色双龙会",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 31.9432,
+                      "Y": 34.7156
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 31.9432,
+                    "RightMargin": -141.9432,
+                    "TopMargin": -56.7156,
+                    "BottomMargin": 34.7156,
+                    "Tag": 148,
+                    "ActionTag": 2004194954,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtType11",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "一色双龙会",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 184.0967,
+                      "Y": 34.7156
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 184.0967,
+                    "RightMargin": -294.0967,
+                    "TopMargin": -56.7156,
+                    "BottomMargin": 34.7156,
+                    "Tag": 150,
+                    "ActionTag": 1826336060,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtType12",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "88",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 304.9586,
+                      "Y": 34.7156
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 304.9586,
+                    "RightMargin": -334.9586,
+                    "TopMargin": -56.7156,
+                    "BottomMargin": 34.7156,
+                    "Tag": 149,
+                    "ActionTag": 155050317,
+                    "Size": {
+                      "X": 30.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtFan12",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "一色双龙会",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -281.7705,
+                      "Y": 5.4629
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -281.7705,
+                    "RightMargin": 171.7705,
+                    "TopMargin": -27.4629,
+                    "BottomMargin": 5.4629,
+                    "Tag": 152,
+                    "ActionTag": 1465534575,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtType13",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "88",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -154.6323,
+                      "Y": 3.8165
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -154.6323,
+                    "RightMargin": 124.6323,
+                    "TopMargin": -25.8165,
+                    "BottomMargin": 3.8165,
+                    "Tag": 151,
+                    "ActionTag": 2042900570,
+                    "Size": {
+                      "X": 30.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtFan13",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "88",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 4.4788,
+                      "Y": 4.5356
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 4.4788,
+                    "RightMargin": -34.4788,
+                    "TopMargin": -26.5356,
+                    "BottomMargin": 4.5356,
+                    "Tag": 153,
+                    "ActionTag": 1237826923,
+                    "Size": {
+                      "X": 30.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtFan14",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "一色双龙会",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -121.9498,
+                      "Y": 5.4629
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -121.9498,
+                    "RightMargin": 11.9498,
+                    "TopMargin": -27.4629,
+                    "BottomMargin": 5.4629,
+                    "Tag": 154,
+                    "ActionTag": -1791511592,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtType14",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "88",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 159.2954,
+                      "Y": 5.4629
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 159.2954,
+                    "RightMargin": -189.2954,
+                    "TopMargin": -27.4629,
+                    "BottomMargin": 5.4629,
+                    "Tag": 155,
+                    "ActionTag": 930134639,
+                    "Size": {
+                      "X": 30.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtFan15",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "一色双龙会",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 31.9439,
+                      "Y": 5.4629
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 31.9439,
+                    "RightMargin": -141.9439,
+                    "TopMargin": -27.4629,
+                    "BottomMargin": 5.4629,
+                    "Tag": 156,
+                    "ActionTag": -440463399,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtType15",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "88",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 304.9602,
+                      "Y": 6.3904
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 304.9602,
+                    "RightMargin": -334.9602,
+                    "TopMargin": -28.3904,
+                    "BottomMargin": 6.3904,
+                    "Tag": 157,
+                    "ActionTag": -1387125481,
+                    "Size": {
+                      "X": 30.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtFan16",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "一色双龙会",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 184.0981,
+                      "Y": 5.4629
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 184.0981,
+                    "RightMargin": -294.0981,
+                    "TopMargin": -27.4629,
+                    "BottomMargin": 5.4629,
+                    "Tag": 158,
+                    "ActionTag": -2096491567,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtType16",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "一色双龙会",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -282.4504,
+                      "Y": -24.4704
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -282.4504,
+                    "RightMargin": 172.4504,
+                    "TopMargin": 2.4704,
+                    "BottomMargin": -24.4704,
+                    "Tag": 160,
+                    "ActionTag": -1323661880,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtType17",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "88",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -155.3118,
+                      "Y": -26.1166
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -155.3118,
+                    "RightMargin": 125.3118,
+                    "TopMargin": 4.1166,
+                    "BottomMargin": -26.1166,
+                    "Tag": 159,
+                    "ActionTag": 1350546810,
+                    "Size": {
+                      "X": 30.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtFan17",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "88",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 3.7985,
+                      "Y": -25.3977
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 3.7985,
+                    "RightMargin": -33.7985,
+                    "TopMargin": 3.3977,
+                    "BottomMargin": -25.3977,
+                    "Tag": 161,
+                    "ActionTag": 1837064173,
+                    "Size": {
+                      "X": 30.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtFan18",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "一色双龙会",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": -122.6295,
+                      "Y": -24.4703
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -122.6295,
+                    "RightMargin": 12.6295,
+                    "TopMargin": 2.4703,
+                    "BottomMargin": -24.4703,
+                    "Tag": 162,
+                    "ActionTag": -1179857857,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtType18",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "88",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 158.6159,
+                      "Y": -24.4703
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 158.6159,
+                    "RightMargin": -188.6159,
+                    "TopMargin": 2.4703,
+                    "BottomMargin": -24.4703,
+                    "Tag": 163,
+                    "ActionTag": -1604614037,
+                    "Size": {
+                      "X": 30.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtFan19",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "一色双龙会",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 31.2633,
+                      "Y": -24.4703
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 31.2633,
+                    "RightMargin": -141.2633,
+                    "TopMargin": 2.4703,
+                    "BottomMargin": -24.4703,
+                    "Tag": 164,
+                    "ActionTag": 1121676637,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtType19",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "88",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 304.2802,
+                      "Y": -24.4703
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 304.2802,
+                    "RightMargin": -334.2802,
+                    "TopMargin": 2.4703,
+                    "BottomMargin": -24.4703,
+                    "Tag": 165,
+                    "ActionTag": 738601193,
+                    "Size": {
+                      "X": 30.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtFan20",
+                    "ctype": "TextObjectData"
+                  },
+                  {
+                    "IsCustomSize": true,
+                    "FontSize": 22,
+                    "LabelText": "一色双龙会",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {},
+                    "Position": {
+                      "X": 183.4183,
+                      "Y": -24.4703
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "R": 0,
+                      "G": 128,
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 183.4183,
+                    "RightMargin": -293.4183,
+                    "TopMargin": 2.4703,
+                    "BottomMargin": -24.4703,
+                    "Tag": 166,
+                    "ActionTag": -981560531,
+                    "Size": {
+                      "X": 110.0,
+                      "Y": 22.0
+                    },
+                    "Name": "txtType20",
+                    "ctype": "TextObjectData"
                   }
                 ],
                 "ActionTag": 2092370960,
@@ -2306,6 +4702,72 @@
                   "Y": 0.0
                 },
                 "Name": "resultPanel",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 345.3434,
+                  "Y": 340.91
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.4427,
+                  "Y": 0.2663
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 345.3434,
+                "RightMargin": 434.6566,
+                "TopMargin": 939.09,
+                "BottomMargin": 340.91,
+                "Tag": 109,
+                "ActionTag": 314317909,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "aniOperNode1",
+                "ctype": "SingleNodeObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 380.7667,
+                  "Y": 1075.8551
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.4882,
+                  "Y": 0.8405
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 380.7667,
+                "RightMargin": 399.2333,
+                "TopMargin": 204.1449,
+                "BottomMargin": 1075.8551,
+                "Tag": 110,
+                "ActionTag": -1748101202,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "aniOperNode2",
                 "ctype": "SingleNodeObjectData"
               }
             ],
