@@ -1030,6 +1030,51 @@
                         "ctype": "SpriteObjectData"
                       },
                       {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "cut.png",
+                          "Plist": "classic/room.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 121.7374,
+                          "Y": 105.9034
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.9897,
+                          "Y": 0.8825
+                        },
+                        "PreSize": {
+                          "X": 0.7967,
+                          "Y": 0.4833
+                        },
+                        "LeftMargin": 72.7374,
+                        "RightMargin": -47.7374,
+                        "TopMargin": -14.9034,
+                        "BottomMargin": 76.9034,
+                        "Tag": 104,
+                        "ActionTag": 281906553,
+                        "Size": {
+                          "X": 98.0,
+                          "Y": 58.0
+                        },
+                        "Name": "imgCutting2",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
                         "CharWidth": 14,
                         "CharHeight": 20,
                         "LabelText": "123",
@@ -1360,8 +1405,8 @@
                           "Y": 0.2622
                         },
                         "PreSize": {
-                          "X": 0.374,
-                          "Y": 0.3833
+                          "X": 0.3415,
+                          "Y": 0.35
                         },
                         "LeftMargin": -42.6994,
                         "RightMargin": 123.6994,
@@ -1374,6 +1419,51 @@
                           "Y": 42.0
                         },
                         "Name": "imgTing1",
+                        "ctype": "SpriteObjectData"
+                      },
+                      {
+                        "FileData": {
+                          "Type": "PlistSubImage",
+                          "Path": "cut.png",
+                          "Plist": "classic/room.plist"
+                        },
+                        "BlendFunc": {
+                          "Src": 1,
+                          "Dst": 771
+                        },
+                        "AnchorPoint": {
+                          "ScaleX": 0.5,
+                          "ScaleY": 0.5
+                        },
+                        "Position": {
+                          "X": 116.9666,
+                          "Y": 100.2176
+                        },
+                        "Scale": {
+                          "ScaleX": 1.0,
+                          "ScaleY": 1.0
+                        },
+                        "CColor": {},
+                        "IconVisible": false,
+                        "PrePosition": {
+                          "X": 0.9509,
+                          "Y": 0.8351
+                        },
+                        "PreSize": {
+                          "X": 0.7967,
+                          "Y": 0.4833
+                        },
+                        "LeftMargin": 67.9666,
+                        "RightMargin": -42.9666,
+                        "TopMargin": -9.2176,
+                        "BottomMargin": 71.2176,
+                        "Tag": 103,
+                        "ActionTag": 1859522361,
+                        "Size": {
+                          "X": 98.0,
+                          "Y": 58.0
+                        },
+                        "Name": "imgCutting1",
                         "ctype": "SpriteObjectData"
                       }
                     ],
@@ -1727,7 +1817,7 @@
                     },
                     "Scale9OriginX": 15,
                     "Scale9OriginY": 11,
-                    "Scale9Width": 34,
+                    "Scale9Width": 32,
                     "Scale9Height": 41,
                     "OutlineColor": {
                       "G": 0,
@@ -1747,7 +1837,7 @@
                     },
                     "Position": {
                       "X": 232.5829,
-                      "Y": 44.1457
+                      "Y": 43.1457
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -1757,7 +1847,7 @@
                     "IconVisible": false,
                     "PrePosition": {
                       "X": 0.5743,
-                      "Y": 0.5133
+                      "Y": 0.5017
                     },
                     "PreSize": {
                       "X": 0.158,
@@ -1765,8 +1855,8 @@
                     },
                     "LeftMargin": 200.5829,
                     "RightMargin": 140.4171,
-                    "TopMargin": 10.3543,
-                    "BottomMargin": 12.6457,
+                    "TopMargin": 11.3543,
+                    "BottomMargin": 11.6457,
                     "Tag": 83,
                     "ActionTag": 1998172929,
                     "Size": {
@@ -1875,8 +1965,8 @@
                     },
                     "Scale9OriginX": 15,
                     "Scale9OriginY": 11,
-                    "Scale9Width": 34,
-                    "Scale9Height": 40,
+                    "Scale9Width": 32,
+                    "Scale9Height": 41,
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -1894,8 +1984,8 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 298.3427,
-                      "Y": 44.6457
+                      "X": 298.3428,
+                      "Y": 42.6457
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -1905,16 +1995,16 @@
                     "IconVisible": false,
                     "PrePosition": {
                       "X": 0.7366,
-                      "Y": 0.5191
+                      "Y": 0.4959
                     },
                     "PreSize": {
                       "X": 0.158,
                       "Y": 0.7209
                     },
-                    "LeftMargin": 266.3427,
-                    "RightMargin": 74.6573,
-                    "TopMargin": 10.3543,
-                    "BottomMargin": 13.6457,
+                    "LeftMargin": 266.3428,
+                    "RightMargin": 74.6572,
+                    "TopMargin": 12.3543,
+                    "BottomMargin": 11.6457,
                     "Tag": 85,
                     "ActionTag": -1735597848,
                     "Size": {
@@ -1950,7 +2040,7 @@
                     "Scale9OriginX": 15,
                     "Scale9OriginY": 11,
                     "Scale9Width": 32,
-                    "Scale9Height": 42,
+                    "Scale9Height": 41,
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -2042,8 +2132,8 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 362.6024,
-                      "Y": 43.0403
+                      "X": 363.91,
+                      "Y": 40.6457
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -2052,17 +2142,17 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.8953,
-                      "Y": 0.5005
+                      "X": 0.8985,
+                      "Y": 0.4726
                     },
                     "PreSize": {
                       "X": 0.1506,
                       "Y": 0.6744
                     },
-                    "LeftMargin": 332.1024,
-                    "RightMargin": 11.8976,
-                    "TopMargin": 13.9597,
-                    "BottomMargin": 14.0403,
+                    "LeftMargin": 333.41,
+                    "RightMargin": 10.59,
+                    "TopMargin": 16.3543,
+                    "BottomMargin": 11.6457,
                     "Tag": 99,
                     "ActionTag": -1735330269,
                     "Size": {
@@ -2082,23 +2172,23 @@
                     },
                     "DisabledFileData": {
                       "Type": "PlistSubImage",
-                      "Path": "he3.png",
+                      "Path": "ting3.png",
                       "Plist": "classic/room.plist"
                     },
                     "PressedFileData": {
                       "Type": "PlistSubImage",
-                      "Path": "hu2.png",
+                      "Path": "ting2.png",
                       "Plist": "classic/room.plist"
                     },
                     "NormalFileData": {
                       "Type": "PlistSubImage",
-                      "Path": "he.png",
+                      "Path": "ting1.png",
                       "Plist": "classic/room.plist"
                     },
                     "Scale9OriginX": 15,
                     "Scale9OriginY": 11,
-                    "Scale9Width": 34,
-                    "Scale9Height": 40,
+                    "Scale9Width": 32,
+                    "Scale9Height": 41,
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -2117,7 +2207,7 @@
                     },
                     "Position": {
                       "X": 40.3932,
-                      "Y": 43.6995
+                      "Y": 42.1818
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -2127,21 +2217,21 @@
                     "IconVisible": false,
                     "PrePosition": {
                       "X": 0.0997,
-                      "Y": 0.5081
+                      "Y": 0.4905
                     },
                     "PreSize": {
-                      "X": 0.158,
-                      "Y": 0.7209
+                      "X": 0.1531,
+                      "Y": 0.7326
                     },
-                    "LeftMargin": 7.3037,
-                    "RightMargin": 333.6963,
-                    "TopMargin": 10.3543,
-                    "BottomMargin": 13.6457,
+                    "LeftMargin": 8.3392,
+                    "RightMargin": 334.6608,
+                    "TopMargin": 11.3543,
+                    "BottomMargin": 11.6457,
                     "Tag": 102,
                     "ActionTag": 1846252862,
                     "Size": {
-                      "X": 64.0,
-                      "Y": 62.0
+                      "X": 62.0,
+                      "Y": 63.0
                     },
                     "Name": "btnTing",
                     "ctype": "ButtonObjectData"
@@ -2190,8 +2280,8 @@
                       "ScaleY": 0.5615
                     },
                     "Position": {
-                      "X": 102.634,
-                      "Y": 48.0203
+                      "X": 102.6339,
+                      "Y": 47.0202
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -2201,16 +2291,16 @@
                     "IconVisible": false,
                     "PrePosition": {
                       "X": 0.2534,
-                      "Y": 0.5584
+                      "Y": 0.5467
                     },
                     "PreSize": {
                       "X": 0.1531,
                       "Y": 0.7326
                     },
-                    "LeftMargin": 73.0635,
-                    "RightMargin": 269.9365,
-                    "TopMargin": 10.3543,
-                    "BottomMargin": 12.6457,
+                    "LeftMargin": 73.0661,
+                    "RightMargin": 269.9339,
+                    "TopMargin": 11.3543,
+                    "BottomMargin": 11.6457,
                     "Tag": 87,
                     "ActionTag": 807213496,
                     "Size": {

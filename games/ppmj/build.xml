@@ -258,6 +258,7 @@
             </sources>
             <sources dir="${basedir}">
                 <file name="pomelo/dist/pomelo-cocos2d-js.js"/>
+                <file name="src/myloaderscene.js"/>
                 <file name="howler/howler.js"/>
                 <file name="src/common/utils.js"/>
                 <file name="src/common/mj_Const.js"/>
