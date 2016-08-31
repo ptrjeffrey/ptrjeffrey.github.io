@@ -1634,7 +1634,7 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 979.3303,
+                  "X": 981.0853,
                   "Y": 469.4009
                 },
                 "Scale": {
@@ -1644,15 +1644,15 @@
                 "CColor": {},
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 1.2556,
+                  "X": 1.2578,
                   "Y": 0.3667
                 },
                 "PreSize": {
                   "X": 0.5192,
                   "Y": 0.0672
                 },
-                "LeftMargin": 776.8303,
-                "RightMargin": -401.8303,
+                "LeftMargin": 778.5853,
+                "RightMargin": -403.5852,
                 "TopMargin": 767.5991,
                 "BottomMargin": 426.4009,
                 "Tag": 82,
@@ -4784,6 +4784,98 @@
                     },
                     "Name": "txtType20",
                     "ctype": "TextObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "qkds.png",
+                      "Plist": "classic/room2.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 197.0132,
+                      "Y": -95.8181
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 89.5132,
+                    "RightMargin": -304.5132,
+                    "TopMargin": 33.8181,
+                    "BottomMargin": -157.8181,
+                    "Tag": 105,
+                    "ActionTag": 1498406438,
+                    "Size": {
+                      "X": 215.0,
+                      "Y": 124.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "imgClearEminy",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "bqk.png",
+                      "Plist": "classic/room2.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 197.0725,
+                      "Y": -95.8777
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 89.5725,
+                    "RightMargin": -304.5725,
+                    "TopMargin": 33.8777,
+                    "BottomMargin": -157.8777,
+                    "Tag": 106,
+                    "ActionTag": 874183864,
+                    "Size": {
+                      "X": 215.0,
+                      "Y": 124.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "imgIamCleared",
+                    "ctype": "SpriteObjectData"
                   }
                 ],
                 "ActionTag": 2092370960,
