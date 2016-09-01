@@ -47,7 +47,7 @@
             },
             "LeftMargin": 0.6238,
             "RightMargin": -0.6238,
-            "TopMargin": -0.4038,
+            "TopMargin": -0.4037,
             "BottomMargin": 0.4037,
             "Tag": 5,
             "Children": [
@@ -1112,7 +1112,7 @@
                     },
                     "PreSize": {
                       "X": 0.3782,
-                      "Y": 0.1563
+                      "Y": 0.1562
                     },
                     "LeftMargin": 49.889,
                     "RightMargin": 98.111,
@@ -2377,8 +2377,8 @@
                 },
                 "Scale9OriginX": 15,
                 "Scale9OriginY": 11,
-                "Scale9Width": 16,
-                "Scale9Height": 26,
+                "Scale9Width": 26,
+                "Scale9Height": 35,
                 "OutlineColor": {
                   "G": 0,
                   "B": 0
@@ -2499,8 +2499,8 @@
                 },
                 "Scale9OriginX": 15,
                 "Scale9OriginY": 11,
-                "Scale9Width": 17,
-                "Scale9Height": 21,
+                "Scale9Width": 26,
+                "Scale9Height": 37,
                 "OutlineColor": {
                   "G": 0,
                   "B": 0
@@ -2593,7 +2593,7 @@
                   "X": 50.0,
                   "Y": 50.0
                 },
-                "Name": "btnMail_0",
+                "Name": "btnHallSetting",
                 "ctype": "ButtonObjectData"
               }
             ],

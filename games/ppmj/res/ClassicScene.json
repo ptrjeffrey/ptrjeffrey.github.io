@@ -1258,8 +1258,8 @@
                           "ScaleY": 0.5
                         },
                         "Position": {
-                          "X": -25.4126,
-                          "Y": 86.9315
+                          "X": -21.9537,
+                          "Y": 84.3376
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -1268,17 +1268,17 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": -0.2066,
-                          "Y": 0.7244
+                          "X": -0.1785,
+                          "Y": 0.7028
                         },
                         "PreSize": {
                           "X": 0.3659,
                           "Y": 0.3667
                         },
-                        "LeftMargin": -47.9126,
-                        "RightMargin": 125.9126,
-                        "TopMargin": 11.0685,
-                        "BottomMargin": 64.9315,
+                        "LeftMargin": -44.4537,
+                        "RightMargin": 122.4537,
+                        "TopMargin": 13.6624,
+                        "BottomMargin": 62.3376,
                         "Tag": 76,
                         "ActionTag": 424249094,
                         "Size": {
@@ -1634,8 +1634,8 @@
                   "ScaleY": 0.5
                 },
                 "Position": {
-                  "X": 981.0853,
-                  "Y": 469.4009
+                  "X": 982.1698,
+                  "Y": 479.1658
                 },
                 "Scale": {
                   "ScaleX": 1.0,
@@ -1644,17 +1644,17 @@
                 "CColor": {},
                 "IconVisible": false,
                 "PrePosition": {
-                  "X": 1.2578,
-                  "Y": 0.3667
+                  "X": 1.2592,
+                  "Y": 0.3743
                 },
                 "PreSize": {
                   "X": 0.5192,
                   "Y": 0.0672
                 },
-                "LeftMargin": 778.5853,
-                "RightMargin": -403.5852,
-                "TopMargin": 767.5991,
-                "BottomMargin": 426.4009,
+                "LeftMargin": 779.6698,
+                "RightMargin": -404.6698,
+                "TopMargin": 757.8342,
+                "BottomMargin": 436.1658,
                 "Tag": 82,
                 "Children": [
                   {
@@ -2748,7 +2748,7 @@
                   {
                     "IsCustomSize": true,
                     "FontSize": 22,
-                    "LabelText": "一色双龙会",
+                    "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -2799,7 +2799,8 @@
                   {
                     "IsCustomSize": true,
                     "FontSize": 22,
-                    "LabelText": "24",
+                    "LabelText": "2",
+                    "HorizontalAlignmentType": "HT_Right",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -2813,7 +2814,7 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": -155.6177,
+                      "X": -167.6743,
                       "Y": 90.2465
                     },
                     "Scale": {
@@ -2834,8 +2835,8 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": -155.6177,
-                    "RightMargin": 125.6177,
+                    "LeftMargin": -167.6743,
+                    "RightMargin": 137.6743,
                     "TopMargin": -112.2465,
                     "BottomMargin": 90.2465,
                     "Tag": 119,
@@ -2851,6 +2852,7 @@
                     "IsCustomSize": true,
                     "FontSize": 22,
                     "LabelText": "88",
+                    "HorizontalAlignmentType": "HT_Right",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -2864,8 +2866,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 3.4907,
-                      "Y": 90.2041
+                      "X": -14.1307,
+                      "Y": 90.2038
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -2885,10 +2887,10 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 3.4907,
-                    "RightMargin": -33.4907,
-                    "TopMargin": -112.2041,
-                    "BottomMargin": 90.2041,
+                    "LeftMargin": -14.1307,
+                    "RightMargin": -15.8693,
+                    "TopMargin": -112.2038,
+                    "BottomMargin": 90.2038,
                     "Tag": 121,
                     "ActionTag": 531982547,
                     "Size": {
@@ -2901,7 +2903,7 @@
                   {
                     "IsCustomSize": true,
                     "FontSize": 22,
-                    "LabelText": "一色双龙会",
+                    "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -2953,6 +2955,7 @@
                     "IsCustomSize": true,
                     "FontSize": 22,
                     "LabelText": "88",
+                    "HorizontalAlignmentType": "HT_Right",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -2966,8 +2969,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 158.3096,
-                      "Y": 91.1315
+                      "X": 140.6873,
+                      "Y": 91.1314
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -2987,10 +2990,10 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 158.3096,
-                    "RightMargin": -188.3096,
-                    "TopMargin": -113.1315,
-                    "BottomMargin": 91.1315,
+                    "LeftMargin": 140.6873,
+                    "RightMargin": -170.6873,
+                    "TopMargin": -113.1314,
+                    "BottomMargin": 91.1314,
                     "Tag": 123,
                     "ActionTag": 93218600,
                     "Size": {
@@ -3003,7 +3006,7 @@
                   {
                     "IsCustomSize": true,
                     "FontSize": 22,
-                    "LabelText": "一色双龙会",
+                    "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -3054,7 +3057,7 @@
                   {
                     "IsCustomSize": true,
                     "FontSize": 22,
-                    "LabelText": "一色双龙会",
+                    "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -3106,6 +3109,7 @@
                     "IsCustomSize": true,
                     "FontSize": 22,
                     "LabelText": "88",
+                    "HorizontalAlignmentType": "HT_Right",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -3119,8 +3123,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 303.9748,
-                      "Y": 91.1315
+                      "X": 286.3521,
+                      "Y": 91.1314
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -3140,10 +3144,10 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 303.9748,
-                    "RightMargin": -333.9748,
-                    "TopMargin": -113.1315,
-                    "BottomMargin": 91.1315,
+                    "LeftMargin": 286.3521,
+                    "RightMargin": -316.3521,
+                    "TopMargin": -113.1314,
+                    "BottomMargin": 91.1314,
                     "Tag": 125,
                     "ActionTag": -2069052465,
                     "Size": {
@@ -3156,7 +3160,7 @@
                   {
                     "IsCustomSize": true,
                     "FontSize": 22,
-                    "LabelText": "一色双龙会",
+                    "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -3208,6 +3212,7 @@
                     "IsCustomSize": true,
                     "FontSize": 22,
                     "LabelText": "88",
+                    "HorizontalAlignmentType": "HT_Right",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -3221,8 +3226,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": -155.3129,
-                      "Y": 63.0024
+                      "X": -167.3695,
+                      "Y": 63.0023
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -3242,10 +3247,10 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": -155.3129,
-                    "RightMargin": 125.3129,
-                    "TopMargin": -85.0024,
-                    "BottomMargin": 63.0024,
+                    "LeftMargin": -167.3695,
+                    "RightMargin": 137.3695,
+                    "TopMargin": -85.0023,
+                    "BottomMargin": 63.0023,
                     "Tag": 135,
                     "ActionTag": 241620425,
                     "Size": {
@@ -3259,6 +3264,7 @@
                     "IsCustomSize": true,
                     "FontSize": 22,
                     "LabelText": "88",
+                    "HorizontalAlignmentType": "HT_Right",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -3272,8 +3278,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 3.7953,
-                      "Y": 63.7213
+                      "X": -13.826,
+                      "Y": 63.7211
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -3293,10 +3299,10 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 3.7953,
-                    "RightMargin": -33.7953,
-                    "TopMargin": -85.7213,
-                    "BottomMargin": 63.7213,
+                    "LeftMargin": -13.826,
+                    "RightMargin": -16.174,
+                    "TopMargin": -85.7211,
+                    "BottomMargin": 63.7211,
                     "Tag": 137,
                     "ActionTag": -467334930,
                     "Size": {
@@ -3309,7 +3315,7 @@
                   {
                     "IsCustomSize": true,
                     "FontSize": 22,
-                    "LabelText": "一色双龙会",
+                    "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -3361,6 +3367,7 @@
                     "IsCustomSize": true,
                     "FontSize": 22,
                     "LabelText": "88",
+                    "HorizontalAlignmentType": "HT_Right",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -3374,8 +3381,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 158.6135,
-                      "Y": 64.6486
+                      "X": 140.9913,
+                      "Y": 64.6485
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -3395,10 +3402,10 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 158.6135,
-                    "RightMargin": -188.6135,
-                    "TopMargin": -86.6486,
-                    "BottomMargin": 64.6486,
+                    "LeftMargin": 140.9913,
+                    "RightMargin": -170.9913,
+                    "TopMargin": -86.6485,
+                    "BottomMargin": 64.6485,
                     "Tag": 139,
                     "ActionTag": -1147264226,
                     "Size": {
@@ -3411,7 +3418,7 @@
                   {
                     "IsCustomSize": true,
                     "FontSize": 22,
-                    "LabelText": "一色双龙会",
+                    "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -3462,7 +3469,7 @@
                   {
                     "IsCustomSize": true,
                     "FontSize": 22,
-                    "LabelText": "一色双龙会",
+                    "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -3514,6 +3521,7 @@
                     "IsCustomSize": true,
                     "FontSize": 22,
                     "LabelText": "88",
+                    "HorizontalAlignmentType": "HT_Right",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -3527,8 +3535,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 304.2772,
-                      "Y": 64.6486
+                      "X": 286.6552,
+                      "Y": 64.6485
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -3548,10 +3556,10 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 304.2772,
-                    "RightMargin": -334.2772,
-                    "TopMargin": -86.6486,
-                    "BottomMargin": 64.6486,
+                    "LeftMargin": 286.6552,
+                    "RightMargin": -316.6552,
+                    "TopMargin": -86.6485,
+                    "BottomMargin": 64.6485,
                     "Tag": 141,
                     "ActionTag": -468777985,
                     "Size": {
@@ -3564,7 +3572,7 @@
                   {
                     "IsCustomSize": true,
                     "FontSize": 22,
-                    "LabelText": "一色双龙会",
+                    "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -3616,6 +3624,7 @@
                     "IsCustomSize": true,
                     "FontSize": 22,
                     "LabelText": "88",
+                    "HorizontalAlignmentType": "HT_Right",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -3629,8 +3638,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": -155.3129,
-                      "Y": 33.0691
+                      "X": -167.3695,
+                      "Y": 33.069
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -3650,10 +3659,10 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": -155.3129,
-                    "RightMargin": 125.3129,
-                    "TopMargin": -55.0691,
-                    "BottomMargin": 33.0691,
+                    "LeftMargin": -167.3695,
+                    "RightMargin": 137.3695,
+                    "TopMargin": -55.069,
+                    "BottomMargin": 33.069,
                     "Tag": 143,
                     "ActionTag": -1658503839,
                     "Size": {
@@ -3667,6 +3676,7 @@
                     "IsCustomSize": true,
                     "FontSize": 22,
                     "LabelText": "88",
+                    "HorizontalAlignmentType": "HT_Right",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -3680,8 +3690,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 4.4779,
-                      "Y": 33.7882
+                      "X": -13.1434,
+                      "Y": 33.7879
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -3701,10 +3711,10 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 4.4779,
-                    "RightMargin": -34.4779,
-                    "TopMargin": -55.7882,
-                    "BottomMargin": 33.7882,
+                    "LeftMargin": -13.1434,
+                    "RightMargin": -16.8566,
+                    "TopMargin": -55.7879,
+                    "BottomMargin": 33.7879,
                     "Tag": 145,
                     "ActionTag": -20024306,
                     "Size": {
@@ -3717,7 +3727,7 @@
                   {
                     "IsCustomSize": true,
                     "FontSize": 22,
-                    "LabelText": "一色双龙会",
+                    "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -3769,6 +3779,7 @@
                     "IsCustomSize": true,
                     "FontSize": 22,
                     "LabelText": "88",
+                    "HorizontalAlignmentType": "HT_Right",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -3782,8 +3793,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 159.2938,
-                      "Y": 34.7156
+                      "X": 141.6716,
+                      "Y": 34.7153
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -3803,10 +3814,10 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 159.2938,
-                    "RightMargin": -189.2938,
-                    "TopMargin": -56.7156,
-                    "BottomMargin": 34.7156,
+                    "LeftMargin": 141.6716,
+                    "RightMargin": -171.6716,
+                    "TopMargin": -56.7153,
+                    "BottomMargin": 34.7153,
                     "Tag": 147,
                     "ActionTag": 1414886705,
                     "Size": {
@@ -3819,7 +3830,7 @@
                   {
                     "IsCustomSize": true,
                     "FontSize": 22,
-                    "LabelText": "一色双龙会",
+                    "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -3870,7 +3881,7 @@
                   {
                     "IsCustomSize": true,
                     "FontSize": 22,
-                    "LabelText": "一色双龙会",
+                    "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -3922,6 +3933,7 @@
                     "IsCustomSize": true,
                     "FontSize": 22,
                     "LabelText": "88",
+                    "HorizontalAlignmentType": "HT_Right",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -3935,8 +3947,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 304.9586,
-                      "Y": 34.7156
+                      "X": 287.3363,
+                      "Y": 34.7153
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -3956,10 +3968,10 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 304.9586,
-                    "RightMargin": -334.9586,
-                    "TopMargin": -56.7156,
-                    "BottomMargin": 34.7156,
+                    "LeftMargin": 287.3363,
+                    "RightMargin": -317.3363,
+                    "TopMargin": -56.7153,
+                    "BottomMargin": 34.7153,
                     "Tag": 149,
                     "ActionTag": 155050317,
                     "Size": {
@@ -3972,7 +3984,7 @@
                   {
                     "IsCustomSize": true,
                     "FontSize": 22,
-                    "LabelText": "一色双龙会",
+                    "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -4024,6 +4036,7 @@
                     "IsCustomSize": true,
                     "FontSize": 22,
                     "LabelText": "88",
+                    "HorizontalAlignmentType": "HT_Right",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -4037,7 +4050,7 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": -154.6323,
+                      "X": -166.689,
                       "Y": 3.8165
                     },
                     "Scale": {
@@ -4058,8 +4071,8 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": -154.6323,
-                    "RightMargin": 124.6323,
+                    "LeftMargin": -166.689,
+                    "RightMargin": 136.689,
                     "TopMargin": -25.8165,
                     "BottomMargin": 3.8165,
                     "Tag": 151,
@@ -4075,6 +4088,7 @@
                     "IsCustomSize": true,
                     "FontSize": 22,
                     "LabelText": "88",
+                    "HorizontalAlignmentType": "HT_Right",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -4088,8 +4102,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 4.4788,
-                      "Y": 4.5356
+                      "X": -13.142,
+                      "Y": 4.5355
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -4109,10 +4123,10 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 4.4788,
-                    "RightMargin": -34.4788,
-                    "TopMargin": -26.5356,
-                    "BottomMargin": 4.5356,
+                    "LeftMargin": -13.142,
+                    "RightMargin": -16.858,
+                    "TopMargin": -26.5355,
+                    "BottomMargin": 4.5355,
                     "Tag": 153,
                     "ActionTag": 1237826923,
                     "Size": {
@@ -4125,7 +4139,7 @@
                   {
                     "IsCustomSize": true,
                     "FontSize": 22,
-                    "LabelText": "一色双龙会",
+                    "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -4177,6 +4191,7 @@
                     "IsCustomSize": true,
                     "FontSize": 22,
                     "LabelText": "88",
+                    "HorizontalAlignmentType": "HT_Right",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -4190,8 +4205,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 159.2954,
-                      "Y": 5.4629
+                      "X": 141.6732,
+                      "Y": 5.4624
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -4211,10 +4226,10 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 159.2954,
-                    "RightMargin": -189.2954,
-                    "TopMargin": -27.4629,
-                    "BottomMargin": 5.4629,
+                    "LeftMargin": 141.6732,
+                    "RightMargin": -171.6732,
+                    "TopMargin": -27.4624,
+                    "BottomMargin": 5.4624,
                     "Tag": 155,
                     "ActionTag": 930134639,
                     "Size": {
@@ -4227,7 +4242,7 @@
                   {
                     "IsCustomSize": true,
                     "FontSize": 22,
-                    "LabelText": "一色双龙会",
+                    "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -4279,6 +4294,7 @@
                     "IsCustomSize": true,
                     "FontSize": 22,
                     "LabelText": "88",
+                    "HorizontalAlignmentType": "HT_Right",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -4292,8 +4308,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 304.9602,
-                      "Y": 6.3904
+                      "X": 287.3379,
+                      "Y": 6.3903
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -4313,10 +4329,10 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 304.9602,
-                    "RightMargin": -334.9602,
-                    "TopMargin": -28.3904,
-                    "BottomMargin": 6.3904,
+                    "LeftMargin": 287.3379,
+                    "RightMargin": -317.3379,
+                    "TopMargin": -28.3903,
+                    "BottomMargin": 6.3903,
                     "Tag": 157,
                     "ActionTag": -1387125481,
                     "Size": {
@@ -4329,7 +4345,7 @@
                   {
                     "IsCustomSize": true,
                     "FontSize": 22,
-                    "LabelText": "一色双龙会",
+                    "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -4380,7 +4396,7 @@
                   {
                     "IsCustomSize": true,
                     "FontSize": 22,
-                    "LabelText": "一色双龙会",
+                    "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -4394,7 +4410,7 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": -282.4504,
+                      "X": -281.4503,
                       "Y": -24.4704
                     },
                     "Scale": {
@@ -4415,8 +4431,8 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": -282.4504,
-                    "RightMargin": 172.4504,
+                    "LeftMargin": -281.4503,
+                    "RightMargin": 171.4503,
                     "TopMargin": 2.4704,
                     "BottomMargin": -24.4704,
                     "Tag": 160,
@@ -4432,6 +4448,7 @@
                     "IsCustomSize": true,
                     "FontSize": 22,
                     "LabelText": "88",
+                    "HorizontalAlignmentType": "HT_Right",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -4445,8 +4462,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": -155.3118,
-                      "Y": -26.1166
+                      "X": -167.3684,
+                      "Y": -26.1168
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -4466,10 +4483,10 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": -155.3118,
-                    "RightMargin": 125.3118,
-                    "TopMargin": 4.1166,
-                    "BottomMargin": -26.1166,
+                    "LeftMargin": -167.3684,
+                    "RightMargin": 137.3684,
+                    "TopMargin": 4.1168,
+                    "BottomMargin": -26.1168,
                     "Tag": 159,
                     "ActionTag": 1350546810,
                     "Size": {
@@ -4483,6 +4500,7 @@
                     "IsCustomSize": true,
                     "FontSize": 22,
                     "LabelText": "88",
+                    "HorizontalAlignmentType": "HT_Right",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -4496,8 +4514,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 3.7985,
-                      "Y": -25.3977
+                      "X": -13.8229,
+                      "Y": -25.398
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -4517,10 +4535,10 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 3.7985,
-                    "RightMargin": -33.7985,
-                    "TopMargin": 3.3977,
-                    "BottomMargin": -25.3977,
+                    "LeftMargin": -13.8229,
+                    "RightMargin": -16.1771,
+                    "TopMargin": 3.398,
+                    "BottomMargin": -25.398,
                     "Tag": 161,
                     "ActionTag": 1837064173,
                     "Size": {
@@ -4533,7 +4551,7 @@
                   {
                     "IsCustomSize": true,
                     "FontSize": 22,
-                    "LabelText": "一色双龙会",
+                    "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -4585,6 +4603,7 @@
                     "IsCustomSize": true,
                     "FontSize": 22,
                     "LabelText": "88",
+                    "HorizontalAlignmentType": "HT_Right",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -4598,8 +4617,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 158.6159,
-                      "Y": -24.4703
+                      "X": 140.9935,
+                      "Y": -24.4704
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -4619,10 +4638,10 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 158.6159,
-                    "RightMargin": -188.6159,
-                    "TopMargin": 2.4703,
-                    "BottomMargin": -24.4703,
+                    "LeftMargin": 140.9935,
+                    "RightMargin": -170.9935,
+                    "TopMargin": 2.4704,
+                    "BottomMargin": -24.4704,
                     "Tag": 163,
                     "ActionTag": -1604614037,
                     "Size": {
@@ -4635,7 +4654,7 @@
                   {
                     "IsCustomSize": true,
                     "FontSize": 22,
-                    "LabelText": "一色双龙会",
+                    "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -4687,6 +4706,7 @@
                     "IsCustomSize": true,
                     "FontSize": 22,
                     "LabelText": "88",
+                    "HorizontalAlignmentType": "HT_Right",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -4700,8 +4720,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 304.2802,
-                      "Y": -24.4703
+                      "X": 286.6577,
+                      "Y": -24.4704
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -4721,10 +4741,10 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 304.2802,
-                    "RightMargin": -334.2802,
-                    "TopMargin": 2.4703,
-                    "BottomMargin": -24.4703,
+                    "LeftMargin": 286.6577,
+                    "RightMargin": -316.6577,
+                    "TopMargin": 2.4704,
+                    "BottomMargin": -24.4704,
                     "Tag": 165,
                     "ActionTag": 738601193,
                     "Size": {
@@ -4737,7 +4757,7 @@
                   {
                     "IsCustomSize": true,
                     "FontSize": 22,
-                    "LabelText": "一色双龙会",
+                    "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
                       "B": 0
@@ -5085,8 +5105,8 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 116.9777,
-                      "Y": 359.6735
+                      "X": 101.9892,
+                      "Y": 357.5018
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -5095,17 +5115,17 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.5176,
-                      "Y": 0.8404
+                      "X": 0.4513,
+                      "Y": 0.8353
                     },
                     "PreSize": {
                       "X": 0.2655,
                       "Y": 0.1332
                     },
-                    "LeftMargin": 86.9777,
-                    "RightMargin": 79.0223,
-                    "TopMargin": 39.8265,
-                    "BottomMargin": 331.1735,
+                    "LeftMargin": 71.9892,
+                    "RightMargin": 94.0108,
+                    "TopMargin": 41.9982,
+                    "BottomMargin": 329.0018,
                     "Tag": 61,
                     "ActionTag": -264978435,
                     "Size": {
@@ -5159,8 +5179,8 @@
                       "ScaleY": 0.533
                     },
                     "Position": {
-                      "X": 115.3723,
-                      "Y": 265.9785
+                      "X": 113.3194,
+                      "Y": 265.9784
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -5169,17 +5189,17 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.5105,
+                      "X": 0.5014,
                       "Y": 0.6214
                     },
                     "PreSize": {
                       "X": 0.4425,
                       "Y": 0.2336
                     },
-                    "LeftMargin": 65.3623,
-                    "RightMargin": 60.6377,
-                    "TopMargin": 115.3215,
-                    "BottomMargin": 212.6785,
+                    "LeftMargin": 63.3094,
+                    "RightMargin": 62.6906,
+                    "TopMargin": 115.3216,
+                    "BottomMargin": 212.6784,
                     "Tag": 62,
                     "ActionTag": -123045382,
                     "Size": {
@@ -5307,8 +5327,8 @@
                       "ScaleY": 0.482
                     },
                     "Position": {
-                      "X": 111.6706,
-                      "Y": 76.041
+                      "X": 110.2093,
+                      "Y": 71.6998
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -5317,17 +5337,17 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.4941,
-                      "Y": 0.1777
+                      "X": 0.4877,
+                      "Y": 0.1675
                     },
                     "PreSize": {
                       "X": 0.2611,
                       "Y": 0.1262
                     },
-                    "LeftMargin": 83.2149,
-                    "RightMargin": 83.7851,
-                    "TopMargin": 323.987,
-                    "BottomMargin": 50.013,
+                    "LeftMargin": 81.7536,
+                    "RightMargin": 85.2464,
+                    "TopMargin": 328.3282,
+                    "BottomMargin": 45.6718,
                     "Tag": 64,
                     "ActionTag": -777582726,
                     "Size": {

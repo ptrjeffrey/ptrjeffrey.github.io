@@ -267,6 +267,7 @@
                 <file name="src/uiconst.js"/>
                 <file name="src/component/mj_UIConst.js"/>
                 <file name="src/component/msgBox.js"/>
+                <file name="src/component/settingLayer.js"/>
                 <file name="src/resource.js"/>
                 <file name="src/core/player_Manager.js"/>
                 <file name="src/core/network.js"/>

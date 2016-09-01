@@ -1,0 +1,332 @@
+{
+  "ID": "f7c830fb-192f-4d0b-a1b1-4e1c2a4b19ed",
+  "Version": "3.10.0.0",
+  "Name": "Setting",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 171,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 30,
+              "G": 144
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0015,
+              "Y": 0.0008
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "LeftMargin": 0.0015,
+            "RightMargin": -0.0015,
+            "TopMargin": -0.0009,
+            "BottomMargin": 0.0008,
+            "Tag": 172,
+            "Children": [
+              {
+                "FileData": {
+                  "Type": "PlistSubImage",
+                  "Path": "settting3.png",
+                  "Plist": "classic/room2.plist"
+                },
+                "BlendFunc": {
+                  "Src": 1,
+                  "Dst": 771
+                },
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 409.7399,
+                  "Y": 715.7391
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.5122,
+                  "Y": 0.5592
+                },
+                "PreSize": {
+                  "X": 0.8875,
+                  "Y": 0.25
+                },
+                "LeftMargin": 54.7399,
+                "RightMargin": 35.2601,
+                "TopMargin": 404.2609,
+                "BottomMargin": 555.7391,
+                "Tag": 173,
+                "Children": [
+                  {
+                    "BackGroundData": {
+                      "Type": "PlistSubImage",
+                      "Path": "setting2.png",
+                      "Plist": "classic/room2.plist"
+                    },
+                    "ProgressBarData": {
+                      "Type": "PlistSubImage",
+                      "Path": "setting2.png",
+                      "Plist": "classic/room2.plist"
+                    },
+                    "BallNormalData": {
+                      "Type": "PlistSubImage",
+                      "Path": "setting1.png",
+                      "Plist": "classic/room2.plist"
+                    },
+                    "BallPressedData": {
+                      "Type": "PlistSubImage",
+                      "Path": "setting1.png",
+                      "Plist": "classic/room2.plist"
+                    },
+                    "BallDisabledData": {
+                      "Type": "PlistSubImage",
+                      "Path": "setting1.png",
+                      "Plist": "classic/room2.plist"
+                    },
+                    "PercentInfo": 16,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 383.8287,
+                      "Y": 208.2091
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5406,
+                      "Y": 0.6507
+                    },
+                    "PreSize": {
+                      "X": 0.5775,
+                      "Y": 0.0625
+                    },
+                    "LeftMargin": 178.8287,
+                    "RightMargin": 121.1713,
+                    "TopMargin": 101.7909,
+                    "BottomMargin": 198.2091,
+                    "Tag": 174,
+                    "ActionTag": 1470292080,
+                    "Size": {
+                      "X": 410.0,
+                      "Y": 20.0
+                    },
+                    "Name": "settingSlider1",
+                    "ctype": "SliderObjectData"
+                  },
+                  {
+                    "BackGroundData": {
+                      "Type": "PlistSubImage",
+                      "Path": "setting2.png",
+                      "Plist": "classic/room2.plist"
+                    },
+                    "ProgressBarData": {
+                      "Type": "PlistSubImage",
+                      "Path": "setting2.png",
+                      "Plist": "classic/room2.plist"
+                    },
+                    "BallNormalData": {
+                      "Type": "PlistSubImage",
+                      "Path": "setting1.png",
+                      "Plist": "classic/room2.plist"
+                    },
+                    "BallPressedData": {
+                      "Type": "PlistSubImage",
+                      "Path": "setting1.png",
+                      "Plist": "classic/room2.plist"
+                    },
+                    "BallDisabledData": {
+                      "Type": "PlistSubImage",
+                      "Path": "setting1.png",
+                      "Plist": "classic/room2.plist"
+                    },
+                    "PercentInfo": 16,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 383.8287,
+                      "Y": 105.4052
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.5406,
+                      "Y": 0.3294
+                    },
+                    "PreSize": {
+                      "X": 0.5775,
+                      "Y": 0.0625
+                    },
+                    "LeftMargin": 178.8287,
+                    "RightMargin": 121.1713,
+                    "TopMargin": 204.5948,
+                    "BottomMargin": 95.4052,
+                    "Tag": 175,
+                    "ActionTag": 1754908805,
+                    "Size": {
+                      "X": 410.0,
+                      "Y": 20.0
+                    },
+                    "Name": "settingSlider2",
+                    "ctype": "SliderObjectData"
+                  },
+                  {
+                    "FontSize": 14,
+                    "ButtonText": "",
+                    "TextColor": {
+                      "R": 65,
+                      "G": 65,
+                      "B": 70
+                    },
+                    "DisabledFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "dlj19_s.png",
+                      "Plist": "classic/room2.plist"
+                    },
+                    "PressedFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "dlj19_n.png",
+                      "Plist": "classic/room2.plist"
+                    },
+                    "NormalFileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "dlj19_n.png",
+                      "Plist": "classic/room2.plist"
+                    },
+                    "Scale9Enable": true,
+                    "Scale9OriginX": 15,
+                    "Scale9OriginY": 11,
+                    "Scale9Width": 70,
+                    "Scale9Height": 81,
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "TouchEnable": true,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 662.1976,
+                      "Y": 288.65
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.9327,
+                      "Y": 0.902
+                    },
+                    "PreSize": {
+                      "X": 0.1408,
+                      "Y": 0.3219
+                    },
+                    "LeftMargin": 612.1976,
+                    "RightMargin": -2.1976,
+                    "TopMargin": -20.15,
+                    "BottomMargin": 237.15,
+                    "Tag": 176,
+                    "ActionTag": 1634332683,
+                    "Size": {
+                      "X": 100.0,
+                      "Y": 103.0
+                    },
+                    "Name": "btnSettingClose",
+                    "ctype": "ButtonObjectData"
+                  }
+                ],
+                "ActionTag": 447464437,
+                "Size": {
+                  "X": 710.0,
+                  "Y": 320.0
+                },
+                "Name": "settingBG",
+                "ctype": "SpriteObjectData"
+              }
+            ],
+            "ActionTag": 1757504708,
+            "Size": {
+              "X": 800.0,
+              "Y": 1280.0
+            },
+            "Name": "BGPanel",
+            "ctype": "PanelObjectData"
+          }
+        ],
+        "Size": {
+          "X": 800.0,
+          "Y": 1280.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "classic/room2.plist",
+        "classic/room2.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
