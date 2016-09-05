@@ -1,0 +1,448 @@
+{
+  "ID": "43a03210-b42c-43de-bf7a-1fc1e47d9b5c",
+  "Version": "3.10.0.0",
+  "Name": "HelpLayer",
+  "Content": {
+    "Content": {
+      "Animation": {
+        "Duration": 0,
+        "Speed": 1.0,
+        "Timelines": [],
+        "ctype": "TimelineActionData"
+      },
+      "AnimationList": [],
+      "ObjectData": {
+        "Tag": 107,
+        "Children": [
+          {
+            "ClipAble": false,
+            "BackColorAlpha": 102,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 200
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 200
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "PreSize": {
+              "X": 1.0,
+              "Y": 1.0
+            },
+            "Tag": 189,
+            "ActionTag": 830341141,
+            "Size": {
+              "X": 800.0,
+              "Y": 1280.0
+            },
+            "Alpha": 0,
+            "Name": "Panel_1",
+            "ctype": "PanelObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "helpbg.png",
+              "Plist": "common/help.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 402.27,
+              "Y": 662.5714
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5028,
+              "Y": 0.5176
+            },
+            "PreSize": {
+              "X": 0.835,
+              "Y": 0.7625
+            },
+            "LeftMargin": 68.27,
+            "RightMargin": 63.73,
+            "TopMargin": 129.4286,
+            "BottomMargin": 174.5714,
+            "Tag": 108,
+            "ActionTag": -2020456415,
+            "Size": {
+              "X": 668.0,
+              "Y": 976.0
+            },
+            "Name": "helpbg_1",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FileData": {
+              "Type": "PlistSubImage",
+              "Path": "bztitle.png",
+              "Plist": "common/help.plist"
+            },
+            "BlendFunc": {
+              "Src": 1,
+              "Dst": 771
+            },
+            "AnchorPoint": {
+              "ScaleX": 0.5,
+              "ScaleY": 0.5
+            },
+            "Position": {
+              "X": 403.4809,
+              "Y": 1097.1367
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.5044,
+              "Y": 0.8571
+            },
+            "PreSize": {
+              "X": 0.0887,
+              "Y": 0.0273
+            },
+            "LeftMargin": 367.9809,
+            "RightMargin": 361.0191,
+            "TopMargin": 165.3633,
+            "BottomMargin": 1079.6367,
+            "Tag": 109,
+            "ActionTag": 1864726336,
+            "Size": {
+              "X": 71.0,
+              "Y": 35.0
+            },
+            "Name": "bztitle_2",
+            "ctype": "SpriteObjectData"
+          },
+          {
+            "FontSize": 14,
+            "ButtonText": "",
+            "TextColor": {
+              "R": 65,
+              "G": 65,
+              "B": 70
+            },
+            "DisabledFileData": {
+              "Type": "PlistSubImage",
+              "Path": "gb.png",
+              "Plist": "classic/room2.plist"
+            },
+            "PressedFileData": {
+              "Type": "PlistSubImage",
+              "Path": "gb.png",
+              "Plist": "classic/room2.plist"
+            },
+            "NormalFileData": {
+              "Type": "PlistSubImage",
+              "Path": "gb.png",
+              "Plist": "classic/room2.plist"
+            },
+            "Scale9Enable": true,
+            "Scale9OriginX": 15,
+            "Scale9OriginY": 11,
+            "Scale9Width": 29,
+            "Scale9Height": 37,
+            "OutlineColor": {
+              "G": 0,
+              "B": 0
+            },
+            "ShadowColor": {
+              "R": 110,
+              "G": 110,
+              "B": 110
+            },
+            "ShadowOffsetX": 2.0,
+            "ShadowOffsetY": -2.0,
+            "TouchEnable": true,
+            "AnchorPoint": {
+              "ScaleX": 0.5836,
+              "ScaleY": 0.695
+            },
+            "Position": {
+              "X": 725.9567,
+              "Y": 1141.6576
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.9074,
+              "Y": 0.8919
+            },
+            "PreSize": {
+              "X": 0.0737,
+              "Y": 0.0461
+            },
+            "LeftMargin": 691.5267,
+            "RightMargin": 49.4733,
+            "TopMargin": 120.3479,
+            "BottomMargin": 1100.6521,
+            "Tag": 110,
+            "ActionTag": -782939949,
+            "Size": {
+              "X": 59.0,
+              "Y": 59.0
+            },
+            "Name": "btnClose",
+            "ctype": "ButtonObjectData"
+          },
+          {
+            "ItemMargin": 20,
+            "DirectionType": "Vertical",
+            "IsBounceEnabled": true,
+            "ScrollDirectionType": 0,
+            "ClipAble": true,
+            "BackColorAlpha": 0,
+            "ComboBoxIndex": 1,
+            "SingleColor": {
+              "R": 150,
+              "G": 150
+            },
+            "FirstColor": {
+              "R": 150,
+              "G": 150
+            },
+            "EndColor": {},
+            "ColorVector": {
+              "ScaleY": 1.0
+            },
+            "TouchEnable": true,
+            "AnchorPoint": {},
+            "Position": {
+              "X": 131.5852,
+              "Y": 291.2166
+            },
+            "Scale": {
+              "ScaleX": 1.0,
+              "ScaleY": 1.0
+            },
+            "CColor": {},
+            "IconVisible": false,
+            "PrePosition": {
+              "X": 0.1645,
+              "Y": 0.2275
+            },
+            "PreSize": {
+              "X": 0.725,
+              "Y": 0.5469
+            },
+            "LeftMargin": 131.5852,
+            "RightMargin": 88.4148,
+            "TopMargin": 288.7834,
+            "BottomMargin": 291.2166,
+            "Tag": 111,
+            "Children": [
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "◆ 游戏介绍\n二人麻将为两人游戏，源于国标麻将，通过减少对局玩家以及牌数（二人麻将没有条子和筒子）使游戏更激烈刺激，发牌后，轮流抓牌、出牌、吃、碰、杠，最先和牌的为胜利者。",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 265.0,
+                  "Y": 4115.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4569,
+                  "Y": 0.9821
+                },
+                "PreSize": {
+                  "X": 0.9138,
+                  "Y": 0.0358
+                },
+                "RightMargin": 50.0,
+                "BottomMargin": 4040.0,
+                "Tag": 112,
+                "ActionTag": -1178518120,
+                "Size": {
+                  "X": 530.0,
+                  "Y": 150.0
+                },
+                "Name": "Text_1",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 24,
+                "LabelText": "一 基本规则\n每种牌4张，共64张牌。包括：\n· 万：一万、二万、三万、四万、五万、六万、七万、八万、九万\n· 风：东风、南风、西风、北风\n· 字：红中、发财、白板\n2人参与游戏，分为庄家和闲家。游戏开始，庄家先发牌，分得14张牌，闲家每人13张。\n二 出牌规则\n庄家出一张最无用的牌。此时，闲家都有权力“吃”、“碰”、“杠”或“和”那张牌，\n· 吃牌：吃牌时分吃头、吃中、吃尾。比如：对家出的牌是四万，你手中有五万和六万那么就是吃头。\n· 碰牌：如玩家A手上有一对“四万”，玩家B打出一张“四万”。此时，玩家A可碰。\n· 杠牌：如玩家A手上有三张“北风”，玩家B打出一张“北风”。此时，玩家A可杠。\n· 荒庄：当抓完前面所有牌时，系统判定为“荒庄”。开始新一局游戏。",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 265.0,
+                  "Y": 3770.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4569,
+                  "Y": 0.8998
+                },
+                "PreSize": {
+                  "X": 0.9138,
+                  "Y": 0.1193
+                },
+                "RightMargin": 50.0,
+                "TopMargin": 170.0,
+                "BottomMargin": 3520.0,
+                "Tag": 113,
+                "ActionTag": -1229539594,
+                "ZOrder": 1,
+                "Size": {
+                  "X": 530.0,
+                  "Y": 500.0
+                },
+                "Name": "Text_2",
+                "ctype": "TextObjectData"
+              },
+              {
+                "IsCustomSize": true,
+                "FontSize": 20,
+                "LabelText": "番种（65种）\n（a） 88番（9种）\n大四喜——和牌时，牌里有4组风牌刻子（杠）（不计门风刻、圈风刻、小四喜、三风刻、碰碰和、幺九刻）\n\n大三元——和牌时，牌里有3组箭牌刻（杠）（不计小三元、箭刻、双箭刻、幺九刻）\n\n九莲宝灯——和牌时，牌中有1112345678999万（不计清一色、不求人、门前清、幺九刻）\n\n四杠——和牌时，牌里有4组杠，明暗杠均可（不计双暗杠、双明杠、明杠、暗杠、单调）\n\n连七对——和牌时，牌里有顺序相连的7个对子（不计清一色、不求人、单调、门清、七对、连六、一般高）\n\n天和——庄家开牌后就和牌，称为天和。若庄家在开牌后有开杠（包括暗杠），则不算天和（不计单调将、边张、砍张）\n地和——闲家摸到第一张牌就和牌，称为地和\n人和——庄家打出的第一张牌被闲家和牌，称为人和\n百万石——和牌时（注意：牌型符合和牌基本牌型规则），所有牌由万字牌组成，且将牌面的数字相加，总和超过100（包含100），称为百万石（不计清一色）\n（b） 64番（5种）\n小四喜——和牌时，牌里有3组风牌刻子（杠）和风牌的将牌（不计三风刻、幺九刻）\n\n小三元——和牌时，牌里有2组箭牌刻子（杠）和箭牌的将牌（不计箭刻、双箭刻、幺九刻）\n\n字一色——和牌时，牌全部为字牌的刻子（杠）以及字牌的将牌（不计碰碰胡、混幺九、全带幺、幺九刻）\n\n四暗刻——和牌时，牌里有4组暗刻（不计门前清、碰碰和、三暗刻、双暗刻、不求人）\n\n一色双龙会——和牌时，牌里由5万做将牌并有123万和789万的顺子各2组（不计平和、七对、清一色、一般高、老少副）\n\n（c） 48番（2种）\n一色四同顺——和牌时，牌里有相同的4组顺子（不计一色三高、一般高、四归一、一色三同顺）\n\n一色四节高——和牌时，牌里有4组依次递增1位数的刻子（不计一色三同顺、一色三节高、碰碰和）\n\n（d） 32番（3种）\n一色四步高——和牌时，牌里有4组依次递增1位数或依次递增2位数的顺子（不计一色三步高、老少副、连六）\n\n三杠——和牌时，牌里有3组杠，明暗杠均可（不计双明杠、双暗杠、明杠、暗杠）\n\n混幺九——和牌时，牌全部由为字牌或1万、九万组成的刻子以及由字牌或1万、九万组成的将牌（不计碰碰胡、幺九刻、全带幺）\n\n（e） 24番（4种）\n七对——和牌时，牌里有七组对子（不计门清、不求人、单调将）\n\n清一色——和牌时，牌全部由万字牌组成\n\n一色三同顺——和牌时，牌里有相同的3组顺子（不计一色三节高、一般高）\n\n一色三节高——和牌时，牌里有3组依次递增1位数的刻子（不计一色三同顺）\n\n（f） 16番（4种）\n清龙——和牌时，牌里有1万至9万相连的九张牌（不计连六、老少副）\n\n一色三步高——和牌时，牌里有3组依次递增1位数或依次递增2位数的顺子\n\n三暗刻——和牌时，牌里有3个暗刻（暗杠）（不计双暗刻）\n\n天听——庄家打出第一张牌时听牌或闲家13张牌一发到手就听牌了称为天听。若庄家在发完牌后有开杠，则不算天听（不计立直、报听）\n（g） 12番（3种）\n大于5——和牌时，牌全部为6万至9万的顺子、刻子、将组成\n\n小于5——和牌时，牌全部为1万至4万的顺子、刻子、将组成\n\n三风刻——和牌时，牌里有三组风牌刻子（杠）（不计幺九刻）\n\n（h） 8番（4种）\n妙手回春——和牌时，自摸牌墙上最后一张牌（不计自摸）\n海底捞月——和牌时，和的牌为对家打出的最后一张牌\n杠上开花——和牌时，和的牌为开杠后的补牌（不计自摸）\n抢杠和——和牌时，和的牌为对家抓到可以杠明杠的牌（不计和绝张）\n（i）6番（5种）\n碰碰和——和牌时，牌型由4组刻子（或杠）、将牌组成\n\n混一色——和牌时，牌型由万字牌和字牌组成\n\n全求人——和牌时，全靠吃牌、碰牌（开杠）、单调别人打出的牌和牌（不计单调将）\n双暗杠——和牌时，牌里有2组暗杠（不计双暗刻、暗杠）\n\n双箭刻——和牌时，牌里有2组箭牌刻子（杠）（不计箭刻）\n\n（j） 4番（5种）\n全带幺——和牌时，各组刻子、杠、顺子、将牌都带有万字牌或1万或九万\n不求人——和牌时，没有吃牌、碰牌、杠对方的牌，且自摸和牌（不计门前清、自摸）\n双明杠——和牌时，牌里有2组明杠（不计明杠）\n和绝张——和牌时，桌面已明亮的3张牌所剩的第4张牌（不计抢杠胡）\n立直——门前清且听牌后和牌（不计报听、门前清）\n（k） 2番（9种）\n箭刻——和牌时，牌里有1组箭牌组成的刻子（不计幺九刻）\n圈风刻——和牌时，牌里有与圈风相同的风牌刻子（不计幺九刻）\n门风刻——和牌时，牌里有与门风相同的风牌刻子（不计幺九刻）\n门前清——和牌时，没有吃、碰、明杠、和牌是别人的打出的牌\n平和——和牌时，牌型由4组顺子和万字牌做将组成\n“四归一”——和牌时，牌里有4张相同的牌归于1家的顺、刻子、将牌，不包括开杠\n双暗刻——和牌时，牌里有2组暗刻\n暗杠——和牌时，牌里有一组已经开杠的暗杠\n¨ 断幺——和牌时，牌里没有1万、9万及字牌\n（l） 1番（12番）\n二五八将——和牌时，将牌是2万、5万或8万\n幺九头——和牌时将牌是1万或9万\n报听——听牌后和牌\n一般高——和牌时，牌里有相同的2组顺子\n连六——和牌时，牌里有6张数字相连的万字牌\n老少副——和牌时，牌里有123万、789万顺子各1组\n幺九刻——和牌时，牌里有1万、9万或字牌的1组刻子\n明杠——和牌时，牌里有已经开杠的明杠\n边张——单和123的3或7789的7都为边张，12345和3不算边张\n坎张——和牌时，和2张牌之间的牌。4556和5也算坎张，45567和6不算坎张\n单调将——和单张牌，并且该张单牌为整副牌的将牌\n自摸——和自己抓进的牌",
+                "OutlineColor": {
+                  "G": 0,
+                  "B": 0
+                },
+                "ShadowColor": {
+                  "R": 110,
+                  "G": 110,
+                  "B": 110
+                },
+                "ShadowOffsetX": 2.0,
+                "ShadowOffsetY": -2.0,
+                "AnchorPoint": {
+                  "ScaleX": 0.5,
+                  "ScaleY": 0.5
+                },
+                "Position": {
+                  "X": 265.0,
+                  "Y": 1750.0
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": false,
+                "PrePosition": {
+                  "X": 0.4569,
+                  "Y": 0.4177
+                },
+                "PreSize": {
+                  "X": 0.9138,
+                  "Y": 0.8353
+                },
+                "RightMargin": 50.0,
+                "TopMargin": 690.0,
+                "Tag": 114,
+                "ActionTag": 53393335,
+                "ZOrder": 2,
+                "Size": {
+                  "X": 530.0,
+                  "Y": 3500.0
+                },
+                "Name": "Text_3",
+                "ctype": "TextObjectData"
+              }
+            ],
+            "ActionTag": -1458602210,
+            "Size": {
+              "X": 580.0,
+              "Y": 700.0
+            },
+            "Name": "ListView_1",
+            "ctype": "ListViewObjectData"
+          }
+        ],
+        "Size": {
+          "X": 800.0,
+          "Y": 1280.0
+        },
+        "Name": "Layer",
+        "ctype": "LayerObjectData"
+      },
+      "UsedResources": [
+        "classic/room2.plist",
+        "classic/room2.png",
+        "common/help.plist",
+        "common/help.png"
+      ],
+      "ctype": "GameFileData"
+    }
+  },
+  "Type": "Layer"
+}
