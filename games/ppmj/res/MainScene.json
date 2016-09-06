@@ -29,7 +29,7 @@
             },
             "Position": {
               "X": 400.6238,
-              "Y": 640.4037
+              "Y": 641.3311
             },
             "Scale": {
               "ScaleX": 1.0,
@@ -39,7 +39,7 @@
             "IconVisible": false,
             "PrePosition": {
               "X": 0.5008,
-              "Y": 0.5003
+              "Y": 0.501
             },
             "PreSize": {
               "X": 1.0,
@@ -47,8 +47,8 @@
             },
             "LeftMargin": 0.6238,
             "RightMargin": -0.6238,
-            "TopMargin": -0.4037,
-            "BottomMargin": 0.4037,
+            "TopMargin": -1.3311,
+            "BottomMargin": 1.3311,
             "Tag": 5,
             "Children": [
               {
@@ -521,7 +521,7 @@
                           {
                             "CharWidth": 10,
                             "CharHeight": 15,
-                            "LabelText": "123456",
+                            "LabelText": "0",
                             "StartChar": ".",
                             "LabelAtlasFileImage_CNB": {
                               "Type": "Normal",
@@ -529,12 +529,12 @@
                               "Plist": ""
                             },
                             "AnchorPoint": {
-                              "ScaleX": 1.0453,
-                              "ScaleY": -0.1395
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
                             },
                             "Position": {
-                              "X": 84.3302,
-                              "Y": 4.7551
+                              "X": 50.559,
+                              "Y": 14.3477
                             },
                             "Scale": {
                               "ScaleX": 1.0,
@@ -543,21 +543,21 @@
                             "CColor": {},
                             "IconVisible": false,
                             "PrePosition": {
-                              "X": 0.5206,
-                              "Y": 0.1486
+                              "X": 0.3121,
+                              "Y": 0.4484
                             },
                             "PreSize": {
-                              "X": 0.3704,
+                              "X": 0.0617,
                               "Y": 0.4688
                             },
-                            "LeftMargin": 21.6122,
-                            "RightMargin": 80.3878,
-                            "TopMargin": 10.1524,
-                            "BottomMargin": 6.8476,
+                            "LeftMargin": 45.559,
+                            "RightMargin": 106.441,
+                            "TopMargin": 10.1523,
+                            "BottomMargin": 6.8477,
                             "Tag": 18,
                             "ActionTag": -1504563057,
                             "Size": {
-                              "X": 60.0,
+                              "X": 10.0,
                               "Y": 15.0
                             },
                             "Name": "persons",
@@ -620,7 +620,7 @@
                       {
                         "CharWidth": 30,
                         "CharHeight": 40,
-                        "LabelText": "200",
+                        "LabelText": "50000",
                         "StartChar": ".",
                         "LabelAtlasFileImage_CNB": {
                           "Type": "Normal",
@@ -632,31 +632,31 @@
                           "ScaleY": 0.5
                         },
                         "Position": {
-                          "X": 123.3249,
-                          "Y": 44.2589
+                          "X": 131.2536,
+                          "Y": 45.7576
                         },
                         "Scale": {
-                          "ScaleX": 1.0,
-                          "ScaleY": 1.0
+                          "ScaleX": 0.8,
+                          "ScaleY": 0.8
                         },
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.4111,
-                          "Y": 0.1428
+                          "X": 0.4375,
+                          "Y": 0.1476
                         },
                         "PreSize": {
-                          "X": 0.3,
+                          "X": 0.5,
                           "Y": 0.129
                         },
-                        "LeftMargin": 78.3249,
-                        "RightMargin": 131.6751,
-                        "TopMargin": 245.7411,
-                        "BottomMargin": 24.2589,
+                        "LeftMargin": 56.2536,
+                        "RightMargin": 93.7464,
+                        "TopMargin": 244.2424,
+                        "BottomMargin": 25.7576,
                         "Tag": 46,
                         "ActionTag": 528518408,
                         "Size": {
-                          "X": 90.0,
+                          "X": 150.0,
                           "Y": 40.0
                         },
                         "Name": "baseScore",
@@ -677,8 +677,8 @@
                           "ScaleY": 0.5
                         },
                         "Position": {
-                          "X": 200.6321,
-                          "Y": 45.424
+                          "X": 214.9183,
+                          "Y": 45.4242
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -687,17 +687,17 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.6688,
+                          "X": 0.7164,
                           "Y": 0.1465
                         },
                         "PreSize": {
                           "X": 0.11,
                           "Y": 0.0839
                         },
-                        "LeftMargin": 184.1321,
-                        "RightMargin": 82.8679,
-                        "TopMargin": 251.576,
-                        "BottomMargin": 32.424,
+                        "LeftMargin": 198.4183,
+                        "RightMargin": 68.5817,
+                        "TopMargin": 251.5758,
+                        "BottomMargin": 32.4242,
                         "Tag": 47,
                         "ActionTag": -323390744,
                         "Size": {
@@ -933,7 +933,7 @@
                           {
                             "CharWidth": 10,
                             "CharHeight": 15,
-                            "LabelText": "123",
+                            "LabelText": "123555",
                             "StartChar": ".",
                             "LabelAtlasFileImage_CNB": {
                               "Type": "Normal",
@@ -941,11 +941,12 @@
                               "Plist": ""
                             },
                             "AnchorPoint": {
-                              "ScaleX": 1.0
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
                             },
                             "Position": {
-                              "X": 81.9859,
-                              "Y": 7.2047
+                              "X": 51.9859,
+                              "Y": 14.7047
                             },
                             "Scale": {
                               "ScaleX": 1.0,
@@ -954,21 +955,21 @@
                             "CColor": {},
                             "IconVisible": false,
                             "PrePosition": {
-                              "X": 0.5061,
-                              "Y": 0.2251
+                              "X": 0.3209,
+                              "Y": 0.4595
                             },
                             "PreSize": {
-                              "X": 0.1852,
+                              "X": 0.3704,
                               "Y": 0.4688
                             },
-                            "LeftMargin": 51.9859,
+                            "LeftMargin": 21.9859,
                             "RightMargin": 80.0141,
                             "TopMargin": 9.7953,
                             "BottomMargin": 7.2047,
                             "Tag": 28,
                             "ActionTag": 1431664818,
                             "Size": {
-                              "X": 30.0,
+                              "X": 60.0,
                               "Y": 15.0
                             },
                             "Name": "persons",
@@ -1043,8 +1044,8 @@
                           "ScaleY": 0.5
                         },
                         "Position": {
-                          "X": 201.8253,
-                          "Y": 46.589
+                          "X": 216.7939,
+                          "Y": 46.5899
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -1053,17 +1054,17 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.6728,
+                          "X": 0.7226,
                           "Y": 0.1503
                         },
                         "PreSize": {
                           "X": 0.11,
                           "Y": 0.0839
                         },
-                        "LeftMargin": 185.3253,
-                        "RightMargin": 81.6747,
-                        "TopMargin": 250.411,
-                        "BottomMargin": 33.589,
+                        "LeftMargin": 200.2939,
+                        "RightMargin": 66.7061,
+                        "TopMargin": 250.4101,
+                        "BottomMargin": 33.5899,
                         "Tag": 48,
                         "ActionTag": 324848018,
                         "Size": {
@@ -1085,7 +1086,7 @@
                   {
                     "CharWidth": 30,
                     "CharHeight": 40,
-                    "LabelText": "500",
+                    "LabelText": "50000",
                     "StartChar": ".",
                     "LabelAtlasFileImage_CNB": {
                       "Type": "Normal",
@@ -1097,34 +1098,34 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 94.889,
-                      "Y": 24.5477
+                      "X": 98.6138,
+                      "Y": 25.8535
                     },
                     "Scale": {
-                      "ScaleX": 1.0,
-                      "ScaleY": 1.0
+                      "ScaleX": 0.8,
+                      "ScaleY": 0.8
                     },
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.3987,
-                      "Y": 0.0959
+                      "X": 0.4143,
+                      "Y": 0.101
                     },
                     "PreSize": {
-                      "X": 0.3782,
-                      "Y": 0.1563
+                      "X": 0.6303,
+                      "Y": 0.1562
                     },
-                    "LeftMargin": 49.889,
-                    "RightMargin": 98.111,
-                    "TopMargin": 211.4523,
-                    "BottomMargin": 4.5477,
+                    "LeftMargin": 23.6138,
+                    "RightMargin": 64.3862,
+                    "TopMargin": 210.1465,
+                    "BottomMargin": 5.8535,
                     "Tag": 53,
                     "ActionTag": -1776563469,
                     "Size": {
-                      "X": 90.0,
+                      "X": 150.0,
                       "Y": 40.0
                     },
-                    "Name": "baseScore_0",
+                    "Name": "baseScore",
                     "ctype": "TextAtlasObjectData"
                   }
                 ],
@@ -1344,7 +1345,7 @@
                           {
                             "CharWidth": 10,
                             "CharHeight": 15,
-                            "LabelText": "123",
+                            "LabelText": "123000",
                             "StartChar": ".",
                             "LabelAtlasFileImage_CNB": {
                               "Type": "Normal",
@@ -1352,11 +1353,12 @@
                               "Plist": ""
                             },
                             "AnchorPoint": {
-                              "ScaleX": 1.0
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
                             },
                             "Position": {
-                              "X": 80.7896,
-                              "Y": 7.5219
+                              "X": 50.9523,
+                              "Y": 14.0945
                             },
                             "Scale": {
                               "ScaleX": 1.0,
@@ -1365,24 +1367,24 @@
                             "CColor": {},
                             "IconVisible": false,
                             "PrePosition": {
-                              "X": 0.4987,
-                              "Y": 0.2351
+                              "X": 0.3145,
+                              "Y": 0.4405
                             },
                             "PreSize": {
-                              "X": 0.1852,
+                              "X": 0.3704,
                               "Y": 0.4688
                             },
-                            "LeftMargin": 50.7896,
-                            "RightMargin": 81.2104,
-                            "TopMargin": 9.4781,
-                            "BottomMargin": 7.5219,
+                            "LeftMargin": 20.9523,
+                            "RightMargin": 81.0477,
+                            "TopMargin": 10.4055,
+                            "BottomMargin": 6.5945,
                             "Tag": 31,
                             "ActionTag": 825080358,
                             "Size": {
-                              "X": 30.0,
+                              "X": 60.0,
                               "Y": 15.0
                             },
-                            "Name": "AtlasLabel_1",
+                            "Name": "persons",
                             "ctype": "TextAtlasObjectData"
                           }
                         ],
@@ -1454,8 +1456,8 @@
                           "ScaleY": 0.5
                         },
                         "Position": {
-                          "X": 212.6187,
-                          "Y": 44.9311
+                          "X": 219.0959,
+                          "Y": 44.1214
                         },
                         "Scale": {
                           "ScaleX": 1.0,
@@ -1464,17 +1466,17 @@
                         "CColor": {},
                         "IconVisible": false,
                         "PrePosition": {
-                          "X": 0.7087,
-                          "Y": 0.1449
+                          "X": 0.7303,
+                          "Y": 0.1423
                         },
                         "PreSize": {
                           "X": 0.11,
                           "Y": 0.0839
                         },
-                        "LeftMargin": 196.1187,
-                        "RightMargin": 70.8813,
-                        "TopMargin": 252.0689,
-                        "BottomMargin": 31.9311,
+                        "LeftMargin": 202.5959,
+                        "RightMargin": 64.4041,
+                        "TopMargin": 252.8786,
+                        "BottomMargin": 31.1214,
                         "Tag": 49,
                         "ActionTag": 1026472611,
                         "Size": {
@@ -1496,7 +1498,7 @@
                   {
                     "CharWidth": 30,
                     "CharHeight": 40,
-                    "LabelText": "1000",
+                    "LabelText": "10000",
                     "StartChar": ".",
                     "LabelAtlasFileImage_CNB": {
                       "Type": "Normal",
@@ -1508,34 +1510,34 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 94.8577,
-                      "Y": 24.5859
+                      "X": 95.4776,
+                      "Y": 24.586
                     },
                     "Scale": {
-                      "ScaleX": 1.0,
-                      "ScaleY": 1.0
+                      "ScaleX": 0.8,
+                      "ScaleY": 0.8
                     },
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.3986,
+                      "X": 0.4012,
                       "Y": 0.0928
                     },
                     "PreSize": {
-                      "X": 0.5042,
+                      "X": 0.6303,
                       "Y": 0.1509
                     },
-                    "LeftMargin": 34.8577,
-                    "RightMargin": 83.1423,
-                    "TopMargin": 220.4141,
-                    "BottomMargin": 4.5859,
+                    "LeftMargin": 20.4776,
+                    "RightMargin": 67.5224,
+                    "TopMargin": 220.414,
+                    "BottomMargin": 4.586,
                     "Tag": 54,
                     "ActionTag": -1691906726,
                     "Size": {
-                      "X": 120.0,
+                      "X": 150.0,
                       "Y": 40.0
                     },
-                    "Name": "baseScore_0_0",
+                    "Name": "baseScore",
                     "ctype": "TextAtlasObjectData"
                   }
                 ],
@@ -1755,7 +1757,7 @@
                           {
                             "CharWidth": 10,
                             "CharHeight": 15,
-                            "LabelText": "123",
+                            "LabelText": "000000",
                             "StartChar": ".",
                             "LabelAtlasFileImage_CNB": {
                               "Type": "Normal",
@@ -1763,11 +1765,12 @@
                               "Plist": ""
                             },
                             "AnchorPoint": {
-                              "ScaleX": 1.0
+                              "ScaleX": 0.5,
+                              "ScaleY": 0.5
                             },
                             "Position": {
-                              "X": 81.3676,
-                              "Y": 7.8901
+                              "X": 51.3676,
+                              "Y": 14.4627
                             },
                             "Scale": {
                               "ScaleX": 1.0,
@@ -1776,24 +1779,24 @@
                             "CColor": {},
                             "IconVisible": false,
                             "PrePosition": {
-                              "X": 0.5023,
-                              "Y": 0.2466
+                              "X": 0.3171,
+                              "Y": 0.452
                             },
                             "PreSize": {
-                              "X": 0.1852,
+                              "X": 0.3704,
                               "Y": 0.4688
                             },
-                            "LeftMargin": 51.3676,
+                            "LeftMargin": 21.3676,
                             "RightMargin": 80.6324,
-                            "TopMargin": 9.1099,
-                            "BottomMargin": 7.8901,
+                            "TopMargin": 10.0373,
+                            "BottomMargin": 6.9627,
                             "Tag": 38,
                             "ActionTag": 1639454905,
                             "Size": {
-                              "X": 30.0,
+                              "X": 60.0,
                               "Y": 15.0
                             },
-                            "Name": "AtlasLabel_1",
+                            "Name": "persons",
                             "ctype": "TextAtlasObjectData"
                           }
                         ],
@@ -1907,7 +1910,7 @@
                   {
                     "CharWidth": 30,
                     "CharHeight": 40,
-                    "LabelText": "2000",
+                    "LabelText": "50000",
                     "StartChar": ".",
                     "LabelAtlasFileImage_CNB": {
                       "Type": "Normal",
@@ -1919,34 +1922,34 @@
                       "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 104.0786,
-                      "Y": 15.5394
+                      "X": 102.6971,
+                      "Y": 14.5394
                     },
                     "Scale": {
-                      "ScaleX": 1.0,
-                      "ScaleY": 1.0
+                      "ScaleX": 0.8,
+                      "ScaleY": 0.8
                     },
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.4392,
-                      "Y": 0.0589
+                      "X": 0.4333,
+                      "Y": 0.0551
                     },
                     "PreSize": {
-                      "X": 0.5063,
+                      "X": 0.6329,
                       "Y": 0.1515
                     },
-                    "LeftMargin": 44.0786,
-                    "RightMargin": 72.9214,
-                    "TopMargin": 228.4606,
-                    "BottomMargin": -4.4606,
+                    "LeftMargin": 27.6971,
+                    "RightMargin": 59.3029,
+                    "TopMargin": 229.4606,
+                    "BottomMargin": -5.4606,
                     "Tag": 55,
                     "ActionTag": 1470814539,
                     "Size": {
-                      "X": 120.0,
+                      "X": 150.0,
                       "Y": 40.0
                     },
-                    "Name": "baseScore_0_0_0",
+                    "Name": "baseScore",
                     "ctype": "TextAtlasObjectData"
                   }
                 ],

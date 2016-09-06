@@ -179,12 +179,12 @@
                       "Plist": ""
                     },
                     "AnchorPoint": {
-                      "ScaleX": 0.8672,
-                      "ScaleY": 0.4378
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
                     },
                     "Position": {
-                      "X": 9.2549,
-                      "Y": -1.5139
+                      "X": -0.8384,
+                      "Y": -0.1072
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -200,10 +200,10 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": -15.0267,
-                    "RightMargin": -12.9733,
-                    "TopMargin": -9.7301,
-                    "BottomMargin": -10.2699,
+                    "LeftMargin": -14.8384,
+                    "RightMargin": -13.1616,
+                    "TopMargin": -9.8928,
+                    "BottomMargin": -10.1072,
                     "Tag": 64,
                     "ActionTag": -285442531,
                     "Size": {
@@ -399,12 +399,12 @@
                     "ShadowOffsetX": 2.0,
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {
-                      "ScaleX": 0.522,
-                      "ScaleY": 0.4702
+                      "ScaleX": 0.4086,
+                      "ScaleY": 0.5405
                     },
                     "Position": {
-                      "X": 68.8734,
-                      "Y": 27.4767
+                      "X": 66.6055,
+                      "Y": 28.8819
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -413,8 +413,8 @@
                     "CColor": {},
                     "IconVisible": false,
                     "PrePosition": {
-                      "X": 0.3203,
-                      "Y": 0.4996
+                      "X": 0.3098,
+                      "Y": 0.5251
                     },
                     "PreSize": {
                       "X": 0.093,
