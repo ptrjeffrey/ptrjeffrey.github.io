@@ -420,10 +420,10 @@
                       "X": 0.093,
                       "Y": 0.3636
                     },
-                    "LeftMargin": 58.4334,
-                    "RightMargin": 136.5666,
-                    "TopMargin": 16.9273,
-                    "BottomMargin": 18.0727,
+                    "LeftMargin": 58.4335,
+                    "RightMargin": 136.5665,
+                    "TopMargin": 16.9281,
+                    "BottomMargin": 18.0719,
                     "Tag": 78,
                     "ActionTag": -1512870812,
                     "Size": {
@@ -1484,6 +1484,88 @@
                 },
                 "Name": "playerAvatar1",
                 "ctype": "SpriteObjectData"
+              },
+              {
+                "AnchorPoint": {},
+                "Position": {
+                  "X": 688.2628,
+                  "Y": 98.6993
+                },
+                "Scale": {
+                  "ScaleX": 1.0,
+                  "ScaleY": 1.0
+                },
+                "CColor": {},
+                "IconVisible": true,
+                "PrePosition": {
+                  "X": 0.8603,
+                  "Y": 0.0771
+                },
+                "PreSize": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "LeftMargin": 688.2628,
+                "RightMargin": 111.7372,
+                "TopMargin": 1181.3008,
+                "BottomMargin": 98.6993,
+                "Tag": 109,
+                "Children": [
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "kehupai.png",
+                      "Plist": "classic/room2.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": -127.6525,
+                      "Y": -2.6334
+                    },
+                    "Scale": {
+                      "ScaleX": 0.6,
+                      "ScaleY": 0.6
+                    },
+                    "RotationSkewX": 270.0,
+                    "RotationSkewY": 270.0,
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": -228.1525,
+                    "RightMargin": 27.1525,
+                    "TopMargin": -36.3666,
+                    "BottomMargin": -41.6334,
+                    "Tag": 110,
+                    "ActionTag": -867262214,
+                    "Size": {
+                      "X": 201.0,
+                      "Y": 78.0
+                    },
+                    "Name": "Sprite_2",
+                    "ctype": "SpriteObjectData"
+                  }
+                ],
+                "ActionTag": -215789701,
+                "Size": {
+                  "X": 0.0,
+                  "Y": 0.0
+                },
+                "Name": "canHuNode",
+                "ctype": "SingleNodeObjectData"
               }
             ],
             "ActionTag": -320145366,
@@ -4850,6 +4932,52 @@
                     },
                     "VisibleForFrame": false,
                     "Name": "imgClearEminy",
+                    "ctype": "SpriteObjectData"
+                  },
+                  {
+                    "FileData": {
+                      "Type": "PlistSubImage",
+                      "Path": "fengding.png",
+                      "Plist": "classic/room2.plist"
+                    },
+                    "BlendFunc": {
+                      "Src": 1,
+                      "Dst": 771
+                    },
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 193.4466,
+                      "Y": -98.7086
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {},
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "PreSize": {
+                      "X": 0.0,
+                      "Y": 0.0
+                    },
+                    "LeftMargin": 85.9466,
+                    "RightMargin": -300.9466,
+                    "TopMargin": 36.7086,
+                    "BottomMargin": -160.7086,
+                    "Tag": 111,
+                    "ActionTag": -1803492637,
+                    "Size": {
+                      "X": 215.0,
+                      "Y": 124.0
+                    },
+                    "VisibleForFrame": false,
+                    "Name": "imgMaxWin",
                     "ctype": "SpriteObjectData"
                   },
                   {
