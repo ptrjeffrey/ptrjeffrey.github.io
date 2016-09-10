@@ -17,6 +17,19 @@
                 <key>sourceSize</key>
                 <string>{215,124}</string>
             </dict>
+            <key>canting.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{934,427},{55,96}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{55,96}}</string>
+                <key>sourceSize</key>
+                <string>{55,96}</string>
+            </dict>
             <key>dlj19_n.png</key>
             <dict>
                 <key>frame</key>
@@ -124,11 +137,11 @@
             <key>setting1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{934,427},{46,48}}</string>
+                <string>{{724,525},{46,48}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <true/>
+                <false/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{46,48}}</string>
                 <key>sourceSize</key>
@@ -150,11 +163,11 @@
             <key>setting4.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{976,511},{40,37}}</string>
+                <string>{{53,944},{40,37}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{40,37}}</string>
                 <key>sourceSize</key>
@@ -163,11 +176,11 @@
             <key>setting5.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{934,475},{40,37}}</string>
+                <string>{{53,902},{40,37}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{40,37}}</string>
                 <key>sourceSize</key>
@@ -176,7 +189,7 @@
             <key>setting6.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{984,469},{40,37}}</string>
+                <string>{{763,476},{40,37}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -189,7 +202,7 @@
             <key>setting7.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{984,427},{40,37}}</string>
+                <string>{{724,476},{40,37}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -235,7 +248,7 @@
             <key>size</key>
             <string>{1024,1024}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:2ed5938f81e20ea08d7c4fa51a4615e3$</string>
+            <string>$TexturePacker:SmartUpdate:15ea8f8b5edc022cf74828292d4ed064$</string>
             <key>textureFileName</key>
             <string>room2.png</string>
         </dict>
