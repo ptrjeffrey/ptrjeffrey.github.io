@@ -257,6 +257,8 @@
             </sources>
             <sources dir="${basedir}">
                 <file name="node_modules/pomelo-cocos2d-js/dist/pomelo-cocos2d-js.js"/>
+                <file name="node_modules/howler/howler.js"/>
+                <file name="src/utils.js"/>
                 <file name="src/myloaderscene.js"/>
                 <file name="src/login.js"/>
                 <file name="src/uiconst.js"/>
