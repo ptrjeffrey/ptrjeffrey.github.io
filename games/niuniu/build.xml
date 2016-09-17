@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<project name="Javascript compress project" basedir="E:\games\MyJSGame" default="compile">
+<project name="Javascript compress project" basedir="E:\games\niuniu\client" default="compile">
 
     <taskdef name="jscomp" classname="com.google.javascript.jscomp.ant.CompileTask"
              classpath="C:\Cocos\Cocos2d-x\cocos2d-x-3.10\tools\cocos2d-console\plugins\plugin_compile\build_web/bin/compiler-1.7.jar"/>
@@ -8,11 +8,11 @@
         <jscomp compilationLevel="simple" 
                 warning="quiet"
                 debug="false" 
-                output="E:\games\MyJSGame\publish\html5/game.min.js"
+                output="E:\games\niuniu\client\publish\html5/game.min.js"
                 languagein="ECMASCRIPT5"
                 
                 >
-            <sources dir="E:\games\MyJSGame\frameworks\cocos2d-html5">
+            <sources dir="E:\games\niuniu\client\frameworks\cocos2d-html5">
                 <file name="CCBoot.js"/>
                 <file name="cocos2d/core/event-manager/CCEventHelper.js"/>
                 <file name="CCDebugger.js"/>
@@ -290,36 +290,6 @@
                 <file name="extensions/spine/CCSkeletonCanvasRenderCmd.js"/>
                 <file name="extensions/spine/CCSkeletonWebGLRenderCmd.js"/>
                 <file name="extensions/ccpool/CCPool.js"/>
-                <file name="cocos2d/physics/CCPhysicsSprite.js"/>
-                <file name="cocos2d/physics/CCPhysicsDebugNode.js"/>
-                <file name="cocos2d/physics/CCPhysicsDebugNodeCanvasRenderCmd.js"/>
-                <file name="cocos2d/physics/CCPhysicsDebugNodeWebGLRenderCmd.js"/>
-                <file name="cocos2d/physics/CCPhysicsSpriteCanvasRenderCmd.js"/>
-                <file name="cocos2d/physics/CCPhysicsSpriteWebGLRenderCmd.js"/>
-                <file name="external/box2d/box2d.js"/>
-                <file name="external/chipmunk/chipmunk.js"/>
-                <file name="external/socketio/socket.io.min.js"/>
-                <file name="external/pluginx/Plugin.js"/>
-                <file name="external/gaf/GAFMacros.js"/>
-                <file name="external/gaf/GAFBoot.js"/>
-                <file name="external/gaf/Library/GAFAssetPreload.js"/>
-                <file name="external/gaf/Library/GAFAsset.js"/>
-                <file name="external/gaf/Library/GAFObject.js"/>
-                <file name="external/gaf/Library/GAFTimeLine.js"/>
-                <file name="external/gaf/Library/GAFTextField.js"/>
-                <file name="external/gaf/Library/GAFSprite.js"/>
-                <file name="external/gaf/Library/GAFMask.js"/>
-                <file name="external/gaf/Library/GAFSpriteCanvasRenderCmd.js"/>
-                <file name="external/gaf/Library/GAFSpriteWebGLRenderCmd.js"/>
-                <file name="external/gaf/Library/GAFTimeLineProto.js"/>
-                <file name="external/gaf/Library/GAFSpriteProto.js"/>
-                <file name="external/gaf/Library/GAFMaskProto.js"/>
-                <file name="external/gaf/Library/GAFTags.js"/>
-                <file name="external/gaf/Library/GAFLoader.js"/>
-                <file name="external/gaf/Library/GAFDataReader.js"/>
-                <file name="external/gaf/Library/GAFShaders.js"/>
-                <file name="external/gaf/Library/GAFShaderManager.js"/>
-                <file name="external/gaf/Library/GAFAtlasLoader.js"/>
 
             </sources>
             <sources dir="${basedir}">
