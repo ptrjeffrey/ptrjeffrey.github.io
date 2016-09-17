@@ -14,6 +14,7 @@
                 >
             <sources dir="E:\games\niuniu\client\frameworks\cocos2d-html5">
                 <file name="CCBoot.js"/>
+                <file name="cocos2d/core/event-manager/CCEventHelper.js"/>
                 <file name="CCDebugger.js"/>
                 <file name="cocos2d/core/utils/BinaryLoader.js"/>
                 <file name="Base64Images.js"/>
@@ -66,8 +67,6 @@
                 <file name="cocos2d/core/sprites/CCSpriteCanvasRenderCmd.js"/>
                 <file name="cocos2d/core/sprites/CCSpriteWebGLRenderCmd.js"/>
                 <file name="cocos2d/core/sprites/CCSpriteBatchNode.js"/>
-                <file name="cocos2d/core/sprites/CCSpriteBatchNodeCanvasRenderCmd.js"/>
-                <file name="cocos2d/core/sprites/CCSpriteBatchNodeWebGLRenderCmd.js"/>
                 <file name="cocos2d/core/sprites/CCBakeSprite.js"/>
                 <file name="cocos2d/core/sprites/CCAnimation.js"/>
                 <file name="cocos2d/core/sprites/CCAnimationCache.js"/>
@@ -77,7 +76,6 @@
                 <file name="cocos2d/core/CCDirector.js"/>
                 <file name="cocos2d/core/CCDirectorCanvas.js"/>
                 <file name="cocos2d/core/CCDirectorWebGL.js"/>
-                <file name="cocos2d/core/CCCamera.js"/>
                 <file name="cocos2d/core/CCScheduler.js"/>
                 <file name="cocos2d/core/CCDrawingPrimitivesCanvas.js"/>
                 <file name="cocos2d/core/CCDrawingPrimitivesWebGL.js"/>
@@ -86,6 +84,7 @@
                 <file name="cocos2d/core/labelttf/CCLabelTTFCanvasRenderCmd.js"/>
                 <file name="cocos2d/core/labelttf/CCLabelTTFWebGLRenderCmd.js"/>
                 <file name="cocos2d/core/CCActionManager.js"/>
+                <file name="cocos2d/core/utils/CCProfiler.js"/>
                 <file name="cocos2d/kazmath/utility.js"/>
                 <file name="cocos2d/kazmath/vec2.js"/>
                 <file name="cocos2d/kazmath/vec3.js"/>
@@ -126,7 +125,6 @@
                 <file name="cocos2d/actions/CCAction.js"/>
                 <file name="cocos2d/actions/CCActionInterval.js"/>
                 <file name="cocos2d/actions/CCActionInstant.js"/>
-                <file name="cocos2d/actions/CCActionCamera.js"/>
                 <file name="cocos2d/actions/CCActionEase.js"/>
                 <file name="cocos2d/actions/CCActionCatmullRom.js"/>
                 <file name="cocos2d/actions/CCActionTween.js"/>
@@ -172,9 +170,6 @@
                 <file name="extensions/gui/control-extension/CCControlButton.js"/>
                 <file name="extensions/gui/control-extension/CCControlUtils.js"/>
                 <file name="extensions/gui/control-extension/CCInvocation.js"/>
-                <file name="extensions/gui/control-extension/CCScale9Sprite.js"/>
-                <file name="extensions/gui/control-extension/CCScale9SpriteCanvasRenderCmd.js"/>
-                <file name="extensions/gui/control-extension/CCScale9SpriteWebGLRenderCmd.js"/>
                 <file name="extensions/gui/control-extension/CCMenuPassive.js"/>
                 <file name="extensions/gui/control-extension/CCControlSaturationBrightnessPicker.js"/>
                 <file name="extensions/gui/control-extension/CCControlHuePicker.js"/>
@@ -231,9 +226,13 @@
                 <file name="extensions/ccui/uiwidgets/UIVideoPlayer.js"/>
                 <file name="extensions/ccui/uiwidgets/UIRichText.js"/>
                 <file name="extensions/ccui/uiwidgets/UIWebView.js"/>
+                <file name="extensions/ccui/uiwidgets/scroll-widget/UIScrollViewBar.js"/>
                 <file name="extensions/ccui/uiwidgets/scroll-widget/UIScrollView.js"/>
                 <file name="extensions/ccui/uiwidgets/scroll-widget/UIListView.js"/>
                 <file name="extensions/ccui/uiwidgets/scroll-widget/UIPageView.js"/>
+                <file name="extensions/ccui/uiwidgets/scroll-widget/UIPageViewIndicator.js"/>
+                <file name="extensions/ccui/uiwidgets/scroll-widget/UIScrollViewCanvasRenderCmd.js"/>
+                <file name="extensions/ccui/uiwidgets/scroll-widget/UIScrollViewWebGLRenderCmd.js"/>
                 <file name="extensions/cocostudio/components/CCComponent.js"/>
                 <file name="extensions/cocostudio/components/CCComponentContainer.js"/>
                 <file name="extensions/ccui/layouts/UILayoutComponent.js"/>
@@ -250,8 +249,7 @@
                 <file name="extensions/cocostudio/armature/display/CCDisplayFactory.js"/>
                 <file name="extensions/cocostudio/armature/display/CCDisplayManager.js"/>
                 <file name="extensions/cocostudio/armature/display/CCSkin.js"/>
-                <file name="extensions/cocostudio/armature/display/CCSkinCanvasRenderCmd.js"/>
-                <file name="extensions/cocostudio/armature/display/CCSkinWebGLRenderCmd.js"/>
+                <file name="extensions/cocostudio/armature/display/CCSkinRenderCmd.js"/>
                 <file name="extensions/cocostudio/armature/animation/CCProcessBase.js"/>
                 <file name="extensions/cocostudio/armature/animation/CCArmatureAnimation.js"/>
                 <file name="extensions/cocostudio/armature/animation/CCTween.js"/>
@@ -326,6 +324,8 @@
             </sources>
             <sources dir="${basedir}">
                 <file name="node_modules/pomelo-cocos2d-js/dist/pomelo-cocos2d-js.js"/>
+                <file name="node_modules/howler/howler.js"/>
+                <file name="src/utils.js"/>
                 <file name="src/myloaderscene.js"/>
                 <file name="src/player_Manager.js"/>
                 <file name="src/msgbox_Layer.js"/>
