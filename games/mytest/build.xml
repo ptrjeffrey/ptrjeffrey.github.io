@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
-<project name="Javascript compress project" basedir="C:\Users\zhangx1\Documents\Cocos\CocosProjects\jsTest\NewCocosProject" default="compile">
+<project name="Javascript compress project" basedir="E:\games\nn\client" default="compile">
 
     <taskdef name="jscomp" classname="com.google.javascript.jscomp.ant.CompileTask"
-             classpath="C:\Cocos\Cocos2d-x\cocos2d-x-3.10\tools\cocos2d-console\plugins\plugin_compile\build_web/bin/compiler-1.7.jar"/>
+             classpath="C:\Cocos\Cocos2d-x\cocos2d-x-3.13.1\tools\cocos2d-console\plugins\plugin_compile\build_web/bin/compiler-1.7.jar"/>
 
     <target name="compile">
         <jscomp compilationLevel="simple" 
                 warning="quiet"
                 debug="false" 
-                output="C:\Users\zhangx1\Documents\Cocos\CocosProjects\jsTest\NewCocosProject\publish\html5/game.min.js"
+                output="E:\games\nn\client\publish\html5/game.min.js"
                 languagein="ECMASCRIPT5"
                 
                 >
-            <sources dir="C:\Users\zhangx1\Documents\Cocos\CocosProjects\jsTest\NewCocosProject\frameworks\cocos2d-html5">
+            <sources dir="E:\games\nn\client\frameworks\cocos2d-html5">
                 <file name="CCBoot.js"/>
                 <file name="cocos2d/core/event-manager/CCEventHelper.js"/>
                 <file name="CCDebugger.js"/>
@@ -170,6 +170,36 @@
                 <file name="cocos2d/parallax/CCParallaxNode.js"/>
                 <file name="cocos2d/parallax/CCParallaxNodeRenderCmd.js"/>
                 <file name="cocos2d/audio/CCAudio.js"/>
+                <file name="extensions/gui/control-extension/CCControl.js"/>
+                <file name="extensions/gui/control-extension/CCControlButton.js"/>
+                <file name="extensions/gui/control-extension/CCControlUtils.js"/>
+                <file name="extensions/gui/control-extension/CCInvocation.js"/>
+                <file name="extensions/gui/control-extension/CCMenuPassive.js"/>
+                <file name="extensions/gui/control-extension/CCControlSaturationBrightnessPicker.js"/>
+                <file name="extensions/gui/control-extension/CCControlHuePicker.js"/>
+                <file name="extensions/gui/control-extension/CCControlColourPicker.js"/>
+                <file name="extensions/gui/control-extension/CCControlSlider.js"/>
+                <file name="extensions/gui/control-extension/CCControlSwitch.js"/>
+                <file name="extensions/gui/control-extension/CCControlStepper.js"/>
+                <file name="extensions/gui/control-extension/CCControlPotentiometer.js"/>
+                <file name="extensions/gui/scrollview/CCScrollView.js"/>
+                <file name="extensions/gui/scrollview/CCScrollViewCanvasRenderCmd.js"/>
+                <file name="extensions/gui/scrollview/CCScrollViewWebGLRenderCmd.js"/>
+                <file name="extensions/gui/scrollview/CCSorting.js"/>
+                <file name="extensions/gui/scrollview/CCTableView.js"/>
+                <file name="extensions/ccb-reader/CCNodeLoader.js"/>
+                <file name="extensions/ccb-reader/CCBReaderUtil.js"/>
+                <file name="extensions/ccb-reader/CCControlLoader.js"/>
+                <file name="extensions/ccb-reader/CCSpriteLoader.js"/>
+                <file name="extensions/ccb-reader/CCNodeLoaderLibrary.js"/>
+                <file name="extensions/ccb-reader/CCBReader.js"/>
+                <file name="extensions/ccb-reader/CCBValue.js"/>
+                <file name="extensions/ccb-reader/CCBKeyframe.js"/>
+                <file name="extensions/ccb-reader/CCBSequence.js"/>
+                <file name="extensions/ccb-reader/CCBRelativePositioning.js"/>
+                <file name="extensions/ccb-reader/CCBAnimationManager.js"/>
+                <file name="extensions/editbox/CCdomNode.js"/>
+                <file name="extensions/editbox/CCEditBox.js"/>
                 <file name="extensions/ccui/base-classes/CCProtectedNode.js"/>
                 <file name="extensions/ccui/base-classes/CCProtectedNodeCanvasRenderCmd.js"/>
                 <file name="extensions/ccui/base-classes/CCProtectedNodeWebGLRenderCmd.js"/>
@@ -257,11 +287,63 @@
                 <file name="extensions/cocostudio/loader/parsers/timelineParser-1.x.js"/>
                 <file name="extensions/cocostudio/loader/parsers/timelineParser-2.x.js"/>
                 <file name="extensions/cocostudio/loader/parsers/compatible.js"/>
+                <file name="extensions/spine/Spine.js"/>
+                <file name="extensions/spine/CCSkeleton.js"/>
+                <file name="extensions/spine/CCSkeletonAnimation.js"/>
+                <file name="extensions/spine/CCSkeletonCanvasRenderCmd.js"/>
+                <file name="extensions/spine/CCSkeletonWebGLRenderCmd.js"/>
+                <file name="extensions/ccpool/CCPool.js"/>
+                <file name="cocos2d/physics/CCPhysicsSprite.js"/>
+                <file name="cocos2d/physics/CCPhysicsDebugNode.js"/>
+                <file name="cocos2d/physics/CCPhysicsDebugNodeCanvasRenderCmd.js"/>
+                <file name="cocos2d/physics/CCPhysicsDebugNodeWebGLRenderCmd.js"/>
+                <file name="cocos2d/physics/CCPhysicsSpriteCanvasRenderCmd.js"/>
+                <file name="cocos2d/physics/CCPhysicsSpriteWebGLRenderCmd.js"/>
+                <file name="external/box2d/box2d.js"/>
+                <file name="external/chipmunk/chipmunk.js"/>
+                <file name="external/socketio/socket.io.min.js"/>
+                <file name="external/pluginx/Plugin.js"/>
+                <file name="external/gaf/GAFMacros.js"/>
+                <file name="external/gaf/GAFBoot.js"/>
+                <file name="external/gaf/Library/GAFAssetPreload.js"/>
+                <file name="external/gaf/Library/GAFAsset.js"/>
+                <file name="external/gaf/Library/GAFObject.js"/>
+                <file name="external/gaf/Library/GAFTimeLine.js"/>
+                <file name="external/gaf/Library/GAFTextField.js"/>
+                <file name="external/gaf/Library/GAFSprite.js"/>
+                <file name="external/gaf/Library/GAFMask.js"/>
+                <file name="external/gaf/Library/GAFSpriteCanvasRenderCmd.js"/>
+                <file name="external/gaf/Library/GAFSpriteWebGLRenderCmd.js"/>
+                <file name="external/gaf/Library/GAFTimeLineProto.js"/>
+                <file name="external/gaf/Library/GAFSpriteProto.js"/>
+                <file name="external/gaf/Library/GAFMaskProto.js"/>
+                <file name="external/gaf/Library/GAFTags.js"/>
+                <file name="external/gaf/Library/GAFLoader.js"/>
+                <file name="external/gaf/Library/GAFDataReader.js"/>
+                <file name="external/gaf/Library/GAFShaders.js"/>
+                <file name="external/gaf/Library/GAFShaderManager.js"/>
+                <file name="external/gaf/Library/GAFAtlasLoader.js"/>
 
             </sources>
             <sources dir="${basedir}">
                 <file name="src/myloaderscene.js"/>
+                <file name="node_modules/pomelo-cocos2d-js/dist/pomelo-cocos2d-js.js"/>
+                <file name="node_modules/howler/howler.js"/>
+                <file name="src/utils.js"/>
+                <file name="src/player_Manager.js"/>
+                <file name="src/msgbox_Layer.js"/>
+                <file name="src/login.js"/>
+                <file name="src/poker_Const.js"/>
+                <file name="src/game_Data.js"/>
+                <file name="src/ui_Const.js"/>
+                <file name="src/uicard.js"/>
+                <file name="src/network.js"/>
                 <file name="src/resource.js"/>
+                <file name="src/classic_Game.js"/>
+                <file name="src/private_Game.js"/>
+                <file name="src/private_Select.js"/>
+                <file name="src/hundred_Game.js"/>
+                <file name="src/hall.js"/>
                 <file name="src/app.js"/>
                 <file name="main.js"/>
 
