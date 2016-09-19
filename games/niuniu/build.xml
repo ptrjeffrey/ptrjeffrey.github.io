@@ -1,20 +1,19 @@
 <?xml version="1.0"?>
-<project name="Javascript compress project" basedir="E:\games\nn\client" default="compile">
+<project name="Javascript compress project" basedir="E:\games\niuniu\client" default="compile">
 
     <taskdef name="jscomp" classname="com.google.javascript.jscomp.ant.CompileTask"
-             classpath="C:\Cocos\Cocos2d-x\cocos2d-x-3.13.1\tools\cocos2d-console\plugins\plugin_compile\build_web/bin/compiler-1.7.jar"/>
+             classpath="C:\Cocos\Cocos2d-x\cocos2d-x-3.10\tools\cocos2d-console\plugins\plugin_compile\build_web/bin/compiler-1.7.jar"/>
 
     <target name="compile">
         <jscomp compilationLevel="simple" 
                 warning="quiet"
                 debug="false" 
-                output="E:\games\nn\client\publish\html5/game.min.js"
+                output="E:\games\niuniu\client\publish\html5/game.min.js"
                 languagein="ECMASCRIPT5"
                 
                 >
-            <sources dir="E:\games\nn\client\frameworks\cocos2d-html5">
+            <sources dir="E:\games\niuniu\client\frameworks\cocos2d-html5">
                 <file name="CCBoot.js"/>
-                <file name="cocos2d/core/event-manager/CCEventHelper.js"/>
                 <file name="CCDebugger.js"/>
                 <file name="cocos2d/core/utils/BinaryLoader.js"/>
                 <file name="Base64Images.js"/>
@@ -87,7 +86,6 @@
                 <file name="cocos2d/core/labelttf/CCLabelTTFCanvasRenderCmd.js"/>
                 <file name="cocos2d/core/labelttf/CCLabelTTFWebGLRenderCmd.js"/>
                 <file name="cocos2d/core/CCActionManager.js"/>
-                <file name="cocos2d/core/utils/CCProfiler.js"/>
                 <file name="cocos2d/kazmath/utility.js"/>
                 <file name="cocos2d/kazmath/vec2.js"/>
                 <file name="cocos2d/kazmath/vec3.js"/>
@@ -174,6 +172,9 @@
                 <file name="extensions/gui/control-extension/CCControlButton.js"/>
                 <file name="extensions/gui/control-extension/CCControlUtils.js"/>
                 <file name="extensions/gui/control-extension/CCInvocation.js"/>
+                <file name="extensions/gui/control-extension/CCScale9Sprite.js"/>
+                <file name="extensions/gui/control-extension/CCScale9SpriteCanvasRenderCmd.js"/>
+                <file name="extensions/gui/control-extension/CCScale9SpriteWebGLRenderCmd.js"/>
                 <file name="extensions/gui/control-extension/CCMenuPassive.js"/>
                 <file name="extensions/gui/control-extension/CCControlSaturationBrightnessPicker.js"/>
                 <file name="extensions/gui/control-extension/CCControlHuePicker.js"/>
@@ -233,8 +234,6 @@
                 <file name="extensions/ccui/uiwidgets/scroll-widget/UIScrollView.js"/>
                 <file name="extensions/ccui/uiwidgets/scroll-widget/UIListView.js"/>
                 <file name="extensions/ccui/uiwidgets/scroll-widget/UIPageView.js"/>
-                <file name="extensions/ccui/uiwidgets/scroll-widget/UIScrollViewCanvasRenderCmd.js"/>
-                <file name="extensions/ccui/uiwidgets/scroll-widget/UIScrollViewWebGLRenderCmd.js"/>
                 <file name="extensions/cocostudio/components/CCComponent.js"/>
                 <file name="extensions/cocostudio/components/CCComponentContainer.js"/>
                 <file name="extensions/ccui/layouts/UILayoutComponent.js"/>
@@ -326,10 +325,8 @@
 
             </sources>
             <sources dir="${basedir}">
-                <file name="src/myloaderscene.js"/>
                 <file name="node_modules/pomelo-cocos2d-js/dist/pomelo-cocos2d-js.js"/>
-                <file name="node_modules/howler/howler.js"/>
-                <file name="src/utils.js"/>
+                <file name="src/myloaderscene.js"/>
                 <file name="src/player_Manager.js"/>
                 <file name="src/msgbox_Layer.js"/>
                 <file name="src/login.js"/>
