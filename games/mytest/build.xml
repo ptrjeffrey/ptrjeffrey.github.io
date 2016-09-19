@@ -329,7 +329,21 @@
                 <file name="node_modules/pomelo-cocos2d-js/dist/pomelo-cocos2d-js.js"/>
                 <file name="node_modules/howler/howler.js"/>
                 <file name="src/myloaderscene.js"/>
+                <file name="src/utils.js"/>
+                <file name="src/player_Manager.js"/>
+                <file name="src/msgbox_Layer.js"/>
+                <file name="src/login.js"/>
+                <file name="src/poker_Const.js"/>
+                <file name="src/game_Data.js"/>
+                <file name="src/ui_Const.js"/>
+                <file name="src/uicard.js"/>
+                <file name="src/network.js"/>
                 <file name="src/resource.js"/>
+                <file name="src/classic_Game.js"/>
+                <file name="src/private_Game.js"/>
+                <file name="src/private_Select.js"/>
+                <file name="src/hundred_Game.js"/>
+                <file name="src/hall.js"/>
                 <file name="src/app.js"/>
                 <file name="main.js"/>
 
