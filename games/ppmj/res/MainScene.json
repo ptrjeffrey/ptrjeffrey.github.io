@@ -575,7 +575,7 @@
                       {
                         "FileData": {
                           "Type": "PlistSubImage",
-                          "Path": "level0.png",
+                          "Path": "level1.png",
                           "Plist": "hall/hall.plist"
                         },
                         "BlendFunc": {
@@ -987,7 +987,7 @@
                       {
                         "FileData": {
                           "Type": "PlistSubImage",
-                          "Path": "level1.png",
+                          "Path": "level0.png",
                           "Plist": "hall/hall.plist"
                         },
                         "BlendFunc": {
@@ -1113,7 +1113,7 @@
                     },
                     "PreSize": {
                       "X": 0.6303,
-                      "Y": 0.1563
+                      "Y": 0.1562
                     },
                     "LeftMargin": 23.6138,
                     "RightMargin": 64.3862,

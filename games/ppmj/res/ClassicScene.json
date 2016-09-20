@@ -385,6 +385,60 @@
                     "ctype": "TextObjectData"
                   },
                   {
+                    "IsCustomSize": true,
+                    "FontSize": 24,
+                    "LabelText": "5000",
+                    "HorizontalAlignmentType": "HT_Center",
+                    "VerticalAlignmentType": "VT_Center",
+                    "OutlineColor": {
+                      "G": 0,
+                      "B": 0
+                    },
+                    "ShadowColor": {
+                      "R": 110,
+                      "G": 110,
+                      "B": 110
+                    },
+                    "ShadowOffsetX": 2.0,
+                    "ShadowOffsetY": -2.0,
+                    "AnchorPoint": {
+                      "ScaleX": 0.5,
+                      "ScaleY": 0.5
+                    },
+                    "Position": {
+                      "X": 143.3192,
+                      "Y": 29.1505
+                    },
+                    "Scale": {
+                      "ScaleX": 1.0,
+                      "ScaleY": 1.0
+                    },
+                    "CColor": {
+                      "B": 0
+                    },
+                    "IconVisible": false,
+                    "PrePosition": {
+                      "X": 0.6666,
+                      "Y": 0.53
+                    },
+                    "PreSize": {
+                      "X": 0.3023,
+                      "Y": 0.4
+                    },
+                    "LeftMargin": 110.8192,
+                    "RightMargin": 39.1808,
+                    "TopMargin": 14.8495,
+                    "BottomMargin": 18.1505,
+                    "Tag": 110,
+                    "ActionTag": -388397098,
+                    "Size": {
+                      "X": 65.0,
+                      "Y": 22.0
+                    },
+                    "Name": "labBaseScore",
+                    "ctype": "TextObjectData"
+                  },
+                  {
                     "FontSize": 20,
                     "LabelText": "20",
                     "OutlineColor": {
@@ -439,8 +493,8 @@
                     "LabelText": "2000",
                     "StartChar": ".",
                     "LabelAtlasFileImage_CNB": {
-                      "Type": "Normal",
-                      "Path": "classic/roomNum/fanshuzi.png",
+                      "Type": "Default",
+                      "Path": "Default/TextAtlas.png",
                       "Plist": ""
                     },
                     "AnchorPoint": {},
@@ -459,20 +513,20 @@
                       "Y": 0.3028
                     },
                     "PreSize": {
-                      "X": 0.3349,
+                      "X": 0.0,
                       "Y": 0.4545
                     },
                     "LeftMargin": 109.5158,
-                    "RightMargin": 33.4842,
+                    "RightMargin": 105.4842,
                     "TopMargin": 13.3446,
                     "BottomMargin": 16.6554,
                     "Tag": 80,
                     "ActionTag": 1328474761,
                     "Size": {
-                      "X": 72.0,
+                      "X": 0.0,
                       "Y": 25.0
                     },
-                    "Name": "labBaseScore",
+                    "Name": "labBaseScore1",
                     "ctype": "TextAtlasObjectData"
                   }
                 ],
@@ -2828,7 +2882,7 @@
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
@@ -2866,20 +2920,20 @@
                     },
                     "LeftMargin": -282.7552,
                     "RightMargin": 172.7552,
-                    "TopMargin": -113.1314,
+                    "TopMargin": -115.1314,
                     "BottomMargin": 91.1314,
                     "Tag": 120,
                     "ActionTag": -458864631,
                     "Size": {
                       "X": 110.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtType1",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "2",
                     "OutlineColor": {
                       "G": 0,
@@ -2894,7 +2948,7 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": -182.5132,
+                      "X": -174.7321,
                       "Y": 91.1741
                     },
                     "Scale": {
@@ -2915,22 +2969,22 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": -182.5132,
-                    "RightMargin": 132.5132,
-                    "TopMargin": -113.1741,
+                    "LeftMargin": -174.7321,
+                    "RightMargin": 124.7321,
+                    "TopMargin": -115.1741,
                     "BottomMargin": 91.1741,
                     "Tag": 119,
                     "ActionTag": 1631124766,
                     "Size": {
                       "X": 50.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtFan1",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "88",
                     "OutlineColor": {
                       "G": 0,
@@ -2945,8 +2999,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": -28.9691,
-                      "Y": 91.1312
+                      "X": -19.4589,
+                      "Y": 91.1315
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -2966,22 +3020,22 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": -28.9691,
-                    "RightMargin": -21.0309,
-                    "TopMargin": -113.1312,
-                    "BottomMargin": 91.1312,
+                    "LeftMargin": -19.4589,
+                    "RightMargin": -30.5411,
+                    "TopMargin": -115.1315,
+                    "BottomMargin": 91.1315,
                     "Tag": 121,
                     "ActionTag": 531982547,
                     "Size": {
                       "X": 50.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtFan2",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
@@ -3019,20 +3073,20 @@
                     },
                     "LeftMargin": -122.9352,
                     "RightMargin": 12.9352,
-                    "TopMargin": -113.1315,
+                    "TopMargin": -115.1315,
                     "BottomMargin": 91.1315,
                     "Tag": 122,
                     "ActionTag": -173872832,
                     "Size": {
                       "X": 110.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtType2",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "88",
                     "OutlineColor": {
                       "G": 0,
@@ -3047,8 +3101,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 125.8484,
-                      "Y": 92.0587
+                      "X": 133.6296,
+                      "Y": 92.0588
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -3068,22 +3122,22 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 125.8484,
-                    "RightMargin": -175.8484,
-                    "TopMargin": -114.0587,
-                    "BottomMargin": 92.0587,
+                    "LeftMargin": 133.6296,
+                    "RightMargin": -183.6296,
+                    "TopMargin": -116.0588,
+                    "BottomMargin": 92.0588,
                     "Tag": 123,
                     "ActionTag": 93218600,
                     "Size": {
                       "X": 50.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtFan3",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
@@ -3121,20 +3175,20 @@
                     },
                     "LeftMargin": 30.9556,
                     "RightMargin": -140.9556,
-                    "TopMargin": -113.1315,
+                    "TopMargin": -115.1315,
                     "BottomMargin": 91.1315,
                     "Tag": 124,
                     "ActionTag": 2081096084,
                     "Size": {
                       "X": 110.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtType3",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
@@ -3172,20 +3226,20 @@
                     },
                     "LeftMargin": 183.1126,
                     "RightMargin": -293.1126,
-                    "TopMargin": -113.1315,
+                    "TopMargin": -115.1315,
                     "BottomMargin": 91.1315,
                     "Tag": 126,
                     "ActionTag": -1685201305,
                     "Size": {
                       "X": 110.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtType4",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "88",
                     "OutlineColor": {
                       "G": 0,
@@ -3200,8 +3254,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 271.5129,
-                      "Y": 92.0587
+                      "X": 287.0726,
+                      "Y": 91.1946
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -3221,22 +3275,22 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 271.5129,
-                    "RightMargin": -321.5129,
-                    "TopMargin": -114.0587,
-                    "BottomMargin": 92.0587,
+                    "LeftMargin": 287.0726,
+                    "RightMargin": -337.0726,
+                    "TopMargin": -115.1946,
+                    "BottomMargin": 91.1946,
                     "Tag": 125,
                     "ActionTag": -2069052465,
                     "Size": {
                       "X": 50.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtFan4",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
@@ -3274,20 +3328,20 @@
                     },
                     "LeftMargin": -282.451,
                     "RightMargin": 172.451,
-                    "TopMargin": -86.6484,
+                    "TopMargin": -88.6484,
                     "BottomMargin": 64.6484,
                     "Tag": 136,
                     "ActionTag": -896710398,
                     "Size": {
                       "X": 110.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtType5",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "88",
                     "OutlineColor": {
                       "G": 0,
@@ -3302,8 +3356,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": -182.2085,
-                      "Y": 63.9296
+                      "X": -174.4274,
+                      "Y": 63.9297
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -3323,22 +3377,22 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": -182.2085,
-                    "RightMargin": 132.2085,
-                    "TopMargin": -85.9296,
-                    "BottomMargin": 63.9296,
+                    "LeftMargin": -174.4274,
+                    "RightMargin": 124.4274,
+                    "TopMargin": -87.9297,
+                    "BottomMargin": 63.9297,
                     "Tag": 135,
                     "ActionTag": 241620425,
                     "Size": {
                       "X": 50.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtFan5",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "88",
                     "OutlineColor": {
                       "G": 0,
@@ -3353,8 +3407,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": -28.6644,
-                      "Y": 64.6486
+                      "X": -19.1538,
+                      "Y": 64.649
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -3374,22 +3428,22 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": -28.6644,
-                    "RightMargin": -21.3356,
-                    "TopMargin": -86.6486,
-                    "BottomMargin": 64.6486,
+                    "LeftMargin": -19.1538,
+                    "RightMargin": -30.8462,
+                    "TopMargin": -88.649,
+                    "BottomMargin": 64.649,
                     "Tag": 137,
                     "ActionTag": -467334930,
                     "Size": {
                       "X": 50.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtFan6",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
@@ -3427,20 +3481,20 @@
                     },
                     "LeftMargin": -122.6307,
                     "RightMargin": 12.6307,
-                    "TopMargin": -86.6487,
+                    "TopMargin": -88.6487,
                     "BottomMargin": 64.6487,
                     "Tag": 138,
                     "ActionTag": 403999043,
                     "Size": {
                       "X": 110.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtType6",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "88",
                     "OutlineColor": {
                       "G": 0,
@@ -3455,7 +3509,7 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 126.1525,
+                      "X": 133.9337,
                       "Y": 65.5759
                     },
                     "Scale": {
@@ -3476,22 +3530,22 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 126.1525,
-                    "RightMargin": -176.1525,
-                    "TopMargin": -87.5759,
+                    "LeftMargin": 133.9337,
+                    "RightMargin": -183.9337,
+                    "TopMargin": -89.5759,
                     "BottomMargin": 65.5759,
                     "Tag": 139,
                     "ActionTag": -1147264226,
                     "Size": {
                       "X": 50.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtFan7",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
@@ -3529,20 +3583,20 @@
                     },
                     "LeftMargin": 31.26,
                     "RightMargin": -141.26,
-                    "TopMargin": -86.6487,
+                    "TopMargin": -88.6487,
                     "BottomMargin": 64.6487,
                     "Tag": 140,
                     "ActionTag": 1832059399,
                     "Size": {
                       "X": 110.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtType7",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
@@ -3580,20 +3634,20 @@
                     },
                     "LeftMargin": 183.416,
                     "RightMargin": -293.416,
-                    "TopMargin": -86.6487,
+                    "TopMargin": -88.6487,
                     "BottomMargin": 64.6487,
                     "Tag": 142,
                     "ActionTag": -1217733489,
                     "Size": {
                       "X": 110.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtType8",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "88",
                     "OutlineColor": {
                       "G": 0,
@@ -3608,8 +3662,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 271.8157,
-                      "Y": 65.5759
+                      "X": 287.3749,
+                      "Y": 64.7116
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -3629,22 +3683,22 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 271.8157,
-                    "RightMargin": -321.8157,
-                    "TopMargin": -87.5759,
-                    "BottomMargin": 65.5759,
+                    "LeftMargin": 287.3749,
+                    "RightMargin": -337.3749,
+                    "TopMargin": -88.7116,
+                    "BottomMargin": 64.7116,
                     "Tag": 141,
                     "ActionTag": -468777985,
                     "Size": {
                       "X": 50.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtFan8",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
@@ -3682,20 +3736,20 @@
                     },
                     "LeftMargin": -281.7709,
                     "RightMargin": 171.7709,
-                    "TopMargin": -56.7154,
+                    "TopMargin": -58.7154,
                     "BottomMargin": 34.7154,
                     "Tag": 144,
                     "ActionTag": -680759187,
                     "Size": {
                       "X": 110.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtType9",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "88",
                     "OutlineColor": {
                       "G": 0,
@@ -3710,7 +3764,7 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": -182.2085,
+                      "X": -174.4274,
                       "Y": 33.9964
                     },
                     "Scale": {
@@ -3731,22 +3785,22 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": -182.2085,
-                    "RightMargin": 132.2085,
-                    "TopMargin": -55.9964,
+                    "LeftMargin": -174.4274,
+                    "RightMargin": 124.4274,
+                    "TopMargin": -57.9964,
                     "BottomMargin": 33.9964,
                     "Tag": 143,
                     "ActionTag": -1658503839,
                     "Size": {
                       "X": 50.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtFan9",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "88",
                     "OutlineColor": {
                       "G": 0,
@@ -3761,8 +3815,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": -27.9818,
-                      "Y": 34.7154
+                      "X": -18.4716,
+                      "Y": 34.7155
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -3782,22 +3836,22 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": -27.9818,
-                    "RightMargin": -22.0182,
-                    "TopMargin": -56.7154,
-                    "BottomMargin": 34.7154,
+                    "LeftMargin": -18.4716,
+                    "RightMargin": -31.5284,
+                    "TopMargin": -58.7155,
+                    "BottomMargin": 34.7155,
                     "Tag": 145,
                     "ActionTag": -20024306,
                     "Size": {
                       "X": 50.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtFan10",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
@@ -3835,20 +3889,20 @@
                     },
                     "LeftMargin": -121.9513,
                     "RightMargin": 11.9513,
-                    "TopMargin": -56.7156,
+                    "TopMargin": -58.7156,
                     "BottomMargin": 34.7156,
                     "Tag": 146,
                     "ActionTag": -262444875,
                     "Size": {
                       "X": 110.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtType10",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "88",
                     "OutlineColor": {
                       "G": 0,
@@ -3863,7 +3917,7 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 126.8328,
+                      "X": 134.614,
                       "Y": 35.6427
                     },
                     "Scale": {
@@ -3884,22 +3938,22 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 126.8328,
-                    "RightMargin": -176.8328,
-                    "TopMargin": -57.6427,
+                    "LeftMargin": 134.614,
+                    "RightMargin": -184.614,
+                    "TopMargin": -59.6427,
                     "BottomMargin": 35.6427,
                     "Tag": 147,
                     "ActionTag": 1414886705,
                     "Size": {
                       "X": 50.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtFan11",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
@@ -3937,20 +3991,20 @@
                     },
                     "LeftMargin": 31.9432,
                     "RightMargin": -141.9432,
-                    "TopMargin": -56.7156,
+                    "TopMargin": -58.7156,
                     "BottomMargin": 34.7156,
                     "Tag": 148,
                     "ActionTag": 2004194954,
                     "Size": {
                       "X": 110.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtType11",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
@@ -3988,20 +4042,20 @@
                     },
                     "LeftMargin": 184.0967,
                     "RightMargin": -294.0967,
-                    "TopMargin": -56.7156,
+                    "TopMargin": -58.7156,
                     "BottomMargin": 34.7156,
                     "Tag": 150,
                     "ActionTag": 1826336060,
                     "Size": {
                       "X": 110.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtType12",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "88",
                     "OutlineColor": {
                       "G": 0,
@@ -4016,8 +4070,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 272.4966,
-                      "Y": 35.6427
+                      "X": 288.0565,
+                      "Y": 34.7784
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -4037,22 +4091,22 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 272.4966,
-                    "RightMargin": -322.4966,
-                    "TopMargin": -57.6427,
-                    "BottomMargin": 35.6427,
+                    "LeftMargin": 288.0565,
+                    "RightMargin": -338.0565,
+                    "TopMargin": -58.7784,
+                    "BottomMargin": 34.7784,
                     "Tag": 149,
                     "ActionTag": 155050317,
                     "Size": {
                       "X": 50.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtFan12",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
@@ -4090,20 +4144,20 @@
                     },
                     "LeftMargin": -281.7705,
                     "RightMargin": 171.7705,
-                    "TopMargin": -27.4629,
+                    "TopMargin": -29.4629,
                     "BottomMargin": 5.4629,
                     "Tag": 152,
                     "ActionTag": 1465534575,
                     "Size": {
                       "X": 110.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtType13",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "88",
                     "OutlineColor": {
                       "G": 0,
@@ -4118,7 +4172,7 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": -181.5279,
+                      "X": -173.7469,
                       "Y": 4.744
                     },
                     "Scale": {
@@ -4139,22 +4193,22 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": -181.5279,
-                    "RightMargin": 131.5279,
-                    "TopMargin": -26.744,
+                    "LeftMargin": -173.7469,
+                    "RightMargin": 123.7469,
+                    "TopMargin": -28.744,
                     "BottomMargin": 4.744,
                     "Tag": 151,
                     "ActionTag": 2042900570,
                     "Size": {
                       "X": 50.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtFan13",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "88",
                     "OutlineColor": {
                       "G": 0,
@@ -4169,8 +4223,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": -27.9802,
-                      "Y": 5.4628
+                      "X": -18.47,
+                      "Y": 5.463
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -4190,22 +4244,22 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": -27.9802,
-                    "RightMargin": -22.0198,
-                    "TopMargin": -27.4628,
-                    "BottomMargin": 5.4628,
+                    "LeftMargin": -18.47,
+                    "RightMargin": -31.53,
+                    "TopMargin": -29.463,
+                    "BottomMargin": 5.463,
                     "Tag": 153,
                     "ActionTag": 1237826923,
                     "Size": {
                       "X": 50.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtFan14",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
@@ -4243,20 +4297,20 @@
                     },
                     "LeftMargin": -121.9498,
                     "RightMargin": 11.9498,
-                    "TopMargin": -27.4629,
+                    "TopMargin": -29.4629,
                     "BottomMargin": 5.4629,
                     "Tag": 154,
                     "ActionTag": -1791511592,
                     "Size": {
                       "X": 110.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtType14",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "88",
                     "OutlineColor": {
                       "G": 0,
@@ -4271,8 +4325,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 126.8348,
-                      "Y": 6.3899
+                      "X": 134.616,
+                      "Y": 6.39
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -4292,22 +4346,22 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 126.8348,
-                    "RightMargin": -176.8348,
-                    "TopMargin": -28.3899,
-                    "BottomMargin": 6.3899,
+                    "LeftMargin": 134.616,
+                    "RightMargin": -184.616,
+                    "TopMargin": -30.39,
+                    "BottomMargin": 6.39,
                     "Tag": 155,
                     "ActionTag": 930134639,
                     "Size": {
                       "X": 50.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtFan15",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
@@ -4345,20 +4399,20 @@
                     },
                     "LeftMargin": 31.9439,
                     "RightMargin": -141.9439,
-                    "TopMargin": -27.4629,
+                    "TopMargin": -29.4629,
                     "BottomMargin": 5.4629,
                     "Tag": 156,
                     "ActionTag": -440463399,
                     "Size": {
                       "X": 110.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtType15",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "88",
                     "OutlineColor": {
                       "G": 0,
@@ -4373,8 +4427,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 272.4982,
-                      "Y": 7.3179
+                      "X": 288.0576,
+                      "Y": 6.4537
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -4394,22 +4448,22 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 272.4982,
-                    "RightMargin": -322.4982,
-                    "TopMargin": -29.3179,
-                    "BottomMargin": 7.3179,
+                    "LeftMargin": 288.0576,
+                    "RightMargin": -338.0576,
+                    "TopMargin": -30.4537,
+                    "BottomMargin": 6.4537,
                     "Tag": 157,
                     "ActionTag": -1387125481,
                     "Size": {
                       "X": 50.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtFan16",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
@@ -4447,20 +4501,20 @@
                     },
                     "LeftMargin": 184.0981,
                     "RightMargin": -294.0981,
-                    "TopMargin": -27.4629,
+                    "TopMargin": -29.4629,
                     "BottomMargin": 5.4629,
                     "Tag": 158,
                     "ActionTag": -2096491567,
                     "Size": {
                       "X": 110.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtType16",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
@@ -4498,20 +4552,20 @@
                     },
                     "LeftMargin": -281.4503,
                     "RightMargin": 171.4503,
-                    "TopMargin": 2.4704,
+                    "TopMargin": 0.4704,
                     "BottomMargin": -24.4704,
                     "Tag": 160,
                     "ActionTag": -1323661880,
                     "Size": {
                       "X": 110.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtType17",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "88",
                     "OutlineColor": {
                       "G": 0,
@@ -4526,7 +4580,7 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": -182.2074,
+                      "X": -174.4264,
                       "Y": -25.1892
                     },
                     "Scale": {
@@ -4547,22 +4601,22 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": -182.2074,
-                    "RightMargin": 132.2074,
-                    "TopMargin": 3.1892,
+                    "LeftMargin": -174.4264,
+                    "RightMargin": 124.4264,
+                    "TopMargin": 1.1892,
                     "BottomMargin": -25.1892,
                     "Tag": 159,
                     "ActionTag": 1350546810,
                     "Size": {
                       "X": 50.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtFan17",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "88",
                     "OutlineColor": {
                       "G": 0,
@@ -4577,8 +4631,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": -28.6613,
-                      "Y": -24.4706
+                      "X": -19.1507,
+                      "Y": -24.4703
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -4598,22 +4652,22 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": -28.6613,
-                    "RightMargin": -21.3387,
-                    "TopMargin": 2.4706,
-                    "BottomMargin": -24.4706,
+                    "LeftMargin": -19.1507,
+                    "RightMargin": -30.8493,
+                    "TopMargin": 0.4703,
+                    "BottomMargin": -24.4703,
                     "Tag": 161,
                     "ActionTag": 1837064173,
                     "Size": {
                       "X": 50.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtFan18",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
@@ -4651,20 +4705,20 @@
                     },
                     "LeftMargin": -122.6295,
                     "RightMargin": 12.6295,
-                    "TopMargin": 2.4703,
+                    "TopMargin": 0.4703,
                     "BottomMargin": -24.4703,
                     "Tag": 162,
                     "ActionTag": -1179857857,
                     "Size": {
                       "X": 110.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtType18",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "88",
                     "OutlineColor": {
                       "G": 0,
@@ -4679,7 +4733,7 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 126.1545,
+                      "X": 133.9357,
                       "Y": -23.543
                     },
                     "Scale": {
@@ -4700,22 +4754,22 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 126.1545,
-                    "RightMargin": -176.1545,
-                    "TopMargin": 1.543,
+                    "LeftMargin": 133.9357,
+                    "RightMargin": -183.9357,
+                    "TopMargin": -0.457,
                     "BottomMargin": -23.543,
                     "Tag": 163,
                     "ActionTag": -1604614037,
                     "Size": {
                       "X": 50.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtFan19",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
@@ -4753,20 +4807,20 @@
                     },
                     "LeftMargin": 31.2633,
                     "RightMargin": -141.2633,
-                    "TopMargin": 2.4703,
+                    "TopMargin": 0.4703,
                     "BottomMargin": -24.4703,
                     "Tag": 164,
                     "ActionTag": 1121676637,
                     "Size": {
                       "X": 110.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtType19",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "88",
                     "OutlineColor": {
                       "G": 0,
@@ -4781,8 +4835,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 271.8184,
-                      "Y": -23.543
+                      "X": 285.6494,
+                      "Y": -24.4072
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -4802,22 +4856,22 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 271.8184,
-                    "RightMargin": -321.8184,
-                    "TopMargin": 1.543,
-                    "BottomMargin": -23.543,
+                    "LeftMargin": 285.6494,
+                    "RightMargin": -335.6494,
+                    "TopMargin": 0.4072,
+                    "BottomMargin": -24.4072,
                     "Tag": 165,
                     "ActionTag": 738601193,
                     "Size": {
                       "X": 50.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtFan20",
                     "ctype": "TextObjectData"
                   },
                   {
                     "IsCustomSize": true,
-                    "FontSize": 22,
+                    "FontSize": 24,
                     "LabelText": "一色双龙",
                     "OutlineColor": {
                       "G": 0,
@@ -4832,8 +4886,8 @@
                     "ShadowOffsetY": -2.0,
                     "AnchorPoint": {},
                     "Position": {
-                      "X": 183.4183,
-                      "Y": -24.4703
+                      "X": 185.1471,
+                      "Y": -23.6055
                     },
                     "Scale": {
                       "ScaleX": 1.0,
@@ -4853,15 +4907,15 @@
                       "X": 0.0,
                       "Y": 0.0
                     },
-                    "LeftMargin": 183.4183,
-                    "RightMargin": -293.4183,
-                    "TopMargin": 2.4703,
-                    "BottomMargin": -24.4703,
+                    "LeftMargin": 185.1471,
+                    "RightMargin": -295.1471,
+                    "TopMargin": -0.3945,
+                    "BottomMargin": -23.6055,
                     "Tag": 166,
                     "ActionTag": -981560531,
                     "Size": {
                       "X": 110.0,
-                      "Y": 22.0
+                      "Y": 24.0
                     },
                     "Name": "txtType20",
                     "ctype": "TextObjectData"
@@ -5502,6 +5556,7 @@
         "Default/Button_Disable.png",
         "Default/Button_Normal.png",
         "Default/Button_Press.png",
+        "Default/TextAtlas.png",
         "hall/hall.plist",
         "hall/hall.png"
       ],
