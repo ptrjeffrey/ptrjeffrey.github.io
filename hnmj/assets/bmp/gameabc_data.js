@@ -136,8 +136,8 @@ var gameabc_Object =
     "ObjectID": 2,
     "ObjectType": 2,
     "ObjectName": "Spirit2",
-    "Left": 88,
-    "Top": 744,
+    "Left": 1003,
+    "Top": 832,
     "Width": 187,
     "Height": 66,
     "BelongLayerID": 1,
@@ -158,8 +158,8 @@ var gameabc_Object =
     "OriginID": 0,
     "OriginPos": 1,
     "SelfPos": 1,
-    "offX": 88,
-    "offY": 744
+    "offX": 1003,
+    "offY": 832
    },
    "Event": {
     "mousedown": 2,
@@ -232,8 +232,8 @@ var gameabc_Object =
     "ObjectID": 4,
     "ObjectType": 2,
     "ObjectName": "Spirit4",
-    "Left": 696,
-    "Top": 744,
+    "Left": 825,
+    "Top": 825,
     "Width": 187,
     "Height": 66,
     "BelongLayerID": 1,
@@ -254,8 +254,8 @@ var gameabc_Object =
     "OriginID": 0,
     "OriginPos": 1,
     "SelfPos": 1,
-    "offX": 696,
-    "offY": 744
+    "offX": 825,
+    "offY": 825
    },
    "Event": {
     "mousedown": 4,
@@ -2600,8 +2600,8 @@ var gameabc_Object =
     "ObjectID": 53,
     "ObjectType": 2,
     "ObjectName": "Spirit53",
-    "Left": 140,
-    "Top": 127,
+    "Left": 138,
+    "Top": 126,
     "Width": 25,
     "Height": 58,
     "BelongLayerID": 2,
@@ -2622,8 +2622,8 @@ var gameabc_Object =
     "OriginID": 0,
     "OriginPos": 1,
     "SelfPos": 1,
-    "offX": 140,
-    "offY": 127
+    "offX": 138,
+    "offY": 126
    },
    "Event": {
     "mousedown": 53,
@@ -2648,8 +2648,8 @@ var gameabc_Object =
     "ObjectID": 54,
     "ObjectType": 2,
     "ObjectName": "Spirit54",
-    "Left": 140,
-    "Top": 156,
+    "Left": 138,
+    "Top": 155,
     "Width": 25,
     "Height": 58,
     "BelongLayerID": 2,
@@ -2670,8 +2670,8 @@ var gameabc_Object =
     "OriginID": 0,
     "OriginPos": 1,
     "SelfPos": 1,
-    "offX": 140,
-    "offY": 156
+    "offX": 138,
+    "offY": 155
    },
    "Event": {
     "mousedown": 54,
@@ -2696,8 +2696,8 @@ var gameabc_Object =
     "ObjectID": 55,
     "ObjectType": 2,
     "ObjectName": "Spirit55",
-    "Left": 140,
-    "Top": 186,
+    "Left": 138,
+    "Top": 185,
     "Width": 25,
     "Height": 58,
     "BelongLayerID": 2,
@@ -2718,8 +2718,8 @@ var gameabc_Object =
     "OriginID": 0,
     "OriginPos": 1,
     "SelfPos": 1,
-    "offX": 140,
-    "offY": 186
+    "offX": 138,
+    "offY": 185
    },
    "Event": {
     "mousedown": 55,
@@ -2744,8 +2744,8 @@ var gameabc_Object =
     "ObjectID": 56,
     "ObjectType": 2,
     "ObjectName": "Spirit56",
-    "Left": 140,
-    "Top": 215,
+    "Left": 138,
+    "Top": 214,
     "Width": 25,
     "Height": 58,
     "BelongLayerID": 2,
@@ -2766,8 +2766,8 @@ var gameabc_Object =
     "OriginID": 0,
     "OriginPos": 1,
     "SelfPos": 1,
-    "offX": 140,
-    "offY": 215
+    "offX": 138,
+    "offY": 214
    },
    "Event": {
     "mousedown": 56,
@@ -2792,8 +2792,8 @@ var gameabc_Object =
     "ObjectID": 57,
     "ObjectType": 2,
     "ObjectName": "Spirit57",
-    "Left": 140,
-    "Top": 245,
+    "Left": 138,
+    "Top": 244,
     "Width": 25,
     "Height": 58,
     "BelongLayerID": 2,
@@ -2814,8 +2814,8 @@ var gameabc_Object =
     "OriginID": 0,
     "OriginPos": 1,
     "SelfPos": 1,
-    "offX": 140,
-    "offY": 245
+    "offX": 138,
+    "offY": 244
    },
    "Event": {
     "mousedown": 57,
@@ -2840,8 +2840,8 @@ var gameabc_Object =
     "ObjectID": 58,
     "ObjectType": 2,
     "ObjectName": "Spirit58",
-    "Left": 140,
-    "Top": 274,
+    "Left": 138,
+    "Top": 273,
     "Width": 25,
     "Height": 58,
     "BelongLayerID": 2,
@@ -2862,8 +2862,8 @@ var gameabc_Object =
     "OriginID": 0,
     "OriginPos": 1,
     "SelfPos": 1,
-    "offX": 140,
-    "offY": 274
+    "offX": 138,
+    "offY": 273
    },
    "Event": {
     "mousedown": 58,
@@ -2888,8 +2888,8 @@ var gameabc_Object =
     "ObjectID": 59,
     "ObjectType": 2,
     "ObjectName": "Spirit59",
-    "Left": 140,
-    "Top": 303,
+    "Left": 138,
+    "Top": 302,
     "Width": 25,
     "Height": 58,
     "BelongLayerID": 2,
@@ -2910,8 +2910,8 @@ var gameabc_Object =
     "OriginID": 0,
     "OriginPos": 1,
     "SelfPos": 1,
-    "offX": 140,
-    "offY": 303
+    "offX": 138,
+    "offY": 302
    },
    "Event": {
     "mousedown": 59,
@@ -2936,8 +2936,8 @@ var gameabc_Object =
     "ObjectID": 60,
     "ObjectType": 2,
     "ObjectName": "Spirit60",
-    "Left": 140,
-    "Top": 332,
+    "Left": 138,
+    "Top": 331,
     "Width": 25,
     "Height": 58,
     "BelongLayerID": 2,
@@ -2958,8 +2958,8 @@ var gameabc_Object =
     "OriginID": 0,
     "OriginPos": 1,
     "SelfPos": 1,
-    "offX": 140,
-    "offY": 332
+    "offX": 138,
+    "offY": 331
    },
    "Event": {
     "mousedown": 60,
@@ -2984,8 +2984,8 @@ var gameabc_Object =
     "ObjectID": 61,
     "ObjectType": 2,
     "ObjectName": "Spirit61",
-    "Left": 140,
-    "Top": 362,
+    "Left": 138,
+    "Top": 361,
     "Width": 25,
     "Height": 58,
     "BelongLayerID": 2,
@@ -3006,8 +3006,8 @@ var gameabc_Object =
     "OriginID": 0,
     "OriginPos": 1,
     "SelfPos": 1,
-    "offX": 140,
-    "offY": 362
+    "offX": 138,
+    "offY": 361
    },
    "Event": {
     "mousedown": 61,
@@ -3032,8 +3032,8 @@ var gameabc_Object =
     "ObjectID": 62,
     "ObjectType": 2,
     "ObjectName": "Spirit62",
-    "Left": 140,
-    "Top": 391,
+    "Left": 138,
+    "Top": 390,
     "Width": 25,
     "Height": 58,
     "BelongLayerID": 2,
@@ -3054,8 +3054,8 @@ var gameabc_Object =
     "OriginID": 0,
     "OriginPos": 1,
     "SelfPos": 1,
-    "offX": 140,
-    "offY": 391
+    "offX": 138,
+    "offY": 390
    },
    "Event": {
     "mousedown": 62,
@@ -3080,8 +3080,8 @@ var gameabc_Object =
     "ObjectID": 63,
     "ObjectType": 2,
     "ObjectName": "Spirit63",
-    "Left": 140,
-    "Top": 421,
+    "Left": 138,
+    "Top": 420,
     "Width": 25,
     "Height": 58,
     "BelongLayerID": 2,
@@ -3102,8 +3102,8 @@ var gameabc_Object =
     "OriginID": 0,
     "OriginPos": 1,
     "SelfPos": 1,
-    "offX": 140,
-    "offY": 421
+    "offX": 138,
+    "offY": 420
    },
    "Event": {
     "mousedown": 63,
@@ -3128,8 +3128,8 @@ var gameabc_Object =
     "ObjectID": 64,
     "ObjectType": 2,
     "ObjectName": "Spirit64",
-    "Left": 140,
-    "Top": 450,
+    "Left": 138,
+    "Top": 449,
     "Width": 25,
     "Height": 58,
     "BelongLayerID": 2,
@@ -3150,8 +3150,8 @@ var gameabc_Object =
     "OriginID": 0,
     "OriginPos": 1,
     "SelfPos": 1,
-    "offX": 140,
-    "offY": 450
+    "offX": 138,
+    "offY": 449
    },
    "Event": {
     "mousedown": 64,
@@ -3176,8 +3176,8 @@ var gameabc_Object =
     "ObjectID": 65,
     "ObjectType": 2,
     "ObjectName": "Spirit65",
-    "Left": 140,
-    "Top": 478,
+    "Left": 138,
+    "Top": 477,
     "Width": 25,
     "Height": 58,
     "BelongLayerID": 2,
@@ -3198,8 +3198,8 @@ var gameabc_Object =
     "OriginID": 0,
     "OriginPos": 1,
     "SelfPos": 1,
-    "offX": 140,
-    "offY": 478
+    "offX": 138,
+    "offY": 477
    },
    "Event": {
     "mousedown": 65,
@@ -3224,8 +3224,8 @@ var gameabc_Object =
     "ObjectID": 66,
     "ObjectType": 2,
     "ObjectName": "Spirit66",
-    "Left": 139,
-    "Top": 542,
+    "Left": 137,
+    "Top": 541,
     "Width": 25,
     "Height": 58,
     "BelongLayerID": 2,
@@ -3246,8 +3246,8 @@ var gameabc_Object =
     "OriginID": 0,
     "OriginPos": 1,
     "SelfPos": 1,
-    "offX": 139,
-    "offY": 542
+    "offX": 137,
+    "offY": 541
    },
    "Event": {
     "mousedown": 66,
