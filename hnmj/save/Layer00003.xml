@@ -1,0 +1,1992 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Layer Version="2.5" SaveTime="2017-03-19 10:23:33">
+  <PropertyList>
+    <Property Name="ID" Value="3"/>
+    <Property Name="Name" Value="hallLayer"/>
+    <Property Name="Description" Value=""/>
+  </PropertyList>
+  <OptionList/>
+  <EventList/>
+  <SpiritList>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="138"/>
+        <Property Name="Name" Value="Spirit138"/>
+        <Property Name="ImgResID" Value="323"/>
+        <Property Name="X" Value="0"/>
+        <Property Name="Y" Value="2"/>
+        <Property Name="Width" Value="1280"/>
+        <Property Name="Height" Value="800"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="1"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="0"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="0"/>
+        <Property Name="CoordRelaY" Value="2"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="323"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="139"/>
+        <Property Name="Name" Value="Spirit139"/>
+        <Property Name="ImgResID" Value="324"/>
+        <Property Name="X" Value="-1"/>
+        <Property Name="Y" Value="2"/>
+        <Property Name="Width" Value="1280"/>
+        <Property Name="Height" Value="110"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="2"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="0"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="-1"/>
+        <Property Name="CoordRelaY" Value="2"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="324"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="143"/>
+        <Property Name="Name" Value="Spirit143"/>
+        <Property Name="ImgResID" Value="328"/>
+        <Property Name="X" Value="386"/>
+        <Property Name="Y" Value="24"/>
+        <Property Name="Width" Value="50"/>
+        <Property Name="Height" Value="57"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="3"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="139"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="387"/>
+        <Property Name="CoordRelaY" Value="22"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="328"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="144"/>
+        <Property Name="Name" Value="Spirit144"/>
+        <Property Name="ImgResID" Value="329"/>
+        <Property Name="X" Value="-85"/>
+        <Property Name="Y" Value="98"/>
+        <Property Name="Width" Value="64"/>
+        <Property Name="Height" Value="72"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="4"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="0"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="-85"/>
+        <Property Name="CoordRelaY" Value="98"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="329"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="145"/>
+        <Property Name="Name" Value="Spirit145"/>
+        <Property Name="ImgResID" Value="330"/>
+        <Property Name="X" Value="119"/>
+        <Property Name="Y" Value="53"/>
+        <Property Name="Width" Value="38"/>
+        <Property Name="Height" Value="38"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="5"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="139"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="120"/>
+        <Property Name="CoordRelaY" Value="51"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="330"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="170"/>
+        <Property Name="Name" Value="Spirit170"/>
+        <Property Name="ImgResID" Value="331"/>
+        <Property Name="X" Value="274"/>
+        <Property Name="Y" Value="55"/>
+        <Property Name="Width" Value="38"/>
+        <Property Name="Height" Value="38"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="6"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="139"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="275"/>
+        <Property Name="CoordRelaY" Value="53"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="331"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="175"/>
+        <Property Name="Name" Value="Spirit175"/>
+        <Property Name="ImgResID" Value="4"/>
+        <Property Name="X" Value="1"/>
+        <Property Name="Y" Value="3"/>
+        <Property Name="Width" Value="115"/>
+        <Property Name="Height" Value="120"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="7"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="139"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="2"/>
+        <Property Name="CoordRelaY" Value="1"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="4"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="273"/>
+        <Property Name="Name" Value="Spirit273"/>
+        <Property Name="ImgResID" Value="30"/>
+        <Property Name="X" Value="15"/>
+        <Property Name="Y" Value="10"/>
+        <Property Name="Width" Value="85"/>
+        <Property Name="Height" Value="85"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="8"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="0"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="15"/>
+        <Property Name="CoordRelaY" Value="10"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="30"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="174"/>
+        <Property Name="Name" Value="Spirit174"/>
+        <Property Name="ImgResID" Value="10"/>
+        <Property Name="X" Value="12"/>
+        <Property Name="Y" Value="8"/>
+        <Property Name="Width" Value="90"/>
+        <Property Name="Height" Value="125"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="9"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="0"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="12"/>
+        <Property Name="CoordRelaY" Value="8"/>
+        <Property Name="SizeCalcMode" Value="0"/>
+        <Property Name="SizeParentID" Value="0"/>
+        <Property Name="WidthCalcMode" Value="0"/>
+        <Property Name="SizeRelaWidth" Value="90"/>
+        <Property Name="HeightCalcMode" Value="0"/>
+        <Property Name="SizeRelaHeight" Value="125"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="183"/>
+        <Property Name="Name" Value="Spirit183"/>
+        <Property Name="ImgResID" Value="345"/>
+        <Property Name="X" Value="1190"/>
+        <Property Name="Y" Value="26"/>
+        <Property Name="Width" Value="60"/>
+        <Property Name="Height" Value="60"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="10"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="139"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="1191"/>
+        <Property Name="CoordRelaY" Value="24"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="345"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="142"/>
+        <Property Name="Name" Value="Spirit142"/>
+        <Property Name="ImgResID" Value="327"/>
+        <Property Name="X" Value="-1"/>
+        <Property Name="Y" Value="683"/>
+        <Property Name="Width" Value="1280"/>
+        <Property Name="Height" Value="119"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="11"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="0"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="-1"/>
+        <Property Name="CoordRelaY" Value="683"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="327"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="1"/>
+        <Property Name="ID" Value="176"/>
+        <Property Name="Name" Value="微信号"/>
+        <Property Name="FontSize" Value="20"/>
+        <Property Name="FontBold" Value="0"/>
+        <Property Name="FontColor" Value="16777215"/>
+        <Property Name="FontColorA" Value="255"/>
+        <Property Name="BackColor" Value="16777215"/>
+        <Property Name="BackColorA" Value="0"/>
+        <Property Name="AutoSize" Value="1"/>
+        <Property Name="TextStyle" Value="0"/>
+        <Property Name="WordWrap" Value="0"/>
+        <Property Name="LineSpace" Value="0"/>
+        <Property Name="AlignHorz" Value="0"/>
+        <Property Name="AlignVert" Value="0"/>
+        <Property Name="Text" Value="微信号"/>
+        <Property Name="X" Value="120"/>
+        <Property Name="Y" Value="10"/>
+        <Property Name="Width" Value="81"/>
+        <Property Name="Height" Value="35"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="12"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="139"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="121"/>
+        <Property Name="CoordRelaY" Value="8"/>
+        <Property Name="SizeCalcMode" Value="0"/>
+        <Property Name="SizeParentID" Value="0"/>
+        <Property Name="WidthCalcMode" Value="0"/>
+        <Property Name="SizeRelaWidth" Value="81"/>
+        <Property Name="HeightCalcMode" Value="0"/>
+        <Property Name="SizeRelaHeight" Value="35"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="177"/>
+        <Property Name="Name" Value="Spirit177"/>
+        <Property Name="ImgResID" Value="337"/>
+        <Property Name="X" Value="-1"/>
+        <Property Name="Y" Value="137"/>
+        <Property Name="Width" Value="1280"/>
+        <Property Name="Height" Value="40"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="13"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="0"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="-1"/>
+        <Property Name="CoordRelaY" Value="137"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="337"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="1"/>
+        <Property Name="ID" Value="229"/>
+        <Property Name="Name" Value="Spirit229"/>
+        <Property Name="FontSize" Value="16"/>
+        <Property Name="FontBold" Value="0"/>
+        <Property Name="FontColor" Value="0"/>
+        <Property Name="FontColorA" Value="255"/>
+        <Property Name="BackColor" Value="16777215"/>
+        <Property Name="BackColorA" Value="0"/>
+        <Property Name="AutoSize" Value="1"/>
+        <Property Name="TextStyle" Value="0"/>
+        <Property Name="WordWrap" Value="0"/>
+        <Property Name="LineSpace" Value="0"/>
+        <Property Name="AlignHorz" Value="0"/>
+        <Property Name="AlignVert" Value="0"/>
+        <Property Name="Text" Value="[公告]这是一个健康游戏,绿色游戏"/>
+        <Property Name="X" Value="310"/>
+        <Property Name="Y" Value="141"/>
+        <Property Name="Width" Value="311"/>
+        <Property Name="Height" Value="28"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="14"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="177"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="311"/>
+        <Property Name="CoordRelaY" Value="4"/>
+        <Property Name="SizeCalcMode" Value="0"/>
+        <Property Name="SizeParentID" Value="0"/>
+        <Property Name="WidthCalcMode" Value="0"/>
+        <Property Name="SizeRelaWidth" Value="311"/>
+        <Property Name="HeightCalcMode" Value="0"/>
+        <Property Name="SizeRelaHeight" Value="28"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value="229"/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="173"/>
+        <Property Name="Name" Value="Spirit173"/>
+        <Property Name="ImgResID" Value="334"/>
+        <Property Name="X" Value="272"/>
+        <Property Name="Y" Value="143"/>
+        <Property Name="Width" Value="37"/>
+        <Property Name="Height" Value="31"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="15"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="177"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="273"/>
+        <Property Name="CoordRelaY" Value="6"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="334"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="178"/>
+        <Property Name="Name" Value="Spirit178"/>
+        <Property Name="ImgResID" Value="338"/>
+        <Property Name="X" Value="880"/>
+        <Property Name="Y" Value="225"/>
+        <Property Name="Width" Value="378"/>
+        <Property Name="Height" Value="380"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="16"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="0"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="880"/>
+        <Property Name="CoordRelaY" Value="225"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="338"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="179"/>
+        <Property Name="Name" Value="Spirit179"/>
+        <Property Name="ImgResID" Value="339"/>
+        <Property Name="X" Value="461"/>
+        <Property Name="Y" Value="225"/>
+        <Property Name="Width" Value="378"/>
+        <Property Name="Height" Value="380"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="17"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="0"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="461"/>
+        <Property Name="CoordRelaY" Value="225"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="339"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="140"/>
+        <Property Name="Name" Value="Spirit140"/>
+        <Property Name="ImgResID" Value="325"/>
+        <Property Name="X" Value="520"/>
+        <Property Name="Y" Value="492"/>
+        <Property Name="Width" Value="268"/>
+        <Property Name="Height" Value="84"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="18"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="179"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="59"/>
+        <Property Name="CoordRelaY" Value="267"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="325"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="141"/>
+        <Property Name="Name" Value="Spirit141"/>
+        <Property Name="ImgResID" Value="326"/>
+        <Property Name="X" Value="932"/>
+        <Property Name="Y" Value="492"/>
+        <Property Name="Width" Value="268"/>
+        <Property Name="Height" Value="84"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="19"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="178"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="52"/>
+        <Property Name="CoordRelaY" Value="267"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="326"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="180"/>
+        <Property Name="Name" Value="Spirit180"/>
+        <Property Name="ImgResID" Value="342"/>
+        <Property Name="X" Value="830"/>
+        <Property Name="Y" Value="24"/>
+        <Property Name="Width" Value="60"/>
+        <Property Name="Height" Value="60"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="20"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="139"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="831"/>
+        <Property Name="CoordRelaY" Value="22"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="342"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="181"/>
+        <Property Name="Name" Value="Spirit181"/>
+        <Property Name="ImgResID" Value="343"/>
+        <Property Name="X" Value="948"/>
+        <Property Name="Y" Value="21"/>
+        <Property Name="Width" Value="60"/>
+        <Property Name="Height" Value="60"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="21"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="139"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="949"/>
+        <Property Name="CoordRelaY" Value="19"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="343"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="182"/>
+        <Property Name="Name" Value="Spirit182"/>
+        <Property Name="ImgResID" Value="344"/>
+        <Property Name="X" Value="1076"/>
+        <Property Name="Y" Value="24"/>
+        <Property Name="Width" Value="60"/>
+        <Property Name="Height" Value="60"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="22"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="139"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="1077"/>
+        <Property Name="CoordRelaY" Value="22"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="344"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="172"/>
+        <Property Name="Name" Value="Spirit172"/>
+        <Property Name="ImgResID" Value="333"/>
+        <Property Name="X" Value="1023"/>
+        <Property Name="Y" Value="709"/>
+        <Property Name="Width" Value="80"/>
+        <Property Name="Height" Value="80"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="23"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="142"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="1024"/>
+        <Property Name="CoordRelaY" Value="26"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="333"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="171"/>
+        <Property Name="Name" Value="Spirit171"/>
+        <Property Name="ImgResID" Value="332"/>
+        <Property Name="X" Value="31"/>
+        <Property Name="Y" Value="709"/>
+        <Property Name="Width" Value="80"/>
+        <Property Name="Height" Value="80"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="24"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="142"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="32"/>
+        <Property Name="CoordRelaY" Value="26"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="332"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="184"/>
+        <Property Name="Name" Value="Spirit184"/>
+        <Property Name="ImgResID" Value="346"/>
+        <Property Name="X" Value="71"/>
+        <Property Name="Y" Value="278"/>
+        <Property Name="Width" Value="230"/>
+        <Property Name="Height" Value="241"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="25"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="0"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="71"/>
+        <Property Name="CoordRelaY" Value="278"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="346"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="185"/>
+        <Property Name="Name" Value="Spirit185"/>
+        <Property Name="ImgResID" Value="348"/>
+        <Property Name="X" Value="679"/>
+        <Property Name="Y" Value="709"/>
+        <Property Name="Width" Value="80"/>
+        <Property Name="Height" Value="80"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="26"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="142"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="680"/>
+        <Property Name="CoordRelaY" Value="26"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="348"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="186"/>
+        <Property Name="Name" Value="Spirit186"/>
+        <Property Name="ImgResID" Value="349"/>
+        <Property Name="X" Value="360"/>
+        <Property Name="Y" Value="709"/>
+        <Property Name="Width" Value="80"/>
+        <Property Name="Height" Value="80"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="27"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="142"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="361"/>
+        <Property Name="CoordRelaY" Value="26"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="349"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="1"/>
+        <Property Name="ID" Value="188"/>
+        <Property Name="Name" Value="Spirit188"/>
+        <Property Name="FontSize" Value="10"/>
+        <Property Name="FontBold" Value="0"/>
+        <Property Name="FontColor" Value="16777215"/>
+        <Property Name="FontColorA" Value="255"/>
+        <Property Name="BackColor" Value="16777215"/>
+        <Property Name="BackColorA" Value="0"/>
+        <Property Name="AutoSize" Value="1"/>
+        <Property Name="TextStyle" Value="0"/>
+        <Property Name="WordWrap" Value="0"/>
+        <Property Name="LineSpace" Value="0"/>
+        <Property Name="AlignHorz" Value="0"/>
+        <Property Name="AlignVert" Value="0"/>
+        <Property Name="Text" Value="本游戏仅为娱乐休闲使用"/>
+        <Property Name="X" Value="106"/>
+        <Property Name="Y" Value="358"/>
+        <Property Name="Width" Value="143"/>
+        <Property Name="Height" Value="17"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="28"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="184"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="35"/>
+        <Property Name="CoordRelaY" Value="80"/>
+        <Property Name="SizeCalcMode" Value="0"/>
+        <Property Name="SizeParentID" Value="0"/>
+        <Property Name="WidthCalcMode" Value="0"/>
+        <Property Name="SizeRelaWidth" Value="143"/>
+        <Property Name="HeightCalcMode" Value="0"/>
+        <Property Name="SizeRelaHeight" Value="17"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="1"/>
+        <Property Name="ID" Value="189"/>
+        <Property Name="Name" Value="Spirit189"/>
+        <Property Name="FontSize" Value="10"/>
+        <Property Name="FontBold" Value="0"/>
+        <Property Name="FontColor" Value="16777215"/>
+        <Property Name="FontColorA" Value="255"/>
+        <Property Name="BackColor" Value="16777215"/>
+        <Property Name="BackColorA" Value="0"/>
+        <Property Name="AutoSize" Value="1"/>
+        <Property Name="TextStyle" Value="0"/>
+        <Property Name="WordWrap" Value="0"/>
+        <Property Name="LineSpace" Value="0"/>
+        <Property Name="AlignHorz" Value="0"/>
+        <Property Name="AlignVert" Value="0"/>
+        <Property Name="Text" Value="请关注官方微信号"/>
+        <Property Name="X" Value="131"/>
+        <Property Name="Y" Value="417"/>
+        <Property Name="Width" Value="104"/>
+        <Property Name="Height" Value="17"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="29"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="184"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="60"/>
+        <Property Name="CoordRelaY" Value="139"/>
+        <Property Name="SizeCalcMode" Value="0"/>
+        <Property Name="SizeParentID" Value="0"/>
+        <Property Name="WidthCalcMode" Value="0"/>
+        <Property Name="SizeRelaWidth" Value="104"/>
+        <Property Name="HeightCalcMode" Value="0"/>
+        <Property Name="SizeRelaHeight" Value="17"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="133"/>
+        <Property Name="Name" Value="Spirit133"/>
+        <Property Name="ImgResID" Value="5"/>
+        <Property Name="X" Value="454"/>
+        <Property Name="Y" Value="737"/>
+        <Property Name="Width" Value="73"/>
+        <Property Name="Height" Value="29"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="30"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="142"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="455"/>
+        <Property Name="CoordRelaY" Value="54"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="5"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="196"/>
+        <Property Name="Name" Value="Spirit196"/>
+        <Property Name="ImgResID" Value="6"/>
+        <Property Name="X" Value="1108"/>
+        <Property Name="Y" Value="740"/>
+        <Property Name="Width" Value="103"/>
+        <Property Name="Height" Value="28"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="31"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="142"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="1109"/>
+        <Property Name="CoordRelaY" Value="57"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="6"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="197"/>
+        <Property Name="Name" Value="Spirit197"/>
+        <Property Name="ImgResID" Value="7"/>
+        <Property Name="X" Value="124"/>
+        <Property Name="Y" Value="738"/>
+        <Property Name="Width" Value="72"/>
+        <Property Name="Height" Value="29"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="32"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="142"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="125"/>
+        <Property Name="CoordRelaY" Value="55"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="7"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="198"/>
+        <Property Name="Name" Value="Spirit198"/>
+        <Property Name="ImgResID" Value="8"/>
+        <Property Name="X" Value="784"/>
+        <Property Name="Y" Value="740"/>
+        <Property Name="Width" Value="72"/>
+        <Property Name="Height" Value="29"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="33"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="142"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="785"/>
+        <Property Name="CoordRelaY" Value="57"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="8"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="199"/>
+        <Property Name="Name" Value="Spirit199"/>
+        <Property Name="ImgResID" Value="9"/>
+        <Property Name="X" Value="914"/>
+        <Property Name="Y" Value="6"/>
+        <Property Name="Width" Value="2"/>
+        <Property Name="Height" Value="88"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="34"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="139"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="915"/>
+        <Property Name="CoordRelaY" Value="4"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="9"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="224"/>
+        <Property Name="Name" Value="Spirit224"/>
+        <Property Name="ImgResID" Value="9"/>
+        <Property Name="X" Value="1046"/>
+        <Property Name="Y" Value="6"/>
+        <Property Name="Width" Value="2"/>
+        <Property Name="Height" Value="88"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="35"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="139"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="1047"/>
+        <Property Name="CoordRelaY" Value="4"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="9"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="225"/>
+        <Property Name="Name" Value="Spirit225"/>
+        <Property Name="ImgResID" Value="9"/>
+        <Property Name="X" Value="1153"/>
+        <Property Name="Y" Value="6"/>
+        <Property Name="Width" Value="2"/>
+        <Property Name="Height" Value="88"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="36"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="139"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="1154"/>
+        <Property Name="CoordRelaY" Value="4"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="9"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="226"/>
+        <Property Name="Name" Value="Spirit226"/>
+        <Property Name="ImgResID" Value="9"/>
+        <Property Name="X" Value="270"/>
+        <Property Name="Y" Value="705"/>
+        <Property Name="Width" Value="2"/>
+        <Property Name="Height" Value="88"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="37"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="139"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="271"/>
+        <Property Name="CoordRelaY" Value="703"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="9"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="227"/>
+        <Property Name="Name" Value="Spirit227"/>
+        <Property Name="ImgResID" Value="9"/>
+        <Property Name="X" Value="600"/>
+        <Property Name="Y" Value="705"/>
+        <Property Name="Width" Value="2"/>
+        <Property Name="Height" Value="88"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="38"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="139"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="601"/>
+        <Property Name="CoordRelaY" Value="703"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="9"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="0"/>
+        <Property Name="ID" Value="228"/>
+        <Property Name="Name" Value="Spirit228"/>
+        <Property Name="ImgResID" Value="9"/>
+        <Property Name="X" Value="951"/>
+        <Property Name="Y" Value="707"/>
+        <Property Name="Width" Value="2"/>
+        <Property Name="Height" Value="88"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="39"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="139"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="952"/>
+        <Property Name="CoordRelaY" Value="705"/>
+        <Property Name="SizeCalcMode" Value="2"/>
+        <Property Name="SizeParentID" Value="9"/>
+        <Property Name="WidthCalcMode" Value="1"/>
+        <Property Name="SizeRelaWidth" Value="10000"/>
+        <Property Name="HeightCalcMode" Value="1"/>
+        <Property Name="SizeRelaHeight" Value="10000"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+    <Spirit>
+      <PropertyList>
+        <Property Name="SpiritType" Value="1"/>
+        <Property Name="ID" Value="187"/>
+        <Property Name="Name" Value="健康游戏公告"/>
+        <Property Name="FontSize" Value="10"/>
+        <Property Name="FontBold" Value="0"/>
+        <Property Name="FontColor" Value="16777215"/>
+        <Property Name="FontColorA" Value="255"/>
+        <Property Name="BackColor" Value="16777215"/>
+        <Property Name="BackColorA" Value="0"/>
+        <Property Name="AutoSize" Value="1"/>
+        <Property Name="TextStyle" Value="0"/>
+        <Property Name="WordWrap" Value="0"/>
+        <Property Name="LineSpace" Value="0"/>
+        <Property Name="AlignHorz" Value="0"/>
+        <Property Name="AlignVert" Value="0"/>
+        <Property Name="Text" Value="健康游戏公告"/>
+        <Property Name="X" Value="145"/>
+        <Property Name="Y" Value="302"/>
+        <Property Name="Width" Value="78"/>
+        <Property Name="Height" Value="17"/>
+        <Property Name="BelongLayerID" Value="3"/>
+        <Property Name="IndexOfLayer" Value="40"/>
+        <Property Name="BelongGroupID" Value="0"/>
+        <Property Name="IsVisible" Value="1"/>
+        <Property Name="CanClick" Value="1"/>
+        <Property Name="CanDragSize" Value="0"/>
+        <Property Name="TimerInterval" Value="0"/>
+        <Property Name="Data" Value=""/>
+        <Property Name="Description" Value=""/>
+        <Property Name="CoordParentID" Value="184"/>
+        <Property Name="CoordParentPos" Value="0"/>
+        <Property Name="CoordSelfPos" Value="0"/>
+        <Property Name="CoordRelaX" Value="74"/>
+        <Property Name="CoordRelaY" Value="24"/>
+        <Property Name="SizeCalcMode" Value="0"/>
+        <Property Name="SizeParentID" Value="0"/>
+        <Property Name="WidthCalcMode" Value="0"/>
+        <Property Name="SizeRelaWidth" Value="78"/>
+        <Property Name="HeightCalcMode" Value="0"/>
+        <Property Name="SizeRelaHeight" Value="17"/>
+      </PropertyList>
+      <OptionList>
+        <Option Name="tag" Value="0"/>
+        <Option Name="tag1" Value="0"/>
+        <Option Name="tag2" Value="0"/>
+        <Option Name="tag3" Value="0"/>
+        <Option Name="vx" Value="0"/>
+        <Option Name="vy" Value="0"/>
+        <Option Name="vw" Value="0"/>
+        <Option Name="vh" Value="0"/>
+      </OptionList>
+      <EventList>
+        <Event Name="MouseDown" Value=""/>
+        <Event Name="MouseUp" Value=""/>
+        <Event Name="MouseMove" Value=""/>
+        <Event Name="OnTimer" Value=""/>
+      </EventList>
+    </Spirit>
+  </SpiritList>
+</Layer>

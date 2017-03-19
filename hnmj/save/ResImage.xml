@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ImageResList SoftVersion="2.5" SaveTime="2017-03-19 10:16:13">
+  <ImageRes ID="1" ImageFile="00001.png" Name="dice_1" ImageWidth="44" ImageHeight="44" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="2" ImageFile="00002.png" Name="bt1" ImageWidth="100" ImageHeight="100" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="3" ImageFile="00003.png" Name="桌子" ImageWidth="1280" ImageHeight="799" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="4" ImageFile="00004.png" Name="组-4" ImageWidth="115" ImageHeight="120" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="5" ImageFile="00005.png" Name="活动" ImageWidth="73" ImageHeight="29" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="6" ImageFile="00006.png" Name="排行榜" ImageWidth="103" ImageHeight="28" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="7" ImageFile="00007.png" Name="任务" ImageWidth="72" ImageHeight="29" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="8" ImageFile="00008.png" Name="商城" ImageWidth="72" ImageHeight="29" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="9" ImageFile="00009.png" Name="海南麻将_03" ImageWidth="2" ImageHeight="88" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="10" ImageFile="00010.png" Name="熊猫-男" ImageWidth="90" ImageHeight="125" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="11" ImageFile="00011.png" Name="熊猫-女" ImageWidth="90" ImageHeight="123" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="12" ImageFile="00012.png" Name="圆头像-" ImageWidth="79" ImageHeight="79" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="13" ImageFile="00013.png" Name="level1" ImageWidth="187" ImageHeight="66" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="14" ImageFile="00014.png" Name="level2" ImageWidth="187" ImageHeight="66" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="15" ImageFile="00015.png" Name="level3" ImageWidth="187" ImageHeight="66" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="16" ImageFile="00016.png" Name="图层-111-副本-2" ImageWidth="26" ImageHeight="25" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="17" ImageFile="00017.png" Name="0" ImageWidth="14" ImageHeight="24" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="18" ImageFile="00018.png" Name="1" ImageWidth="6" ImageHeight="24" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="19" ImageFile="00019.png" Name="2" ImageWidth="14" ImageHeight="24" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="20" ImageFile="00020.png" Name="3" ImageWidth="14" ImageHeight="24" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="21" ImageFile="00021.png" Name="4" ImageWidth="16" ImageHeight="25" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="22" ImageFile="00022.png" Name="5" ImageWidth="14" ImageHeight="24" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="23" ImageFile="00023.png" Name="6" ImageWidth="14" ImageHeight="24" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="24" ImageFile="00024.png" Name="7" ImageWidth="14" ImageHeight="24" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="25" ImageFile="00025.png" Name="8" ImageWidth="14" ImageHeight="24" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="26" ImageFile="00026.png" Name="9" ImageWidth="14" ImageHeight="24" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="27" ImageFile="00027.png" Name="退回" ImageWidth="55" ImageHeight="53" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="28" ImageFile="00028.png" Name="设置" ImageWidth="56" ImageHeight="58" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="29" ImageFile="00029.png" Name="圆角矩形-113-拷贝" ImageWidth="166" ImageHeight="71" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="30" ImageFile="00030.png" Name="Shape-129-copy" ImageWidth="85" ImageHeight="85" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="31"/>
+  <ImageRes ID="32"/>
+  <ImageRes ID="33"/>
+  <ImageRes ID="34"/>
+  <ImageRes ID="35"/>
+  <ImageRes ID="36"/>
+  <ImageRes ID="37"/>
+  <ImageRes ID="38"/>
+  <ImageRes ID="39"/>
+  <ImageRes ID="40"/>
+  <ImageRes ID="41"/>
+  <ImageRes ID="42"/>
+  <ImageRes ID="43"/>
+  <ImageRes ID="44"/>
+  <ImageRes ID="45"/>
+  <ImageRes ID="46"/>
+  <ImageRes ID="47"/>
+  <ImageRes ID="48"/>
+  <ImageRes ID="49" ImageFile="00049.png" Name="dachudepai" ImageWidth="100" ImageHeight="100" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="50" ImageFile="00050.png" Name="dachudeshoupai" ImageWidth="150" ImageHeight="150" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="51"/>
+  <ImageRes ID="52"/>
+  <ImageRes ID="53"/>
+  <ImageRes ID="54"/>
+  <ImageRes ID="55" ImageFile="00055.png" Name="dueifangmajiang" ImageWidth="100" ImageHeight="100" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="56"/>
+  <ImageRes ID="57"/>
+  <ImageRes ID="58"/>
+  <ImageRes ID="59"/>
+  <ImageRes ID="60"/>
+  <ImageRes ID="61"/>
+  <ImageRes ID="62"/>
+  <ImageRes ID="63"/>
+  <ImageRes ID="64"/>
+  <ImageRes ID="65"/>
+  <ImageRes ID="66"/>
+  <ImageRes ID="67"/>
+  <ImageRes ID="68"/>
+  <ImageRes ID="69"/>
+  <ImageRes ID="70"/>
+  <ImageRes ID="71"/>
+  <ImageRes ID="72"/>
+  <ImageRes ID="73"/>
+  <ImageRes ID="74"/>
+  <ImageRes ID="75"/>
+  <ImageRes ID="76"/>
+  <ImageRes ID="77"/>
+  <ImageRes ID="78"/>
+  <ImageRes ID="79"/>
+  <ImageRes ID="80"/>
+  <ImageRes ID="81"/>
+  <ImageRes ID="82"/>
+  <ImageRes ID="83"/>
+  <ImageRes ID="84"/>
+  <ImageRes ID="85"/>
+  <ImageRes ID="86"/>
+  <ImageRes ID="87"/>
+  <ImageRes ID="88"/>
+  <ImageRes ID="89"/>
+  <ImageRes ID="90"/>
+  <ImageRes ID="91"/>
+  <ImageRes ID="92"/>
+  <ImageRes ID="93"/>
+  <ImageRes ID="94"/>
+  <ImageRes ID="95"/>
+  <ImageRes ID="96"/>
+  <ImageRes ID="97"/>
+  <ImageRes ID="98"/>
+  <ImageRes ID="99"/>
+  <ImageRes ID="100"/>
+  <ImageRes ID="101"/>
+  <ImageRes ID="102"/>
+  <ImageRes ID="103"/>
+  <ImageRes ID="104"/>
+  <ImageRes ID="105"/>
+  <ImageRes ID="106"/>
+  <ImageRes ID="107"/>
+  <ImageRes ID="108"/>
+  <ImageRes ID="109"/>
+  <ImageRes ID="110"/>
+  <ImageRes ID="111"/>
+  <ImageRes ID="112"/>
+  <ImageRes ID="113"/>
+  <ImageRes ID="114"/>
+  <ImageRes ID="115"/>
+  <ImageRes ID="116"/>
+  <ImageRes ID="117"/>
+  <ImageRes ID="118"/>
+  <ImageRes ID="119"/>
+  <ImageRes ID="120"/>
+  <ImageRes ID="121"/>
+  <ImageRes ID="122"/>
+  <ImageRes ID="123"/>
+  <ImageRes ID="124"/>
+  <ImageRes ID="125"/>
+  <ImageRes ID="126"/>
+  <ImageRes ID="127"/>
+  <ImageRes ID="128"/>
+  <ImageRes ID="129"/>
+  <ImageRes ID="130"/>
+  <ImageRes ID="131"/>
+  <ImageRes ID="132"/>
+  <ImageRes ID="133"/>
+  <ImageRes ID="134"/>
+  <ImageRes ID="135"/>
+  <ImageRes ID="136" ImageFile="00136.png" Name="left" ImageWidth="27" ImageHeight="61" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="137" ImageFile="00137.png" Name="rightback" ImageWidth="25" ImageHeight="58" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="138" ImageFile="00138.png" Name="00124" ImageWidth="67" ImageHeight="103" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="139" ImageFile="00139.png" Name="00049" ImageWidth="37" ImageHeight="52" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="140" ImageFile="00140.png" Name="pile" ImageWidth="51" ImageHeight="44" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="141" ImageFile="00141.png" Name="00055" ImageWidth="44" ImageHeight="61" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="142" ImageFile="00142.jpg" Name="hallBgMid" ImageWidth="1280" ImageHeight="720" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="143" ImageFile="00143.png" Name="1wan" ImageWidth="50" ImageHeight="70" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="144" ImageFile="00144.png" Name="2wan" ImageWidth="53" ImageHeight="44" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="145" ImageFile="00145.png" Name="3wan" ImageWidth="53" ImageHeight="44" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="146" ImageFile="00146.png" Name="5wan" ImageWidth="51" ImageHeight="70" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="147" ImageFile="00147.png" Name="1" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="148" ImageFile="00148.png" Name="2" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="149" ImageFile="00149.png" Name="3" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="150" ImageFile="00150.png" Name="4" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="151" ImageFile="00151.png" Name="5" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="152" ImageFile="00152.png" Name="6" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="153" ImageFile="00153.png" Name="7" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="154" ImageFile="00154.png" Name="8" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="155" ImageFile="00155.png" Name="9" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="156" ImageFile="00156.png" Name="鸟" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="157" ImageFile="00157.png" Name="2条" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="158" ImageFile="00158.png" Name="3条" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="159" ImageFile="00159.png" Name="4条" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="160" ImageFile="00160.png" Name="5条" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="161" ImageFile="00161.png" Name="6条" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="162" ImageFile="00162.png" Name="7条" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="163" ImageFile="00163.png" Name="8条" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="164" ImageFile="00164.png" Name="9条" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="165" ImageFile="00165.png" Name="一万" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="166" ImageFile="00166.png" Name="二万" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="167" ImageFile="00167.png" Name="三万" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="168" ImageFile="00168.png" Name="四万" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="169" ImageFile="00169.png" Name="五万" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="170" ImageFile="00170.png" Name="六万" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="171" ImageFile="00171.png" Name="七万" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="172" ImageFile="00172.png" Name="八万" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="173" ImageFile="00173.png" Name="九万" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="174" ImageFile="00174.png" Name="东" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="175" ImageFile="00175.png" Name="南" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="176" ImageFile="00176.png" Name="西" ImageWidth="84" ImageHeight="124" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="177" ImageFile="00177.png" Name="北" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="178" ImageFile="00178.png" Name="中" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="179" ImageFile="00179.png" Name="发" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="180" ImageFile="00180.png" Name="白皮" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="181" ImageFile="00181.png" Name="春" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="182" ImageFile="00182.png" Name="夏" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="183" ImageFile="00183.png" Name="冬" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="184" ImageFile="00184.png" Name="梅花" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="185" ImageFile="00185.png" Name="兰花" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="186" ImageFile="00186.png" Name="秋" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="187" ImageFile="00187.png" Name="竹子" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="188" ImageFile="00188.png" Name="菊花" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="189" ImageFile="00189.png" Name="背面" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="190" ImageFile="00190.png" Name="横1" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="191" ImageFile="00191.png" Name="横2" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="192" ImageFile="00192.png" Name="横3" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="193" ImageFile="00193.png" Name="横4" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="194" ImageFile="00194.png" Name="横5" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="195" ImageFile="00195.png" Name="横6" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="196" ImageFile="00196.png" Name="横7" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="197" ImageFile="00197.png" Name="横8" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="198" ImageFile="00198.png" Name="横9" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="199" ImageFile="00199.png" Name="横一万" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="200" ImageFile="00200.png" Name="横二万" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="201" ImageFile="00201.png" Name="横三万" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="202" ImageFile="00202.png" Name="横四万" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="203" ImageFile="00203.png" Name="横五万" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="204" ImageFile="00204.png" Name="横六万" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="205" ImageFile="00205.png" Name="横七万" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="206" ImageFile="00206.png" Name="横八万" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="207" ImageFile="00207.png" Name="横九万" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="208" ImageFile="00208.png" Name="横鸟" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="209" ImageFile="00209.png" Name="横二条" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="210" ImageFile="00210.png" Name="横三条" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="211" ImageFile="00211.png" Name="横四条" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="212" ImageFile="00212.png" Name="横五条" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="213" ImageFile="00213.png" Name="横六条" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="214" ImageFile="00214.png" Name="横七条" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="215" ImageFile="00215.png" Name="横八条" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="216" ImageFile="00216.png" Name="横九条" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="217" ImageFile="00217.png" Name="横东" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="218" ImageFile="00218.png" Name="横南" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="219" ImageFile="00219.png" Name="横西" ImageWidth="84" ImageHeight="124" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="220" ImageFile="00220.png" Name="横北" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="221" ImageFile="00221.png" Name="横中" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="222" ImageFile="00222.png" Name="横发" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="223" ImageFile="00223.png" Name="横白皮" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="224" ImageFile="00224.png" Name="横春" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="225" ImageFile="00225.png" Name="横夏" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="226" ImageFile="00226.png" Name="横秋" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="227" ImageFile="00227.png" Name="横冬" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="228" ImageFile="00228.png" Name="横梅" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="229" ImageFile="00229.png" Name="横兰" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="230" ImageFile="00230.png" Name="横竹" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="231" ImageFile="00231.png" Name="横菊" ImageWidth="89" ImageHeight="135" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="232" ImageFile="00232.png" Name="1" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="233" ImageFile="00233.png" Name="2" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="234" ImageFile="00234.png" Name="3" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="235" ImageFile="00235.png" Name="4" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="236" ImageFile="00236.png" Name="5" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="237" ImageFile="00237.png" Name="6" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="238" ImageFile="00238.png" Name="7" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="239" ImageFile="00239.png" Name="8" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="240" ImageFile="00240.png" Name="9" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="241" ImageFile="00241.png" Name="一万" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="242" ImageFile="00242.png" Name="2万" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="243" ImageFile="00243.png" Name="三万" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="244" ImageFile="00244.png" Name="四万" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="245" ImageFile="00245.png" Name="五万" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="246" ImageFile="00246.png" Name="六万" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="247" ImageFile="00247.png" Name="七万" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="248" ImageFile="00248.png" Name="八万" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="249" ImageFile="00249.png" Name="九万" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="250" ImageFile="00250.png" Name="鸟" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="251" ImageFile="00251.png" Name="两条" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="252" ImageFile="00252.png" Name="三条" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="253" ImageFile="00253.png" Name="四条" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="254" ImageFile="00254.png" Name="五条" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="255" ImageFile="00255.png" Name="六条" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="256" ImageFile="00256.png" Name="七条" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="257" ImageFile="00257.png" Name="八条" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="258" ImageFile="00258.png" Name="九条" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="259" ImageFile="00259.png" Name="东" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="260" ImageFile="00260.png" Name="西" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="261" ImageFile="00261.png" Name="南" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="262" ImageFile="00262.png" Name="北" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="263" ImageFile="00263.png" Name="中" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="264" ImageFile="00264.png" Name="发" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="265" ImageFile="00265.png" Name="白皮" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="266" ImageFile="00266.png" Name="春" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="267" ImageFile="00267.png" Name="夏" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="268" ImageFile="00268.png" Name="秋" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="269" ImageFile="00269.png" Name="冬" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="270" ImageFile="00270.png" Name="梅" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="271" ImageFile="00271.png" Name="兰" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="272" ImageFile="00272.png" Name="竹" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="273" ImageFile="00273.png" Name="菊" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="274" ImageFile="00274.png" Name="对方麻将" ImageWidth="44" ImageHeight="64" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="275" ImageFile="00275.png" Name="反面" ImageWidth="49" ImageHeight="40" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="276" ImageFile="00276.png" Name="1" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="277" ImageFile="00277.png" Name="2" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="278" ImageFile="00278.png" Name="3" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="279" ImageFile="00279.png" Name="4" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="280" ImageFile="00280.png" Name="5" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="281" ImageFile="00281.png" Name="6" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="282" ImageFile="00282.png" Name="7" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="283" ImageFile="00283.png" Name="8" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="284" ImageFile="00284.png" Name="9" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="285" ImageFile="00285.png" Name="一万" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="286" ImageFile="00286.png" Name="两万" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="287" ImageFile="00287.png" Name="三万" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="288" ImageFile="00288.png" Name="四万" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="289" ImageFile="00289.png" Name="五万" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="290" ImageFile="00290.png" Name="六万" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="291" ImageFile="00291.png" Name="七万" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="292" ImageFile="00292.png" Name="八万" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="293" ImageFile="00293.png" Name="九万" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="294" ImageFile="00294.png" Name="鸟" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="295" ImageFile="00295.png" Name="两条" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="296" ImageFile="00296.png" Name="三条" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="297" ImageFile="00297.png" Name="四条" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="298" ImageFile="00298.png" Name="五条" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="299" ImageFile="00299.png" Name="六条" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="300" ImageFile="00300.png" Name="七条" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="301" ImageFile="00301.png" Name="八条" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="302" ImageFile="00302.png" Name="九条" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="303" ImageFile="00303.png" Name="东" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="304" ImageFile="00304.png" Name="南" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="305" ImageFile="00305.png" Name="西" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="306" ImageFile="00306.png" Name="北" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="307" ImageFile="00307.png" Name="中" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="308" ImageFile="00308.png" Name="发" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="309" ImageFile="00309.png" Name="白皮" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="310" ImageFile="00310.png" Name="反面" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="311" ImageFile="00311.png" Name="春" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="312" ImageFile="00312.png" Name="夏" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="313" ImageFile="00313.png" Name="秋" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="314" ImageFile="00314.png" Name="冬" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="315" ImageFile="00315.png" Name="梅" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="316" ImageFile="00316.png" Name="兰" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="317" ImageFile="00317.png" Name="竹" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="318" ImageFile="00318.png" Name="菊" ImageWidth="54" ImageHeight="48" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="319" ImageFile="00319.png" Name="侧面1" ImageWidth="50" ImageHeight="100" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="320" ImageFile="00320.png" Name="侧面2" ImageWidth="50" ImageHeight="100" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="321" ImageFile="00321.png" Name="touxiang" ImageWidth="65" ImageHeight="65" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="322" ImageFile="00322.png" Name="bg" ImageWidth="218" ImageHeight="280" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="323" ImageFile="00323.png" Name="海南麻将" ImageWidth="1280" ImageHeight="800" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="324" ImageFile="00324.png" Name="sm" ImageWidth="1280" ImageHeight="110" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="325" ImageFile="00325.png" Name="22_03" ImageWidth="268" ImageHeight="84" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="326" ImageFile="00326.png" Name="22_05" ImageWidth="268" ImageHeight="84" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="327" ImageFile="00327.png" Name="海南麻将_02" ImageWidth="1280" ImageHeight="119" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="328" ImageFile="00328.png" Name="海南麻将_03" ImageWidth="50" ImageHeight="57" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="329" ImageFile="00329.png" Name="海南麻将_04_03" ImageWidth="64" ImageHeight="72" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="330" ImageFile="00330.png" Name="海南麻将_06" ImageWidth="38" ImageHeight="38" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="331" ImageFile="00331.png" Name="海南麻将_08" ImageWidth="38" ImageHeight="38" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="332" ImageFile="00332.png" Name="海南麻将_09" ImageWidth="80" ImageHeight="80" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="333" ImageFile="00333.png" Name="海南麻将_12" ImageWidth="80" ImageHeight="80" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="334" ImageFile="00334.png" Name="喇叭_03" ImageWidth="37" ImageHeight="31" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="335" ImageFile="00335.png" Name="头像_02" ImageWidth="114" ImageHeight="118" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="336" ImageFile="00336.png" Name="头像1_02" ImageWidth="114" ImageHeight="118" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="337" ImageFile="00337.png" Name="３３_02" ImageWidth="1280" ImageHeight="40" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="338" ImageFile="00338.png" Name="３３_05" ImageWidth="378" ImageHeight="380" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="339" ImageFile="00339.png" Name="３３_08" ImageWidth="378" ImageHeight="380" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="340"/>
+  <ImageRes ID="341" ImageFile="00341.png" Name="海南麻将_03" ImageWidth="2" ImageHeight="88" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="342" ImageFile="00342.png" Name="海南麻将_06" ImageWidth="60" ImageHeight="60" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="343" ImageFile="00343.png" Name="海南麻将_09" ImageWidth="60" ImageHeight="60" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="344" ImageFile="00344.png" Name="海南麻将_11" ImageWidth="60" ImageHeight="60" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="345" ImageFile="00345.png" Name="海南麻将_13" ImageWidth="60" ImageHeight="60" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="346" ImageFile="00346.png" Name="0_03" ImageWidth="230" ImageHeight="241" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="347" ImageFile="00347.png" Name="海南麻将_02" ImageWidth="1280" ImageHeight="119" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="348" ImageFile="00348.png" Name="海南麻将_03" ImageWidth="80" ImageHeight="80" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="349" ImageFile="00349.png" Name="海南麻将_06" ImageWidth="80" ImageHeight="80" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="350" ImageFile="00350.png" Name="海南麻将_09" ImageWidth="80" ImageHeight="80" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="351" ImageFile="00351.png" Name="海南麻将_12" ImageWidth="80" ImageHeight="80" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="352" ImageFile="00352.png" Name="喇叭_03" ImageWidth="37" ImageHeight="31" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="353" ImageFile="00353.png" Name="500" ImageWidth="1280" ImageHeight="800" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="354" ImageFile="00354.png" Name="bg" ImageWidth="842" ImageHeight="540" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="355" ImageFile="00355.png" Name="close" ImageWidth="57" ImageHeight="58" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="356" ImageFile="00356.png" Name="zb-" ImageWidth="165" ImageHeight="61" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="357" ImageFile="00357.png" Name="图层-111-副本-2" ImageWidth="26" ImageHeight="25" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="358" ImageFile="00358.png" Name="指示" ImageWidth="78" ImageHeight="22" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="359" ImageFile="00359.png" Name="指示-拷贝" ImageWidth="22" ImageHeight="78" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="360" ImageFile="00360.png" Name="指示-拷贝-2" ImageWidth="78" ImageHeight="22" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="361" ImageFile="00361.png" Name="指示-拷贝-3" ImageWidth="22" ImageHeight="78" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="362" ImageFile="00362.png" Name="庄" ImageWidth="28" ImageHeight="30" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="363" ImageFile="00363.png" Name="准备手势图标@2x-拷贝" ImageWidth="45" ImageHeight="50" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+  <ImageRes ID="364" ImageFile="00364.png" Name="组-476" ImageWidth="125" ImageHeight="124" HorzFrameCount="1" VertFrameCount="1" TotalFrameCount="1" ImageContent="" Description=""/>
+</ImageResList>

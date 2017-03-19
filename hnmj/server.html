@@ -1,0 +1,141 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<meta name="viewport" content="width=device-width,initial-scale=1 user-scalable=0"/> 
+<title>gameabc</title>
+
+</head>
+
+<body>
+    
+   	<div id="divChat">
+			<textarea name="txtChatMain" id="txtChatMain" readonly="readonly" class="txtarea"></textarea>
+			<!-- Inputs are disabled by default -->
+			<input type="text" name="txtChatMsg" id="txtChatMsg" readonly="readonly" class="txt" />
+			<input type="button" name="btnChatSend" id="btnChatSend" value="Send" onClick="btnChatSendClick();" disabled="disabled" class="btn" />
+	</div>
+	
+      <style type='text/css'>
+			div#divChat { width:30em; }
+			textarea.txtarea { float:left; width: 30em; height: 15em;}
+			input.txt { float:left; display: inline; width: 26em; }
+			input.btn { float:left; display: inline; width: 4em; }
+		</style>
+    <script language='javascript'>var gameabc_face = gameabc_face||{}; gameabc_face.isserver=1</script>
+	<script language='javascript'>gameabc_face.path="assets/bmp";</script>
+  
+ 
+    
+       
+
+     <script type="text/javascript" src="../../web/gameabc.min.js"></script>
+     
+     
+       
+      
+   
+       
+    <script type="text/javascript" src="js/gamemain.js"></script>
+            
+    <script type="text/javascript" src="output/gameabc_data.min.js"></script>
+    <script type="text/javascript">
+      		// Websocket status values
+			const rsConnecting = 0;
+			const rsOpen = 1;
+			const rsClosed = 2;
+
+			// Websocket object
+			var ws = null;
+
+			// Helper functions
+			function $() { 
+				return document.getElementById(arguments[0]); 
+			}
+
+			function logMsg(msg) { 
+				$('txtChatMain').value += msg + '\n'; 
+			}
+			function logmsg(msg) {
+				$('txtChatMain').value += msg + '\n';
+			}
+
+			function enableInputs(val) {
+				$('txtChatMsg').readOnly = ! val;
+				$('btnChatSend').disabled = ! val;
+			}
+
+			function sendMsg(msg) {
+				ws.send(msg);
+			}
+			function sendmsg(msg) {
+				ws.send(msg);
+			}
+
+			function btnChatSendClick() {
+				var msg = $('txtChatMsg').value;
+				if (msg) {
+					sendMsg(msg);
+					$('txtChatMsg').value = '';
+				}
+			}
+
+			// Websocket functions
+			function connectWebSocket() {
+			    gameabc_face.gamestart();
+				if ("WebSocket" in window) {
+					// Create new websocket connection
+					ws = new WebSocket("ws://127.0.0.1:5414");
+
+					// Called after connection is established
+					ws.onopen = function() {
+						enableInputs(true);
+						logMsg('Connected to: ' + ws.URL);
+						sendMsg('dfw19770109');
+						//sendMsg('Hello!');
+					};
+
+					// Called when a new message is received
+					ws.onmessage = function (msg) { 
+					
+					if (msg.data) {
+				    	logMsg(msg.data);
+					    gameabc_face.httpmessage(-1,'server',msg.data);
+					    };
+					    return;
+						if (msg.data) {
+							logMsg(msg.data);
+							var arr=msg.data;
+							var arrs=arr.split(":");
+							var tou='@tooneone';
+							logMsg(arrs[1]);
+							
+							if (arrs.length>2)
+							{
+							
+							arrs[0]=tou;
+							arrs[2]=arrs[2]+'_return';
+							var re=arrs.join(":");
+							sendMsg(re);
+							};
+						}
+					};
+
+					// Called when connection is closed
+					ws.onclose = function() { 
+						enableInputs(false);
+						logMsg("Connection closed!"); 
+					};
+				} else {
+					logMsg('Browser doesn\'t support websockets!');
+				}
+			}
+			window.onload=connectWebSocket();
+    </script>
+    
+   
+</body>
+</html>

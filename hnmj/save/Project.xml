@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project SoftVersion="2.5" SaveTime="2017-03-19 10:23:33">
+  <PropertyList>
+    <Property Name="Name" Value="HaiNanMJ"/>
+    <Property Name="SceneWidth" Value="2000"/>
+    <Property Name="SceneHeight" Value="1800"/>
+    <Property Name="ScreenWidth" Value="1280"/>
+    <Property Name="ScreenHeight" Value="800"/>
+    <Property Name="ScreenFitMode" Value="0"/>
+    <Property Name="WebTitle" Value=""/>
+    <Property Name="Description" Value=""/>
+    <Property Name="TcpIP" Value=""/>
+    <Property Name="TcpPort" Value=""/>
+    <Property Name="Http" Value=""/>
+    <Property Name="RealLayerCount" Value="3"/>
+    <Property Name="RealGroupCount" Value="0"/>
+    <Property Name="RealSpiritCount" Value="297"/>
+  </PropertyList>
+  <OptionList>
+    <Option Name="fps" Value="30"/>
+    <Option Name="tag" Value="0"/>
+    <Option Name="tag1" Value="0"/>
+    <Option Name="tag2" Value="0"/>
+    <Option Name="tag3" Value="0"/>
+    <Option Name="showmodel" Value="0"/>
+  </OptionList>
+  <EventList>
+    <Event Name="GameStart" Value="0"/>
+    <Event Name="GameBeginDraw" Value="0"/>
+    <Event Name="GameEndDraw" Value="0"/>
+    <Event Name="MouseDown" Value="0"/>
+    <Event Name="MouseDown_NoMove" Value="0"/>
+    <Event Name="MouseUp" Value="0"/>
+    <Event Name="MouseMove" Value="0"/>
+    <Event Name="GameMyDraw" Value="0"/>
+    <Event Name="GameMyDrawBegin" Value="0"/>
+    <Event Name="ChongZhi" Value="0"/>
+    <Event Name="TcpConnected" Value="0"/>
+    <Event Name="TcpDisconnected" Value="0"/>
+    <Event Name="TcpMessage" Value="0"/>
+    <Event Name="TcpError" Value="0"/>
+    <Event Name="HttpMessage" Value="0"/>
+    <Event Name="Ani_DoEnd" Value="0"/>
+    <Event Name="Box_DoEnd" Value="0"/>
+    <Event Name="OnResize" Value="0"/>
+    <Event Name="OnTimer" Value="0"/>
+    <Event Name="OnLoadUrl" Value="0"/>
+  </EventList>
+  <GroupList/>
+</Project>
