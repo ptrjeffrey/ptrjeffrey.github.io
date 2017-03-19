@@ -20,14 +20,8 @@ var HallLayer = function(){
     this.mj1 = EngineWrapper.seekNodeById(8);
     this.mjgroup = EngineWrapper.seekGroupById(6);
 
-    this.addCard = EngineWrapper.seekNodeById(1);
-    this.addCard.setClickCallback(this, this.onClickAddCard);
-
-    this.clearCard = EngineWrapper.seekNodeById(7);
-    this.clearCard.setClickCallback(this, this.onClickClearCard);
-
-    this.addNewCard = EngineWrapper.seekNodeById(8);
-    this.addNewCard.setClickCallback(this, this.onClickAddNewCard);
+    
+ 
     //EngineWrapper.seekNodeById(3).setLayertVisible(false)
 
     var btn = EngineWrapper.seekNodeById(183)
@@ -49,30 +43,6 @@ var HallLayer = function(){
     clip = EngineWrapper.seekNodeById(273);
     clip.setCricelClip(0, 0, 85, 85, 0, 60, 0);
 }
-
-HallLayer.prototype.onClickAddCard = function(sender, x, y){
-    var num = parseInt(Math.random()*MJConst.k9Wan+0, 10);
-    this.selfHandCards.addCard(num);
-    this.rightHandCards.addCard(num)
-    this.topHandCards.addCard(num)
-    this.leftHandCards.addCard(num)
-}
-
-HallLayer.prototype.onClickClearCard = function(sender, x, y){
-    //this.selfHandCards.clearHandCards();
-    //this.selfHandCards.clearCPGCards()
-    for(var i = 0; i < this.handCards.length; i++){
-        this.handCards[i].clearHandCards()
-        this.handCards[i].clearCPGCards();
-    }
-}
-
-HallLayer.prototype.onClickAddNewCard = function(sender, x, y){
-    var num = parseInt(Math.random()*MJConst.kJu+0, 10);
-    this.selfHandCards.setNewCard(num);
-    this.selfHandCards.moveNewToHand();
-}
-
 
 HallLayer.prototype.onCLickLeft = function(x, y){
     this.txt.stopAction();

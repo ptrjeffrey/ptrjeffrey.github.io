@@ -28,7 +28,7 @@ var GameLayer = function(){
 
     tmp = EngineWrapper.seekNodeById(52);
     tmp.setClickCallback(null, function(sender, x, y){
-        var num = parseInt(Math.random()*MJConst.k9Wan+0, 10);
+        var num = parseInt(Math.random()*MJConst.k7Wan+ MJConst.k3Wan, 10);
         var operList = [MJConst.kGrabPeng, MJConst.kGrabZG, MJConst.kGrabAnG,
             MJConst.kGrabLChi, MJConst.kGrabMChi, MJConst.kGrabRChi]
         var oper = parseInt(Math.random()*operList.length+0, 10);
@@ -53,6 +53,15 @@ var GameLayer = function(){
     })
 
     var handle = TimeHepler.setTimer(1000, this, this.onTimer, true)
+
+    var clearCard = EngineWrapper.seekNodeById(7);
+    clearCard.setClickCallback(this, this.clearCard);
+
+    var addNewCard = EngineWrapper.seekNodeById(8);
+    addNewCard.setClickCallback(this, this.addNewCard);
+
+    var addCard = EngineWrapper.seekNodeById(1);
+    addCard.setClickCallback(this, this.addCard);
 }
 
 GameLayer.prototype.setTime = function(time){
@@ -77,4 +86,24 @@ GameLayer.prototype.onTimer = function(){
             this.setTime(this.leftTime);
         }
     }
+}
+
+GameLayer.prototype.clearCard = function(sender, x, y){
+    for(var i = 0; i < this.handCards.length; i++){
+        this.handCards[i].clearHandCards()
+        this.handCards[i].clearCPGCards();
+    }
+}
+
+GameLayer.prototype.addNewCard = function(sender, x, y){
+    var num = parseInt(Math.random()*MJConst.k8Wan+MJConst.k1Wan, 10);
+    this.selfHandCards.setNewCard(num);
+    // this.selfHandCards.moveNewToHand();
+}
+
+GameLayer.prototype.addCard = function(sender, x, y){
+    var num = parseInt(Math.random()*MJConst.k8Wan+MJConst.k1Wan, 10);
+    for(var i = 0; i < this.handCards.length; i++){
+        this.handCards[i].addCard(num);
+     }
 }
