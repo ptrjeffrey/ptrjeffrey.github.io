@@ -1,0 +1,44 @@
+{
+ "Property": {
+  "ProjectName": "HaiNanMJ",
+  "ScreenWidth": 1280,
+  "ScreenHeight": 800,
+  "GameSceneWidth": 2000,
+  "GameSceneHeight": 1800,
+  "ScreenFitMode": 0,
+  "TcpIP": "",
+  "TcpPort": "",
+  "Http": "",
+  "title": ""
+ },
+ "Event": {
+  "gamestart": 0,
+  "gamebegindraw": 0,
+  "gameenddraw": 0,
+  "mousedown": 0,
+  "mousedown_nomove": 0,
+  "mouseup": 0,
+  "mousemove": 0,
+  "gamemydraw": 0,
+  "gamemydrawbegin": 0,
+  "chongzhi": 0,
+  "tcpconnected": 0,
+  "tcpdisconnected": 0,
+  "tcpmessage": 0,
+  "tcperror": 0,
+  "httpmessage": 0,
+  "ani_doend": 0,
+  "box_doend": 0,
+  "onresize": 0,
+  "ontimer": 0,
+  "onloadurl": 0
+ },
+ "Option": {
+  "fps": 30,
+  "tag": 0,
+  "tag1": 0,
+  "tag2": 0,
+  "tag3": 0,
+  "showmodel": 0
+ }
+}

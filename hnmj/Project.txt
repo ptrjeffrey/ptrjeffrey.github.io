@@ -1,0 +1,7 @@
+LayerStartID=2
+SpiritStartID=1
+ImgResStartID=1
+TxtResStartID=1
+VoiResStartID=1
+GameStartFile=index.html
+OpenLayerList=1,2,3
