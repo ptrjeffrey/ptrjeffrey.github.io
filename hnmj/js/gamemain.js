@@ -4,6 +4,7 @@ gameabc_face.tag=12;  //定义你的游戏全局内存
 gameabc_face.tag1=123;//定义你的游戏全局内存	
 gameabc_face.tag2=123;//定义你的游戏全局内存	
 gameabc_face.tag3=123;//定义你的游戏全局内存
+	gameabc_face.dfwgao = 1
 
 }
 
